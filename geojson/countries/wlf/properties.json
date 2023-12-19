@@ -1,0 +1,61 @@
+{
+  "id": 246,
+  "name": {
+    "common": "Wallis and Futuna",
+    "official": "Territory of the Wallis and Futuna Islands",
+    "native": {
+      "fra": {
+        "official": "Territoire des îles Wallis et Futuna",
+        "common": "Wallis et Futuna"
+      }
+    }
+  },
+  "flag": "🇼🇫",
+  "cca2": "WF",
+  "cca3": "WLF",
+  "ccn3": "876",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "FRA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["fra"],
+    "spoken": ["fud", "wls"]
+  },
+  "locales": ["fr-WF"],
+  "currencies": ["XPF"],
+  "timezones": ["Pacific/Wallis"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "fr-WF": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Mata-Utu",
+  "landArea": 142,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".wf"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["81"],
+    "callingCodes": ["+681"]
+  },
+  "latitude": -13.3,
+  "longitude": -176.2,
+  "demonym": "Wallis and Futuna Islander"
+}

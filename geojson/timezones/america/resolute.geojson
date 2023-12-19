@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -96.28165,
+          75.40554
+        ],
+        [
+          -96.6722,
+          74.97589
+        ],
+        [
+          -94.7411,
+          74.61479
+        ],
+        [
+          -93.39967,
+          74.6663
+        ],
+        [
+          -93.39504,
+          75.26681
+        ],
+        [
+          -94.92325,
+          75.65661
+        ],
+        [
+          -96.28165,
+          75.40554
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b76",
+    "name": "America/Resolute",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "-06:00",
+    "dstOffset": "-05:00",
+    "countries": [
+      "CAN"
+    ]
+  }
+}

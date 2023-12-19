@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -60.75319,
+          14.22174
+        ],
+        [
+          -61.09686,
+          14.24866
+        ],
+        [
+          -61.28474,
+          13.89302
+        ],
+        [
+          -61.13727,
+          13.58211
+        ],
+        [
+          -60.98274,
+          13.50927
+        ],
+        [
+          -60.78308,
+          13.57755
+        ],
+        [
+          -60.75319,
+          14.22174
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b91",
+    "name": "America/St_Lucia",
+    "type": "link",
+    "aliasedTo": "America/Puerto_Rico",
+    "utcOffset": "-04:00",
+    "dstOffset": "-04:00",
+    "countries": [
+      "LCA"
+    ]
+  }
+}

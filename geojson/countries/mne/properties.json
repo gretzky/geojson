@@ -1,0 +1,73 @@
+{
+  "id": 147,
+  "name": {
+    "common": "Montenegro",
+    "official": "Montenegro",
+    "native": {
+      "cnr": {
+        "official": "Црна Гора",
+        "common": "Црна Гора"
+      }
+    }
+  },
+  "flag": "🇲🇪",
+  "cca2": "ME",
+  "cca3": "MNE",
+  "ccn3": "499",
+  "ioc": "MNE",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["hrv", "sqi", "srp"],
+    "spoken": [
+      "aln",
+      "bos",
+      "cnr",
+      "eng",
+      "fra",
+      "mkd",
+      "rmn",
+      "rus",
+      "vec",
+      "ysl"
+    ]
+  },
+  "locales": ["sr-Cyrl-ME", "sr-Latn-ME"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Podgorica"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "sr-Cyrl-ME": "d.M.yyyy.",
+    "sr-Latn-ME": "d.M.yyyy."
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Podgorica",
+  "landArea": 13812,
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borderCountries": ["ALB", "BIH", "HRV", "UNK", "SRB"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".me"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["82"],
+    "callingCodes": ["+382"]
+  },
+  "latitude": 42.5,
+  "longitude": 19.3,
+  "demonym": "Montenegrin"
+}

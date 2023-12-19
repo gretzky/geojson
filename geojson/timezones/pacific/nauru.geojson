@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          166.92276,
+          -0.753
+        ],
+        [
+          167.15804,
+          -0.545
+        ],
+        [
+          166.89411,
+          -0.307
+        ],
+        [
+          166.92276,
+          -0.753
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844c55",
+    "name": "Pacific/Nauru",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+12:00",
+    "dstOffset": "+12:00",
+    "countries": [
+      "NRU"
+    ]
+  }
+}

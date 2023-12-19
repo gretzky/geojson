@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -61.13833,
+          15.70167
+        ],
+        [
+          -60.85197,
+          16.482
+        ],
+        [
+          -61.42261,
+          16.71
+        ],
+        [
+          -61.95547,
+          16.48
+        ],
+        [
+          -61.97499,
+          16.025
+        ],
+        [
+          -61.67982,
+          15.64441
+        ],
+        [
+          -61.13833,
+          15.70167
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b35",
+    "name": "America/Guadeloupe",
+    "type": "link",
+    "aliasedTo": "America/Puerto_Rico",
+    "utcOffset": "-04:00",
+    "dstOffset": "-04:00",
+    "countries": [
+      "GLP"
+    ]
+  }
+}

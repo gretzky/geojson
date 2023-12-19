@@ -1,0 +1,65 @@
+{
+  "id": 111,
+  "name": {
+    "common": "Jamaica",
+    "official": "Jamaica",
+    "native": {
+      "eng": {
+        "official": "Jamaica",
+        "common": "Jamaica"
+      },
+      "jam": {
+        "official": "Jamaica",
+        "common": "Jamaica"
+      }
+    }
+  },
+  "flag": "🇯🇲",
+  "cca2": "JM",
+  "cca3": "JAM",
+  "ccn3": "388",
+  "ioc": "JAM",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["apc", "ase", "spa", "jam", "jcs", "jls", "por"]
+  },
+  "locales": ["en-JM"],
+  "currencies": ["JMD"],
+  "timezones": ["America/Jamaica"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-JM": "dd/MM/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Kingston",
+  "landArea": 10991,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [110],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".jm"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["876"],
+    "callingCodes": ["+1876"]
+  },
+  "latitude": 18.25,
+  "longitude": -77.5,
+  "demonym": "Jamaican"
+}

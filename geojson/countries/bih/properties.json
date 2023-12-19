@@ -1,0 +1,87 @@
+{
+  "id": 28,
+  "name": {
+    "common": "Bosnia and Herzegovina",
+    "official": "Bosnia and Herzegovina",
+    "native": {
+      "bos": {
+        "official": "Bosna i Hercegovina",
+        "common": "Bosna i Hercegovina"
+      },
+      "hrv": {
+        "official": "Bosna i Hercegovina",
+        "common": "Bosna i Hercegovina"
+      },
+      "srp": {
+        "official": "Боснa и Херцеговина",
+        "common": "Боснa и Херцеговина"
+      }
+    }
+  },
+  "flag": "🇧🇦",
+  "cca2": "BA",
+  "cca3": "BIH",
+  "ccn3": "070",
+  "ioc": "BIH",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["bos", "hrv", "srp"],
+    "spoken": [
+      "bul",
+      "deu",
+      "ell",
+      "fra",
+      "ita",
+      "lad",
+      "nrc",
+      "rom",
+      "rmy",
+      "rup",
+      "tur",
+      "ukr",
+      "ysl"
+    ]
+  },
+  "locales": ["bs-Cyrl-BA", "bs-Latn-BA", "hr-BA", "sr-Cyrl-BA", "sr-Latn-BA"],
+  "currencies": ["BAM"],
+  "timezones": ["Europe/Sarajevo"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "bs-Cyrl-BA": "dd.MM.yyyy.",
+    "bs-Latn-BA": "d.M.yyyy.",
+    "hr-BA": "dd. MM. yyyy.",
+    "sr-Cyrl-BA": "d.M.yyyy.",
+    "sr-Latn-BA": "d.M.yyyy."
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Sarajevo",
+  "landArea": 51209,
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borderCountries": ["HRV", "MNE", "SRB"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".ba"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["87"],
+    "callingCodes": ["+387"]
+  },
+  "latitude": 44,
+  "longitude": 18,
+  "demonym": "Bosnian, Herzegovinian"
+}

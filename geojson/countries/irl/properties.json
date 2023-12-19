@@ -1,0 +1,80 @@
+{
+  "id": 107,
+  "name": {
+    "common": "Ireland",
+    "official": "Republic of Ireland",
+    "native": {
+      "eng": {
+        "official": "Republic of Ireland",
+        "common": "Ireland"
+      },
+      "gle": {
+        "official": "Poblacht na hÉireann",
+        "common": "Éire"
+      }
+    }
+  },
+  "flag": "🇮🇪",
+  "cca2": "IE",
+  "cca3": "IRL",
+  "ccn3": "372",
+  "ioc": "IRL",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": true,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "gle"],
+    "spoken": [
+      "deu",
+      "spa",
+      "fra",
+      "isg",
+      "lit",
+      "lav",
+      "mga",
+      "pgl",
+      "pol",
+      "sco",
+      "sga",
+      "sth",
+      "tgl"
+    ]
+  },
+  "locales": ["en-IE", "ga-IE"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Dublin"],
+  "timeFormat": "mixed",
+  "dateFormats": {
+    "en-IE": "d/M/yyyy",
+    "ga-IE": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Dublin",
+  "landArea": 70273,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borderCountries": ["GBR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".ie"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["53"],
+    "callingCodes": ["+353"]
+  },
+  "latitude": 53,
+  "longitude": -8,
+  "demonym": "Irish"
+}

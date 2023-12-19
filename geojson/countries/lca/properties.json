@@ -1,0 +1,61 @@
+{
+  "id": 189,
+  "name": {
+    "common": "Saint Lucia",
+    "official": "Saint Lucia",
+    "native": {
+      "eng": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      }
+    }
+  },
+  "flag": "🇱🇨",
+  "cca2": "LC",
+  "cca3": "LCA",
+  "ccn3": "662",
+  "ioc": "LCA",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["acf", "ase", "fra"]
+  },
+  "locales": ["en-LC"],
+  "currencies": ["XCD"],
+  "timezones": ["America/St_Lucia"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-LC": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Castries",
+  "landArea": 616,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".lc"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["758"],
+    "callingCodes": ["+1758"]
+  },
+  "latitude": 13.88333333,
+  "longitude": -60.96666666,
+  "demonym": "Saint Lucian"
+}

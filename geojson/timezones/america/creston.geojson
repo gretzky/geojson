@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -116.04923,
+          49.00085
+        ],
+        [
+          -115.7284,
+          49.0009
+        ],
+        [
+          -116.6794,
+          49.80298
+        ],
+        [
+          -116.92146,
+          48.99953
+        ],
+        [
+          -116.04923,
+          49.00085
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b26",
+    "name": "America/Creston",
+    "type": "link",
+    "aliasedTo": "America/Phoenix",
+    "utcOffset": "-07:00",
+    "dstOffset": "-07:00",
+    "countries": [
+      "CAN"
+    ]
+  }
+}

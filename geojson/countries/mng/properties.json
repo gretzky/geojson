@@ -1,0 +1,81 @@
+{
+  "id": 146,
+  "name": {
+    "common": "Mongolia",
+    "official": "Mongolia",
+    "native": {
+      "mon": {
+        "official": "Монгол улс",
+        "common": "Монгол улс"
+      }
+    }
+  },
+  "flag": "🇲🇳",
+  "cca2": "MN",
+  "cca3": "MNG",
+  "ccn3": "496",
+  "ioc": "MGL",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["mon"],
+    "spoken": [
+      "bxm",
+      "cmg",
+      "dta",
+      "evn",
+      "jpn",
+      "khg",
+      "kaz",
+      "kor",
+      "khk",
+      "msr",
+      "mvf",
+      "otk",
+      "rus",
+      "sqi",
+      "tyv",
+      "uig",
+      "xal",
+      "cmn",
+      "zkt"
+    ]
+  },
+  "locales": ["mn-MN"],
+  "currencies": ["MNT"],
+  "timezones": ["Asia/Ulaanbaatar", "Asia/Hovd", "Asia/Choibalsan"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "mn-MN": "yyyy.MM.dd"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Ulan Bator",
+  "landArea": 1564110,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "borderCountries": ["CHN", "RUS"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".mn"],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["76"],
+    "callingCodes": ["+976"]
+  },
+  "latitude": 46,
+  "longitude": 105,
+  "demonym": "Mongolian"
+}

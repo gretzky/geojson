@@ -1,0 +1,65 @@
+{
+  "id": 117,
+  "name": {
+    "common": "Kiribati",
+    "official": "Independent and Sovereign Republic of Kiribati",
+    "native": {
+      "eng": {
+        "official": "Independent and Sovereign Republic of Kiribati",
+        "common": "Kiribati"
+      },
+      "gil": {
+        "official": "Ribaberiki Kiribati",
+        "common": "Kiribati"
+      }
+    }
+  },
+  "flag": "🇰🇮",
+  "cca2": "KI",
+  "cca3": "KIR",
+  "ccn3": "296",
+  "ioc": "KIR",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["gil", "tvl"]
+  },
+  "locales": ["en-KI"],
+  "currencies": ["AUD"],
+  "timezones": ["Pacific/Tarawa", "Pacific/Enderbury", "Pacific/Kiritimati"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-KI": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "South Tarawa",
+  "landArea": 811,
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["I"],
+  "voltage": [240],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".ki"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["86"],
+    "callingCodes": ["+686"]
+  },
+  "latitude": 1.41666666,
+  "longitude": 173,
+  "demonym": "I-Kiribati"
+}

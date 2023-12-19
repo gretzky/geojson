@@ -1,0 +1,103 @@
+{
+  "id": 29,
+  "name": {
+    "common": "Botswana",
+    "official": "Republic of Botswana",
+    "native": {
+      "eng": {
+        "official": "Republic of Botswana",
+        "common": "Botswana"
+      },
+      "tsn": {
+        "official": "Lefatshe la Botswana",
+        "common": "Botswana"
+      }
+    }
+  },
+  "flag": "🇧🇼",
+  "cca2": "BW",
+  "cca3": "BWA",
+  "ccn3": "072",
+  "ioc": "BOT",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": [
+      "afr",
+      "brl",
+      "diu",
+      "gnk",
+      "guj",
+      "gwj",
+      "hgm",
+      "hio",
+      "hnh",
+      "huc",
+      "her",
+      "kck",
+      "knw",
+      "ktz",
+      "loz",
+      "lyn",
+      "mhw",
+      "naq",
+      "nde",
+      "nhr",
+      "nmn",
+      "nmq",
+      "nsb",
+      "nso",
+      "nya",
+      "sbs",
+      "shg",
+      "sna",
+      "sot",
+      "two",
+      "tyu",
+      "urd",
+      "xho",
+      "xkv",
+      "xuu",
+      "yey",
+      "zul"
+    ]
+  },
+  "locales": ["en-BW"],
+  "currencies": ["BWP"],
+  "timezones": ["Africa/Maputo"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-BW": "dd/MM/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Gaborone",
+  "landArea": 582000,
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "borderCountries": ["NAM", "ZAF", "ZMB", "ZWE"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["D", "G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".bw"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["67"],
+    "callingCodes": ["+267"]
+  },
+  "latitude": -22,
+  "longitude": 24,
+  "demonym": "Motswana"
+}

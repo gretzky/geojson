@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -86.93076,
+          40.91242
+        ],
+        [
+          -86.46706,
+          41.17112
+        ],
+        [
+          -86.93087,
+          41.17221
+        ],
+        [
+          -86.93076,
+          40.91242
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b57",
+    "name": "America/Indiana/Winamac",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "-05:00",
+    "dstOffset": "-04:00",
+    "countries": [
+      "USA"
+    ]
+  }
+}

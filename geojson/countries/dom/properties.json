@@ -1,0 +1,61 @@
+{
+  "id": 63,
+  "name": {
+    "common": "Dominican Republic",
+    "official": "Dominican Republic",
+    "native": {
+      "spa": {
+        "official": "República Dominicana",
+        "common": "República Dominicana"
+      }
+    }
+  },
+  "flag": "🇩🇴",
+  "cca2": "DO",
+  "cca3": "DOM",
+  "ccn3": "214",
+  "ioc": "DOM",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["spa"],
+    "spoken": ["apc", "cat", "doq", "eng", "fra", "hat", "jpn", "jam"]
+  },
+  "locales": ["es-DO"],
+  "currencies": ["DOP"],
+  "timezones": ["America/Santo_Domingo"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "es-DO": "d/M/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Santo Domingo",
+  "landArea": 48671,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": ["HTI"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B", "C", "F"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".do"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["809", "829", "849"],
+    "callingCodes": ["+1809", "+1829", "+1849"]
+  },
+  "latitude": 19,
+  "longitude": -70.66666666,
+  "demonym": "Dominican"
+}

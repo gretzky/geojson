@@ -1,0 +1,66 @@
+{
+  "id": 108,
+  "name": {
+    "common": "Isle of Man",
+    "official": "Isle of Man",
+    "native": {
+      "eng": {
+        "official": "Isle of Man",
+        "common": "Isle of Man"
+      },
+      "glv": {
+        "official": "Ellan Vannin or Mannin",
+        "common": "Mannin"
+      }
+    }
+  },
+  "flag": "🇮🇲",
+  "cca2": "IM",
+  "cca3": "IMN",
+  "ccn3": "833",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "GBR",
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng", "glv"],
+    "spoken": ["bfi"]
+  },
+  "locales": ["en-IM", "gv-IM"],
+  "currencies": ["GBP"],
+  "timezones": ["Europe/Isle_of_Man"],
+  "timeFormat": "mixed",
+  "dateFormats": {
+    "en-IM": "dd/MM/yyyy",
+    "gv-IM": "yyyy-M-d"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Douglas",
+  "landArea": 572,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "mph",
+  "outletType": ["C", "F", "G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".im"],
+  "idd": {
+    "prefix": "+4",
+    "suffixes": ["4"],
+    "callingCodes": ["+44"]
+  },
+  "latitude": 54.25,
+  "longitude": -4.5,
+  "demonym": "Manx"
+}

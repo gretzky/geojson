@@ -1,0 +1,77 @@
+{
+  "id": 123,
+  "name": {
+    "common": "Lebanon",
+    "official": "Lebanese Republic",
+    "native": {
+      "ara": {
+        "official": "الجمهورية اللبنانية",
+        "common": "لبنان"
+      },
+      "fra": {
+        "official": "République libanaise",
+        "common": "Liban"
+      }
+    }
+  },
+  "flag": "🇱🇧",
+  "cca2": "LB",
+  "cca3": "LBN",
+  "ccn3": "422",
+  "ioc": "LIB",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara"],
+    "spoken": [
+      "apc",
+      "eng",
+      "fra",
+      "hye",
+      "hyw",
+      "kur",
+      "kmr",
+      "phn",
+      "rmt",
+      "syr",
+      "tru"
+    ]
+  },
+  "locales": ["ar-LB"],
+  "currencies": ["LBP"],
+  "timezones": ["Asia/Beirut"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ar-LB": "d‏/M‏/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Beirut",
+  "landArea": 10452,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borderCountries": ["ISR", "SYR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "D", "G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".lb"],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["61"],
+    "callingCodes": ["+961"]
+  },
+  "latitude": 33.83333333,
+  "longitude": 35.83333333,
+  "demonym": "Lebanese"
+}

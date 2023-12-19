@@ -1,0 +1,61 @@
+{
+  "id": 134,
+  "name": {
+    "common": "Maldives",
+    "official": "Republic of the Maldives",
+    "native": {
+      "div": {
+        "official": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+        "common": "ދިވެހިރާއްޖޭގެ"
+      }
+    }
+  },
+  "flag": "🇲🇻",
+  "cca2": "MV",
+  "cca3": "MDV",
+  "ccn3": "462",
+  "ioc": "MDV",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["div"]
+  },
+  "locales": ["en"],
+  "currencies": ["MVR"],
+  "timezones": ["Indian/Maldives"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en": "M/d/yyyy"
+  },
+  "weekStartDay": "friday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Malé",
+  "landArea": 300,
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "D", "G", "J", "K", "L"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".mv"],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["60"],
+    "callingCodes": ["+960"]
+  },
+  "latitude": 3.25,
+  "longitude": 73,
+  "demonym": "Maldivan"
+}

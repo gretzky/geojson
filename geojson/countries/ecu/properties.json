@@ -1,0 +1,88 @@
+{
+  "id": 65,
+  "name": {
+    "common": "Ecuador",
+    "official": "Republic of Ecuador",
+    "native": {
+      "spa": {
+        "official": "República del Ecuador",
+        "common": "Ecuador"
+      }
+    }
+  },
+  "flag": "🇪🇨",
+  "cca2": "EC",
+  "cca3": "ECU",
+  "ccn3": "218",
+  "ioc": "ECU",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["spa", "que"],
+    "spoken": [
+      "acu",
+      "auc",
+      "cbi",
+      "cof",
+      "con",
+      "deu",
+      "ecs",
+      "eng",
+      "jiv",
+      "kwi",
+      "mue",
+      "qud",
+      "qug",
+      "quw",
+      "qvi",
+      "qvj",
+      "qvo",
+      "qvz",
+      "qxl",
+      "qxr",
+      "sey",
+      "sja",
+      "snn",
+      "teb",
+      "zro"
+    ]
+  },
+  "locales": ["es-EC", "qu-EC"],
+  "currencies": ["USD"],
+  "timezones": ["America/Guayaquil", "Pacific/Galapagos"],
+  "timeFormat": "mixed",
+  "dateFormats": {
+    "es-EC": "d/M/yyyy",
+    "qu-EC": "dd-MM-yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Quito",
+  "landArea": 276841,
+  "region": "Americas",
+  "subregion": "South America",
+  "borderCountries": ["COL", "PER"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".ec"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["93"],
+    "callingCodes": ["+593"]
+  },
+  "latitude": -2,
+  "longitude": -77.5,
+  "demonym": "Ecuadorean"
+}

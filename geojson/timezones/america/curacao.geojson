@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -68.62108,
+          12.21696
+        ],
+        [
+          -69.09601,
+          12.585
+        ],
+        [
+          -69.36042,
+          12.281
+        ],
+        [
+          -68.68346,
+          11.781
+        ],
+        [
+          -68.44133,
+          11.93306
+        ],
+        [
+          -68.62108,
+          12.21696
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b37",
+    "name": "America/Curacao",
+    "type": "link",
+    "aliasedTo": "America/Puerto_Rico",
+    "utcOffset": "-04:00",
+    "dstOffset": "-04:00",
+    "countries": [
+      "CUW"
+    ]
+  }
+}

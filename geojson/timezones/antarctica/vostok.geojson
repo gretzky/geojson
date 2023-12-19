@@ -1,0 +1,53 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          86,
+          -86
+        ],
+        [
+          105,
+          -86
+        ],
+        [
+          115,
+          -86
+        ],
+        [
+          115,
+          -70
+        ],
+        [
+          97,
+          -70
+        ],
+        [
+          97,
+          -64
+        ],
+        [
+          86,
+          -65
+        ],
+        [
+          86,
+          -86
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b99",
+    "name": "Antarctica/Vostok",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+06:00",
+    "dstOffset": "+06:00",
+    "countries": [
+      "ATA"
+    ]
+  }
+}

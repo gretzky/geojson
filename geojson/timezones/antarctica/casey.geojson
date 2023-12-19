@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          97,
+          -64
+        ],
+        [
+          97,
+          -70
+        ],
+        [
+          115,
+          -70
+        ],
+        [
+          120,
+          -70
+        ],
+        [
+          120,
+          -65
+        ],
+        [
+          97,
+          -64
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b8c",
+    "name": "Antarctica/Casey",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+11:00",
+    "dstOffset": "+11:00",
+    "countries": [
+      "ATA"
+    ]
+  }
+}

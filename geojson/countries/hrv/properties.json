@@ -1,0 +1,89 @@
+{
+  "id": 55,
+  "name": {
+    "common": "Croatia",
+    "official": "Republic of Croatia",
+    "native": {
+      "hrv": {
+        "official": "Republika Hrvatska",
+        "common": "Hrvatska"
+      }
+    }
+  },
+  "flag": "🇭🇷",
+  "cca2": "HR",
+  "cca3": "HRV",
+  "ccn3": "191",
+  "ioc": "CRO",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": true,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["hrv"],
+    "spoken": [
+      "bul",
+      "bos",
+      "ckm",
+      "ces",
+      "csq",
+      "deu",
+      "dlm",
+      "eng",
+      "spa",
+      "fra",
+      "hun",
+      "ist",
+      "ita",
+      "mkd",
+      "nrc",
+      "pol",
+      "rmo",
+      "rus",
+      "rue",
+      "ruo",
+      "slk",
+      "slv",
+      "sqi",
+      "srp",
+      "tur",
+      "ukr",
+      "vec"
+    ]
+  },
+  "locales": ["hr-HR"],
+  "currencies": ["HRK"],
+  "timezones": ["Europe/Zagreb"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "hr-HR": "dd. MM. yyyy."
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Zagreb",
+  "landArea": 56594,
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borderCountries": ["BIH", "HUN", "MNE", "SRB", "SVN"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".hr"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["85"],
+    "callingCodes": ["+385"]
+  },
+  "latitude": 45.16666666,
+  "longitude": 15.5,
+  "demonym": "Croatian"
+}

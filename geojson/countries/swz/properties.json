@@ -1,0 +1,65 @@
+{
+  "id": 71,
+  "name": {
+    "common": "Eswatini",
+    "official": "Kingdom of Eswatini",
+    "native": {
+      "eng": {
+        "official": "Kingdom of Eswatini",
+        "common": "Eswatini"
+      },
+      "ssw": {
+        "official": "Umbuso weSwatini",
+        "common": "eSwatini"
+      }
+    }
+  },
+  "flag": "🇸🇿",
+  "cca2": "SZ",
+  "cca3": "SWZ",
+  "ccn3": "748",
+  "ioc": "SWZ",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["afr", "nya", "sot", "tso", "zul"]
+  },
+  "locales": ["en-SZ"],
+  "currencies": ["SZL"],
+  "timezones": ["Africa/Johannesburg"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-SZ": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Lobamba",
+  "landArea": 17364,
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "borderCountries": ["MOZ", "ZAF"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".sz"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["68"],
+    "callingCodes": ["+268"]
+  },
+  "latitude": -26.5,
+  "longitude": 31.5,
+  "demonym": "Swazi"
+}

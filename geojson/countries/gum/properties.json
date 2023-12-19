@@ -1,0 +1,69 @@
+{
+  "id": 91,
+  "name": {
+    "common": "Guam",
+    "official": "Guam",
+    "native": {
+      "cha": {
+        "official": "Guåhån",
+        "common": "Guåhån"
+      },
+      "eng": {
+        "official": "Guam",
+        "common": "Guam"
+      },
+      "spa": {
+        "official": "Guam",
+        "common": "Guam"
+      }
+    }
+  },
+  "flag": "🇬🇺",
+  "cca2": "GU",
+  "cca3": "GUM",
+  "ccn3": "316",
+  "ioc": "GUM",
+  "isSovereign": false,
+  "governingCountry": "USA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["ase", "cha", "chk", "spa", "jpn", "kor", "pau", "pif", "tgl"]
+  },
+  "locales": ["en-GU"],
+  "currencies": ["USD"],
+  "timezones": ["Pacific/Guam"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-GU": "M/d/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Hagåtña",
+  "landArea": 549,
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "mph",
+  "outletType": ["A", "B"],
+  "voltage": [110],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".gu"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["671"],
+    "callingCodes": ["+1671"]
+  },
+  "latitude": 13.46666666,
+  "longitude": 144.78333333,
+  "demonym": "Guamanian"
+}

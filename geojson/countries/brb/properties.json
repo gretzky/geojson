@@ -1,0 +1,61 @@
+{
+  "id": 20,
+  "name": {
+    "common": "Barbados",
+    "official": "Barbados",
+    "native": {
+      "eng": {
+        "official": "Barbados",
+        "common": "Barbados"
+      }
+    }
+  },
+  "flag": "🇧🇧",
+  "cca2": "BB",
+  "cca3": "BRB",
+  "ccn3": "052",
+  "ioc": "BAR",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["ase", "bjs"]
+  },
+  "locales": ["en-BB"],
+  "currencies": ["BBD"],
+  "timezones": ["America/Barbados"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-BB": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Bridgetown",
+  "landArea": 430,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "mph",
+  "outletType": ["A", "B"],
+  "voltage": [115],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".bb"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["246"],
+    "callingCodes": ["+1246"]
+  },
+  "latitude": 13.16666666,
+  "longitude": -59.53333333,
+  "demonym": "Barbadian"
+}

@@ -1,0 +1,90 @@
+{
+  "id": 75,
+  "name": {
+    "common": "Fiji",
+    "official": "Republic of Fiji",
+    "native": {
+      "eng": {
+        "official": "Republic of Fiji",
+        "common": "Fiji"
+      },
+      "fij": {
+        "official": "Matanitu Tugalala o Viti",
+        "common": "Viti"
+      },
+      "hif": {
+        "official": "रिपब्लिक ऑफ फीजी",
+        "common": "फिजी"
+      }
+    }
+  },
+  "flag": "🇫🇯",
+  "cca2": "FJ",
+  "cca3": "FJI",
+  "ccn3": "242",
+  "ioc": "FIJ",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": [
+      "bwb",
+      "fij",
+      "gil",
+      "goo",
+      "guj",
+      "hif",
+      "llx",
+      "lmv",
+      "mal",
+      "pan",
+      "pih",
+      "rtm",
+      "smo",
+      "tam",
+      "tel",
+      "ton",
+      "tvl",
+      "urd",
+      "wls",
+      "wyy"
+    ]
+  },
+  "locales": ["en-FJ"],
+  "currencies": ["FJD"],
+  "timezones": ["Pacific/Fiji"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-FJ": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Suva",
+  "landArea": 18272,
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["I"],
+  "voltage": [240],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".fj"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["79"],
+    "callingCodes": ["+679"]
+  },
+  "latitude": -18,
+  "longitude": 175,
+  "demonym": "Fijian"
+}

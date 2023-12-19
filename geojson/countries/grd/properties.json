@@ -1,0 +1,61 @@
+{
+  "id": 89,
+  "name": {
+    "common": "Grenada",
+    "official": "Grenada",
+    "native": {
+      "eng": {
+        "official": "Grenada",
+        "common": "Grenada"
+      }
+    }
+  },
+  "flag": "🇬🇩",
+  "cca2": "GD",
+  "cca3": "GRD",
+  "ccn3": "308",
+  "ioc": "GRN",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["acf", "ase", "gcl"]
+  },
+  "locales": ["en-GD"],
+  "currencies": ["XCD"],
+  "timezones": ["America/Grenada"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-GD": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "St. George's",
+  "landArea": 344,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".gd"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["473"],
+    "callingCodes": ["+1473"]
+  },
+  "latitude": 12.11666666,
+  "longitude": -61.66666666,
+  "demonym": "Grenadian"
+}

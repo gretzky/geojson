@@ -1,0 +1,77 @@
+{
+  "id": 179,
+  "name": {
+    "common": "Puerto Rico",
+    "official": "Commonwealth of Puerto Rico",
+    "native": {
+      "eng": {
+        "official": "Commonwealth of Puerto Rico",
+        "common": "Puerto Rico"
+      },
+      "spa": {
+        "official": "Estado Libre Asociado de Puerto Rico",
+        "common": "Puerto Rico"
+      }
+    }
+  },
+  "flag": "🇵🇷",
+  "cca2": "PR",
+  "cca3": "PRI",
+  "ccn3": "630",
+  "ioc": "PUR",
+  "isSovereign": false,
+  "governingCountry": "USA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng", "spa"],
+    "spoken": [
+      "ase",
+      "cos",
+      "deu",
+      "fra",
+      "hin",
+      "hat",
+      "ita",
+      "pap",
+      "psl",
+      "tnq"
+    ]
+  },
+  "locales": ["en-PR", "es-PR"],
+  "currencies": ["USD"],
+  "timezones": ["America/Puerto_Rico"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "en-PR": "M/d/yyyy",
+    "es-PR": "MM/dd/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "San Juan",
+  "landArea": 8870,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "mph",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".pr"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["787", "939"],
+    "callingCodes": ["+1787", "+1939"]
+  },
+  "latitude": 18.25,
+  "longitude": -66.5,
+  "demonym": "Puerto Rican"
+}

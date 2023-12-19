@@ -1,0 +1,61 @@
+{
+  "id": 56,
+  "name": {
+    "common": "Cuba",
+    "official": "Republic of Cuba",
+    "native": {
+      "spa": {
+        "official": "República de Cuba",
+        "common": "Cuba"
+      }
+    }
+  },
+  "flag": "🇨🇺",
+  "cca2": "CU",
+  "cca3": "CUB",
+  "ccn3": "192",
+  "ioc": "CUB",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["spa"],
+    "spoken": ["cat", "cos", "csf", "luq"]
+  },
+  "locales": ["es-CU"],
+  "currencies": ["CUP"],
+  "timezones": ["America/Havana"],
+  "timeFormat": "mixed",
+  "dateFormats": {
+    "es-CU": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Havana",
+  "landArea": 109884,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B", "C", "F", "L"],
+  "voltage": [110, 220],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".cu"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["3"],
+    "callingCodes": ["+53"]
+  },
+  "latitude": 21.5,
+  "longitude": -80,
+  "demonym": "Cuban"
+}

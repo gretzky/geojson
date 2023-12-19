@@ -1,0 +1,83 @@
+{
+  "id": 112,
+  "name": {
+    "common": "Japan",
+    "official": "Japan",
+    "native": {
+      "jpn": {
+        "official": "日本",
+        "common": "日本"
+      }
+    }
+  },
+  "flag": "🇯🇵",
+  "cca2": "JP",
+  "cca3": "JPN",
+  "ccn3": "392",
+  "ioc": "JPN",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["jpn"],
+    "spoken": [
+      "ain",
+      "ams",
+      "ehs",
+      "eng",
+      "jje",
+      "jks",
+      "jsl",
+      "kor",
+      "kzg",
+      "lzh",
+      "mvi",
+      "oaa",
+      "ojp",
+      "okn",
+      "ryn",
+      "rys",
+      "ryu",
+      "tkn",
+      "xug",
+      "yoi",
+      "yox"
+    ]
+  },
+  "locales": ["ja-JP"],
+  "currencies": ["JPY"],
+  "timezones": ["Asia/Tokyo"],
+  "timeFormat": "mixed",
+  "dateFormats": {
+    "ja-JP": "yyyy/M/d"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Tokyo",
+  "landArea": 377930,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [100],
+  "frequencyHz": 60,
+  "drivingSide": "left",
+  "tld": [".jp", ".みんな"],
+  "idd": {
+    "prefix": "+8",
+    "suffixes": ["1"],
+    "callingCodes": ["+81"]
+  },
+  "latitude": 36,
+  "longitude": 138,
+  "demonym": "Japanese"
+}

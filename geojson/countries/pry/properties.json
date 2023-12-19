@@ -1,0 +1,92 @@
+{
+  "id": 173,
+  "name": {
+    "common": "Paraguay",
+    "official": "Republic of Paraguay",
+    "native": {
+      "grn": {
+        "official": "Tetã Paraguái",
+        "common": "Paraguái"
+      },
+      "spa": {
+        "official": "República de Paraguay",
+        "common": "Paraguay"
+      }
+    }
+  },
+  "flag": "🇵🇾",
+  "cca2": "PY",
+  "cca3": "PRY",
+  "ccn3": "600",
+  "ioc": "PAR",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["spa"],
+    "spoken": [
+      "aqt",
+      "ayo",
+      "cag",
+      "ceg",
+      "crq",
+      "deu",
+      "enl",
+      "enx",
+      "grn",
+      "gui",
+      "gun",
+      "guq",
+      "gva",
+      "hrx",
+      "jpn",
+      "kor",
+      "mca",
+      "nhd",
+      "pdt",
+      "por",
+      "pta",
+      "pys",
+      "spn",
+      "tmf",
+      "tob",
+      "tpj"
+    ]
+  },
+  "locales": ["es-PY"],
+  "currencies": ["PYG"],
+  "timezones": ["America/Asuncion"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "es-PY": "d/M/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Asunción",
+  "landArea": 406752,
+  "region": "Americas",
+  "subregion": "South America",
+  "borderCountries": ["ARG", "BOL", "BRA"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".py"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["95"],
+    "callingCodes": ["+595"]
+  },
+  "latitude": -23,
+  "longitude": -58,
+  "demonym": "Paraguayan"
+}

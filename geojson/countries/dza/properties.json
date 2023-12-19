@@ -1,0 +1,84 @@
+{
+  "id": 4,
+  "name": {
+    "common": "Algeria",
+    "official": "People's Democratic Republic of Algeria",
+    "native": {
+      "ara": {
+        "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
+        "common": "الجزائر"
+      }
+    }
+  },
+  "flag": "🇩🇿",
+  "cca2": "DZ",
+  "cca3": "DZA",
+  "ccn3": "012",
+  "ioc": "ALG",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara", "fra", "kab"],
+    "spoken": [
+      "aao",
+      "arq",
+      "asp",
+      "cnu",
+      "dsq",
+      "spa",
+      "grr",
+      "kcy",
+      "mey",
+      "mzb",
+      "oua",
+      "rif",
+      "shi",
+      "shy",
+      "taq",
+      "thv",
+      "tia",
+      "tjo",
+      "tmh",
+      "xpu"
+    ]
+  },
+  "locales": ["ar-DZ", "fr-DZ", "kab-DZ"],
+  "currencies": ["DZD"],
+  "timezones": ["Africa/Algiers"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ar-DZ": "d‏/M‏/yyyy",
+    "fr-DZ": "dd/MM/yyyy",
+    "kab-DZ": "d/M/yyyy"
+  },
+  "weekStartDay": "saturday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Algiers",
+  "landArea": 2381741,
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "borderCountries": ["TUN", "LBY", "NER", "ESH", "MRT", "MLI", "MAR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".dz", "الجزائر."],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["13"],
+    "callingCodes": ["+213"]
+  },
+  "latitude": 28,
+  "longitude": 3,
+  "demonym": "Algerian"
+}

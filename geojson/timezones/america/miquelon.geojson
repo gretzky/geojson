@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -55.90664,
+          46.65439
+        ],
+        [
+          -56.40054,
+          47.34158
+        ],
+        [
+          -56.6862,
+          46.77166
+        ],
+        [
+          -55.90664,
+          46.65439
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b5c",
+    "name": "America/Miquelon",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "-03:00",
+    "dstOffset": "-02:00",
+    "countries": [
+      "SPM"
+    ]
+  }
+}

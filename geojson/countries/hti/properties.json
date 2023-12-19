@@ -1,0 +1,65 @@
+{
+  "id": 97,
+  "name": {
+    "common": "Haiti",
+    "official": "Republic of Haiti",
+    "native": {
+      "fra": {
+        "official": "République d'Haïti",
+        "common": "Haïti"
+      },
+      "hat": {
+        "official": "Repiblik Ayiti",
+        "common": "Ayiti"
+      }
+    }
+  },
+  "flag": "🇭🇹",
+  "cca2": "HT",
+  "cca3": "HTI",
+  "ccn3": "332",
+  "ioc": "HAI",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["fra"],
+    "spoken": ["ase", "hat", "hvc"]
+  },
+  "locales": ["fr-HT"],
+  "currencies": ["HTG", "USD"],
+  "timezones": ["America/Port-au-Prince"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "fr-HT": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Port-au-Prince",
+  "landArea": 27750,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": ["DOM"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [110],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".ht"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["09"],
+    "callingCodes": ["+509"]
+  },
+  "latitude": 19,
+  "longitude": -72.41666666,
+  "demonym": "Haitian"
+}

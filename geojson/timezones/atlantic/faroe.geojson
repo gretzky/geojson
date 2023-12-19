@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -6.56974,
+          62.59584
+        ],
+        [
+          -7.49496,
+          62.45878
+        ],
+        [
+          -8.05391,
+          61.99048
+        ],
+        [
+          -6.89145,
+          61.1667
+        ],
+        [
+          -6.2665,
+          61.29643
+        ],
+        [
+          -5.82927,
+          62.31124
+        ],
+        [
+          -6.56974,
+          62.59584
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844bee",
+    "name": "Atlantic/Faroe",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+00:00",
+    "dstOffset": "+01:00",
+    "countries": [
+      "FRO"
+    ]
+  }
+}

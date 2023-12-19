@@ -1,0 +1,65 @@
+{
+  "id": 42,
+  "name": {
+    "common": "Bonaire, Sint Eustatius and Saba",
+    "official": "Bonaire, Sint Eustatius and Saba",
+    "native": {
+      "nld": {
+        "official": "Bonaire, Sint Eustatius en Saba",
+        "common": "Caribisch Nederland"
+      },
+      "pap": {
+        "official": "Boneiru, Sint Eustatius y Saba",
+        "common": "Boneiru, Sint Eustatius y Saba"
+      }
+    }
+  },
+  "flag": "🇧🇶",
+  "cca2": "BQ",
+  "cca3": "BES",
+  "ccn3": "535",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "NLD",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["nld"],
+    "spoken": ["dse", "eng", "spa", "pap", "srn", "vic"]
+  },
+  "locales": ["nl-BQ"],
+  "currencies": ["USD"],
+  "timezones": ["America/Puerto_Rico"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "nl-BQ": "d-M-yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": null,
+  "landArea": 328,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B", "C", "F"],
+  "voltage": [127, 220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".bq", ".nl"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["99"],
+    "callingCodes": ["+599"]
+  },
+  "latitude": 12.18,
+  "longitude": -68.25,
+  "demonym": "Dutch"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 129,
+  "name": {
+    "common": "Luxembourg",
+    "official": "Grand Duchy of Luxembourg",
+    "native": {
+      "deu": {
+        "official": "Großherzogtum Luxemburg",
+        "common": "Luxemburg"
+      },
+      "fra": {
+        "official": "Grand-Duché de Luxembourg",
+        "common": "Luxembourg"
+      },
+      "ltz": {
+        "official": "Groussherzogtum Lëtzebuerg",
+        "common": "Lëtzebuerg"
+      }
+    }
+  },
+  "flag": "🇱🇺",
+  "cca2": "LU",
+  "cca3": "LUX",
+  "ccn3": "442",
+  "ioc": "LUX",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": true,
+  "isSchengen": true,
+  "isEurozone": true,
+  "isUNMember": true,
+  "languages": {
+    "official": ["deu", "fra", "ltz", "por"],
+    "spoken": [
+      "bos",
+      "dan",
+      "ell",
+      "eng",
+      "spa",
+      "gsg",
+      "ita",
+      "kea",
+      "nld",
+      "pol",
+      "rus",
+      "srp",
+      "swe"
+    ]
+  },
+  "locales": ["de-LU", "fr-LU", "lb-LU", "pt-LU"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Luxembourg"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "de-LU": "d.M.yyyy",
+    "fr-LU": "dd/MM/yyyy",
+    "lb-LU": "d.M.yyyy",
+    "pt-LU": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Luxembourg",
+  "landArea": 2586,
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "borderCountries": ["BEL", "FRA", "DEU"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".lu"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["52"],
+    "callingCodes": ["+352"]
+  },
+  "latitude": 49.75,
+  "longitude": 6.16666666,
+  "demonym": "Luxembourger"
+}

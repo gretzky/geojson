@@ -1,0 +1,88 @@
+{
+  "id": 35,
+  "name": {
+    "common": "Bulgaria",
+    "official": "Republic of Bulgaria",
+    "native": {
+      "bul": {
+        "official": "Република България",
+        "common": "България"
+      }
+    }
+  },
+  "flag": "🇧🇬",
+  "cca2": "BG",
+  "cca3": "BGR",
+  "ccn3": "100",
+  "ioc": "BUL",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": true,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["bul"],
+    "spoken": [
+      "aln",
+      "bgx",
+      "bqn",
+      "crh",
+      "ces",
+      "deu",
+      "ell",
+      "eng",
+      "spa",
+      "fra",
+      "gag",
+      "hye",
+      "hyw",
+      "mkd",
+      "nog",
+      "nrc",
+      "pol",
+      "rmn",
+      "rom",
+      "rmy",
+      "rus",
+      "rup",
+      "srp",
+      "taq",
+      "tur",
+      "ukr"
+    ]
+  },
+  "locales": ["bg-BG"],
+  "currencies": ["BGN"],
+  "timezones": ["Europe/Sofia"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "bg-BG": "d.MM.yyyy г."
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Sofia",
+  "landArea": 110879,
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borderCountries": ["GRC", "MKD", "ROU", "SRB", "TUR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".bg"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["59"],
+    "callingCodes": ["+359"]
+  },
+  "latitude": 43,
+  "longitude": 25,
+  "demonym": "Bulgarian"
+}

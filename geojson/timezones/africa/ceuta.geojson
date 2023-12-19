@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -5.39583,
+          36.00214
+        ],
+        [
+          -5.02132,
+          35.82576
+        ],
+        [
+          -5.11191,
+          36.0472
+        ],
+        [
+          -5.39583,
+          36.00214
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b06",
+    "name": "Africa/Ceuta",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+01:00",
+    "dstOffset": "+02:00",
+    "countries": [
+      "ESP"
+    ]
+  }
+}

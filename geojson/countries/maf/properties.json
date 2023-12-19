@@ -1,0 +1,61 @@
+{
+  "id": 190,
+  "name": {
+    "common": "Saint Martin",
+    "official": "Saint Martin",
+    "native": {
+      "fra": {
+        "official": "Saint-Martin",
+        "common": "Saint-Martin"
+      }
+    }
+  },
+  "flag": "🇲🇫",
+  "cca2": "MF",
+  "cca3": "MAF",
+  "ccn3": "663",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "FRA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["fra"],
+    "spoken": ["acf", "aig", "eng", "gcf", "hat"]
+  },
+  "locales": ["fr-MF"],
+  "currencies": ["EUR"],
+  "timezones": ["America/Marigot"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "fr-MF": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Marigot",
+  "landArea": 53,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": ["SXM"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E"],
+  "voltage": [220],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".fr", ".gp"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["90"],
+    "callingCodes": ["+590"]
+  },
+  "latitude": 18.08333333,
+  "longitude": -63.95,
+  "demonym": "Saint Martin Islander"
+}

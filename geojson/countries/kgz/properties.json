@@ -1,0 +1,99 @@
+{
+  "id": 120,
+  "name": {
+    "common": "Kyrgyzstan",
+    "official": "Kyrgyz Republic",
+    "native": {
+      "kir": {
+        "official": "Кыргыз Республикасы",
+        "common": "Кыргызстан"
+      },
+      "rus": {
+        "official": "Кыргызская Республика",
+        "common": "Киргизия"
+      }
+    }
+  },
+  "flag": "🇰🇬",
+  "cca2": "KG",
+  "cca3": "KGZ",
+  "ccn3": "417",
+  "ioc": "KGZ",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["kir", "rus"],
+    "spoken": [
+      "aze",
+      "bak",
+      "bel",
+      "che",
+      "crh",
+      "chv",
+      "dar",
+      "deu",
+      "dng",
+      "ell",
+      "hye",
+      "kat",
+      "kaa",
+      "kaz",
+      "kor",
+      "krc",
+      "kur",
+      "lbe",
+      "lez",
+      "lit",
+      "mon",
+      "khk",
+      "myv",
+      "rsl",
+      "tgk",
+      "tuk",
+      "tur",
+      "tat",
+      "uig",
+      "ukr",
+      "uzb",
+      "xal"
+    ]
+  },
+  "locales": ["ky-KG", "ru-KG"],
+  "currencies": ["KGS"],
+  "timezones": ["Asia/Bishkek"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "ky-KG": "yyyy-dd-MM",
+    "ru-KG": "dd.MM.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Bishkek",
+  "landArea": 199951,
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "borderCountries": ["CHN", "KAZ", "TJK", "UZB"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".kg"],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["96"],
+    "callingCodes": ["+996"]
+  },
+  "latitude": 41,
+  "longitude": 75,
+  "demonym": "Kirghiz"
+}

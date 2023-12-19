@@ -1,0 +1,61 @@
+{
+  "id": 79,
+  "name": {
+    "common": "French Polynesia",
+    "official": "French Polynesia",
+    "native": {
+      "fra": {
+        "official": "Polynésie française",
+        "common": "Polynésie française"
+      }
+    }
+  },
+  "flag": "🇵🇫",
+  "cca2": "PF",
+  "cca3": "PYF",
+  "ccn3": "258",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "FRA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["fra"],
+    "spoken": ["aut", "hak", "mqm", "mrq", "mrv", "pmt", "rar", "ray", "tah"]
+  },
+  "locales": ["fr-PF"],
+  "currencies": ["XPF"],
+  "timezones": ["Pacific/Tahiti", "Pacific/Marquesas", "Pacific/Gambier"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "fr-PF": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Papeetē",
+  "landArea": 4167,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [220],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".pf"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["89"],
+    "callingCodes": ["+689"]
+  },
+  "latitude": -15,
+  "longitude": -140,
+  "demonym": "French Polynesian"
+}

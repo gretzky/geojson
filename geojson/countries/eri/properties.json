@@ -1,0 +1,89 @@
+{
+  "id": 69,
+  "name": {
+    "common": "Eritrea",
+    "official": "State of Eritrea",
+    "native": {
+      "ara": {
+        "official": "دولة إرتريا",
+        "common": "إرتريا"
+      },
+      "eng": {
+        "official": "State of Eritrea",
+        "common": "Eritrea"
+      },
+      "tir": {
+        "official": "ሃገረ ኤርትራ",
+        "common": "ኤርትራ"
+      }
+    }
+  },
+  "flag": "🇪🇷",
+  "cca2": "ER",
+  "cca3": "ERI",
+  "ccn3": "232",
+  "ioc": "ERI",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara", "eng", "tir"],
+    "spoken": [
+      "acq",
+      "acw",
+      "amh",
+      "apd",
+      "ayh",
+      "bej",
+      "byn",
+      "dlk",
+      "gez",
+      "hau",
+      "ita",
+      "kau",
+      "knc",
+      "kun",
+      "nrb",
+      "ssy",
+      "tig"
+    ]
+  },
+  "locales": ["ar-ER", "en-ER", "ti-ER"],
+  "currencies": ["KES"],
+  "timezones": ["Africa/Nairobi"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ar-ER": "d‏/M‏/yyyy",
+    "en-ER": "dd/MM/yyyy",
+    "ti-ER": "yyyy-MM-dd"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Asmara",
+  "landArea": 117600,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borderCountries": ["DJI", "ETH", "SDN"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "L"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".er"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["91"],
+    "callingCodes": ["+291"]
+  },
+  "latitude": 15,
+  "longitude": 39,
+  "demonym": "Eritrean"
+}

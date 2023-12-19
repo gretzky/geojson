@@ -1,0 +1,86 @@
+{
+  "id": 82,
+  "name": {
+    "common": "Gambia",
+    "official": "Republic of the Gambia",
+    "native": {
+      "eng": {
+        "official": "Republic of the Gambia",
+        "common": "Gambia"
+      }
+    }
+  },
+  "flag": "🇬🇲",
+  "cca2": "GM",
+  "cca3": "GMB",
+  "ccn3": "270",
+  "ioc": "GAM",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng", "ful"],
+    "spoken": [
+      "bda",
+      "ble",
+      "bam",
+      "bqj",
+      "bsc",
+      "csk",
+      "dyo",
+      "fuf",
+      "kao",
+      "knf",
+      "kri",
+      "krx",
+      "man",
+      "mfv",
+      "mlq",
+      "msw",
+      "nqo",
+      "pov",
+      "snk",
+      "srr",
+      "wol",
+      "wof"
+    ]
+  },
+  "locales": ["en-GM", "ff-Adlm-GM", "ff-Latn-GM"],
+  "currencies": ["GMD"],
+  "timezones": ["Africa/Abidjan"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-GM": "dd/MM/yyyy",
+    "ff-Adlm-GM": "yyyyyyyy-MM-dd",
+    "ff-Latn-GM": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Banjul",
+  "landArea": 10689,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borderCountries": ["SEN"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".gm"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["20"],
+    "callingCodes": ["+220"]
+  },
+  "latitude": 13.46666666,
+  "longitude": -16.56666666,
+  "demonym": "Gambian"
+}

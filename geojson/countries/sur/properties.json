@@ -1,0 +1,88 @@
+{
+  "id": 214,
+  "name": {
+    "common": "Suriname",
+    "official": "Republic of Suriname",
+    "native": {
+      "nld": {
+        "official": "Republiek Suriname",
+        "common": "Suriname"
+      }
+    }
+  },
+  "flag": "🇸🇷",
+  "cca2": "SR",
+  "cca3": "SUR",
+  "ccn3": "740",
+  "ioc": "SUR",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["nld"],
+    "spoken": [
+      "ako",
+      "apc",
+      "arw",
+      "car",
+      "djk",
+      "dse",
+      "eng",
+      "spa",
+      "gyn",
+      "hak",
+      "hns",
+      "ind",
+      "jvn",
+      "kor",
+      "kww",
+      "mzx",
+      "njt",
+      "por",
+      "sik",
+      "srm",
+      "srn",
+      "tri",
+      "waw",
+      "way",
+      "wba",
+      "yue"
+    ]
+  },
+  "locales": ["nl-SR"],
+  "currencies": ["SRD"],
+  "timezones": ["America/Paramaribo"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "nl-SR": "d-M-yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Paramaribo",
+  "landArea": 163820,
+  "region": "Americas",
+  "subregion": "South America",
+  "borderCountries": ["BRA", "GUF", "GUY"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [127, 220],
+  "frequencyHz": 60,
+  "drivingSide": "left",
+  "tld": [".sr"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["97"],
+    "callingCodes": ["+597"]
+  },
+  "latitude": 4,
+  "longitude": -56,
+  "demonym": "Surinamer"
+}

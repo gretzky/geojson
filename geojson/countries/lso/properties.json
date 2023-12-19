@@ -1,0 +1,65 @@
+{
+  "id": 124,
+  "name": {
+    "common": "Lesotho",
+    "official": "Kingdom of Lesotho",
+    "native": {
+      "eng": {
+        "official": "Kingdom of Lesotho",
+        "common": "Lesotho"
+      },
+      "sot": {
+        "official": "Kingdom of Lesotho",
+        "common": "Lesotho"
+      }
+    }
+  },
+  "flag": "🇱🇸",
+  "cca2": "LS",
+  "cca3": "LSO",
+  "ccn3": "426",
+  "ioc": "LES",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["ssw", "xho", "zul"]
+  },
+  "locales": ["en-LS"],
+  "currencies": ["LSL", "ZAR"],
+  "timezones": ["Africa/Johannesburg"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-LS": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Maseru",
+  "landArea": 30355,
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "borderCountries": ["ZAF"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["M"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".ls"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["66"],
+    "callingCodes": ["+266"]
+  },
+  "latitude": -29.5,
+  "longitude": 28.5,
+  "demonym": "Mosotho"
+}

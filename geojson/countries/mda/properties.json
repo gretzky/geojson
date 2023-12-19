@@ -1,0 +1,74 @@
+{
+  "id": 144,
+  "name": {
+    "common": "Moldova",
+    "official": "Republic of Moldova",
+    "native": {
+      "ron": {
+        "official": "Republica Moldova",
+        "common": "Moldova"
+      }
+    }
+  },
+  "flag": "🇲🇩",
+  "cca2": "MD",
+  "cca3": "MDA",
+  "ccn3": "498",
+  "ioc": "MDA",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ron", "rus"],
+    "spoken": [
+      "bul",
+      "crh",
+      "fra",
+      "gag",
+      "hun",
+      "rmn",
+      "rms",
+      "rom",
+      "rsl",
+      "ukr",
+      "vsi"
+    ]
+  },
+  "locales": ["ro-MD", "ru-MD"],
+  "currencies": ["MDL"],
+  "timezones": ["Europe/Chisinau"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "ro-MD": "dd.MM.yyyy",
+    "ru-MD": "dd.MM.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Chișinău",
+  "landArea": 33846,
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "borderCountries": ["ROU", "UKR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".md"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["73"],
+    "callingCodes": ["+373"]
+  },
+  "latitude": 47,
+  "longitude": 29,
+  "demonym": "Moldovan"
+}

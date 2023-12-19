@@ -1,0 +1,90 @@
+{
+  "id": 198,
+  "name": {
+    "common": "Serbia",
+    "official": "Republic of Serbia",
+    "native": {
+      "srp": {
+        "official": "Република Србија",
+        "common": "Србија"
+      }
+    }
+  },
+  "flag": "🇷🇸",
+  "cca2": "RS",
+  "cca3": "SRB",
+  "ccn3": "688",
+  "ioc": "SRB",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["srp"],
+    "spoken": [
+      "aln",
+      "bul",
+      "bos",
+      "cnr",
+      "ces",
+      "fra",
+      "hrv",
+      "hun",
+      "mkd",
+      "nrc",
+      "pol",
+      "rmn",
+      "rmo",
+      "ron",
+      "rom",
+      "rmy",
+      "rsb",
+      "rus",
+      "rue",
+      "rup",
+      "hbs",
+      "slk",
+      "slv",
+      "sqi",
+      "tur",
+      "ukr",
+      "ysl"
+    ]
+  },
+  "locales": ["sr-Cyrl-RS", "sr-Latn-RS"],
+  "currencies": ["RSD"],
+  "timezones": ["Europe/Belgrade"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "sr-Cyrl-RS": "d.M.yyyy.",
+    "sr-Latn-RS": "d.M.yyyy."
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Belgrade",
+  "landArea": 88361,
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borderCountries": ["BIH", "BGR", "HRV", "HUN", "UNK", "MKD", "MNE", "ROU"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".rs", ".срб"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["81"],
+    "callingCodes": ["+381"]
+  },
+  "latitude": 44,
+  "longitude": 21,
+  "demonym": "Serbian"
+}

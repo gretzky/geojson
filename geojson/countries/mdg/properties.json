@@ -1,0 +1,85 @@
+{
+  "id": 131,
+  "name": {
+    "common": "Madagascar",
+    "official": "Republic of Madagascar",
+    "native": {
+      "fra": {
+        "official": "République de Madagascar",
+        "common": "Madagascar"
+      },
+      "mlg": {
+        "official": "Repoblikan'i Madagasikara",
+        "common": "Madagasikara"
+      }
+    }
+  },
+  "flag": "🇲🇬",
+  "cca2": "MG",
+  "cca3": "MDG",
+  "ccn3": "450",
+  "ioc": "MAD",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "fra", "mlg"],
+    "spoken": [
+      "bhr",
+      "bmm",
+      "bzc",
+      "mfe",
+      "msh",
+      "mzc",
+      "rcf",
+      "skg",
+      "swb",
+      "tdx",
+      "tkg",
+      "txy",
+      "wlc",
+      "wni",
+      "xmv",
+      "xmw",
+      "zdj"
+    ]
+  },
+  "locales": ["en-MG", "fr-MG", "mg-MG"],
+  "currencies": ["MGA"],
+  "timezones": ["Indian/Antananarivo"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-MG": "dd/MM/yyyy",
+    "fr-MG": "dd/MM/yyyy",
+    "mg-MG": "yyyy-MM-dd"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Antananarivo",
+  "landArea": 587041,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".mg"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["61"],
+    "callingCodes": ["+261"]
+  },
+  "latitude": -20,
+  "longitude": 47,
+  "demonym": "Malagasy"
+}

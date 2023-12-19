@@ -1,0 +1,61 @@
+{
+  "id": 215,
+  "name": {
+    "common": "Svalbard and Jan Mayen",
+    "official": "Svalbard og Jan Mayen",
+    "native": {
+      "nor": {
+        "official": "Svalbard og Jan Mayen",
+        "common": "Svalbard og Jan Mayen"
+      }
+    }
+  },
+  "flag": "🇸🇯",
+  "cca2": "SJ",
+  "cca3": "SJM",
+  "ccn3": "744",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "NOR",
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": false,
+  "languages": {
+    "official": ["nob"],
+    "spoken": ["nor", "rus"]
+  },
+  "locales": ["nb-SJ"],
+  "currencies": ["NOK"],
+  "timezones": ["Arctic/Longyearbyen"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "nb-SJ": "d.M.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Longyearbyen",
+  "landArea": -1,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".sj"],
+  "idd": {
+    "prefix": "+4",
+    "suffixes": ["779"],
+    "callingCodes": ["+4779"]
+  },
+  "latitude": 78,
+  "longitude": 20,
+  "demonym": "Norwegian"
+}

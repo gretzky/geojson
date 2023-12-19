@@ -1,0 +1,61 @@
+{
+  "id": 239,
+  "name": {
+    "common": "United States Virgin Islands",
+    "official": "Virgin Islands of the United States",
+    "native": {
+      "eng": {
+        "official": "Virgin Islands of the United States",
+        "common": "United States Virgin Islands"
+      }
+    }
+  },
+  "flag": "🇻🇮",
+  "cca2": "VI",
+  "cca3": "VIR",
+  "ccn3": "850",
+  "ioc": "ISV",
+  "isSovereign": false,
+  "governingCountry": "USA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["ase", "dcr", "spa", "fra", "pap", "vic"]
+  },
+  "locales": ["en-VI"],
+  "currencies": ["USD"],
+  "timezones": ["America/St_Thomas"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "en-VI": "M/d/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Charlotte Amalie",
+  "landArea": 347,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [110],
+  "frequencyHz": 60,
+  "drivingSide": "left",
+  "tld": [".vi"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["340"],
+    "callingCodes": ["+1340"]
+  },
+  "latitude": 18.35,
+  "longitude": -64.933333,
+  "demonym": "Virgin Islander"
+}

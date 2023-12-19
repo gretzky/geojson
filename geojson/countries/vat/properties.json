@@ -1,0 +1,66 @@
+{
+  "id": 243,
+  "name": {
+    "common": "Vatican City",
+    "official": "Vatican City State",
+    "native": {
+      "ita": {
+        "official": "Stato della Città del Vaticano",
+        "common": "Vaticano"
+      },
+      "lat": {
+        "official": "Status Civitatis Vaticanæ",
+        "common": "Vaticanæ"
+      }
+    }
+  },
+  "flag": "🇻🇦",
+  "cca2": "VA",
+  "cca3": "VAT",
+  "ccn3": "336",
+  "ioc": null,
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": false,
+  "languages": {
+    "official": ["cat", "ita"],
+    "spoken": ["lat", "mzg"]
+  },
+  "locales": ["ca-ES-VALENCIA", "it-VA"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Vatican"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "ca-ES-VALENCIA": "d/M/yyyy",
+    "it-VA": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Vatican City",
+  "landArea": 0.44,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borderCountries": ["ITA"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "L"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".va"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["906698", "79"],
+    "callingCodes": ["+3906698", "+379"]
+  },
+  "latitude": 41.9,
+  "longitude": 12.45,
+  "demonym": "Vatican"
+}

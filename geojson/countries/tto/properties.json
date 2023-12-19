@@ -1,0 +1,61 @@
+{
+  "id": 227,
+  "name": {
+    "common": "Trinidad and Tobago",
+    "official": "Republic of Trinidad and Tobago",
+    "native": {
+      "eng": {
+        "official": "Republic of Trinidad and Tobago",
+        "common": "Trinidad and Tobago"
+      }
+    }
+  },
+  "flag": "🇹🇹",
+  "cca2": "TT",
+  "cca3": "TTO",
+  "ccn3": "780",
+  "ioc": "TTO",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["acf", "apc", "ase", "spa", "hns", "lst", "tgh", "trf"]
+  },
+  "locales": ["en-TT"],
+  "currencies": ["TTD"],
+  "timezones": ["America/Port_of_Spain"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-TT": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Port of Spain",
+  "landArea": 5130,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [115],
+  "frequencyHz": 60,
+  "drivingSide": "left",
+  "tld": [".tt"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["868"],
+    "callingCodes": ["+1868"]
+  },
+  "latitude": 11,
+  "longitude": -61,
+  "demonym": "Trinidadian"
+}

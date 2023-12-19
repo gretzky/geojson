@@ -1,0 +1,66 @@
+{
+  "id": 226,
+  "name": {
+    "common": "Tonga",
+    "official": "Kingdom of Tonga",
+    "native": {
+      "eng": {
+        "official": "Kingdom of Tonga",
+        "common": "Tonga"
+      },
+      "ton": {
+        "official": "Kingdom of Tonga",
+        "common": "Tonga"
+      }
+    }
+  },
+  "flag": "🇹🇴",
+  "cca2": "TO",
+  "cca3": "TON",
+  "ccn3": "776",
+  "ioc": "TGA",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "ton"],
+    "spoken": ["niu", "nkp", "num"]
+  },
+  "locales": ["en-TO", "to-TO"],
+  "currencies": ["TOP"],
+  "timezones": ["Pacific/Tongatapu"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "en-TO": "dd/MM/yyyy",
+    "to-TO": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Nuku'alofa",
+  "landArea": 747,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["I"],
+  "voltage": [240],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".to"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["76"],
+    "callingCodes": ["+676"]
+  },
+  "latitude": -20,
+  "longitude": -175,
+  "demonym": "Tongan"
+}

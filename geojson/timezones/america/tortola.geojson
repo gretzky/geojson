@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -64.95596,
+          18.61144
+        ],
+        [
+          -64.64014,
+          18.10634
+        ],
+        [
+          -64.14398,
+          18.39347
+        ],
+        [
+          -64.17723,
+          18.89829
+        ],
+        [
+          -64.46548,
+          18.94046
+        ],
+        [
+          -64.95596,
+          18.61144
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b87",
+    "name": "America/Tortola",
+    "type": "link",
+    "aliasedTo": "America/Puerto_Rico",
+    "utcOffset": "-04:00",
+    "dstOffset": "-04:00",
+    "countries": [
+      "VGB"
+    ]
+  }
+}

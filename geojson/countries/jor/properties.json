@@ -1,0 +1,77 @@
+{
+  "id": 114,
+  "name": {
+    "common": "Jordan",
+    "official": "Hashemite Kingdom of Jordan",
+    "native": {
+      "ara": {
+        "official": "المملكة الأردنية الهاشمية",
+        "common": "الأردن"
+      }
+    }
+  },
+  "flag": "🇯🇴",
+  "cca2": "JO",
+  "cca3": "JOR",
+  "ccn3": "400",
+  "ioc": "JOR",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara"],
+    "spoken": [
+      "acm",
+      "ady",
+      "ajp",
+      "ars",
+      "arz",
+      "avl",
+      "ayp",
+      "che",
+      "ell",
+      "hye",
+      "hyw",
+      "jos",
+      "kbd",
+      "obm",
+      "rmt"
+    ]
+  },
+  "locales": ["ar-JO"],
+  "currencies": ["JOD"],
+  "timezones": ["Asia/Amman"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ar-JO": "d‏/M‏/yyyy"
+  },
+  "weekStartDay": "saturday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Amman",
+  "landArea": 89342,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borderCountries": ["IRQ", "ISR", "PSE", "SAU", "SYR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "D", "G", "J"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".jo", "الاردن."],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["62"],
+    "callingCodes": ["+962"]
+  },
+  "latitude": 31,
+  "longitude": 36,
+  "demonym": "Jordanian"
+}

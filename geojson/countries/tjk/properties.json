@@ -1,0 +1,98 @@
+{
+  "id": 220,
+  "name": {
+    "common": "Tajikistan",
+    "official": "Republic of Tajikistan",
+    "native": {
+      "rus": {
+        "official": "Республика Таджикистан",
+        "common": "Таджикистан"
+      },
+      "tgk": {
+        "official": "Ҷумҳурии Тоҷикистон",
+        "common": "Тоҷикистон"
+      }
+    }
+  },
+  "flag": "🇹🇯",
+  "cca2": "TJ",
+  "cca3": "TJK",
+  "ccn3": "762",
+  "ioc": "TJK",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["tgk"],
+    "spoken": [
+      "abh",
+      "aiq",
+      "bak",
+      "bel",
+      "bgn",
+      "deu",
+      "dng",
+      "fas",
+      "haz",
+      "hye",
+      "isk",
+      "kat",
+      "kaz",
+      "kor",
+      "kir",
+      "lbe",
+      "lit",
+      "oss",
+      "paq",
+      "pbt",
+      "rsl",
+      "rus",
+      "sgh",
+      "tuk",
+      "tur",
+      "tat",
+      "uig",
+      "ukr",
+      "uzb",
+      "wbl",
+      "yah",
+      "yai"
+    ]
+  },
+  "locales": ["tg-TJ"],
+  "currencies": ["TJS"],
+  "timezones": ["Asia/Dushanbe"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "tg-TJ": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Dushanbe",
+  "landArea": 143100,
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "borderCountries": ["AFG", "CHN", "KGZ", "UZB"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".tj"],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["92"],
+    "callingCodes": ["+992"]
+  },
+  "latitude": 39,
+  "longitude": 71,
+  "demonym": "Tadzhik"
+}

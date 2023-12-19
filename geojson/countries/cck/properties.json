@@ -1,0 +1,61 @@
+{
+  "id": 49,
+  "name": {
+    "common": "Cocos (Keeling) Islands",
+    "official": "Territory of the Cocos (Keeling) Islands",
+    "native": {
+      "eng": {
+        "official": "Territory of the Cocos (Keeling) Islands",
+        "common": "Cocos (Keeling) Islands"
+      }
+    }
+  },
+  "flag": "🇨🇨",
+  "cca2": "CC",
+  "cca3": "CCK",
+  "ccn3": "166",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "AUS",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["coa"]
+  },
+  "locales": ["en-CC"],
+  "currencies": ["AUD"],
+  "timezones": ["Indian/Cocos"],
+  "timeFormat": "mixed",
+  "dateFormats": {
+    "en-CC": "dd/MM/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "West Island",
+  "landArea": 14,
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".cc"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["1"],
+    "callingCodes": ["+61"]
+  },
+  "latitude": -12.5,
+  "longitude": 96.83333333,
+  "demonym": "Cocos Islander"
+}

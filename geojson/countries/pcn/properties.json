@@ -1,0 +1,61 @@
+{
+  "id": 176,
+  "name": {
+    "common": "Pitcairn Islands",
+    "official": "Pitcairn Group of Islands",
+    "native": {
+      "eng": {
+        "official": "Pitcairn Group of Islands",
+        "common": "Pitcairn Islands"
+      }
+    }
+  },
+  "flag": "🇵🇳",
+  "cca2": "PN",
+  "cca3": "PCN",
+  "ccn3": "612",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "GBR",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["pih"]
+  },
+  "locales": ["en-PN"],
+  "currencies": ["NZD"],
+  "timezones": ["Pacific/Pitcairn"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-PN": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Adamstown",
+  "landArea": 47,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["I"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".pn"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["4"],
+    "callingCodes": ["+64"]
+  },
+  "latitude": -25.06666666,
+  "longitude": -130.1,
+  "demonym": "Pitcairn Islander"
+}

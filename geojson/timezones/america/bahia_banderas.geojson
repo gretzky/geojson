@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -105.88325,
+          20.68548
+        ],
+        [
+          -105.30093,
+          20.64754
+        ],
+        [
+          -104.96882,
+          20.90903
+        ],
+        [
+          -105.51776,
+          21.10162
+        ],
+        [
+          -105.88325,
+          20.68548
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b13",
+    "name": "America/Bahia_Banderas",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "-06:00",
+    "dstOffset": "-05:00",
+    "countries": [
+      "MEX"
+    ]
+  }
+}

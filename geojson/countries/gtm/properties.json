@@ -1,0 +1,88 @@
+{
+  "id": 92,
+  "name": {
+    "common": "Guatemala",
+    "official": "Republic of Guatemala",
+    "native": {
+      "spa": {
+        "official": "República de Guatemala",
+        "common": "Guatemala"
+      }
+    }
+  },
+  "flag": "🇬🇹",
+  "cca2": "GT",
+  "cca3": "GTM",
+  "ccn3": "320",
+  "ioc": "GUA",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["spa"],
+    "spoken": [
+      "acr",
+      "agu",
+      "caa",
+      "cab",
+      "cac",
+      "cak",
+      "ckz",
+      "cob",
+      "gsm",
+      "itz",
+      "ixl",
+      "jac",
+      "kek",
+      "kjb",
+      "knj",
+      "mam",
+      "mop",
+      "poc",
+      "poh",
+      "quc",
+      "qum",
+      "quv",
+      "ttc",
+      "tzj",
+      "usp",
+      "xin"
+    ]
+  },
+  "locales": ["es-GT"],
+  "currencies": ["GTQ"],
+  "timezones": ["America/Guatemala"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "es-GT": "d/M/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Guatemala City",
+  "landArea": 108889,
+  "region": "Americas",
+  "subregion": "Central America",
+  "borderCountries": ["BLZ", "SLV", "HND", "MEX"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".gt"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["02"],
+    "callingCodes": ["+502"]
+  },
+  "latitude": 15.5,
+  "longitude": -90.25,
+  "demonym": "Guatemalan"
+}

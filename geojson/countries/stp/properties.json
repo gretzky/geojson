@@ -1,0 +1,61 @@
+{
+  "id": 195,
+  "name": {
+    "common": "São Tomé and Príncipe",
+    "official": "Democratic Republic of São Tomé and Príncipe",
+    "native": {
+      "por": {
+        "official": "República Democrática do São Tomé e Príncipe",
+        "common": "São Tomé e Príncipe"
+      }
+    }
+  },
+  "flag": "🇸🇹",
+  "cca2": "ST",
+  "cca3": "STP",
+  "ccn3": "678",
+  "ioc": "STP",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["por"],
+    "spoken": ["aoa", "cri", "eng", "fan", "fra", "kea", "kmb", "pre"]
+  },
+  "locales": ["pt-ST"],
+  "currencies": ["STN"],
+  "timezones": ["Africa/Sao_Tome"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "pt-ST": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "São Tomé",
+  "landArea": 964,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".st"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["39"],
+    "callingCodes": ["+239"]
+  },
+  "latitude": 1,
+  "longitude": 7,
+  "demonym": "Sao Tomean"
+}

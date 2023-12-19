@@ -1,0 +1,78 @@
+{
+  "id": 12,
+  "name": {
+    "common": "Armenia",
+    "official": "Republic of Armenia",
+    "native": {
+      "hye": {
+        "official": "Հայաստանի Հանրապետություն",
+        "common": "Հայաստան"
+      }
+    }
+  },
+  "flag": "🇦🇲",
+  "cca2": "AM",
+  "cca3": "ARM",
+  "ccn3": "051",
+  "ioc": "ARM",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["hye"],
+    "spoken": [
+      "aen",
+      "axm",
+      "aze",
+      "ell",
+      "fra",
+      "hyw",
+      "kat",
+      "krc",
+      "kur",
+      "kmr",
+      "myv",
+      "rmi",
+      "rsl",
+      "rus",
+      "ukr",
+      "xrm"
+    ]
+  },
+  "locales": ["hy-AM"],
+  "currencies": ["AMD"],
+  "timezones": ["Asia/Yerevan"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "hy-AM": "dd.MM.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Yerevan",
+  "landArea": 29743,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borderCountries": ["AZE", "GEO", "IRN", "TUR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".am"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["74"],
+    "callingCodes": ["+374"]
+  },
+  "latitude": 40,
+  "longitude": 45,
+  "demonym": "Armenian"
+}

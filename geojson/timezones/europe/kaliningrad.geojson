@@ -1,0 +1,53 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          19.40417,
+          54.6039
+        ],
+        [
+          19.64694,
+          54.4534
+        ],
+        [
+          21.49582,
+          54.32397
+        ],
+        [
+          22.792,
+          54.36332
+        ],
+        [
+          22.85524,
+          54.88788
+        ],
+        [
+          20.65572,
+          55.38422
+        ],
+        [
+          19.60577,
+          54.97963
+        ],
+        [
+          19.40417,
+          54.6039
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844c0e",
+    "name": "Europe/Kaliningrad",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+02:00",
+    "dstOffset": "+02:00",
+    "countries": [
+      "RUS"
+    ]
+  }
+}

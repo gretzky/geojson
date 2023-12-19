@@ -1,0 +1,81 @@
+{
+  "id": 23,
+  "name": {
+    "common": "Belize",
+    "official": "Belize",
+    "native": {
+      "bjz": {
+        "official": "Belize",
+        "common": "Belize"
+      },
+      "eng": {
+        "official": "Belize",
+        "common": "Belize"
+      },
+      "spa": {
+        "official": "Belice",
+        "common": "Belice"
+      }
+    }
+  },
+  "flag": "🇧🇿",
+  "cca2": "BZ",
+  "cca3": "BLZ",
+  "ccn3": "084",
+  "ioc": "BIZ",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "spa"],
+    "spoken": [
+      "ase",
+      "bzj",
+      "cab",
+      "hin",
+      "kek",
+      "mop",
+      "pdt",
+      "snd",
+      "tam",
+      "yua"
+    ]
+  },
+  "locales": ["en-BZ", "es-BZ"],
+  "currencies": ["BZD"],
+  "timezones": ["America/Belize"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-BZ": "dd/MM/yyyy",
+    "es-BZ": "d/M/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Belmopan",
+  "landArea": 22966,
+  "region": "Americas",
+  "subregion": "Central America",
+  "borderCountries": ["GTM", "MEX"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "mixed",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B", "G"],
+  "voltage": [110, 220],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".bz"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["01"],
+    "callingCodes": ["+501"]
+  },
+  "latitude": 17.25,
+  "longitude": -88.75,
+  "demonym": "Belizean"
+}

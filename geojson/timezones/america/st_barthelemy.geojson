@@ -1,0 +1,53 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -62.98926,
+          17.72683
+        ],
+        [
+          -62.84723,
+          17.67398
+        ],
+        [
+          -62.76441,
+          18.13756
+        ],
+        [
+          -62.94944,
+          18.01722
+        ],
+        [
+          -63.05444,
+          17.80621
+        ],
+        [
+          -63.06548,
+          17.78276
+        ],
+        [
+          -63.04948,
+          17.76453
+        ],
+        [
+          -62.98926,
+          17.72683
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b7e",
+    "name": "America/St_Barthelemy",
+    "type": "link",
+    "aliasedTo": "America/Puerto_Rico",
+    "utcOffset": "-04:00",
+    "dstOffset": "-04:00",
+    "countries": [
+      "BLM"
+    ]
+  }
+}

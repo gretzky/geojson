@@ -1,0 +1,53 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -63.26779,
+          17.89635
+        ],
+        [
+          -63.19541,
+          17.846
+        ],
+        [
+          -63.09922,
+          17.81125
+        ],
+        [
+          -63.05444,
+          17.80621
+        ],
+        [
+          -62.94944,
+          18.01722
+        ],
+        [
+          -63.01278,
+          18.05222
+        ],
+        [
+          -63.01877,
+          18.05648
+        ],
+        [
+          -63.26779,
+          17.89635
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b4b",
+    "name": "America/Lower_Princes",
+    "type": "link",
+    "aliasedTo": "America/Puerto_Rico",
+    "utcOffset": "-04:00",
+    "dstOffset": "-04:00",
+    "countries": [
+      "SXM"
+    ]
+  }
+}

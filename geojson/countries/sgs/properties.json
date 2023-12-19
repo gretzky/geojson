@@ -1,0 +1,61 @@
+{
+  "id": 208,
+  "name": {
+    "common": "South Georgia",
+    "official": "South Georgia and the South Sandwich Islands",
+    "native": {
+      "eng": {
+        "official": "South Georgia and the South Sandwich Islands",
+        "common": "South Georgia"
+      }
+    }
+  },
+  "flag": "🇬🇸",
+  "cca2": "GS",
+  "cca3": "SGS",
+  "ccn3": "239",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "GBR",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": []
+  },
+  "locales": ["en"],
+  "currencies": ["GBP"],
+  "timezones": ["Atlantic/South_Georgia"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en": "M/d/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "King Edward Point",
+  "landArea": 3903,
+  "region": "Antarctic",
+  "subregion": null,
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".gs"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["00"],
+    "callingCodes": ["+500"]
+  },
+  "latitude": -54.5,
+  "longitude": -37,
+  "demonym": "South Georgian South Sandwich Islander"
+}

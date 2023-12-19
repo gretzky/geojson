@@ -1,0 +1,61 @@
+{
+  "id": 80,
+  "name": {
+    "common": "French Southern and Antarctic Lands",
+    "official": "Territory of the French Southern and Antarctic Lands",
+    "native": {
+      "fra": {
+        "official": "Territoire des Terres australes et antarctiques françaises",
+        "common": "Terres australes et antarctiques françaises"
+      }
+    }
+  },
+  "flag": "🇹🇫",
+  "cca2": "TF",
+  "cca3": "ATF",
+  "ccn3": "260",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "FRA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["fra"],
+    "spoken": []
+  },
+  "locales": ["fr"],
+  "currencies": ["EUR"],
+  "timezones": ["Indian/Kerguelen"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "fr": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Port-aux-Français",
+  "landArea": 7747,
+  "region": "Antarctic",
+  "subregion": null,
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".tf"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["62"],
+    "callingCodes": ["+262"]
+  },
+  "latitude": -49.25,
+  "longitude": 69.167,
+  "demonym": "French"
+}

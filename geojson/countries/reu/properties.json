@@ -1,0 +1,61 @@
+{
+  "id": 182,
+  "name": {
+    "common": "Réunion",
+    "official": "Réunion Island",
+    "native": {
+      "fra": {
+        "official": "Ile de la Réunion",
+        "common": "La Réunion"
+      }
+    }
+  },
+  "flag": "🇷🇪",
+  "cca2": "RE",
+  "cca3": "REU",
+  "ccn3": "638",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "FRA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["fra"],
+    "spoken": ["mlg", "rcf", "swb", "tam", "wlc", "wni", "zdj"]
+  },
+  "locales": ["fr-RE"],
+  "currencies": ["EUR"],
+  "timezones": ["Indian/Reunion"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "fr-RE": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Saint-Denis",
+  "landArea": 2511,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".re"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["62"],
+    "callingCodes": ["+262"]
+  },
+  "latitude": -21.15,
+  "longitude": 55.5,
+  "demonym": "Réunionese"
+}

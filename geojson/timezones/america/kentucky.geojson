@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -85.42837,
+          38.58677
+        ],
+        [
+          -86.25504,
+          38.42269
+        ],
+        [
+          -86.33109,
+          38.18099
+        ],
+        [
+          -86.17898,
+          38.01131
+        ],
+        [
+          -85.42905,
+          38.11817
+        ],
+        [
+          -85.42837,
+          38.58677
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b52",
+    "name": "America/Kentucky/Louisville",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "-05:00",
+    "dstOffset": "-04:00",
+    "countries": [
+      "USA"
+    ]
+  }
+}

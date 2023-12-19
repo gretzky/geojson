@@ -1,0 +1,80 @@
+{
+  "id": 34,
+  "name": {
+    "common": "Brunei",
+    "official": "Nation of Brunei, Abode of Peace",
+    "native": {
+      "msa": {
+        "official": "Nation of Brunei, Abode Damai",
+        "common": "Negara Brunei Darussalam"
+      }
+    }
+  },
+  "flag": "🇧🇳",
+  "cca2": "BN",
+  "cca3": "BRN",
+  "ccn3": "096",
+  "ioc": "BRU",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["msa"],
+    "spoken": [
+      "bdr",
+      "beg",
+      "bsb",
+      "cdo",
+      "eng",
+      "hak",
+      "iba",
+      "kor",
+      "kxd",
+      "lnd",
+      "mel",
+      "zsm",
+      "nan",
+      "nep",
+      "pez",
+      "ttg",
+      "yue",
+      "cmn"
+    ]
+  },
+  "locales": ["ms-BN"],
+  "currencies": ["BND"],
+  "timezones": ["Asia/Brunei"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "ms-BN": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Bandar Seri Begawan",
+  "landArea": 5765,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borderCountries": ["MYS"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [240],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".bn"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["73"],
+    "callingCodes": ["+673"]
+  },
+  "latitude": 4.5,
+  "longitude": 114.66666666,
+  "demonym": "Bruneian"
+}

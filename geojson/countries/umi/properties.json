@@ -1,0 +1,61 @@
+{
+  "id": 238,
+  "name": {
+    "common": "United States Minor Outlying Islands",
+    "official": "United States Minor Outlying Islands",
+    "native": {
+      "eng": {
+        "official": "United States Minor Outlying Islands",
+        "common": "United States Minor Outlying Islands"
+      }
+    }
+  },
+  "flag": "🇺🇲",
+  "cca2": "UM",
+  "cca3": "UMI",
+  "ccn3": "581",
+  "ioc": null,
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": []
+  },
+  "locales": ["en-UM"],
+  "currencies": ["USD"],
+  "timezones": ["Pacific/Johnston", "Pacific/Midway", "Pacific/Wake"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-UM": "M/d/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": null,
+  "landArea": 34.2,
+  "region": "Americas",
+  "subregion": "North America",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".us"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["68"],
+    "callingCodes": ["+268"]
+  },
+  "latitude": 19.3,
+  "longitude": 166.633333,
+  "demonym": "American Islander"
+}

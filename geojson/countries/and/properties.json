@@ -1,0 +1,61 @@
+{
+  "id": 6,
+  "name": {
+    "common": "Andorra",
+    "official": "Principality of Andorra",
+    "native": {
+      "cat": {
+        "official": "Principat d'Andorra",
+        "common": "Andorra"
+      }
+    }
+  },
+  "flag": "🇦🇩",
+  "cca2": "AD",
+  "cca3": "AND",
+  "ccn3": "020",
+  "ioc": "AND",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["cat"],
+    "spoken": ["eng", "spa", "fra", "por"]
+  },
+  "locales": ["ca-AD"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Andorra"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "ca-AD": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Andorra la Vella",
+  "landArea": 468,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borderCountries": ["FRA", "ESP"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".ad"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["76"],
+    "callingCodes": ["+376"]
+  },
+  "latitude": 42.5,
+  "longitude": 1.5,
+  "demonym": "Andorran"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          168.18225,
+          -29.18137
+        ],
+        [
+          168.13798,
+          -28.86909
+        ],
+        [
+          167.69102,
+          -28.96518
+        ],
+        [
+          167.79012,
+          -29.28244
+        ],
+        [
+          168.18225,
+          -29.18137
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844c57",
+    "name": "Pacific/Norfolk",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+11:00",
+    "dstOffset": "+12:00",
+    "countries": [
+      "NFK"
+    ]
+  }
+}

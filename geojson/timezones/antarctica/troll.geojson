@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0,
+          -86
+        ],
+        [
+          15,
+          -86
+        ],
+        [
+          25,
+          -86
+        ],
+        [
+          25,
+          -68
+        ],
+        [
+          0,
+          -68
+        ],
+        [
+          0,
+          -86
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b92",
+    "name": "Antarctica/Troll",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+00:00",
+    "dstOffset": "+02:00",
+    "countries": [
+      "ATA"
+    ]
+  }
+}

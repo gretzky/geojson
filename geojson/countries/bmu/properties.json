@@ -1,0 +1,61 @@
+{
+  "id": 25,
+  "name": {
+    "common": "Bermuda",
+    "official": "Bermuda",
+    "native": {
+      "eng": {
+        "official": "Bermuda",
+        "common": "Bermuda"
+      }
+    }
+  },
+  "flag": "🇧🇲",
+  "cca2": "BM",
+  "cca3": "BMU",
+  "ccn3": "060",
+  "ioc": "BER",
+  "isSovereign": false,
+  "governingCountry": "GBR",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["ase", "por"]
+  },
+  "locales": ["en-BM"],
+  "currencies": ["BMD"],
+  "timezones": ["Atlantic/Bermuda"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-BM": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Hamilton",
+  "landArea": 54,
+  "region": "Americas",
+  "subregion": "North America",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "mixed",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".bm"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["441"],
+    "callingCodes": ["+1441"]
+  },
+  "latitude": 32.33333333,
+  "longitude": -64.75,
+  "demonym": "Bermudian"
+}

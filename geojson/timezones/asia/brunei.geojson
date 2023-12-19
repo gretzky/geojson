@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          114.00257,
+          4.77394
+        ],
+        [
+          114.64921,
+          4.00624
+        ],
+        [
+          115.06694,
+          4.87083
+        ],
+        [
+          115.27229,
+          4.44771
+        ],
+        [
+          115.23222,
+          5.09667
+        ],
+        [
+          114.92788,
+          5.15208
+        ],
+        [
+          114.00257,
+          4.77394
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844ba7",
+    "name": "Asia/Brunei",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+08:00",
+    "dstOffset": "+08:00",
+    "countries": [
+      "BRN"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          55,
+          -86
+        ],
+        [
+          77.5,
+          -86
+        ],
+        [
+          77.5,
+          -68
+        ],
+        [
+          55,
+          -64
+        ],
+        [
+          55,
+          -86
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b93",
+    "name": "Antarctica/Mawson",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+05:00",
+    "dstOffset": "+05:00",
+    "countries": [
+      "ATA"
+    ]
+  }
+}

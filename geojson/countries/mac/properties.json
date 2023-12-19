@@ -1,0 +1,68 @@
+{
+  "id": 130,
+  "name": {
+    "common": "Macau",
+    "official": "Macao Special Administrative Region of the People's Republic of China",
+    "native": {
+      "por": {
+        "official": "Região Administrativa Especial de Macau da República Popular da China",
+        "common": "Macau"
+      },
+      "zho": {
+        "official": "中华人民共和国澳门特别行政区",
+        "common": "澳门"
+      }
+    }
+  },
+  "flag": "🇲🇴",
+  "cca2": "MO",
+  "cca3": "MAC",
+  "ccn3": "446",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "CHN",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng", "por", "zho"],
+    "spoken": ["hks", "mzs", "nan", "tgl", "yue", "cmn"]
+  },
+  "locales": ["en-MO", "pt-MO", "zh-Hans-MO", "zh-Hant-MO"],
+  "currencies": ["MOP"],
+  "timezones": ["Asia/Macau"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "en-MO": "dd/MM/yyyy",
+    "pt-MO": "dd/MM/yyyy",
+    "zh-Hans-MO": "yyyy年M月d日",
+    "zh-Hant-MO": "d/M/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": null,
+  "landArea": 30,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "borderCountries": ["CHN"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".mo"],
+  "idd": {
+    "prefix": "+8",
+    "suffixes": ["53"],
+    "callingCodes": ["+853"]
+  },
+  "latitude": 22.16666666,
+  "longitude": 113.55,
+  "demonym": "Macanese"
+}

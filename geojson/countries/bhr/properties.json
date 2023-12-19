@@ -1,0 +1,74 @@
+{
+  "id": 18,
+  "name": {
+    "common": "Bahrain",
+    "official": "Kingdom of Bahrain",
+    "native": {
+      "ara": {
+        "official": "مملكة البحرين",
+        "common": "البحرين"
+      }
+    }
+  },
+  "flag": "🇧🇭",
+  "cca2": "BH",
+  "cca3": "BHR",
+  "ccn3": "048",
+  "ioc": "BRN",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara"],
+    "spoken": [
+      "abv",
+      "afb",
+      "eng",
+      "fas",
+      "guj",
+      "kor",
+      "kur",
+      "mal",
+      "tam",
+      "tel",
+      "tgl",
+      "urd"
+    ]
+  },
+  "locales": ["ar-BH"],
+  "currencies": ["BHD"],
+  "timezones": ["Asia/Bahrain"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ar-BH": "d‏/M‏/yyyy"
+  },
+  "weekStartDay": "saturday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Manama",
+  "landArea": 765,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".bh"],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["73"],
+    "callingCodes": ["+973"]
+  },
+  "latitude": 26,
+  "longitude": 50.55,
+  "demonym": "Bahraini"
+}

@@ -1,0 +1,70 @@
+{
+  "id": 51,
+  "name": {
+    "common": "Comoros",
+    "official": "Union of the Comoros",
+    "native": {
+      "ara": {
+        "official": "الاتحاد القمري",
+        "common": "القمر"
+      },
+      "fra": {
+        "official": "Union des Comores",
+        "common": "Comores"
+      },
+      "zdj": {
+        "official": "Udzima wa Komori",
+        "common": "Komori"
+      }
+    }
+  },
+  "flag": "🇰🇲",
+  "cca2": "KM",
+  "cca3": "COM",
+  "ccn3": "174",
+  "ioc": "COM",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara", "fra", "zdj"],
+    "spoken": ["mlg", "vmw", "wlc", "wni"]
+  },
+  "locales": ["ar-KM", "fr-KM"],
+  "currencies": ["KMF"],
+  "timezones": ["Indian/Comoro"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "ar-KM": "d‏/M‏/yyyy",
+    "fr-KM": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Moroni",
+  "landArea": 1862,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["E"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".km"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["69"],
+    "callingCodes": ["+269"]
+  },
+  "latitude": -12.16666666,
+  "longitude": 44.25,
+  "demonym": "Comoran"
+}

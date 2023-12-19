@@ -1,0 +1,46 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.63139,
+          13.66839
+        ],
+        [
+          144.41492,
+          13.47573
+        ],
+        [
+          144.5774,
+          13.044
+        ],
+        [
+          144.83921,
+          13.07555
+        ],
+        [
+          145.11439,
+          13.72907
+        ],
+        [
+          144.63139,
+          13.66839
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844c4e",
+    "name": "Pacific/Guam",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+10:00",
+    "dstOffset": "+10:00",
+    "countries": [
+      "GUM",
+      "MNP"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -170.12812,
+          -18.96988
+        ],
+        [
+          -169.71866,
+          -19.30698
+        ],
+        [
+          -169.69004,
+          -18.79809
+        ],
+        [
+          -170.12812,
+          -18.96988
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844c56",
+    "name": "Pacific/Niue",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "-11:00",
+    "dstOffset": "-11:00",
+    "countries": [
+      "NIU"
+    ]
+  }
+}

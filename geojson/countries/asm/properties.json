@@ -1,0 +1,65 @@
+{
+  "id": 5,
+  "name": {
+    "common": "American Samoa",
+    "official": "American Samoa",
+    "native": {
+      "eng": {
+        "official": "American Samoa",
+        "common": "American Samoa"
+      },
+      "smo": {
+        "official": "Sāmoa Amelika",
+        "common": "Sāmoa Amelika"
+      }
+    }
+  },
+  "flag": "🇦🇸",
+  "cca2": "AS",
+  "cca3": "ASM",
+  "ccn3": "016",
+  "ioc": "ASA",
+  "isSovereign": false,
+  "governingCountry": "USA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["jpn", "kor", "smo", "tkl", "tgl", "ton"]
+  },
+  "locales": ["en-AS"],
+  "currencies": ["USD"],
+  "timezones": ["Pacific/Pago_Pago"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-AS": "M/d/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Pago Pago",
+  "landArea": 199,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".as"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["684"],
+    "callingCodes": ["+1684"]
+  },
+  "latitude": -14.33333333,
+  "longitude": -170,
+  "demonym": "American Samoan"
+}

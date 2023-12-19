@@ -1,0 +1,61 @@
+{
+  "id": 62,
+  "name": {
+    "common": "Dominica",
+    "official": "Commonwealth of Dominica",
+    "native": {
+      "eng": {
+        "official": "Commonwealth of Dominica",
+        "common": "Dominica"
+      }
+    }
+  },
+  "flag": "🇩🇲",
+  "cca2": "DM",
+  "cca3": "DMA",
+  "ccn3": "212",
+  "ioc": "DMA",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["acf", "aig", "ase", "crb", "fra"]
+  },
+  "locales": ["en-DM"],
+  "currencies": ["XCD"],
+  "timezones": ["America/Dominica"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-DM": "dd/MM/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Roseau",
+  "landArea": 751,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["D", "G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".dm"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["767"],
+    "callingCodes": ["+1767"]
+  },
+  "latitude": 15.41666666,
+  "longitude": -61.33333333,
+  "demonym": "Dominican"
+}

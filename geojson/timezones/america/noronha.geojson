@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -32.27104,
+          -4.01409
+        ],
+        [
+          -32.50204,
+          -3.64108
+        ],
+        [
+          -32.59307,
+          -4.03912
+        ],
+        [
+          -32.27104,
+          -4.01409
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b65",
+    "name": "America/Noronha",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "-02:00",
+    "dstOffset": "-02:00",
+    "countries": [
+      "BRA"
+    ]
+  }
+}

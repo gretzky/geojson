@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          166.4977,
+          19.1193
+        ],
+        [
+          166.825,
+          19.42349
+        ],
+        [
+          166.48493,
+          19.48769
+        ],
+        [
+          166.4977,
+          19.1193
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844c67",
+    "name": "Pacific/Wake",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+12:00",
+    "dstOffset": "+12:00",
+    "countries": [
+      "UMI"
+    ]
+  }
+}

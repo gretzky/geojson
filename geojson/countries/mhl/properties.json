@@ -1,0 +1,65 @@
+{
+  "id": 137,
+  "name": {
+    "common": "Marshall Islands",
+    "official": "Republic of the Marshall Islands",
+    "native": {
+      "eng": {
+        "official": "Republic of the Marshall Islands",
+        "common": "Marshall Islands"
+      },
+      "mah": {
+        "official": "Republic of the Marshall Islands",
+        "common": "M̧ajeļ"
+      }
+    }
+  },
+  "flag": "🇲🇭",
+  "cca2": "MH",
+  "cca3": "MHL",
+  "ccn3": "584",
+  "ioc": "MHL",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["mah"]
+  },
+  "locales": ["en-MH"],
+  "currencies": ["USD"],
+  "timezones": ["Pacific/Majuro", "Pacific/Kwajalein"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-MH": "M/d/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Majuro",
+  "landArea": 181,
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "fahrenheit",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".mh"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["92"],
+    "callingCodes": ["+692"]
+  },
+  "latitude": 9,
+  "longitude": 168,
+  "demonym": "Marshallese"
+}

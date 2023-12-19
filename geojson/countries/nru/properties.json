@@ -1,0 +1,65 @@
+{
+  "id": 153,
+  "name": {
+    "common": "Nauru",
+    "official": "Republic of Nauru",
+    "native": {
+      "eng": {
+        "official": "Republic of Nauru",
+        "common": "Nauru"
+      },
+      "nau": {
+        "official": "Republic of Nauru",
+        "common": "Nauru"
+      }
+    }
+  },
+  "flag": "🇳🇷",
+  "cca2": "NR",
+  "cca3": "NRU",
+  "ccn3": "520",
+  "ioc": "NRU",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["cpi", "fij", "gil", "kos", "mah", "nau", "tvl", "yue"]
+  },
+  "locales": ["en-NR"],
+  "currencies": ["AUD"],
+  "timezones": ["Pacific/Nauru"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-NR": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Yaren",
+  "landArea": 21,
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["I"],
+  "voltage": [240],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".nr"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["74"],
+    "callingCodes": ["+674"]
+  },
+  "latitude": -0.53333333,
+  "longitude": 166.91666666,
+  "demonym": "Nauruan"
+}

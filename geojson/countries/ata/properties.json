@@ -1,0 +1,72 @@
+{
+  "id": 9,
+  "name": {
+    "common": "Antarctica",
+    "official": "Antarctica",
+    "native": {
+      "eng": {
+        "official": "Antarctica",
+        "common": "Antarctica"
+      }
+    }
+  },
+  "flag": "🇦🇶",
+  "cca2": "AQ",
+  "cca3": "ATA",
+  "ccn3": "010",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "Antarctic Treaty",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": []
+  },
+  "locales": ["en"],
+  "currencies": [],
+  "timezones": [
+    "Antarctica/McMurdo",
+    "Antarctica/Casey",
+    "Antarctica/Davis",
+    "Antarctica/DumontDUrville",
+    "Antarctica/Mawson",
+    "Antarctica/Palmer",
+    "Antarctica/Rothera",
+    "Antarctica/Syowa",
+    "Antarctica/Troll",
+    "Antarctica/Vostok"
+  ],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en": "M/d/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": null,
+  "landArea": 14000000,
+  "region": "Antarctic",
+  "subregion": null,
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".aq"],
+  "idd": {
+    "prefix": null,
+    "suffixes": null,
+    "callingCodes": []
+  },
+  "latitude": -90,
+  "longitude": 0,
+  "demonym": "Antarctican"
+}

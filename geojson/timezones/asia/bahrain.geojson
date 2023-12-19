@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          50.92337,
+          26.26722
+        ],
+        [
+          50.48861,
+          26.58427
+        ],
+        [
+          50.2698,
+          26.07974
+        ],
+        [
+          50.5675,
+          25.57611
+        ],
+        [
+          50.92337,
+          26.26722
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b9d",
+    "name": "Asia/Bahrain",
+    "type": "link",
+    "aliasedTo": "Asia/Qatar",
+    "utcOffset": "+03:00",
+    "dstOffset": "+03:00",
+    "countries": [
+      "BHR"
+    ]
+  }
+}

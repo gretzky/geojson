@@ -1,0 +1,74 @@
+{
+  "id": 240,
+  "name": {
+    "common": "Uruguay",
+    "official": "Oriental Republic of Uruguay",
+    "native": {
+      "spa": {
+        "official": "República Oriental del Uruguay",
+        "common": "Uruguay"
+      }
+    }
+  },
+  "flag": "🇺🇾",
+  "cca2": "UY",
+  "cca3": "URY",
+  "ccn3": "858",
+  "ioc": "URU",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["spa"],
+    "spoken": [
+      "cat",
+      "cos",
+      "deu",
+      "glg",
+      "gun",
+      "hrx",
+      "ita",
+      "lit",
+      "pdt",
+      "por",
+      "rus",
+      "ugy"
+    ]
+  },
+  "locales": ["es-UY"],
+  "currencies": ["UYU"],
+  "timezones": ["America/Montevideo"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "es-UY": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Montevideo",
+  "landArea": 181034,
+  "region": "Americas",
+  "subregion": "South America",
+  "borderCountries": ["ARG", "BRA"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "L"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".uy"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["98"],
+    "callingCodes": ["+598"]
+  },
+  "latitude": -33,
+  "longitude": -56,
+  "demonym": "Uruguayan"
+}

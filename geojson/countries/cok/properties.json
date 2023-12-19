@@ -1,0 +1,66 @@
+{
+  "id": 52,
+  "name": {
+    "common": "Cook Islands",
+    "official": "Cook Islands",
+    "native": {
+      "eng": {
+        "official": "Cook Islands",
+        "common": "Cook Islands"
+      },
+      "rar": {
+        "official": "Kūki 'Āirani",
+        "common": "Kūki 'Āirani"
+      }
+    }
+  },
+  "flag": "🇨🇰",
+  "cca2": "CK",
+  "cca3": "COK",
+  "ccn3": "184",
+  "ioc": "COK",
+  "isSovereign": false,
+  "governingCountry": "NZL",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng", "mri"],
+    "spoken": ["pkp", "pnh", "rar", "rkh"]
+  },
+  "locales": ["en-CK", "mi-NZ"],
+  "currencies": ["NZD"],
+  "timezones": ["Pacific/Rarotonga"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-CK": "dd/MM/yyyy",
+    "mi-NZ": "dd-MM-yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Avarua",
+  "landArea": 236,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["I"],
+  "voltage": [240],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".ck"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["82"],
+    "callingCodes": ["+682"]
+  },
+  "latitude": -21.23333333,
+  "longitude": -159.76666666,
+  "demonym": "Cook Islander"
+}

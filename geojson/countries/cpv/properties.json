@@ -1,0 +1,62 @@
+{
+  "id": 41,
+  "name": {
+    "common": "Cape Verde",
+    "official": "Republic of Cabo Verde",
+    "native": {
+      "por": {
+        "official": "República de Cabo Verde",
+        "common": "Cabo Verde"
+      }
+    }
+  },
+  "flag": "🇨🇻",
+  "cca2": "CV",
+  "cca3": "CPV",
+  "ccn3": "132",
+  "ioc": "CPV",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["kea", "por"],
+    "spoken": ["fra", "psr"]
+  },
+  "locales": ["kea-CV", "pt-CV"],
+  "currencies": ["CVE"],
+  "timezones": ["Atlantic/Cape_Verde"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "kea-CV": "dd/MM/yyyy",
+    "pt-CV": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Praia",
+  "landArea": 4033,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".cv"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["38"],
+    "callingCodes": ["+238"]
+  },
+  "latitude": 16,
+  "longitude": -24,
+  "demonym": "Cape Verdian"
+}

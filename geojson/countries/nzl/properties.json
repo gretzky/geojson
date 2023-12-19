@@ -1,0 +1,96 @@
+{
+  "id": 157,
+  "name": {
+    "common": "New Zealand",
+    "official": "New Zealand",
+    "native": {
+      "eng": {
+        "official": "New Zealand",
+        "common": "New Zealand"
+      },
+      "mri": {
+        "official": "Aotearoa",
+        "common": "Aotearoa"
+      },
+      "nzs": {
+        "official": "New Zealand",
+        "common": "New Zealand"
+      }
+    }
+  },
+  "flag": "🇳🇿",
+  "cca2": "NZ",
+  "cca3": "NZL",
+  "ccn3": "554",
+  "ioc": "NZL",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "mri"],
+    "spoken": [
+      "afr",
+      "deu",
+      "spa",
+      "fij",
+      "fra",
+      "guj",
+      "hin",
+      "ita",
+      "jpn",
+      "khm",
+      "kor",
+      "niu",
+      "nzs",
+      "pih",
+      "pkp",
+      "rar",
+      "rkh",
+      "rme",
+      "smo",
+      "tkl",
+      "tgl",
+      "ton",
+      "tvl",
+      "yue",
+      "cmn"
+    ]
+  },
+  "locales": ["en-NZ", "mi-NZ"],
+  "currencies": ["NZD"],
+  "timezones": ["Pacific/Auckland", "Pacific/Chatham"],
+  "timeFormat": "mixed",
+  "dateFormats": {
+    "en-NZ": "d/MM/yyyy",
+    "mi-NZ": "dd-MM-yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Wellington",
+  "landArea": 270467,
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["I"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".nz"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["4"],
+    "callingCodes": ["+64"]
+  },
+  "latitude": -41,
+  "longitude": 174,
+  "demonym": "New Zealander"
+}

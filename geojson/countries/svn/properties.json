@@ -1,0 +1,76 @@
+{
+  "id": 204,
+  "name": {
+    "common": "Slovenia",
+    "official": "Republic of Slovenia",
+    "native": {
+      "slv": {
+        "official": "Republika Slovenija",
+        "common": "Slovenija"
+      }
+    }
+  },
+  "flag": "🇸🇮",
+  "cca2": "SI",
+  "cca3": "SVN",
+  "ccn3": "705",
+  "ioc": "SLO",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": true,
+  "isSchengen": true,
+  "isEurozone": true,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "slv"],
+    "spoken": [
+      "aln",
+      "bos",
+      "deu",
+      "fra",
+      "hrv",
+      "hun",
+      "ita",
+      "mkd",
+      "nrc",
+      "rmc",
+      "srp",
+      "vec",
+      "ysl"
+    ]
+  },
+  "locales": ["en-SI", "sl-SI"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Ljubljana"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-SI": "dd/MM/yyyy",
+    "sl-SI": "d. M. yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Ljubljana",
+  "landArea": 20273,
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "borderCountries": ["AUT", "HRV", "ITA", "HUN"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".si"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["86"],
+    "callingCodes": ["+386"]
+  },
+  "latitude": 46.11666666,
+  "longitude": 14.81666666,
+  "demonym": "Slovene"
+}

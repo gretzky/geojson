@@ -1,0 +1,66 @@
+{
+  "id": 136,
+  "name": {
+    "common": "Malta",
+    "official": "Republic of Malta",
+    "native": {
+      "eng": {
+        "official": "Republic of Malta",
+        "common": "Malta"
+      },
+      "mlt": {
+        "official": "Repubblika ta ' Malta",
+        "common": "Malta"
+      }
+    }
+  },
+  "flag": "🇲🇹",
+  "cca2": "MT",
+  "cca3": "MLT",
+  "ccn3": "470",
+  "ioc": "MLT",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": true,
+  "isSchengen": true,
+  "isEurozone": true,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "mlt"],
+    "spoken": ["deu", "spa", "fra", "ita", "mdl", "xpu"]
+  },
+  "locales": ["en-MT", "mt-MT"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Malta"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-MT": "dd/MM/yyyy",
+    "mt-MT": "M/d/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Valletta",
+  "landArea": 316,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".mt"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["56"],
+    "callingCodes": ["+356"]
+  },
+  "latitude": 35.83333333,
+  "longitude": 14.58333333,
+  "demonym": "Maltese"
+}

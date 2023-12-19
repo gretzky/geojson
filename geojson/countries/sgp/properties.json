@@ -1,0 +1,106 @@
+{
+  "id": 201,
+  "name": {
+    "common": "Singapore",
+    "official": "Republic of Singapore",
+    "native": {
+      "zho": {
+        "official": "新加坡共和国",
+        "common": "新加坡"
+      },
+      "eng": {
+        "official": "Republic of Singapore",
+        "common": "Singapore"
+      },
+      "msa": {
+        "official": "Republik Singapura",
+        "common": "Singapura"
+      },
+      "tam": {
+        "official": "சிங்கப்பூர் குடியரசு",
+        "common": "சிங்கப்பூர்"
+      }
+    }
+  },
+  "flag": "🇸🇬",
+  "cca2": "SG",
+  "cca3": "SGP",
+  "ccn3": "702",
+  "ioc": "SIN",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "msa", "tam", "zho"],
+    "spoken": [
+      "ben",
+      "cdo",
+      "cpx",
+      "guj",
+      "hak",
+      "hin",
+      "ind",
+      "jpn",
+      "jav",
+      "khc",
+      "kor",
+      "mad",
+      "mbf",
+      "mal",
+      "mnp",
+      "zsm",
+      "nan",
+      "ors",
+      "pan",
+      "snd",
+      "sin",
+      "sls",
+      "syl",
+      "tel",
+      "tha",
+      "urd",
+      "yue",
+      "cmn",
+      "zlm"
+    ]
+  },
+  "locales": ["en-SG", "ms-SG", "ta-SG", "zh-Hans-SG"],
+  "currencies": ["SGD"],
+  "timezones": ["Asia/Singapore"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-SG": "dd/MM/yyyy",
+    "ms-SG": "d/M/yyyy",
+    "ta-SG": "d/M/yyyy",
+    "zh-Hans-SG": "yyyy年M月d日"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Singapore",
+  "landArea": 710,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".sg", ".新加坡", ".சிங்கப்பூர்"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["5"],
+    "callingCodes": ["+65"]
+  },
+  "latitude": 1.36666666,
+  "longitude": 103.8,
+  "demonym": "Singaporean"
+}

@@ -1,0 +1,92 @@
+{
+  "id": 26,
+  "name": {
+    "common": "Bhutan",
+    "official": "Kingdom of Bhutan",
+    "native": {
+      "dzo": {
+        "official": "འབྲུག་རྒྱལ་ཁབ་",
+        "common": "འབྲུག་ཡུལ་"
+      }
+    }
+  },
+  "flag": "🇧🇹",
+  "cca2": "BT",
+  "cca3": "BTN",
+  "ccn3": "064",
+  "ioc": "BHU",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["dzo"],
+    "spoken": [
+      "asm",
+      "bap",
+      "bro",
+      "cgk",
+      "dka",
+      "dzl",
+      "eng",
+      "goe",
+      "gvr",
+      "hin",
+      "kjz",
+      "kru",
+      "lep",
+      "lhp",
+      "lif",
+      "lkh",
+      "luk",
+      "lya",
+      "mgp",
+      "nep",
+      "neh",
+      "npb",
+      "ole",
+      "sat",
+      "sgt",
+      "taj",
+      "tgf",
+      "tsj",
+      "xkf",
+      "xkz"
+    ]
+  },
+  "locales": ["dz-BT"],
+  "currencies": ["INR"],
+  "timezones": ["Asia/Thimphu"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "dz-BT": "yyyy-M-d"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Thimphu",
+  "landArea": 38394,
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "borderCountries": ["CHN", "IND"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "D", "G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".bt"],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["75"],
+    "callingCodes": ["+975"]
+  },
+  "latitude": 27.5,
+  "longitude": 90.5,
+  "demonym": "Bhutanese"
+}

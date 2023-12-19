@@ -1,0 +1,89 @@
+{
+  "id": 132,
+  "name": {
+    "common": "Malawi",
+    "official": "Republic of Malawi",
+    "native": {
+      "eng": {
+        "official": "Republic of Malawi",
+        "common": "Malawi"
+      },
+      "nya": {
+        "official": "Chalo cha Malawi, Dziko la Malaŵi",
+        "common": "Malaŵi"
+      }
+    }
+  },
+  "flag": "🇲🇼",
+  "cca2": "MW",
+  "cca3": "MWI",
+  "ccn3": "454",
+  "ioc": "MAW",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": [
+      "afr",
+      "ben",
+      "ell",
+      "fip",
+      "guj",
+      "kfr",
+      "kzn",
+      "lai",
+      "lon",
+      "lws",
+      "ndh",
+      "nkv",
+      "nya",
+      "nyr",
+      "nyy",
+      "por",
+      "sna",
+      "swk",
+      "tog",
+      "tum",
+      "urd",
+      "yao",
+      "zul"
+    ]
+  },
+  "locales": ["en-MW"],
+  "currencies": ["MWK"],
+  "timezones": ["Africa/Maputo"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-MW": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Lilongwe",
+  "landArea": 118484,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borderCountries": ["MOZ", "TZA", "ZMB"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".mw"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["65"],
+    "callingCodes": ["+265"]
+  },
+  "latitude": -13.5,
+  "longitude": 34,
+  "demonym": "Malawian"
+}

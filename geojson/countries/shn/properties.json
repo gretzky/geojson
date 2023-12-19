@@ -1,0 +1,61 @@
+{
+  "id": 187,
+  "name": {
+    "common": "Saint Helena, Ascension and Tristan da Cunha",
+    "official": "Saint Helena, Ascension and Tristan da Cunha",
+    "native": {
+      "eng": {
+        "official": "Saint Helena, Ascension and Tristan da Cunha",
+        "common": "Saint Helena, Ascension and Tristan da Cunha"
+      }
+    }
+  },
+  "flag": "🇸🇭",
+  "cca2": "SH",
+  "cca3": "SHN",
+  "ccn3": "654",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "GBR",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": []
+  },
+  "locales": ["en-SH"],
+  "currencies": ["GBP"],
+  "timezones": ["Africa/Abidjan"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-SH": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Jamestown",
+  "landArea": 394,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".sh", ".ac"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["90", "47"],
+    "callingCodes": ["+290", "+247"]
+  },
+  "latitude": -15.95,
+  "longitude": -5.72,
+  "demonym": "Saint Helenian"
+}

@@ -1,0 +1,79 @@
+{
+  "id": 128,
+  "name": {
+    "common": "Lithuania",
+    "official": "Republic of Lithuania",
+    "native": {
+      "lit": {
+        "official": "Lietuvos Respublikos",
+        "common": "Lietuva"
+      }
+    }
+  },
+  "flag": "🇱🇹",
+  "cca2": "LT",
+  "cca3": "LTU",
+  "ccn3": "440",
+  "ioc": "LTU",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": true,
+  "isSchengen": true,
+  "isEurozone": true,
+  "isUNMember": true,
+  "languages": {
+    "official": ["lit"],
+    "spoken": [
+      "bel",
+      "deu",
+      "eng",
+      "fra",
+      "kdr",
+      "lls",
+      "lav",
+      "myv",
+      "ndf",
+      "olt",
+      "pol",
+      "rml",
+      "rus",
+      "sgs",
+      "ukr",
+      "xsv",
+      "xzm"
+    ]
+  },
+  "locales": ["lt-LT"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Vilnius"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "lt-LT": "yyyy-MM-dd"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Vilnius",
+  "landArea": 65300,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borderCountries": ["BLR", "LVA", "POL", "RUS"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".lt"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["70"],
+    "callingCodes": ["+370"]
+  },
+  "latitude": 56,
+  "longitude": 24,
+  "demonym": "Lithuanian"
+}

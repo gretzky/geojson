@@ -1,0 +1,79 @@
+{
+  "id": 206,
+  "name": {
+    "common": "Somalia",
+    "official": "Federal Republic of Somalia",
+    "native": {
+      "ara": {
+        "official": "جمهورية الصومال",
+        "common": "الصومال"
+      },
+      "som": {
+        "official": "Jamhuuriyadda Federaalka Soomaaliya",
+        "common": "Soomaaliya"
+      }
+    }
+  },
+  "flag": "🇸🇴",
+  "cca2": "SO",
+  "cca3": "SOM",
+  "ccn3": "706",
+  "ioc": "SOM",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara", "eng", "som"],
+    "spoken": [
+      "acq",
+      "bnl",
+      "dbr",
+      "gax",
+      "gex",
+      "ita",
+      "jii",
+      "swa",
+      "swh",
+      "tqq",
+      "xma",
+      "ymm"
+    ]
+  },
+  "locales": ["ar-SO", "so-SO"],
+  "currencies": ["SOS"],
+  "timezones": ["Africa/Nairobi"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ar-SO": "d‏/M‏/yyyy",
+    "so-SO": "M/d/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Mogadishu",
+  "landArea": 637657,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borderCountries": ["DJI", "ETH", "KEN"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".so"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["52"],
+    "callingCodes": ["+252"]
+  },
+  "latitude": 10,
+  "longitude": 49,
+  "demonym": "Somali"
+}

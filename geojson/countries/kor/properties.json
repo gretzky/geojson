@@ -1,0 +1,74 @@
+{
+  "id": 209,
+  "name": {
+    "common": "South Korea",
+    "official": "Republic of Korea",
+    "native": {
+      "kor": {
+        "official": "대한민국",
+        "common": "한국"
+      }
+    }
+  },
+  "flag": "🇰🇷",
+  "cca2": "KR",
+  "cca3": "KOR",
+  "ccn3": "410",
+  "ioc": "KOR",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["kor"],
+    "spoken": [
+      "eng",
+      "hmk",
+      "jje",
+      "kvk",
+      "lzh",
+      "okm",
+      "oko",
+      "pkc",
+      "xpp",
+      "cmn",
+      "zkg",
+      "zra"
+    ]
+  },
+  "locales": ["ko-KR"],
+  "currencies": ["KRW"],
+  "timezones": ["Asia/Seoul"],
+  "timeFormat": "mixed",
+  "dateFormats": {
+    "ko-KR": "yyyy. M. d."
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Seoul",
+  "landArea": 100210,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "borderCountries": ["PRK"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [220],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".kr", ".한국"],
+  "idd": {
+    "prefix": "+8",
+    "suffixes": ["2"],
+    "callingCodes": ["+82"]
+  },
+  "latitude": 37,
+  "longitude": 127.5,
+  "demonym": "South Korean"
+}

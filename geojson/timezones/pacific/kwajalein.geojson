@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          166.97718,
+          9.7
+        ],
+        [
+          165.7,
+          9.7
+        ],
+        [
+          167.8,
+          8.35
+        ],
+        [
+          168.01281,
+          8.70912
+        ],
+        [
+          167.89567,
+          9.21509
+        ],
+        [
+          167.43548,
+          9.60435
+        ],
+        [
+          166.97718,
+          9.7
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844c6b",
+    "name": "Pacific/Kwajalein",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+12:00",
+    "dstOffset": "+12:00",
+    "countries": [
+      "MHL"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": 200,
+  "name": {
+    "common": "Sierra Leone",
+    "official": "Republic of Sierra Leone",
+    "native": {
+      "eng": {
+        "official": "Republic of Sierra Leone",
+        "common": "Sierra Leone"
+      }
+    }
+  },
+  "flag": "🇸🇱",
+  "cca2": "SL",
+  "cca3": "SLE",
+  "ccn3": "694",
+  "ioc": "SLE",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "ful"],
+    "spoken": [
+      "apc",
+      "bmf",
+      "bsq",
+      "bun",
+      "buy",
+      "ell",
+      "fuf",
+      "gol",
+      "klu",
+      "knk",
+      "kno",
+      "kqs",
+      "kri",
+      "kss",
+      "lia",
+      "lma",
+      "lok",
+      "men",
+      "nqo",
+      "sgx",
+      "sus",
+      "tem",
+      "vai",
+      "yal",
+      "yor"
+    ]
+  },
+  "locales": ["en-SL", "ff-Adlm-SL", "ff-Latn-SL"],
+  "currencies": ["SLL"],
+  "timezones": ["Africa/Abidjan"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "en-SL": "dd/MM/yyyy",
+    "ff-Adlm-SL": "yyyyyyyy-MM-dd",
+    "ff-Latn-SL": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Freetown",
+  "landArea": 71740,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borderCountries": ["GIN", "LBR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["D"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".sl"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["32"],
+    "callingCodes": ["+232"]
+  },
+  "latitude": 8.5,
+  "longitude": -11.5,
+  "demonym": "Sierra Leonean"
+}

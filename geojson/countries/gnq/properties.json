@@ -1,0 +1,86 @@
+{
+  "id": 68,
+  "name": {
+    "common": "Equatorial Guinea",
+    "official": "Republic of Equatorial Guinea",
+    "native": {
+      "fra": {
+        "official": "République de la Guinée Équatoriale",
+        "common": "Guinée équatoriale"
+      },
+      "por": {
+        "official": "República da Guiné Equatorial",
+        "common": "Guiné Equatorial"
+      },
+      "spa": {
+        "official": "República de Guinea Ecuatorial",
+        "common": "Guinea Ecuatorial"
+      }
+    }
+  },
+  "flag": "🇬🇶",
+  "cca2": "GQ",
+  "cca3": "GNQ",
+  "ccn3": "226",
+  "ioc": "GEQ",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["spa", "fra", "por"],
+    "spoken": [
+      "bng",
+      "bnm",
+      "bvb",
+      "bxc",
+      "eng",
+      "fab",
+      "fan",
+      "fpe",
+      "gyi",
+      "hin",
+      "nui",
+      "syi",
+      "yko",
+      "cmn"
+    ]
+  },
+  "locales": ["es-GQ", "fr-GQ", "pt-GQ"],
+  "currencies": ["XAF"],
+  "timezones": ["Africa/Malabo"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "es-GQ": "d/M/yyyy",
+    "fr-GQ": "dd/MM/yyyy",
+    "pt-GQ": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Malabo",
+  "landArea": 28051,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "borderCountries": ["CMR", "GAB"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".gq"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["40"],
+    "callingCodes": ["+240"]
+  },
+  "latitude": 2,
+  "longitude": 10,
+  "demonym": "Equatorial Guinean"
+}

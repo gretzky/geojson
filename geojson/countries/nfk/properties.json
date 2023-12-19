@@ -1,0 +1,65 @@
+{
+  "id": 162,
+  "name": {
+    "common": "Norfolk Island",
+    "official": "Territory of Norfolk Island",
+    "native": {
+      "eng": {
+        "official": "Territory of Norfolk Island",
+        "common": "Norfolk Island"
+      },
+      "pih": {
+        "official": "Teratri of Norf'k Ailen",
+        "common": "Norf'k Ailen"
+      }
+    }
+  },
+  "flag": "🇳🇫",
+  "cca2": "NF",
+  "cca3": "NFK",
+  "ccn3": "574",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "AUS",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["pih"]
+  },
+  "locales": ["en-NF"],
+  "currencies": ["AUD"],
+  "timezones": ["Pacific/Norfolk"],
+  "timeFormat": "mixed",
+  "dateFormats": {
+    "en-NF": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Kingston",
+  "landArea": 36,
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["I"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".nf"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["72"],
+    "callingCodes": ["+672"]
+  },
+  "latitude": -29.03333333,
+  "longitude": 167.95,
+  "demonym": "Norfolk Islander"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -69.73556,
+          12.25783
+        ],
+        [
+          -69.69392,
+          12.55
+        ],
+        [
+          -70.21437,
+          12.75
+        ],
+        [
+          -70.16293,
+          12.34885
+        ],
+        [
+          -69.73556,
+          12.25783
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b0f",
+    "name": "America/Aruba",
+    "type": "link",
+    "aliasedTo": "America/Puerto_Rico",
+    "utcOffset": "-04:00",
+    "dstOffset": "-04:00",
+    "countries": [
+      "ABW"
+    ]
+  }
+}

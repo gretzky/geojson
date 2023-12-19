@@ -1,0 +1,61 @@
+{
+  "id": 2,
+  "name": {
+    "common": "Aland Islands",
+    "official": "Åland Islands",
+    "native": {
+      "swe": {
+        "official": "Landskapet Åland",
+        "common": "Åland"
+      }
+    }
+  },
+  "flag": "🇦🇽",
+  "cca2": "AX",
+  "cca3": "ALA",
+  "ccn3": "248",
+  "ioc": null,
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": false,
+  "languages": {
+    "official": ["swe"],
+    "spoken": ["fin", "fss"]
+  },
+  "locales": ["sv-AX"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Mariehamn"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "sv-AX": "yyyy-MM-dd"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Mariehamn",
+  "landArea": 1580,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".ax"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["5818"],
+    "callingCodes": ["+35818"]
+  },
+  "latitude": 60.116667,
+  "longitude": 19.9,
+  "demonym": "Ålandish"
+}

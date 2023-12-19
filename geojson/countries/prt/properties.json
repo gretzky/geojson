@@ -1,0 +1,79 @@
+{
+  "id": 178,
+  "name": {
+    "common": "Portugal",
+    "official": "Portuguese Republic",
+    "native": {
+      "por": {
+        "official": "República português",
+        "common": "Portugal"
+      }
+    }
+  },
+  "flag": "🇵🇹",
+  "cca2": "PT",
+  "cca3": "PRT",
+  "ccn3": "620",
+  "ioc": "POR",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": true,
+  "isSchengen": true,
+  "isEurozone": true,
+  "isUNMember": true,
+  "languages": {
+    "official": ["por"],
+    "spoken": [
+      "ast",
+      "cri",
+      "deu",
+      "drc",
+      "eng",
+      "spa",
+      "ext",
+      "fra",
+      "glg",
+      "kea",
+      "mwl",
+      "pov",
+      "psr",
+      "rmq",
+      "rom",
+      "ukr",
+      "xaa"
+    ]
+  },
+  "locales": ["pt-PT"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Lisbon", "Atlantic/Madeira", "Atlantic/Azores"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "pt-PT": "dd/MM/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Lisbon",
+  "landArea": 92090,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borderCountries": ["ESP"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".pt"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["51"],
+    "callingCodes": ["+351"]
+  },
+  "latitude": 39.5,
+  "longitude": -8,
+  "demonym": "Portuguese"
+}

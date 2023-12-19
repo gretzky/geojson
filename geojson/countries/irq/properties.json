@@ -1,0 +1,98 @@
+{
+  "id": 106,
+  "name": {
+    "common": "Iraq",
+    "official": "Republic of Iraq",
+    "native": {
+      "ara": {
+        "official": "جمهورية العراق",
+        "common": "العراق"
+      },
+      "arc": {
+        "official": "ܩܘܼܛܢܵܐ ܐܝܼܪܲܩ",
+        "common": "ܩܘܼܛܢܵܐ"
+      },
+      "ckb": {
+        "official": "کۆماری عێراق",
+        "common": "کۆماری"
+      }
+    }
+  },
+  "flag": "🇮🇶",
+  "cca2": "IQ",
+  "cca3": "IRQ",
+  "ccn3": "368",
+  "ioc": "IRQ",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara", "ckb", "lrc"],
+    "spoken": [
+      "acm",
+      "ady",
+      "afb",
+      "akk",
+      "ars",
+      "arz",
+      "ayp",
+      "azb",
+      "bjm",
+      "fas",
+      "hac",
+      "hye",
+      "hyw",
+      "kqd",
+      "kur",
+      "mid",
+      "myz",
+      "rmt",
+      "sdb",
+      "sdf",
+      "sdh",
+      "syr",
+      "tuk",
+      "tur",
+      "tru",
+      "yhd"
+    ]
+  },
+  "locales": ["ar-IQ", "ckb-IQ", "lrc-IQ"],
+  "currencies": ["IQD"],
+  "timezones": ["Asia/Baghdad"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ar-IQ": "d‏/M‏/yyyy",
+    "ckb-IQ": "d/M/yyyy",
+    "lrc-IQ": "yyyy-M-d"
+  },
+  "weekStartDay": "saturday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Baghdad",
+  "landArea": 438317,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borderCountries": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "D", "G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".iq"],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["64"],
+    "callingCodes": ["+964"]
+  },
+  "latitude": 33,
+  "longitude": 44,
+  "demonym": "Iraqi"
+}

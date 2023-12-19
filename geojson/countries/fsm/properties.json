@@ -1,0 +1,80 @@
+{
+  "id": 143,
+  "name": {
+    "common": "Micronesia",
+    "official": "Federated States of Micronesia",
+    "native": {
+      "eng": {
+        "official": "Federated States of Micronesia",
+        "common": "Micronesia"
+      }
+    }
+  },
+  "flag": "🇫🇲",
+  "cca2": "FM",
+  "cca3": "FSM",
+  "ccn3": "583",
+  "ioc": "FSM",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": [
+      "chk",
+      "jpn",
+      "kos",
+      "kpg",
+      "mkj",
+      "mrl",
+      "ngm",
+      "nkr",
+      "nmt",
+      "nuw",
+      "pfa",
+      "pif",
+      "pon",
+      "puw",
+      "stw",
+      "uli",
+      "woe",
+      "yap"
+    ]
+  },
+  "locales": ["en-FM"],
+  "currencies": ["USD"],
+  "timezones": ["Pacific/Chuuk", "Pacific/Pohnpei", "Pacific/Kosrae"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-FM": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Palikir",
+  "landArea": 702,
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "fahrenheit",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".fm"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["91"],
+    "callingCodes": ["+691"]
+  },
+  "latitude": 6.91666666,
+  "longitude": 158.25,
+  "demonym": "Micronesian"
+}

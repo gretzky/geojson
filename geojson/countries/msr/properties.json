@@ -1,0 +1,61 @@
+{
+  "id": 148,
+  "name": {
+    "common": "Montserrat",
+    "official": "Montserrat",
+    "native": {
+      "eng": {
+        "official": "Montserrat",
+        "common": "Montserrat"
+      }
+    }
+  },
+  "flag": "🇲🇸",
+  "cca2": "MS",
+  "cca3": "MSR",
+  "ccn3": "500",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "GBR",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["aig"]
+  },
+  "locales": ["en-MS"],
+  "currencies": ["XCD"],
+  "timezones": ["America/Montserrat"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-MS": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Plymouth",
+  "landArea": 102,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "mixed",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".ms"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["664"],
+    "callingCodes": ["+1664"]
+  },
+  "latitude": 16.75,
+  "longitude": -62.2,
+  "demonym": "Montserratian"
+}

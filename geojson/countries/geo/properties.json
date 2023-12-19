@@ -1,0 +1,92 @@
+{
+  "id": 83,
+  "name": {
+    "common": "Georgia",
+    "official": "Georgia",
+    "native": {
+      "kat": {
+        "official": "საქართველო",
+        "common": "საქართველო"
+      }
+    }
+  },
+  "flag": "🇬🇪",
+  "cca2": "GE",
+  "cca3": "GEO",
+  "ccn3": "268",
+  "ioc": "GEO",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["kat", "oss"],
+    "spoken": [
+      "abk",
+      "ava",
+      "aze",
+      "bbl",
+      "bhn",
+      "che",
+      "ddo",
+      "fra",
+      "huz",
+      "hye",
+      "hyw",
+      "jge",
+      "kap",
+      "kur",
+      "kmr",
+      "lez",
+      "oav",
+      "oge",
+      "pnt",
+      "rus",
+      "sva",
+      "tur",
+      "trg",
+      "tat",
+      "udi",
+      "ukr",
+      "uum",
+      "xmf",
+      "xrm"
+    ]
+  },
+  "locales": ["ka-GE", "os-GE"],
+  "currencies": ["GEL"],
+  "timezones": ["Asia/Tbilisi"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "ka-GE": "d.M.yyyy",
+    "os-GE": "d.M.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Tbilisi",
+  "landArea": 69700,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borderCountries": ["ARM", "AZE", "RUS", "TUR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".ge"],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["95"],
+    "callingCodes": ["+995"]
+  },
+  "latitude": 42,
+  "longitude": 43.5,
+  "demonym": "Georgian"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 164,
+  "name": {
+    "common": "North Macedonia",
+    "official": "Republic of North Macedonia",
+    "native": {
+      "mkd": {
+        "official": "Република Северна Македонија",
+        "common": "Македонија"
+      }
+    }
+  },
+  "flag": "🇲🇰",
+  "cca2": "MK",
+  "cca3": "MKD",
+  "ccn3": "807",
+  "ioc": "MKD",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": false,
+  "languages": {
+    "official": ["mkd", "sqi"],
+    "spoken": [
+      "ady",
+      "aln",
+      "bgx",
+      "bos",
+      "ell",
+      "fra",
+      "nrc",
+      "rmn",
+      "rom",
+      "rmy",
+      "rup",
+      "ruq",
+      "srp",
+      "tur",
+      "ysl"
+    ]
+  },
+  "locales": ["mk-MK", "sq-MK"],
+  "currencies": ["MKD"],
+  "timezones": ["Europe/Skopje"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "mk-MK": "d.M.yyyy",
+    "sq-MK": "d.M.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Skopje",
+  "landArea": 25713,
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borderCountries": ["ALB", "BGR", "GRC", "UNK", "SRB"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".mk"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["89"],
+    "callingCodes": ["+389"]
+  },
+  "latitude": 41.83333333,
+  "longitude": 22,
+  "demonym": "Macedonian"
+}

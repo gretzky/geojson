@@ -1,0 +1,69 @@
+{
+  "id": 225,
+  "name": {
+    "common": "Tokelau",
+    "official": "Tokelau",
+    "native": {
+      "eng": {
+        "official": "Tokelau",
+        "common": "Tokelau"
+      },
+      "smo": {
+        "official": "Tokelau",
+        "common": "Tokelau"
+      },
+      "tkl": {
+        "official": "Tokelau",
+        "common": "Tokelau"
+      }
+    }
+  },
+  "flag": "🇹🇰",
+  "cca2": "TK",
+  "cca3": "TKL",
+  "ccn3": "772",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "NZL",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["gil", "smo", "tkl", "tvl"]
+  },
+  "locales": ["en-TK"],
+  "currencies": ["NZD"],
+  "timezones": ["Pacific/Fakaofo"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-TK": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Fakaofo",
+  "landArea": 12,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["I"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".tk"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["90"],
+    "callingCodes": ["+690"]
+  },
+  "latitude": -9,
+  "longitude": -172,
+  "demonym": "Tokelauan"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 188,
+  "name": {
+    "common": "Saint Kitts and Nevis",
+    "official": "Federation of Saint Christopher and Nevis",
+    "native": {
+      "eng": {
+        "official": "Federation of Saint Christopher and Nevis",
+        "common": "Saint Kitts and Nevis"
+      }
+    }
+  },
+  "flag": "🇰🇳",
+  "cca2": "KN",
+  "cca3": "KNA",
+  "ccn3": "659",
+  "ioc": "SKN",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["aig", "ase"]
+  },
+  "locales": ["en-KN"],
+  "currencies": ["XCD"],
+  "timezones": ["America/St_Kitts"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-KN": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Basseterre",
+  "landArea": 261,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "mixed",
+  "speedUnit": "kmh",
+  "outletType": ["D"],
+  "voltage": [230],
+  "frequencyHz": 60,
+  "drivingSide": "left",
+  "tld": [".kn"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["869"],
+    "callingCodes": ["+1869"]
+  },
+  "latitude": 17.33333333,
+  "longitude": -62.75,
+  "demonym": "Kittitian or Nevisian"
+}

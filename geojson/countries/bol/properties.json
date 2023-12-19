@@ -1,0 +1,121 @@
+{
+  "id": 27,
+  "name": {
+    "common": "Bolivia",
+    "official": "Plurinational State of Bolivia",
+    "native": {
+      "aym": {
+        "official": "Wuliwya Suyu",
+        "common": "Wuliwya"
+      },
+      "grn": {
+        "official": "Tetã Volívia",
+        "common": "Volívia"
+      },
+      "que": {
+        "official": "Buliwya Mamallaqta",
+        "common": "Buliwya"
+      },
+      "spa": {
+        "official": "Estado Plurinacional de Bolivia",
+        "common": "Bolivia"
+      }
+    }
+  },
+  "flag": "🇧🇴",
+  "cca2": "BO",
+  "cca3": "BOL",
+  "ccn3": "068",
+  "ioc": "BOL",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["spa", "que"],
+    "spoken": [
+      "aro",
+      "ase",
+      "aym",
+      "ayo",
+      "bor",
+      "brg",
+      "bvl",
+      "cao",
+      "cap",
+      "cas",
+      "cav",
+      "caw",
+      "cax",
+      "caz",
+      "cyb",
+      "deu",
+      "ese",
+      "grn",
+      "gnw",
+      "gui",
+      "gyr",
+      "ign",
+      "ite",
+      "ito",
+      "jor",
+      "lec",
+      "mpd",
+      "mtp",
+      "mzp",
+      "pcp",
+      "pdt",
+      "pnk",
+      "psm",
+      "qul",
+      "rey",
+      "sar",
+      "srq",
+      "tna",
+      "tno",
+      "tob",
+      "tpj",
+      "trn",
+      "ure",
+      "yaa",
+      "yuq",
+      "yuz"
+    ]
+  },
+  "locales": ["es-BO", "qu-BO"],
+  "currencies": ["BOB"],
+  "timezones": ["America/La_Paz"],
+  "timeFormat": "mixed",
+  "dateFormats": {
+    "es-BO": "d/M/yyyy",
+    "qu-BO": "dd-MM-yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Sucre",
+  "landArea": 1098581,
+  "region": "Americas",
+  "subregion": "South America",
+  "borderCountries": ["ARG", "BRA", "CHL", "PRY", "PER"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".bo"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["91"],
+    "callingCodes": ["+591"]
+  },
+  "latitude": -17,
+  "longitude": -65,
+  "demonym": "Bolivian"
+}

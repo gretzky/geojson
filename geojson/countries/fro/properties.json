@@ -1,0 +1,65 @@
+{
+  "id": 74,
+  "name": {
+    "common": "Faroe Islands",
+    "official": "Faroe Islands",
+    "native": {
+      "dan": {
+        "official": "Færøerne",
+        "common": "Færøerne"
+      },
+      "fao": {
+        "official": "Føroyar",
+        "common": "Føroyar"
+      }
+    }
+  },
+  "flag": "🇫🇴",
+  "cca2": "FO",
+  "cca3": "FRO",
+  "ccn3": "234",
+  "ioc": null,
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": false,
+  "languages": {
+    "official": ["fao"],
+    "spoken": ["dan", "dsl"]
+  },
+  "locales": ["fo-FO"],
+  "currencies": ["DKK"],
+  "timezones": ["Atlantic/Faroe"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "fo-FO": "dd.MM.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Tórshavn",
+  "landArea": 1393,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".fo"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["98"],
+    "callingCodes": ["+298"]
+  },
+  "latitude": 62,
+  "longitude": -7,
+  "demonym": "Faroese"
+}

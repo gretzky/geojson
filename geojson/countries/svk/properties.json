@@ -1,0 +1,77 @@
+{
+  "id": 203,
+  "name": {
+    "common": "Slovakia",
+    "official": "Slovak Republic",
+    "native": {
+      "slk": {
+        "official": "Slovenská republika",
+        "common": "Slovensko"
+      }
+    }
+  },
+  "flag": "🇸🇰",
+  "cca2": "SK",
+  "cca3": "SVK",
+  "ccn3": "703",
+  "ioc": "SVK",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": true,
+  "isSchengen": true,
+  "isEurozone": true,
+  "isUNMember": true,
+  "languages": {
+    "official": ["slk"],
+    "spoken": [
+      "bul",
+      "ces",
+      "deu",
+      "eng",
+      "fra",
+      "hrv",
+      "hun",
+      "pol",
+      "rmc",
+      "rom",
+      "rmy",
+      "rus",
+      "rue",
+      "svk",
+      "ukr"
+    ]
+  },
+  "locales": ["sk-SK"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Bratislava"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "sk-SK": "d. M. yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Bratislava",
+  "landArea": 49037,
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "borderCountries": ["AUT", "CZE", "HUN", "POL", "UKR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".sk"],
+  "idd": {
+    "prefix": "+4",
+    "suffixes": ["21"],
+    "callingCodes": ["+421"]
+  },
+  "latitude": 48.66666666,
+  "longitude": 19.5,
+  "demonym": "Slovak"
+}

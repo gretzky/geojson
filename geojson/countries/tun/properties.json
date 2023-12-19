@@ -1,0 +1,79 @@
+{
+  "id": 228,
+  "name": {
+    "common": "Tunisia",
+    "official": "Tunisian Republic",
+    "native": {
+      "ara": {
+        "official": "الجمهورية التونسية",
+        "common": "تونس"
+      }
+    }
+  },
+  "flag": "🇹🇳",
+  "cca2": "TN",
+  "cca3": "TUN",
+  "ccn3": "788",
+  "ioc": "TUN",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara", "fra"],
+    "spoken": [
+      "aao",
+      "aeb",
+      "ajt",
+      "apc",
+      "arq",
+      "ayl",
+      "eng",
+      "gha",
+      "ita",
+      "jbn",
+      "mlt",
+      "pml",
+      "sds",
+      "shy",
+      "tse",
+      "xpu"
+    ]
+  },
+  "locales": ["ar-TN", "fr-TN"],
+  "currencies": ["TND"],
+  "timezones": ["Africa/Tunis"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ar-TN": "d‏/M‏/yyyy",
+    "fr-TN": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Tunis",
+  "landArea": 163610,
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "borderCountries": ["DZA", "LBY"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".tn"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["16"],
+    "callingCodes": ["+216"]
+  },
+  "latitude": 34,
+  "longitude": 9,
+  "demonym": "Tunisian"
+}

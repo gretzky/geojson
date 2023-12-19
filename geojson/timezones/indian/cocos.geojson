@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          97.01235,
+          -11.73624
+        ],
+        [
+          96.61158,
+          -11.83441
+        ],
+        [
+          96.62758,
+          -12.25709
+        ],
+        [
+          97.01304,
+          -12.38075
+        ],
+        [
+          97.01235,
+          -11.73624
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844c44",
+    "name": "Indian/Cocos",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+06:30",
+    "dstOffset": "+06:30",
+    "countries": [
+      "CCK"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          148.73856,
+          -19.82209
+        ],
+        [
+          149.03,
+          -20.57
+        ],
+        [
+          149.37586,
+          -20.46339
+        ],
+        [
+          149.37699,
+          -20.16541
+        ],
+        [
+          148.73856,
+          -19.82209
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844bfb",
+    "name": "Australia/Lindeman",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+10:00",
+    "dstOffset": "+10:00",
+    "countries": [
+      "AUS"
+    ]
+  }
+}

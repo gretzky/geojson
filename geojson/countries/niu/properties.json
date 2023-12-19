@@ -1,0 +1,65 @@
+{
+  "id": 161,
+  "name": {
+    "common": "Niue",
+    "official": "Niue",
+    "native": {
+      "eng": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "niu": {
+        "official": "Niuē",
+        "common": "Niuē"
+      }
+    }
+  },
+  "flag": "🇳🇺",
+  "cca2": "NU",
+  "cca3": "NIU",
+  "ccn3": "570",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "NZL",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["niu", "ton"]
+  },
+  "locales": ["en-NU"],
+  "currencies": ["NZD"],
+  "timezones": ["Pacific/Niue"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-NU": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Alofi",
+  "landArea": 260,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".nu"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["83"],
+    "callingCodes": ["+683"]
+  },
+  "latitude": -19.03333333,
+  "longitude": -169.86666666,
+  "demonym": "Niuean"
+}

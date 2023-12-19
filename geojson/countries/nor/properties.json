@@ -1,0 +1,95 @@
+{
+  "id": 166,
+  "name": {
+    "common": "Norway",
+    "official": "Kingdom of Norway",
+    "native": {
+      "nno": {
+        "official": "Kongeriket Noreg",
+        "common": "Noreg"
+      },
+      "nob": {
+        "official": "Kongeriket Norge",
+        "common": "Norge"
+      },
+      "smi": {
+        "official": "Norgga gonagasriika",
+        "common": "Norgga"
+      }
+    }
+  },
+  "flag": "🇳🇴",
+  "cca2": "NO",
+  "cca3": "NOR",
+  "ccn3": "578",
+  "ioc": "NOR",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": false,
+  "isSchengen": true,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["nob", "nno", "sme"],
+    "spoken": [
+      "aln",
+      "bod",
+      "dan",
+      "eng",
+      "spa",
+      "fin",
+      "fkv",
+      "fra",
+      "kur",
+      "nor",
+      "nsl",
+      "rmg",
+      "rom",
+      "rmy",
+      "rus",
+      "sje",
+      "sju",
+      "sma",
+      "smj",
+      "sms",
+      "swe",
+      "urd",
+      "vie"
+    ]
+  },
+  "locales": ["nb-NO", "nn-NO", "se-NO"],
+  "currencies": ["NOK"],
+  "timezones": ["Europe/Oslo"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "nb-NO": "d.M.yyyy",
+    "nn-NO": "d.M.yyyy",
+    "se-NO": "yyyy-MM-dd"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Oslo",
+  "landArea": 323802,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borderCountries": ["FIN", "SWE", "RUS"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".no"],
+  "idd": {
+    "prefix": "+4",
+    "suffixes": ["7"],
+    "callingCodes": ["+47"]
+  },
+  "latitude": 62,
+  "longitude": 10,
+  "demonym": "Norwegian"
+}

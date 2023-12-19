@@ -1,0 +1,61 @@
+{
+  "id": 90,
+  "name": {
+    "common": "Guadeloupe",
+    "official": "Guadeloupe",
+    "native": {
+      "fra": {
+        "official": "Guadeloupe",
+        "common": "Guadeloupe"
+      }
+    }
+  },
+  "flag": "🇬🇵",
+  "cca2": "GP",
+  "cca3": "GLP",
+  "ccn3": "312",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "FRA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["fra"],
+    "spoken": ["fsl", "gcf", "hat"]
+  },
+  "locales": ["fr-GP"],
+  "currencies": ["EUR"],
+  "timezones": ["America/Guadeloupe"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "fr-GP": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Basse-Terre",
+  "landArea": 1628,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".gp"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["90"],
+    "callingCodes": ["+590"]
+  },
+  "latitude": 16.25,
+  "longitude": -61.583333,
+  "demonym": "Guadeloupian"
+}

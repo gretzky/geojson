@@ -1,0 +1,62 @@
+{
+  "id": 127,
+  "name": {
+    "common": "Liechtenstein",
+    "official": "Principality of Liechtenstein",
+    "native": {
+      "deu": {
+        "official": "Fürstentum Liechtenstein",
+        "common": "Liechtenstein"
+      }
+    }
+  },
+  "flag": "🇱🇮",
+  "cca2": "LI",
+  "cca3": "LIE",
+  "ccn3": "438",
+  "ioc": "LIE",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["deu", "gsw"],
+    "spoken": ["ita", "sgg", "wae"]
+  },
+  "locales": ["de-LI", "gsw-LI"],
+  "currencies": ["CHF"],
+  "timezones": ["Europe/Vaduz"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "de-LI": "d.M.yyyy",
+    "gsw-LI": "d.M.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Vaduz",
+  "landArea": 160,
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "borderCountries": ["AUT", "CHE"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "J"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".li"],
+  "idd": {
+    "prefix": "+4",
+    "suffixes": ["23"],
+    "callingCodes": ["+423"]
+  },
+  "latitude": 47.26666666,
+  "longitude": 9.53333333,
+  "demonym": "Liechtensteiner"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 33,
+  "name": {
+    "common": "British Virgin Islands",
+    "official": "Virgin Islands",
+    "native": {
+      "eng": {
+        "official": "Virgin Islands",
+        "common": "British Virgin Islands"
+      }
+    }
+  },
+  "flag": "🇻🇬",
+  "cca2": "VG",
+  "cca3": "VGB",
+  "ccn3": "092",
+  "ioc": "IVB",
+  "isSovereign": false,
+  "governingCountry": "GBR",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["spa", "vic"]
+  },
+  "locales": ["en-VG"],
+  "currencies": ["USD"],
+  "timezones": ["America/Tortola"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-VG": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Road Town",
+  "landArea": 151,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "mixed",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [110],
+  "frequencyHz": 60,
+  "drivingSide": "left",
+  "tld": [".vg"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["284"],
+    "callingCodes": ["+1284"]
+  },
+  "latitude": 18.431383,
+  "longitude": -64.62305,
+  "demonym": "Virgin Islander"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 102,
+  "name": {
+    "common": "Iceland",
+    "official": "Iceland",
+    "native": {
+      "isl": {
+        "official": "Ísland",
+        "common": "Ísland"
+      }
+    }
+  },
+  "flag": "🇮🇸",
+  "cca2": "IS",
+  "cca3": "ISL",
+  "ccn3": "352",
+  "ioc": "ISL",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": false,
+  "isSchengen": true,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["isl"],
+    "spoken": ["eng", "spa", "icl"]
+  },
+  "locales": ["is-IS"],
+  "currencies": ["ISK"],
+  "timezones": ["Atlantic/Reykjavik"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "is-IS": "d.M.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Reykjavik",
+  "landArea": 103000,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".is"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["54"],
+    "callingCodes": ["+354"]
+  },
+  "latitude": 65,
+  "longitude": -18,
+  "demonym": "Icelander"
+}

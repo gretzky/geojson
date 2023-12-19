@@ -1,0 +1,69 @@
+{
+  "id": 93,
+  "name": {
+    "common": "Guernsey",
+    "official": "Bailiwick of Guernsey",
+    "native": {
+      "eng": {
+        "official": "Bailiwick of Guernsey",
+        "common": "Guernsey"
+      },
+      "fra": {
+        "official": "Bailliage de Guernesey",
+        "common": "Guernesey"
+      },
+      "nfr": {
+        "official": "Dgèrnésiais",
+        "common": "Dgèrnésiais"
+      }
+    }
+  },
+  "flag": "🇬🇬",
+  "cca2": "GG",
+  "cca3": "GGY",
+  "ccn3": "831",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "GBR",
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["fra", "nrf", "por"]
+  },
+  "locales": ["en-GG"],
+  "currencies": ["GBP"],
+  "timezones": ["Europe/Guernsey"],
+  "timeFormat": "mixed",
+  "dateFormats": {
+    "en-GG": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "St. Peter Port",
+  "landArea": 78,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "mph",
+  "outletType": ["C", "F", "G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".gg"],
+  "idd": {
+    "prefix": "+4",
+    "suffixes": ["4"],
+    "callingCodes": ["+44"]
+  },
+  "latitude": 49.46666666,
+  "longitude": -2.58333333,
+  "demonym": "Channel Islander"
+}

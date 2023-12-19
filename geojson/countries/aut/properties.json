@@ -1,0 +1,93 @@
+{
+  "id": 15,
+  "name": {
+    "common": "Austria",
+    "official": "Republic of Austria",
+    "native": {
+      "bar": {
+        "official": "Republik Österreich",
+        "common": "Österreich"
+      }
+    }
+  },
+  "flag": "🇦🇹",
+  "cca2": "AT",
+  "cca3": "AUT",
+  "ccn3": "040",
+  "ioc": "AUT",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": true,
+  "isSchengen": true,
+  "isEurozone": true,
+  "isUNMember": true,
+  "languages": {
+    "official": ["deu", "eng"],
+    "spoken": [
+      "asq",
+      "bar",
+      "bos",
+      "ckm",
+      "ces",
+      "spa",
+      "fas",
+      "fra",
+      "gmh",
+      "gml",
+      "goh",
+      "gsw",
+      "hrv",
+      "hun",
+      "ita",
+      "kiu",
+      "pol",
+      "rmc",
+      "rmo",
+      "rom",
+      "rmy",
+      "slk",
+      "slv",
+      "sqi",
+      "srp",
+      "swg",
+      "tur",
+      "wae",
+      "xrr",
+      "yec"
+    ]
+  },
+  "locales": ["de-AT", "en-AT"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Vienna"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "de-AT": "d.M.yyyy",
+    "en-AT": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Vienna",
+  "landArea": 83871,
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "borderCountries": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".at"],
+  "idd": {
+    "prefix": "+4",
+    "suffixes": ["3"],
+    "callingCodes": ["+43"]
+  },
+  "latitude": 47.33333333,
+  "longitude": 13.33333333,
+  "demonym": "Austrian"
+}

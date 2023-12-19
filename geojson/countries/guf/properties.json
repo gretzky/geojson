@@ -1,0 +1,77 @@
+{
+  "id": 78,
+  "name": {
+    "common": "French Guiana",
+    "official": "Guiana",
+    "native": {
+      "fra": {
+        "official": "Guyane",
+        "common": "Guyane française"
+      }
+    }
+  },
+  "flag": "🇬🇫",
+  "cca2": "GF",
+  "cca3": "GUF",
+  "ccn3": "254",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "FRA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["fra"],
+    "spoken": [
+      "apc",
+      "arw",
+      "car",
+      "djk",
+      "eme",
+      "fsl",
+      "gcr",
+      "hak",
+      "hnj",
+      "hat",
+      "jvn",
+      "oym",
+      "plu",
+      "srm",
+      "way"
+    ]
+  },
+  "locales": ["fr-GF"],
+  "currencies": ["EUR"],
+  "timezones": ["America/Cayenne"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "fr-GF": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Cayenne",
+  "landArea": 83534,
+  "region": "Americas",
+  "subregion": "South America",
+  "borderCountries": ["BRA", "SUR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "D", "E"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".gf"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["94"],
+    "callingCodes": ["+594"]
+  },
+  "latitude": 4,
+  "longitude": -53,
+  "demonym": "Guianan"
+}

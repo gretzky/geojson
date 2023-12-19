@@ -1,0 +1,67 @@
+{
+  "id": 61,
+  "name": {
+    "common": "Djibouti",
+    "official": "Republic of Djibouti",
+    "native": {
+      "ara": {
+        "official": "جمهورية جيبوتي",
+        "common": "جيبوتي"
+      },
+      "fra": {
+        "official": "République de Djibouti",
+        "common": "Djibouti"
+      }
+    }
+  },
+  "flag": "🇩🇯",
+  "cca2": "DJ",
+  "cca3": "DJI",
+  "ccn3": "262",
+  "ioc": "DJI",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara", "fra", "som"],
+    "spoken": ["acq", "acx", "amh", "ell", "hin", "tir"]
+  },
+  "locales": ["ar-DJ", "fr-DJ", "so-DJ"],
+  "currencies": ["DJF"],
+  "timezones": ["Africa/Nairobi"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ar-DJ": "d‏/M‏/yyyy",
+    "fr-DJ": "dd/MM/yyyy",
+    "so-DJ": "M/d/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Djibouti",
+  "landArea": 23200,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borderCountries": ["ERI", "ETH", "SOM"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".dj"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["53"],
+    "callingCodes": ["+253"]
+  },
+  "latitude": 11.5,
+  "longitude": 43,
+  "demonym": "Djibouti"
+}

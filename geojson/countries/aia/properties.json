@@ -1,0 +1,61 @@
+{
+  "id": 8,
+  "name": {
+    "common": "Anguilla",
+    "official": "Anguilla",
+    "native": {
+      "eng": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      }
+    }
+  },
+  "flag": "🇦🇮",
+  "cca2": "AI",
+  "cca3": "AIA",
+  "ccn3": "660",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "GBR",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["aig"]
+  },
+  "locales": ["en-AI"],
+  "currencies": ["XCD"],
+  "timezones": ["America/Puerto_Rico"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-AI": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "The Valley",
+  "landArea": 91,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "mph",
+  "outletType": ["A", "B"],
+  "voltage": [110],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".ai"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["264"],
+    "callingCodes": ["+1264"]
+  },
+  "latitude": 18.25,
+  "longitude": -63.16666666,
+  "demonym": "Anguillian"
+}

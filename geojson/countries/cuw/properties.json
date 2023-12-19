@@ -1,0 +1,69 @@
+{
+  "id": 57,
+  "name": {
+    "common": "Curaçao",
+    "official": "Country of Curaçao",
+    "native": {
+      "eng": {
+        "official": "Country of Curaçao",
+        "common": "Curaçao"
+      },
+      "nld": {
+        "official": "Land Curaçao",
+        "common": "Curaçao"
+      },
+      "pap": {
+        "official": "Pais Kòrsou",
+        "common": "Pais Kòrsou"
+      }
+    }
+  },
+  "flag": "🇨🇼",
+  "cca2": "CW",
+  "cca3": "CUW",
+  "ccn3": "531",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "NLD",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["nld"],
+    "spoken": ["dse", "eng", "spa", "pap", "por"]
+  },
+  "locales": ["nl-CW"],
+  "currencies": ["ANG"],
+  "timezones": ["America/Curacao"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "nl-CW": "d-M-yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Willemstad",
+  "landArea": 444,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [127, 220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".cw"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["99"],
+    "callingCodes": ["+599"]
+  },
+  "latitude": 12.116667,
+  "longitude": -68.933333,
+  "demonym": "Curaçaoan"
+}

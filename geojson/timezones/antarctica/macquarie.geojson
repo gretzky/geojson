@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          159.33936,
+          -54.34315
+        ],
+        [
+          158.50893,
+          -54.48694
+        ],
+        [
+          158.5647,
+          -55.31239
+        ],
+        [
+          159.03445,
+          -55.1503
+        ],
+        [
+          159.33936,
+          -54.34315
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b95",
+    "name": "Antarctica/Macquarie",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+10:00",
+    "dstOffset": "+11:00",
+    "countries": [
+      "AUS"
+    ]
+  }
+}

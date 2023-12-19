@@ -1,0 +1,72 @@
+{
+  "id": 158,
+  "name": {
+    "common": "Nicaragua",
+    "official": "Republic of Nicaragua",
+    "native": {
+      "spa": {
+        "official": "República de Nicaragua",
+        "common": "Nicaragua"
+      }
+    }
+  },
+  "flag": "🇳🇮",
+  "cca2": "NI",
+  "cca3": "NIC",
+  "ccn3": "558",
+  "ioc": "NCA",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["spa"],
+    "spoken": [
+      "bzk",
+      "cab",
+      "miq",
+      "mom",
+      "mtn",
+      "ncs",
+      "rma",
+      "sut",
+      "ulw",
+      "yan"
+    ]
+  },
+  "locales": ["es-NI"],
+  "currencies": ["NIO"],
+  "timezones": ["America/Managua"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "es-NI": "d/M/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Managua",
+  "landArea": 130373,
+  "region": "Americas",
+  "subregion": "Central America",
+  "borderCountries": ["CRI", "HND"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".ni"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["05"],
+    "callingCodes": ["+505"]
+  },
+  "latitude": 13,
+  "longitude": -85,
+  "demonym": "Nicaraguan"
+}

@@ -1,0 +1,73 @@
+{
+  "id": 99,
+  "name": {
+    "common": "Honduras",
+    "official": "Republic of Honduras",
+    "native": {
+      "spa": {
+        "official": "República de Honduras",
+        "common": "Honduras"
+      }
+    }
+  },
+  "flag": "🇭🇳",
+  "cca2": "HN",
+  "cca3": "HND",
+  "ccn3": "340",
+  "ioc": "HON",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["spa"],
+    "spoken": [
+      "caa",
+      "cab",
+      "eng",
+      "hds",
+      "hye",
+      "jic",
+      "len",
+      "miq",
+      "pay",
+      "yan",
+      "yue"
+    ]
+  },
+  "locales": ["es-HN"],
+  "currencies": ["HNL"],
+  "timezones": ["America/Tegucigalpa"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "es-HN": "d/M/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Tegucigalpa",
+  "landArea": 112492,
+  "region": "Americas",
+  "subregion": "Central America",
+  "borderCountries": ["GTM", "SLV", "NIC"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".hn"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["04"],
+    "callingCodes": ["+504"]
+  },
+  "latitude": 15,
+  "longitude": -86.5,
+  "demonym": "Honduran"
+}

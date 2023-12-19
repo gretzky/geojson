@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -62.55483,
+          16.89744
+        ],
+        [
+          -62.37621,
+          17.29957
+        ],
+        [
+          -62.78471,
+          17.61706
+        ],
+        [
+          -63.04911,
+          17.27673
+        ],
+        [
+          -62.55483,
+          16.89744
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b81",
+    "name": "America/St_Kitts",
+    "type": "link",
+    "aliasedTo": "America/Puerto_Rico",
+    "utcOffset": "-04:00",
+    "dstOffset": "-04:00",
+    "countries": [
+      "KNA"
+    ]
+  }
+}

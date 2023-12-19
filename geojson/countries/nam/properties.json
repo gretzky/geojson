@@ -1,0 +1,126 @@
+{
+  "id": 152,
+  "name": {
+    "common": "Namibia",
+    "official": "Republic of Namibia",
+    "native": {
+      "afr": {
+        "official": "Republiek van Namibië",
+        "common": "Namibië"
+      },
+      "deu": {
+        "official": "Republik Namibia",
+        "common": "Namibia"
+      },
+      "eng": {
+        "official": "Republic of Namibia",
+        "common": "Namibia"
+      },
+      "her": {
+        "official": "Republic of Namibia",
+        "common": "Namibia"
+      },
+      "hgm": {
+        "official": "Republic of Namibia",
+        "common": "Namibia"
+      },
+      "kwn": {
+        "official": "Republic of Namibia",
+        "common": "Namibia"
+      },
+      "loz": {
+        "official": "Republic of Namibia",
+        "common": "Namibia"
+      },
+      "ndo": {
+        "official": "Republic of Namibia",
+        "common": "Namibia"
+      },
+      "tsn": {
+        "official": "Lefatshe la Namibia",
+        "common": "Namibia"
+      }
+    }
+  },
+  "flag": "🇳🇦",
+  "cca2": "NA",
+  "cca3": "NAM",
+  "ccn3": "516",
+  "ioc": "NAM",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["afr", "eng", "naq"],
+    "spoken": [
+      "deu",
+      "dhm",
+      "diu",
+      "fng",
+      "fwe",
+      "hgm",
+      "her",
+      "kua",
+      "knw",
+      "ktz",
+      "kwm",
+      "kwn",
+      "lch",
+      "lnb",
+      "loz",
+      "lyn",
+      "mho",
+      "mhw",
+      "nba",
+      "nbs",
+      "ndo",
+      "nhr",
+      "nmn",
+      "nne",
+      "sbs",
+      "tsn",
+      "vaj",
+      "xii",
+      "xuu",
+      "yey"
+    ]
+  },
+  "locales": ["af-NA", "en-NA", "naq-NA"],
+  "currencies": ["NAD", "ZAR"],
+  "timezones": ["Africa/Windhoek"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "af-NA": "yyyy-MM-dd",
+    "en-NA": "dd/MM/yyyy",
+    "naq-NA": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Windhoek",
+  "landArea": 825615,
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "borderCountries": ["AGO", "BWA", "ZAF", "ZMB"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["D", "M"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".na"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["64"],
+    "callingCodes": ["+264"]
+  },
+  "latitude": -22,
+  "longitude": 17,
+  "demonym": "Namibian"
+}

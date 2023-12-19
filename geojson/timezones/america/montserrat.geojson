@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -61.94257,
+          16.77405
+        ],
+        [
+          -62.44749,
+          16.75567
+        ],
+        [
+          -62.25542,
+          16.48429
+        ],
+        [
+          -61.94257,
+          16.77405
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b5f",
+    "name": "America/Montserrat",
+    "type": "link",
+    "aliasedTo": "America/Puerto_Rico",
+    "utcOffset": "-04:00",
+    "dstOffset": "-04:00",
+    "countries": [
+      "MSR"
+    ]
+  }
+}

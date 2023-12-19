@@ -1,0 +1,86 @@
+{
+  "id": 223,
+  "name": {
+    "common": "Timor-Leste",
+    "official": "Democratic Republic of Timor-Leste",
+    "native": {
+      "por": {
+        "official": "República Democrática de Timor-Leste",
+        "common": "Timor-Leste"
+      },
+      "tet": {
+        "official": "Repúblika Demokrátika Timór-Leste",
+        "common": "Timór-Leste"
+      }
+    }
+  },
+  "flag": "🇹🇱",
+  "cca2": "TL",
+  "cca3": "TLS",
+  "ccn3": "626",
+  "ioc": "TLS",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["por", "tdt"],
+    "spoken": [
+      "adb",
+      "bfn",
+      "bkx",
+      "ddg",
+      "gal",
+      "hbu",
+      "idt",
+      "kem",
+      "krd",
+      "lka",
+      "lva",
+      "mgm",
+      "mjb",
+      "mkz",
+      "nxa",
+      "tet",
+      "tkd",
+      "tvy",
+      "wlh",
+      "wmh"
+    ]
+  },
+  "locales": ["pt-TL", "tdt-TL"],
+  "currencies": ["USD"],
+  "timezones": ["Asia/Dili"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "pt-TL": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Dili",
+  "landArea": 14874,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borderCountries": ["IDN"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".tl"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["70"],
+    "callingCodes": ["+670"]
+  },
+  "latitude": -8.83333333,
+  "longitude": 125.91666666,
+  "demonym": "East Timorese"
+}

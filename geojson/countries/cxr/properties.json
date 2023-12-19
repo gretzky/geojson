@@ -1,0 +1,61 @@
+{
+  "id": 48,
+  "name": {
+    "common": "Christmas Island",
+    "official": "Territory of Christmas Island",
+    "native": {
+      "eng": {
+        "official": "Territory of Christmas Island",
+        "common": "Christmas Island"
+      }
+    }
+  },
+  "flag": "🇨🇽",
+  "cca2": "CX",
+  "cca3": "CXR",
+  "ccn3": "162",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "AUS",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng", "msa", "zho"],
+    "spoken": ["coa"]
+  },
+  "locales": ["en-CX"],
+  "currencies": ["AUD"],
+  "timezones": ["Indian/Christmas"],
+  "timeFormat": "mixed",
+  "dateFormats": {
+    "en-CX": "dd/MM/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Flying Fish Cove",
+  "landArea": 135,
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["I"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".cx"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["1"],
+    "callingCodes": ["+61"]
+  },
+  "latitude": -10.5,
+  "longitude": 105.66666666,
+  "demonym": "Christmas Islander"
+}

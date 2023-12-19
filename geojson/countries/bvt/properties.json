@@ -1,0 +1,61 @@
+{
+  "id": 30,
+  "name": {
+    "common": "Bouvet Island",
+    "official": "Bouvet Island",
+    "native": {
+      "nor": {
+        "official": "Bouvetøya",
+        "common": "Bouvetøya"
+      }
+    }
+  },
+  "flag": "🇧🇻",
+  "cca2": "BV",
+  "cca3": "BVT",
+  "ccn3": "074",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "NOR",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["nno", "nob"],
+    "spoken": []
+  },
+  "locales": ["nn-NO", "nb-NO", "no"],
+  "currencies": ["NOK"],
+  "timezones": ["Europe/Oslo"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "no": "d.M.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": null,
+  "landArea": 49,
+  "region": "Antarctic",
+  "subregion": null,
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".bv"],
+  "idd": {
+    "prefix": "+4",
+    "suffixes": ["7"],
+    "callingCodes": ["+47"]
+  },
+  "latitude": -54.43333333,
+  "longitude": 3.4,
+  "demonym": ""
+}

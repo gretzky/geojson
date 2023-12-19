@@ -1,0 +1,68 @@
+{
+  "id": 100,
+  "name": {
+    "common": "Hong Kong",
+    "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+    "native": {
+      "eng": {
+        "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+        "common": "Hong Kong"
+      },
+      "zho": {
+        "official": "中华人民共和国香港特别行政区",
+        "common": "香港"
+      }
+    }
+  },
+  "flag": "🇭🇰",
+  "cca2": "HK",
+  "cca3": "HKG",
+  "ccn3": "344",
+  "ioc": "HKG",
+  "isSovereign": false,
+  "governingCountry": "CHN",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng", "yue", "zho"],
+    "spoken": ["hak", "hks", "ind", "jpn", "mzs", "nan", "tgl", "cmn"]
+  },
+  "locales": ["en-HK", "yue-Hant-HK", "zh-Hans-HK", "zh-Hant-HK"],
+  "currencies": ["HKD"],
+  "timezones": ["Asia/Hong_Kong"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-HK": "d/M/yyyy",
+    "yue-Hant-HK": "yyyy/M/d",
+    "zh-Hans-HK": "d/M/yyyy",
+    "zh-Hant-HK": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "City of Victoria",
+  "landArea": 1104,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "borderCountries": ["CHN"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".hk", ".香港"],
+  "idd": {
+    "prefix": "+8",
+    "suffixes": ["52"],
+    "callingCodes": ["+852"]
+  },
+  "latitude": 22.267,
+  "longitude": 114.188,
+  "demonym": "Hong Konger"
+}

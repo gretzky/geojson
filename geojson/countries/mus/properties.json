@@ -1,0 +1,84 @@
+{
+  "id": 140,
+  "name": {
+    "common": "Mauritius",
+    "official": "Republic of Mauritius",
+    "native": {
+      "eng": {
+        "official": "Republic of Mauritius",
+        "common": "Mauritius"
+      },
+      "fra": {
+        "official": "République de Maurice",
+        "common": "Maurice"
+      },
+      "mfe": {
+        "official": "Republik Moris",
+        "common": "Moris"
+      }
+    }
+  },
+  "flag": "🇲🇺",
+  "cca2": "MU",
+  "cca3": "MUS",
+  "ccn3": "480",
+  "ioc": "MRI",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "fra", "mfe"],
+    "spoken": [
+      "bho",
+      "ben",
+      "guj",
+      "hin",
+      "lsy",
+      "mlg",
+      "mar",
+      "pan",
+      "sin",
+      "tam",
+      "tel",
+      "urd"
+    ]
+  },
+  "locales": ["en-MU", "fr-MU", "mfe-MU"],
+  "currencies": ["MUR"],
+  "timezones": ["Indian/Mauritius"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-MU": "dd/MM/yyyy",
+    "fr-MU": "dd/MM/yyyy",
+    "mfe-MU": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Port Louis",
+  "landArea": 2040,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".mu"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["30"],
+    "callingCodes": ["+230"]
+  },
+  "latitude": -20.28333333,
+  "longitude": 57.55,
+  "demonym": "Mauritian"
+}

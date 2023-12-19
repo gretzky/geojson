@@ -1,0 +1,65 @@
+{
+  "id": 13,
+  "name": {
+    "common": "Aruba",
+    "official": "Aruba",
+    "native": {
+      "nld": {
+        "official": "Aruba",
+        "common": "Aruba"
+      },
+      "pap": {
+        "official": "Aruba",
+        "common": "Aruba"
+      }
+    }
+  },
+  "flag": "🇦🇼",
+  "cca2": "AW",
+  "cca3": "ABW",
+  "ccn3": "533",
+  "ioc": "ARU",
+  "isSovereign": false,
+  "governingCountry": "NLD",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng", "nld"],
+    "spoken": ["dse", "spa", "pap", "srn"]
+  },
+  "locales": ["nl-AW"],
+  "currencies": ["AWG"],
+  "timezones": ["America/Aruba"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "nl-AW": "d-M-yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Oranjestad",
+  "landArea": 180,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".aw"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["97"],
+    "callingCodes": ["+297"]
+  },
+  "latitude": 12.5,
+  "longitude": -69.96666666,
+  "demonym": "Aruban"
+}

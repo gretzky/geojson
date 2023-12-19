@@ -1,0 +1,89 @@
+{
+  "id": 177,
+  "name": {
+    "common": "Poland",
+    "official": "Republic of Poland",
+    "native": {
+      "pol": {
+        "official": "Rzeczpospolita Polska",
+        "common": "Polska"
+      }
+    }
+  },
+  "flag": "🇵🇱",
+  "cca2": "PL",
+  "cca3": "POL",
+  "ccn3": "616",
+  "ioc": "POL",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": true,
+  "isSchengen": true,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["pol"],
+    "spoken": [
+      "bel",
+      "bul",
+      "ces",
+      "csb",
+      "deu",
+      "eng",
+      "spa",
+      "fra",
+      "hye",
+      "hyw",
+      "ita",
+      "lit",
+      "prg",
+      "pso",
+      "rmc",
+      "rml",
+      "rmo",
+      "rom",
+      "rmy",
+      "rus",
+      "rue",
+      "sli",
+      "szl",
+      "ukr",
+      "vie",
+      "wym",
+      "xsv"
+    ]
+  },
+  "locales": ["pl-PL"],
+  "currencies": ["PLN"],
+  "timezones": ["Europe/Warsaw"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "pl-PL": "d.MM.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Warsaw",
+  "landArea": 312679,
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "borderCountries": ["BLR", "CZE", "DEU", "LTU", "RUS", "SVK", "UKR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".pl"],
+  "idd": {
+    "prefix": "+4",
+    "suffixes": ["8"],
+    "callingCodes": ["+48"]
+  },
+  "latitude": 52,
+  "longitude": 20,
+  "demonym": "Polish"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 145,
+  "name": {
+    "common": "Monaco",
+    "official": "Principality of Monaco",
+    "native": {
+      "fra": {
+        "official": "Principauté de Monaco",
+        "common": "Monaco"
+      }
+    }
+  },
+  "flag": "🇲🇨",
+  "cca2": "MC",
+  "cca3": "MCO",
+  "ccn3": "492",
+  "ioc": "MON",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["fra"],
+    "spoken": ["deu", "eng", "ita", "lij", "oci"]
+  },
+  "locales": ["fr-MC"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Monaco"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "fr-MC": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Monaco",
+  "landArea": 2.02,
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "borderCountries": ["FRA"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".mc"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["77"],
+    "callingCodes": ["+377"]
+  },
+  "latitude": 43.73333333,
+  "longitude": 7.4,
+  "demonym": "Monegasque"
+}

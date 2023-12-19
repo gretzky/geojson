@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          14.23397,
+          36.28255
+        ],
+        [
+          13.9732,
+          35.93485
+        ],
+        [
+          14.43482,
+          35.58634
+        ],
+        [
+          14.81842,
+          35.90202
+        ],
+        [
+          14.23397,
+          36.28255
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844c19",
+    "name": "Europe/Malta",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+01:00",
+    "dstOffset": "+02:00",
+    "countries": [
+      "MLT"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -59.53,
+          12.845
+        ],
+        [
+          -59.23586,
+          13.056
+        ],
+        [
+          -59.50376,
+          13.505
+        ],
+        [
+          -59.83136,
+          13.402
+        ],
+        [
+          -59.53,
+          12.845
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b1f",
+    "name": "America/Barbados",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "-04:00",
+    "dstOffset": "-04:00",
+    "countries": [
+      "BRB"
+    ]
+  }
+}

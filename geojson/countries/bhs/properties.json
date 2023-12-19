@@ -1,0 +1,61 @@
+{
+  "id": 17,
+  "name": {
+    "common": "Bahamas",
+    "official": "Commonwealth of the Bahamas",
+    "native": {
+      "eng": {
+        "official": "Commonwealth of the Bahamas",
+        "common": "Bahamas"
+      }
+    }
+  },
+  "flag": "🇧🇸",
+  "cca2": "BS",
+  "cca3": "BHS",
+  "ccn3": "044",
+  "ioc": "BAH",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["ase", "bah", "hat", "cmn"]
+  },
+  "locales": ["en-BS"],
+  "currencies": ["BSD"],
+  "timezones": ["America/Nassau"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-BS": "dd/MM/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Nassau",
+  "landArea": 13943,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "fahrenheit",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "left",
+  "tld": [".bs"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["242"],
+    "callingCodes": ["+1242"]
+  },
+  "latitude": 24.25,
+  "longitude": -76,
+  "demonym": "Bahamian"
+}

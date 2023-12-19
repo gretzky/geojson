@@ -1,0 +1,61 @@
+{
+  "id": 43,
+  "name": {
+    "common": "Cayman Islands",
+    "official": "Cayman Islands",
+    "native": {
+      "eng": {
+        "official": "Cayman Islands",
+        "common": "Cayman Islands"
+      }
+    }
+  },
+  "flag": "🇰🇾",
+  "cca2": "KY",
+  "cca3": "CYM",
+  "ccn3": "136",
+  "ioc": "CAY",
+  "isSovereign": false,
+  "governingCountry": "GBR",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["ase", "spa", "hat", "tgl"]
+  },
+  "locales": ["en-KY"],
+  "currencies": ["KYD"],
+  "timezones": ["America/Cayman"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-KY": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "George Town",
+  "landArea": 264,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "fahrenheit",
+  "speedUnit": "mph",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "left",
+  "tld": [".ky"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["345"],
+    "callingCodes": ["+1345"]
+  },
+  "latitude": 19.5,
+  "longitude": -80.5,
+  "demonym": "Caymanian"
+}

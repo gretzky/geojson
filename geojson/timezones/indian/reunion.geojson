@@ -1,0 +1,46 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          55.92752,
+          -20.96737
+        ],
+        [
+          55.4761,
+          -20.67383
+        ],
+        [
+          55.11818,
+          -20.79931
+        ],
+        [
+          55.22204,
+          -21.44957
+        ],
+        [
+          55.84032,
+          -21.5566
+        ],
+        [
+          55.92752,
+          -20.96737
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844c45",
+    "name": "Indian/Reunion",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+04:00",
+    "dstOffset": "+04:00",
+    "countries": [
+      "REU",
+      "ATF"
+    ]
+  }
+}

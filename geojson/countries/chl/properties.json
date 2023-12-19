@@ -1,0 +1,77 @@
+{
+  "id": 46,
+  "name": {
+    "common": "Chile",
+    "official": "Republic of Chile",
+    "native": {
+      "spa": {
+        "official": "República de Chile",
+        "common": "Chile"
+      }
+    }
+  },
+  "flag": "🇨🇱",
+  "cca2": "CL",
+  "cca3": "CHL",
+  "ccn3": "152",
+  "ioc": "CHI",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["spa"],
+    "spoken": [
+      "alc",
+      "arn",
+      "aym",
+      "cat",
+      "csg",
+      "deu",
+      "eng",
+      "hrv",
+      "hrx",
+      "huh",
+      "ita",
+      "kuz",
+      "rap",
+      "rom",
+      "yag"
+    ]
+  },
+  "locales": ["es-CL"],
+  "currencies": ["CLP"],
+  "timezones": ["America/Santiago", "Pacific/Easter"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "es-CL": "dd-MM-yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Santiago",
+  "landArea": 756102,
+  "region": "Americas",
+  "subregion": "South America",
+  "borderCountries": ["ARG", "BOL", "PER"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "L"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".cl"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["6"],
+    "callingCodes": ["+56"]
+  },
+  "latitude": -30,
+  "longitude": -71,
+  "demonym": "Chilean"
+}

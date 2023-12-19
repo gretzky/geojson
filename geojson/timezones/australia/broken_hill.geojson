@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          141.00092,
+          -31.59159
+        ],
+        [
+          141.00111,
+          -32.21829
+        ],
+        [
+          141.92797,
+          -32.30417
+        ],
+        [
+          141.97267,
+          -31.59299
+        ],
+        [
+          141.00092,
+          -31.59159
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844bf6",
+    "name": "Australia/Broken_Hill",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+09:30",
+    "dstOffset": "+10:30",
+    "countries": [
+      "AUS"
+    ]
+  }
+}

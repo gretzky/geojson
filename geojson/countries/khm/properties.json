@@ -1,0 +1,91 @@
+{
+  "id": 38,
+  "name": {
+    "common": "Cambodia",
+    "official": "Kingdom of Cambodia",
+    "native": {
+      "khm": {
+        "official": "ព្រះរាជាណាចក្រកម្ពុជា",
+        "common": "Kâmpŭchéa"
+      }
+    }
+  },
+  "flag": "🇰🇭",
+  "cca2": "KH",
+  "cca3": "KHM",
+  "ccn3": "116",
+  "ioc": "CAM",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["khm"],
+    "spoken": [
+      "brb",
+      "cja",
+      "cmo",
+      "cog",
+      "csx",
+      "eng",
+      "fra",
+      "hak",
+      "hkn",
+      "jra",
+      "kdt",
+      "krr",
+      "krv",
+      "lao",
+      "nan",
+      "okz",
+      "pcb",
+      "phu",
+      "rka",
+      "scq",
+      "smu",
+      "sxm",
+      "syo",
+      "tha",
+      "tpu",
+      "vie",
+      "xkk",
+      "yue",
+      "cmn"
+    ]
+  },
+  "locales": ["km-KH"],
+  "currencies": ["KHR"],
+  "timezones": ["Asia/Phnom_Penh"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "km-KH": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Phnom Penh",
+  "landArea": 181035,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borderCountries": ["LAO", "THA", "VNM"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".kh"],
+  "idd": {
+    "prefix": "+8",
+    "suffixes": ["55"],
+    "callingCodes": ["+855"]
+  },
+  "latitude": 13,
+  "longitude": 105,
+  "demonym": "Cambodian"
+}

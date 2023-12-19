@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          114.06255,
+          22.5155
+        ],
+        [
+          113.89656,
+          22.14254
+        ],
+        [
+          114.50244,
+          22.14847
+        ],
+        [
+          114.43399,
+          22.562
+        ],
+        [
+          114.06255,
+          22.5155
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844bb9",
+    "name": "Asia/Hong_Kong",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+08:00",
+    "dstOffset": "+08:00",
+    "countries": [
+      "HKG"
+    ]
+  }
+}

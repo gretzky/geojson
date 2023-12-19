@@ -1,0 +1,111 @@
+{
+  "id": 217,
+  "name": {
+    "common": "Switzerland",
+    "official": "Swiss Confederation",
+    "native": {
+      "fra": {
+        "official": "Confédération suisse",
+        "common": "Suisse"
+      },
+      "gsw": {
+        "official": "Schweizerische Eidgenossenschaft",
+        "common": "Schweiz"
+      },
+      "ita": {
+        "official": "Confederazione Svizzera",
+        "common": "Svizzera"
+      },
+      "roh": {
+        "official": "Confederaziun svizra",
+        "common": "Svizra"
+      }
+    }
+  },
+  "flag": "🇨🇭",
+  "cca2": "CH",
+  "cca3": "CHE",
+  "ccn3": "756",
+  "ioc": "SUI",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": true,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["deu", "eng", "fra", "gsw", "ita", "por", "roh", "wae"],
+    "spoken": [
+      "aln",
+      "bod",
+      "cat",
+      "spa",
+      "frp",
+      "gmh",
+      "gml",
+      "goh",
+      "kiu",
+      "kur",
+      "lmo",
+      "nld",
+      "rmo",
+      "sgg",
+      "slf",
+      "srp",
+      "ssr",
+      "tur",
+      "xrr",
+      "yec",
+      "yih"
+    ]
+  },
+  "locales": [
+    "de-CH",
+    "en-CH",
+    "fr-CH",
+    "gsw-CH",
+    "it-CH",
+    "pt-CH",
+    "rm-CH",
+    "wae-CH"
+  ],
+  "currencies": ["CHF"],
+  "timezones": ["Europe/Zurich"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "de-CH": "d.M.yyyy",
+    "en-CH": "dd/MM/yyyy",
+    "fr-CH": "dd.MM.yyyy",
+    "gsw-CH": "d.M.yyyy",
+    "it-CH": "d/M/yyyy",
+    "pt-CH": "dd/MM/yyyy",
+    "rm-CH": "dd-MM-yyyy",
+    "wae-CH": "yyyy-M-d"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Bern",
+  "landArea": 41284,
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "borderCountries": ["AUT", "FRA", "ITA", "LIE", "DEU"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "J"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".ch"],
+  "idd": {
+    "prefix": "+4",
+    "suffixes": ["1"],
+    "callingCodes": ["+41"]
+  },
+  "latitude": 47,
+  "longitude": 8,
+  "demonym": "Swiss"
+}

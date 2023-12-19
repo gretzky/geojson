@@ -1,0 +1,79 @@
+{
+  "id": 171,
+  "name": {
+    "common": "Panama",
+    "official": "Republic of Panama",
+    "native": {
+      "spa": {
+        "official": "República de Panamá",
+        "common": "Panamá"
+      }
+    }
+  },
+  "flag": "🇵🇦",
+  "cca2": "PA",
+  "cca3": "PAN",
+  "ccn3": "591",
+  "ioc": "PAN",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["spa"],
+    "spoken": [
+      "cto",
+      "cuk",
+      "emp",
+      "gym",
+      "hak",
+      "heb",
+      "jpn",
+      "jam",
+      "kor",
+      "kvn",
+      "lsp",
+      "noa",
+      "sab",
+      "scf",
+      "sja",
+      "tfr",
+      "yue"
+    ]
+  },
+  "locales": ["es-PA"],
+  "currencies": ["PAB", "USD"],
+  "timezones": ["America/Panama"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "es-PA": "MM/dd/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Panama City",
+  "landArea": 75417,
+  "region": "Americas",
+  "subregion": "Central America",
+  "borderCountries": ["COL", "CRI"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".pa"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["07"],
+    "callingCodes": ["+507"]
+  },
+  "latitude": 9,
+  "longitude": -80,
+  "demonym": "Panamanian"
+}

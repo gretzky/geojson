@@ -1,0 +1,80 @@
+{
+  "id": 58,
+  "name": {
+    "common": "Cyprus",
+    "official": "Republic of Cyprus",
+    "native": {
+      "ell": {
+        "official": "Δημοκρατία της Κύπρος",
+        "common": "Κύπρος"
+      },
+      "tur": {
+        "official": "Kıbrıs Cumhuriyeti",
+        "common": "Kıbrıs"
+      }
+    }
+  },
+  "flag": "🇨🇾",
+  "cca2": "CY",
+  "cca3": "CYP",
+  "ccn3": "196",
+  "ioc": "CYP",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": true,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ell", "eng", "tur"],
+    "spoken": [
+      "acy",
+      "apc",
+      "bul",
+      "deu",
+      "ecy",
+      "grc",
+      "hye",
+      "hyw",
+      "pol",
+      "rus",
+      "sin",
+      "tgl"
+    ]
+  },
+  "locales": ["el-CY", "en-CY", "tr-CY"],
+  "currencies": ["EUR"],
+  "timezones": ["Asia/Nicosia"],
+  "timeFormat": "mixed",
+  "dateFormats": {
+    "el-CY": "d/M/yyyy",
+    "en-CY": "dd/MM/yyyy",
+    "tr-CY": "dd.MM.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Nicosia",
+  "landArea": 9251,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".cy"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["57"],
+    "callingCodes": ["+357"]
+  },
+  "latitude": 35,
+  "longitude": 33,
+  "demonym": "Cypriot"
+}

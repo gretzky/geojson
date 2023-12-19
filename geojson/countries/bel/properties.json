@@ -1,0 +1,108 @@
+{
+  "id": 22,
+  "name": {
+    "common": "Belgium",
+    "official": "Kingdom of Belgium",
+    "native": {
+      "deu": {
+        "official": "Königreich Belgien",
+        "common": "Belgien"
+      },
+      "fra": {
+        "official": "Royaume de Belgique",
+        "common": "Belgique"
+      },
+      "nld": {
+        "official": "Koninkrijk België",
+        "common": "België"
+      }
+    }
+  },
+  "flag": "🇧🇪",
+  "cca2": "BE",
+  "cca3": "BEL",
+  "ccn3": "056",
+  "ioc": "BEL",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": true,
+  "isSchengen": true,
+  "isEurozone": true,
+  "isUNMember": true,
+  "languages": {
+    "official": ["deu", "eng", "fra", "nld"],
+    "spoken": [
+      "aeb",
+      "afr",
+      "arq",
+      "ary",
+      "bul",
+      "cat",
+      "dum",
+      "ell",
+      "spa",
+      "frm",
+      "fro",
+      "ita",
+      "kab",
+      "kur",
+      "ltz",
+      "lim",
+      "lin",
+      "lzz",
+      "odt",
+      "pcd",
+      "pol",
+      "por",
+      "rif",
+      "rus",
+      "sfb",
+      "shi",
+      "sqi",
+      "syr",
+      "tur",
+      "tru",
+      "vgt",
+      "vls",
+      "wln",
+      "xtg",
+      "yih"
+    ]
+  },
+  "locales": ["de-BE", "en-BE", "fr-BE", "nl-BE"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Brussels"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "de-BE": "d.M.yyyy",
+    "en-BE": "d/M/yyyy",
+    "fr-BE": "dd/MM/yyyy",
+    "nl-BE": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Brussels",
+  "landArea": 30528,
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "borderCountries": ["FRA", "DEU", "LUX", "NLD"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".be"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["2"],
+    "callingCodes": ["+32"]
+  },
+  "latitude": 50.83333333,
+  "longitude": 4,
+  "demonym": "Belgian"
+}

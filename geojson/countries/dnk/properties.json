@@ -1,0 +1,87 @@
+{
+  "id": 60,
+  "name": {
+    "common": "Denmark",
+    "official": "Kingdom of Denmark",
+    "native": {
+      "dan": {
+        "official": "Kongeriget Danmark",
+        "common": "Danmark"
+      }
+    }
+  },
+  "flag": "🇩🇰",
+  "cca2": "DK",
+  "cca3": "DNK",
+  "ccn3": "208",
+  "ioc": "DEN",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": true,
+  "isSchengen": true,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["dan", "eng", "fao"],
+    "spoken": [
+      "aln",
+      null,
+      "deu",
+      "dsl",
+      "spa",
+      "fas",
+      "fra",
+      "hrv",
+      "isl",
+      "ium",
+      "jut",
+      "kal",
+      "kur",
+      "pol",
+      "rmd",
+      "som",
+      "srp",
+      "swe",
+      "tam",
+      "tha",
+      "tur",
+      "urd",
+      "vie"
+    ]
+  },
+  "locales": ["da-DK", "en-DK", "fo-DK"],
+  "currencies": ["DKK"],
+  "timezones": ["Europe/Copenhagen"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "da-DK": "d.M.yyyy",
+    "en-DK": "dd/MM/yyyy",
+    "fo-DK": "dd.MM.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Copenhagen",
+  "landArea": 43094,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borderCountries": ["DEU"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E", "K"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".dk"],
+  "idd": {
+    "prefix": "+4",
+    "suffixes": ["5"],
+    "callingCodes": ["+45"]
+  },
+  "latitude": 56,
+  "longitude": 10,
+  "demonym": "Danish"
+}

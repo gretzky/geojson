@@ -1,0 +1,61 @@
+{
+  "id": 141,
+  "name": {
+    "common": "Mayotte",
+    "official": "Department of Mayotte",
+    "native": {
+      "fra": {
+        "official": "Département de Mayotte",
+        "common": "Mayotte"
+      }
+    }
+  },
+  "flag": "🇾🇹",
+  "cca2": "YT",
+  "cca3": "MYT",
+  "ccn3": "175",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "FRA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["fra"],
+    "spoken": ["buc", "mlg", "mgh", "swa", "swb", "swh"]
+  },
+  "locales": ["fr-YT"],
+  "currencies": ["EUR"],
+  "timezones": ["Indian/Mayotte"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "fr-YT": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Mamoudzou",
+  "landArea": 374,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".yt"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["62"],
+    "callingCodes": ["+262"]
+  },
+  "latitude": -12.83333333,
+  "longitude": 45.16666666,
+  "demonym": "Mahoran"
+}

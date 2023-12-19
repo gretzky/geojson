@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          105.42807,
+          -10.28213
+        ],
+        [
+          105.57646,
+          -10.75825
+        ],
+        [
+          105.87317,
+          -10.30477
+        ],
+        [
+          105.42807,
+          -10.28213
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844c3c",
+    "name": "Indian/Christmas",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+07:00",
+    "dstOffset": "+07:00",
+    "countries": [
+      "CXR"
+    ]
+  }
+}

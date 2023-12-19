@@ -1,0 +1,61 @@
+{
+  "id": 163,
+  "name": {
+    "common": "North Korea",
+    "official": "Democratic People's Republic of Korea",
+    "native": {
+      "kor": {
+        "official": "조선민주주의인민공화국",
+        "common": "조선"
+      }
+    }
+  },
+  "flag": "🇰🇵",
+  "cca2": "KP",
+  "cca3": "PRK",
+  "ccn3": "408",
+  "ioc": "PRK",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["kor"],
+    "spoken": ["kvk"]
+  },
+  "locales": ["ko-KP"],
+  "currencies": ["KPW"],
+  "timezones": ["Asia/Pyongyang"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ko-KP": "yyyy. M. d."
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Pyongyang",
+  "landArea": 120538,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "borderCountries": ["CHN", "KOR", "RUS"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".kp"],
+  "idd": {
+    "prefix": "+8",
+    "suffixes": ["50"],
+    "callingCodes": ["+850"]
+  },
+  "latitude": 40,
+  "longitude": 127,
+  "demonym": "North Korean"
+}

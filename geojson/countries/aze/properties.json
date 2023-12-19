@@ -1,0 +1,103 @@
+{
+  "id": 16,
+  "name": {
+    "common": "Azerbaijan",
+    "official": "Republic of Azerbaijan",
+    "native": {
+      "aze": {
+        "official": "Azərbaycan Respublikası",
+        "common": "Azərbaycan"
+      },
+      "rus": {
+        "official": "Азербайджанская Республика",
+        "common": "Азербайджан"
+      }
+    }
+  },
+  "flag": "🇦🇿",
+  "cca2": "AZ",
+  "cca3": "AZE",
+  "ccn3": "031",
+  "ioc": "AZE",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["aze"],
+    "spoken": [
+      "akv",
+      "ava",
+      "azb",
+      "bdk",
+      "bel",
+      "dar",
+      "fas",
+      "hye",
+      "jdt",
+      "kat",
+      "kjf",
+      "kjj",
+      "kor",
+      "krc",
+      "kry",
+      "kur",
+      "kmr",
+      "lbe",
+      "lez",
+      "myv",
+      "oss",
+      "pol",
+      "pnt",
+      "rmi",
+      "rus",
+      "rut",
+      "tab",
+      "tkr",
+      "tly",
+      "tur",
+      "trg",
+      "tat",
+      "ttt",
+      "udi",
+      "ukr",
+      "xrm"
+    ]
+  },
+  "locales": ["az-Cyrl-AZ", "az-Latn-AZ"],
+  "currencies": ["AZN"],
+  "timezones": ["Asia/Baku"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "az-Cyrl-AZ": "dd.MM.yyyy",
+    "az-Latn-AZ": "dd.MM.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Baku",
+  "landArea": 86600,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borderCountries": ["ARM", "GEO", "IRN", "RUS", "TUR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".az"],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["94"],
+    "callingCodes": ["+994"]
+  },
+  "latitude": 40.5,
+  "longitude": 47.5,
+  "demonym": "Azerbaijani"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -64,
+          -64
+        ],
+        [
+          -65,
+          -64.5
+        ],
+        [
+          -65.5,
+          -65.25
+        ],
+        [
+          -63.8,
+          -64.8
+        ],
+        [
+          -64,
+          -64
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b94",
+    "name": "Antarctica/Palmer",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "-03:00",
+    "dstOffset": "-03:00",
+    "countries": [
+      "ATA"
+    ]
+  }
+}

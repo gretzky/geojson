@@ -1,0 +1,67 @@
+{
+  "id": 88,
+  "name": {
+    "common": "Greenland",
+    "official": "Greenland",
+    "native": {
+      "kal": {
+        "official": "Kalaallit Nunaat",
+        "common": "Kalaallit Nunaat"
+      }
+    }
+  },
+  "flag": "🇬🇱",
+  "cca2": "GL",
+  "cca3": "GRL",
+  "ccn3": "304",
+  "ioc": null,
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["dan", "kal"],
+    "spoken": ["dsl"]
+  },
+  "locales": ["da-GL", "kl-GL"],
+  "currencies": ["DKK"],
+  "timezones": [
+    "America/Godthab",
+    "America/Danmarkshavn",
+    "America/Scoresbysund",
+    "America/Thule"
+  ],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "da-GL": "d.M.yyyy",
+    "kl-GL": "yyyy-M-d"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Nuuk",
+  "landArea": 2166086,
+  "region": "Americas",
+  "subregion": "North America",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E", "K"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".gl"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["99"],
+    "callingCodes": ["+299"]
+  },
+  "latitude": 72,
+  "longitude": -40,
+  "demonym": "Greenlandic"
+}

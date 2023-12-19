@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          45.0599,
+          -12.38
+        ],
+        [
+          44.80706,
+          -12.50949
+        ],
+        [
+          44.81321,
+          -13.09358
+        ],
+        [
+          45.40698,
+          -13.13449
+        ],
+        [
+          45.43479,
+          -12.5912
+        ],
+        [
+          45.0599,
+          -12.38
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844c43",
+    "name": "Indian/Mayotte",
+    "type": "link",
+    "aliasedTo": "Africa/Nairobi",
+    "utcOffset": "+03:00",
+    "dstOffset": "+03:00",
+    "countries": [
+      "MYT"
+    ]
+  }
+}

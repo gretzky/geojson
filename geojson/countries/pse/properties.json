@@ -1,0 +1,74 @@
+{
+  "id": 170,
+  "name": {
+    "common": "Palestine",
+    "official": "State of Palestine",
+    "native": {
+      "ara": {
+        "official": "دولة فلسطين",
+        "common": "فلسطين"
+      }
+    }
+  },
+  "flag": "🇵🇸",
+  "cca2": "PS",
+  "cca3": "PSE",
+  "ccn3": "275",
+  "ioc": "PLE",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["ara"],
+    "spoken": [
+      "ajp",
+      "amw",
+      "apc",
+      "arz",
+      "avl",
+      "heb",
+      "hye",
+      "hyw",
+      "jpa",
+      "rmt",
+      "sam",
+      "smp"
+    ]
+  },
+  "locales": ["ar-PS"],
+  "currencies": [],
+  "timezones": ["Asia/Gaza", "Asia/Hebron"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "ar-PS": "d‏/M‏/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Ramallah",
+  "landArea": 6220,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borderCountries": ["ISR", "EGY", "JOR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "H"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".ps", "فلسطين."],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["70"],
+    "callingCodes": ["+970"]
+  },
+  "latitude": 31.9,
+  "longitude": 35.2,
+  "demonym": "Palestinian"
+}

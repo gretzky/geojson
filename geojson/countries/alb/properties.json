@@ -1,0 +1,74 @@
+{
+  "id": 3,
+  "name": {
+    "common": "Albania",
+    "official": "Republic of Albania",
+    "native": {
+      "sqi": {
+        "official": "Republika e Shqipërisë",
+        "common": "Shqipëria"
+      }
+    }
+  },
+  "flag": "🇦🇱",
+  "cca2": "AL",
+  "cca3": "ALB",
+  "ccn3": "008",
+  "ioc": "ALB",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["sqi"],
+    "spoken": [
+      "aln",
+      "ell",
+      "fra",
+      "ita",
+      "mkd",
+      "rom",
+      "rmy",
+      "rup",
+      "sqk",
+      "srp",
+      "tur",
+      "vec"
+    ]
+  },
+  "locales": ["sq-AL"],
+  "currencies": ["ALL"],
+  "timezones": ["Europe/Tirane"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "sq-AL": "d.M.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Tirana",
+  "landArea": 28748,
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borderCountries": ["MNE", "GRC", "MKD", "UNK"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".al"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["55"],
+    "callingCodes": ["+355"]
+  },
+  "latitude": 41,
+  "longitude": 20,
+  "demonym": "Albanian"
+}

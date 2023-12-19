@@ -1,0 +1,95 @@
+{
+  "id": 95,
+  "name": {
+    "common": "Guinea-Bissau",
+    "official": "Republic of Guinea-Bissau",
+    "native": {
+      "por": {
+        "official": "República da Guiné-Bissau",
+        "common": "Guiné-Bissau"
+      },
+      "pov": {
+        "official": "República da Guiné-Bissau",
+        "common": "Guiné-Bissau"
+      }
+    }
+  },
+  "flag": "🇬🇼",
+  "cca2": "GW",
+  "cca3": "GNB",
+  "ccn3": "624",
+  "ioc": "GBS",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ful", "por"],
+    "spoken": [
+      "bab",
+      "bda",
+      "bif",
+      "bjg",
+      "ble",
+      "bsc",
+      "ccj",
+      "dyo",
+      "eja",
+      "eng",
+      "spa",
+      "fra",
+      "fuf",
+      "jad",
+      "kcj",
+      "knf",
+      "man",
+      "mfv",
+      "mlq",
+      "msw",
+      "naj",
+      "pbo",
+      "pbp",
+      "pov",
+      "snk",
+      "sus",
+      "wol"
+    ]
+  },
+  "locales": ["ff-Adlm-GW", "ff-Latn-GW", "pt-GW"],
+  "currencies": ["XOF"],
+  "timezones": ["Africa/Bissau"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "ff-Adlm-GW": "yyyyyyyy-MM-dd",
+    "ff-Latn-GW": "d/M/yyyy",
+    "pt-GW": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Bissau",
+  "landArea": 36125,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borderCountries": ["GIN", "SEN"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".gw"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["45"],
+    "callingCodes": ["+245"]
+  },
+  "latitude": 12,
+  "longitude": -15,
+  "demonym": "Guinea-Bissauan"
+}

@@ -1,0 +1,67 @@
+{
+  "id": 118,
+  "name": {
+    "common": "Kosovo",
+    "official": "Republic of Kosovo",
+    "native": {
+      "sqi": {
+        "official": "Republika e Kosovës",
+        "common": "Kosova"
+      },
+      "srp": {
+        "official": "Република Косово",
+        "common": "Косово"
+      }
+    }
+  },
+  "flag": "🇽🇰",
+  "cca2": "XK",
+  "cca3": "XKO",
+  "ccn3": null,
+  "ioc": "KOS",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": false,
+  "languages": {
+    "official": ["sqi", "srp"],
+    "spoken": ["aln"]
+  },
+  "locales": ["sq-XK", "sr-Cyrl-XK", "sr-Latn-XK"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Belgrade"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "sq-XK": "d.M.yyyy",
+    "sr-Cyrl-XK": "d.M.yyyy.",
+    "sr-Latn-XK": "d.M.yyyy."
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Pristina",
+  "landArea": 10908,
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borderCountries": ["ALB", "MKD", "MNE", "SRB"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".xk"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["83"],
+    "callingCodes": ["+383"]
+  },
+  "latitude": 42.666667,
+  "longitude": 21.166667,
+  "demonym": "Kosovar"
+}

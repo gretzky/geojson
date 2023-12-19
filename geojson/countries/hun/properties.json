@@ -1,0 +1,86 @@
+{
+  "id": 101,
+  "name": {
+    "common": "Hungary",
+    "official": "Hungary",
+    "native": {
+      "hun": {
+        "official": "Magyarország",
+        "common": "Magyarország"
+      }
+    }
+  },
+  "flag": "🇭🇺",
+  "cca2": "HU",
+  "cca3": "HUN",
+  "ccn3": "348",
+  "ioc": "HUN",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": true,
+  "isSchengen": true,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["hun"],
+    "spoken": [
+      "bul",
+      "deu",
+      "ell",
+      "eng",
+      "fra",
+      "hrv",
+      "hsh",
+      "hye",
+      "hyw",
+      "lng",
+      "ohu",
+      "pol",
+      "rmc",
+      "ron",
+      "rom",
+      "rmy",
+      "rus",
+      "rue",
+      "slk",
+      "slv",
+      "srp",
+      "ukr",
+      "vie",
+      "ysc"
+    ]
+  },
+  "locales": ["hu-HU"],
+  "currencies": ["HUF"],
+  "timezones": ["Europe/Budapest"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "hu-HU": "yyyy. MM. dd."
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Budapest",
+  "landArea": 93028,
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "borderCountries": ["AUT", "HRV", "ROU", "SRB", "SVK", "SVN", "UKR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".hu"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["6"],
+    "callingCodes": ["+36"]
+  },
+  "latitude": 47,
+  "longitude": 20,
+  "demonym": "Hungarian"
+}

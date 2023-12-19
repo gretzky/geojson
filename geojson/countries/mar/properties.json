@@ -1,0 +1,89 @@
+{
+  "id": 149,
+  "name": {
+    "common": "Morocco",
+    "official": "Kingdom of Morocco",
+    "native": {
+      "ara": {
+        "official": "المملكة المغربية",
+        "common": "المغرب"
+      },
+      "ber": {
+        "official": "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ",
+        "common": "ⵍⵎⴰⵖⵔⵉⴱ"
+      }
+    }
+  },
+  "flag": "🇲🇦",
+  "cca2": "MA",
+  "cca3": "MAR",
+  "ccn3": "504",
+  "ioc": "MAR",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara", "fra", "shi", "tzm", "zgh"],
+    "spoken": [
+      "aju",
+      "ary",
+      "spa",
+      "gho",
+      "grr",
+      "jrb",
+      "mey",
+      "rif",
+      "sjs",
+      "xms",
+      "xpu"
+    ]
+  },
+  "locales": [
+    "ar-MA",
+    "fr-MA",
+    "shi-Latn-MA",
+    "shi-Tfng-MA",
+    "tzm-MA",
+    "zgh-MA"
+  ],
+  "currencies": ["MAD"],
+  "timezones": ["Africa/Casablanca"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ar-MA": "d‏/M‏/yyyy",
+    "fr-MA": "dd/MM/yyyy",
+    "shi-Latn-MA": "d/M/yyyy",
+    "shi-Tfng-MA": "d/M/yyyy",
+    "tzm-MA": "d/M/yyyy",
+    "zgh-MA": "yyyy-MM-dd"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Rabat",
+  "landArea": 446550,
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "borderCountries": ["DZA", "ESH", "ESP"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".ma", "المغرب."],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["12"],
+    "callingCodes": ["+212"]
+  },
+  "latitude": 32,
+  "longitude": -5,
+  "demonym": "Moroccan"
+}

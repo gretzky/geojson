@@ -1,0 +1,93 @@
+{
+  "id": 183,
+  "name": {
+    "common": "Romania",
+    "official": "Romania",
+    "native": {
+      "ron": {
+        "official": "România",
+        "common": "România"
+      }
+    }
+  },
+  "flag": "🇷🇴",
+  "cca2": "RO",
+  "cca3": "ROU",
+  "ccn3": "642",
+  "ioc": "ROU",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": true,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ron"],
+    "spoken": [
+      "aln",
+      "bul",
+      "crh",
+      "ces",
+      "deu",
+      "ell",
+      "eng",
+      "spa",
+      "fra",
+      "gag",
+      "hrv",
+      "hsh",
+      "hun",
+      "hye",
+      "hyw",
+      "ita",
+      "ltz",
+      "mkd",
+      "nrc",
+      "pol",
+      "rmc",
+      "rmn",
+      "rms",
+      "rom",
+      "rus",
+      "rup",
+      "slk",
+      "srp",
+      "tur",
+      "tat",
+      "ukr"
+    ]
+  },
+  "locales": ["ro-RO"],
+  "currencies": ["RON"],
+  "timezones": ["Europe/Bucharest"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "ro-RO": "dd.MM.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Bucharest",
+  "landArea": 238391,
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borderCountries": ["BGR", "HUN", "MDA", "SRB", "UKR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".ro"],
+  "idd": {
+    "prefix": "+4",
+    "suffixes": ["0"],
+    "callingCodes": ["+40"]
+  },
+  "latitude": 46,
+  "longitude": 25,
+  "demonym": "Romanian"
+}

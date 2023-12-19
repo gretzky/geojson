@@ -1,0 +1,71 @@
+{
+  "id": 185,
+  "name": {
+    "common": "Rwanda",
+    "official": "Republic of Rwanda",
+    "native": {
+      "eng": {
+        "official": "Republic of Rwanda",
+        "common": "Rwanda"
+      },
+      "fra": {
+        "official": "République rwandaise",
+        "common": "Rwanda"
+      },
+      "kin": {
+        "official": "Repubulika y'u Rwanda",
+        "common": "Rwanda"
+      }
+    }
+  },
+  "flag": "🇷🇼",
+  "cca2": "RW",
+  "cca3": "RWA",
+  "ccn3": "646",
+  "ioc": "RWA",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "fra", "kin"],
+    "spoken": ["nyn", "nyo", "run", "swa", "swh"]
+  },
+  "locales": ["en-RW", "fr-RW", "rw-RW"],
+  "currencies": ["RWF"],
+  "timezones": ["Africa/Maputo"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-RW": "dd/MM/yyyy",
+    "fr-RW": "dd/MM/yyyy",
+    "rw-RW": "yyyy-MM-dd"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Kigali",
+  "landArea": 26338,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borderCountries": ["BDI", "COD", "TZA", "UGA"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["J"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".rw"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["50"],
+    "callingCodes": ["+250"]
+  },
+  "latitude": -2,
+  "longitude": 30,
+  "demonym": "Rwandan"
+}

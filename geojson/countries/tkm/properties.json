@@ -1,0 +1,97 @@
+{
+  "id": 230,
+  "name": {
+    "common": "Turkmenistan",
+    "official": "Turkmenistan",
+    "native": {
+      "rus": {
+        "official": "Туркменистан",
+        "common": "Туркмения"
+      },
+      "tuk": {
+        "official": "Türkmenistan",
+        "common": "Türkmenistan"
+      }
+    }
+  },
+  "flag": "🇹🇲",
+  "cca2": "TM",
+  "cca3": "TKM",
+  "ccn3": "795",
+  "ioc": "TKM",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["tuk"],
+    "spoken": [
+      "aze",
+      "bak",
+      "bel",
+      "bgn",
+      "brh",
+      "chg",
+      "chv",
+      "dar",
+      "dng",
+      "fas",
+      "hye",
+      "hyw",
+      "kat",
+      "kaa",
+      "kaz",
+      "kor",
+      "kur",
+      "kmr",
+      "lbe",
+      "lez",
+      "myv",
+      "oss",
+      "pbt",
+      "rsl",
+      "rus",
+      "tab",
+      "tat",
+      "udi",
+      "uig",
+      "ukr",
+      "uzb"
+    ]
+  },
+  "locales": ["tk-TM"],
+  "currencies": ["TMT"],
+  "timezones": ["Asia/Ashgabat"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "tk-TM": "dd.MM.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Ashgabat",
+  "landArea": 488100,
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "borderCountries": ["AFG", "IRN", "KAZ", "UZB"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".tm"],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["93"],
+    "callingCodes": ["+993"]
+  },
+  "latitude": 40,
+  "longitude": 60,
+  "demonym": "Turkmen"
+}

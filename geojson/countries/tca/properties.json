@@ -1,0 +1,61 @@
+{
+  "id": 231,
+  "name": {
+    "common": "Turks and Caicos Islands",
+    "official": "Turks and Caicos Islands",
+    "native": {
+      "eng": {
+        "official": "Turks and Caicos Islands",
+        "common": "Turks and Caicos Islands"
+      }
+    }
+  },
+  "flag": "🇹🇨",
+  "cca2": "TC",
+  "cca3": "TCA",
+  "ccn3": "796",
+  "ioc": null,
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["hat", "tch"]
+  },
+  "locales": ["en-TC"],
+  "currencies": ["USD"],
+  "timezones": ["America/Grand_Turk"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-TC": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Cockburn Town",
+  "landArea": 948,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "left",
+  "tld": [".tc"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["649"],
+    "callingCodes": ["+1649"]
+  },
+  "latitude": 21.75,
+  "longitude": -71.58333333,
+  "demonym": "Turks and Caicos Islander"
+}

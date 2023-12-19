@@ -1,0 +1,70 @@
+{
+  "id": 202,
+  "name": {
+    "common": "Sint Maarten",
+    "official": "Sint Maarten",
+    "native": {
+      "eng": {
+        "official": "Sint Maarten",
+        "common": "Sint Maarten"
+      },
+      "fra": {
+        "official": "Saint-Martin",
+        "common": "Saint-Martin"
+      },
+      "nld": {
+        "official": "Sint Maarten",
+        "common": "Sint Maarten"
+      }
+    }
+  },
+  "flag": "🇸🇽",
+  "cca2": "SX",
+  "cca3": "SXM",
+  "ccn3": "534",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "NLD",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng", "nld"],
+    "spoken": ["aig", "spa", "hin", "ind", "pap", "srn", "vic", "zlm"]
+  },
+  "locales": ["en-SX", "nl-SX"],
+  "currencies": ["ANG"],
+  "timezones": ["America/Lower_Princes"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-SX": "dd/MM/yyyy",
+    "nl-SX": "d-M-yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Philipsburg",
+  "landArea": 34,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": ["MAF"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [110],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".sx"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["721"],
+    "callingCodes": ["+1721"]
+  },
+  "latitude": 18.033333,
+  "longitude": -63.05,
+  "demonym": "St. Maartener"
+}

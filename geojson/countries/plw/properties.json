@@ -1,0 +1,65 @@
+{
+  "id": 169,
+  "name": {
+    "common": "Palau",
+    "official": "Republic of Palau",
+    "native": {
+      "eng": {
+        "official": "Republic of Palau",
+        "common": "Palau"
+      },
+      "pau": {
+        "official": "Beluu er a Belau",
+        "common": "Belau"
+      }
+    }
+  },
+  "flag": "🇵🇼",
+  "cca2": "PW",
+  "cca3": "PLW",
+  "ccn3": "585",
+  "ioc": "PLW",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["jpn", "pau", "sov", "tgl", "tox"]
+  },
+  "locales": ["en-PW"],
+  "currencies": ["USD"],
+  "timezones": ["Pacific/Palau"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-PW": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Ngerulmud",
+  "landArea": 459,
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "fahrenheit",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".pw"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["80"],
+    "callingCodes": ["+680"]
+  },
+  "latitude": 7.5,
+  "longitude": 134.5,
+  "demonym": "Palauan"
+}

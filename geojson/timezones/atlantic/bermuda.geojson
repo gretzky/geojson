@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -65.11876,
+          32.319
+        ],
+        [
+          -64.96644,
+          32.0683
+        ],
+        [
+          -64.41789,
+          32.30548
+        ],
+        [
+          -64.72974,
+          32.58595
+        ],
+        [
+          -65.11876,
+          32.319
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844beb",
+    "name": "Atlantic/Bermuda",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "-04:00",
+    "dstOffset": "-03:00",
+    "countries": [
+      "BMU"
+    ]
+  }
+}

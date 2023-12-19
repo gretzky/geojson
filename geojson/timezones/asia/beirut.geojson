@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          34.88257,
+          33.17204
+        ],
+        [
+          35.50359,
+          33.08982
+        ],
+        [
+          35.77334,
+          33.33563
+        ],
+        [
+          36.625,
+          34.20389
+        ],
+        [
+          36.46476,
+          34.63646
+        ],
+        [
+          35.67451,
+          34.68597
+        ],
+        [
+          34.88257,
+          33.17204
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844ba5",
+    "name": "Asia/Beirut",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+02:00",
+    "dstOffset": "+03:00",
+    "countries": [
+      "LBN"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -60.98274,
+          13.50927
+        ],
+        [
+          -61.13727,
+          13.58211
+        ],
+        [
+          -61.47692,
+          13.29294
+        ],
+        [
+          -61.66315,
+          12.60973
+        ],
+        [
+          -61.21048,
+          12.39836
+        ],
+        [
+          -60.92119,
+          12.94007
+        ],
+        [
+          -60.98274,
+          13.50927
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844b80",
+    "name": "America/St_Vincent",
+    "type": "link",
+    "aliasedTo": "America/Puerto_Rico",
+    "utcOffset": "-04:00",
+    "dstOffset": "-04:00",
+    "countries": [
+      "VCT"
+    ]
+  }
+}

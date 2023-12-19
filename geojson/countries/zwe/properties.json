@@ -1,0 +1,141 @@
+{
+  "id": 250,
+  "name": {
+    "common": "Zimbabwe",
+    "official": "Republic of Zimbabwe",
+    "native": {
+      "bwg": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      },
+      "eng": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      },
+      "kck": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      },
+      "khi": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      },
+      "ndc": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      },
+      "nde": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      },
+      "nya": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      },
+      "sna": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      },
+      "sot": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      },
+      "toi": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      },
+      "tsn": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      },
+      "tso": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      },
+      "ven": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      },
+      "xho": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      },
+      "zib": {
+        "official": "Republic of Zimbabwe",
+        "common": "Zimbabwe"
+      }
+    }
+  },
+  "flag": "🇿🇼",
+  "cca2": "ZW",
+  "cca3": "ZWE",
+  "ccn3": "716",
+  "ioc": "ZIM",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "nde", "sna"],
+    "spoken": [
+      "afr",
+      "brl",
+      "bwg",
+      "dov",
+      "fng",
+      "guj",
+      "hio",
+      "kck",
+      "kdn",
+      "loz",
+      "mxc",
+      "ndc",
+      "nmq",
+      "nse",
+      "nya",
+      "tsn",
+      "toi",
+      "tso",
+      "tsc",
+      "ven",
+      "zib"
+    ]
+  },
+  "locales": ["en-ZW", "nd-ZW", "sn-ZW"],
+  "currencies": [],
+  "timezones": ["Africa/Maputo"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-ZW": "d/M/yyyy",
+    "nd-ZW": "d/M/yyyy",
+    "sn-ZW": "yyyy-MM-dd"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Harare",
+  "landArea": 390757,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borderCountries": ["BWA", "MOZ", "ZAF", "ZMB"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["D"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".zw"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["63"],
+    "callingCodes": ["+263"]
+  },
+  "latitude": -20,
+  "longitude": 30,
+  "demonym": "Zimbabwean"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 10,
+  "name": {
+    "common": "Antigua and Barbuda",
+    "official": "Antigua and Barbuda",
+    "native": {
+      "eng": {
+        "official": "Antigua and Barbuda",
+        "common": "Antigua and Barbuda"
+      }
+    }
+  },
+  "flag": "🇦🇬",
+  "cca2": "AG",
+  "cca3": "ATG",
+  "ccn3": "028",
+  "ioc": "ANT",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["aig", "apc", "ase", "por"]
+  },
+  "locales": ["en-AG"],
+  "currencies": ["XCD"],
+  "timezones": ["America/Puerto_Rico"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-AG": "dd/MM/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Saint John's",
+  "landArea": 442,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "mixed",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [230],
+  "frequencyHz": 60,
+  "drivingSide": "left",
+  "tld": [".ag"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["268"],
+    "callingCodes": ["+1268"]
+  },
+  "latitude": 17.05,
+  "longitude": -61.8,
+  "demonym": "Antiguan, Barbudan"
+}

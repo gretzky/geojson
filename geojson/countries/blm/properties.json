@@ -1,0 +1,61 @@
+{
+  "id": 186,
+  "name": {
+    "common": "Saint Barthélemy",
+    "official": "Collectivity of Saint Barthélemy",
+    "native": {
+      "fra": {
+        "official": "Collectivité de Saint-Barthélemy",
+        "common": "Saint-Barthélemy"
+      }
+    }
+  },
+  "flag": "🇧🇱",
+  "cca2": "BL",
+  "cca3": "BLM",
+  "ccn3": "652",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "FRA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["fra"],
+    "spoken": ["eng", "gcf"]
+  },
+  "locales": ["fr-BL"],
+  "currencies": ["EUR"],
+  "timezones": ["America/St_Barthelemy"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "fr-BL": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Gustavia",
+  "landArea": 21,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E"],
+  "voltage": [230],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".bl"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["90"],
+    "callingCodes": ["+590"]
+  },
+  "latitude": 18.5,
+  "longitude": -63.41666666,
+  "demonym": "Saint Barthélemy Islander"
+}

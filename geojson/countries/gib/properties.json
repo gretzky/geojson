@@ -1,0 +1,61 @@
+{
+  "id": 86,
+  "name": {
+    "common": "Gibraltar",
+    "official": "Gibraltar",
+    "native": {
+      "eng": {
+        "official": "Gibraltar",
+        "common": "Gibraltar"
+      }
+    }
+  },
+  "flag": "🇬🇮",
+  "cca2": "GI",
+  "cca3": "GIB",
+  "ccn3": "292",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "GBR",
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["ary", "spa"]
+  },
+  "locales": ["en-GI"],
+  "currencies": ["GIP"],
+  "timezones": ["Europe/Gibraltar"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-GI": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Gibraltar",
+  "landArea": 6,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borderCountries": ["ESP"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".gi"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["50"],
+    "callingCodes": ["+350"]
+  },
+  "latitude": 36.13333333,
+  "longitude": -5.35,
+  "demonym": "Gibraltar"
+}

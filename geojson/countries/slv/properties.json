@@ -1,0 +1,61 @@
+{
+  "id": 67,
+  "name": {
+    "common": "El Salvador",
+    "official": "Republic of El Salvador",
+    "native": {
+      "spa": {
+        "official": "República de El Salvador",
+        "common": "El Salvador"
+      }
+    }
+  },
+  "flag": "🇸🇻",
+  "cca2": "SV",
+  "cca3": "SLV",
+  "ccn3": "222",
+  "ioc": "ESA",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["spa"],
+    "spoken": ["ase", "ccr", "csr", "esn", "ppl"]
+  },
+  "locales": ["es-SV"],
+  "currencies": ["SVC", "USD"],
+  "timezones": ["America/El_Salvador"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "es-SV": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "San Salvador",
+  "landArea": 21041,
+  "region": "Americas",
+  "subregion": "Central America",
+  "borderCountries": ["GTM", "HND"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".sv"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["03"],
+    "callingCodes": ["+503"]
+  },
+  "latitude": 13.83333333,
+  "longitude": -88.91666666,
+  "demonym": "Salvadoran"
+}

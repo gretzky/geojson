@@ -1,0 +1,61 @@
+{
+  "id": 194,
+  "name": {
+    "common": "San Marino",
+    "official": "Most Serene Republic of San Marino",
+    "native": {
+      "ita": {
+        "official": "Serenissima Repubblica di San Marino",
+        "common": "San Marino"
+      }
+    }
+  },
+  "flag": "🇸🇲",
+  "cca2": "SM",
+  "cca3": "SMR",
+  "ccn3": "674",
+  "ioc": "SMR",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ita"],
+    "spoken": ["rgn"]
+  },
+  "locales": ["it-SM"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/San_Marino"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "it-SM": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "City of San Marino",
+  "landArea": 61,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borderCountries": ["ITA"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "L"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".sm"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["78"],
+    "callingCodes": ["+378"]
+  },
+  "latitude": 43.76666666,
+  "longitude": 12.41666666,
+  "demonym": "Sammarinese"
+}

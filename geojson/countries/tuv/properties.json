@@ -1,0 +1,65 @@
+{
+  "id": 232,
+  "name": {
+    "common": "Tuvalu",
+    "official": "Tuvalu",
+    "native": {
+      "eng": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      },
+      "tvl": {
+        "official": "Tuvalu",
+        "common": "Tuvalu"
+      }
+    }
+  },
+  "flag": "🇹🇻",
+  "cca2": "TV",
+  "cca3": "TUV",
+  "ccn3": "798",
+  "ioc": "TUV",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["gil", "tvl"]
+  },
+  "locales": ["en-TV"],
+  "currencies": ["AUD"],
+  "timezones": ["Pacific/Funafuti"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-TV": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Funafuti",
+  "landArea": 26,
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["I"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".tv"],
+  "idd": {
+    "prefix": "+6",
+    "suffixes": ["88"],
+    "callingCodes": ["+688"]
+  },
+  "latitude": -8,
+  "longitude": 178,
+  "demonym": "Tuvaluan"
+}

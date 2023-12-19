@@ -1,0 +1,70 @@
+{
+  "id": 199,
+  "name": {
+    "common": "Seychelles",
+    "official": "Republic of Seychelles",
+    "native": {
+      "crs": {
+        "official": "Repiblik Sesel",
+        "common": "Sesel"
+      },
+      "eng": {
+        "official": "Republic of Seychelles",
+        "common": "Seychelles"
+      },
+      "fra": {
+        "official": "République des Seychelles",
+        "common": "Seychelles"
+      }
+    }
+  },
+  "flag": "🇸🇨",
+  "cca2": "SC",
+  "cca3": "SYC",
+  "ccn3": "690",
+  "ioc": "SEY",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "fra", "crs"],
+    "spoken": []
+  },
+  "locales": ["en-SC", "fr-SC"],
+  "currencies": ["SCR"],
+  "timezones": ["Indian/Mahe"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-SC": "dd/MM/yyyy",
+    "fr-SC": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Victoria",
+  "landArea": 452,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [240],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".sc"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["48"],
+    "callingCodes": ["+248"]
+  },
+  "latitude": -4.58333333,
+  "longitude": 55.66666666,
+  "demonym": "Seychellois"
+}

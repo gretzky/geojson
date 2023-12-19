@@ -1,0 +1,72 @@
+{
+  "id": 53,
+  "name": {
+    "common": "Costa Rica",
+    "official": "Republic of Costa Rica",
+    "native": {
+      "spa": {
+        "official": "República de Costa Rica",
+        "common": "Costa Rica"
+      }
+    }
+  },
+  "flag": "🇨🇷",
+  "cca2": "CR",
+  "cca3": "CRI",
+  "ccn3": "188",
+  "ioc": "CRC",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["spa"],
+    "spoken": [
+      "brn",
+      "bzd",
+      "cjp",
+      "csr",
+      "gut",
+      "gym",
+      "jam",
+      "pdt",
+      "tfr",
+      "yue"
+    ]
+  },
+  "locales": ["es-CR"],
+  "currencies": ["CRC"],
+  "timezones": ["America/Costa_Rica"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "es-CR": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "San José",
+  "landArea": 51100,
+  "region": "Americas",
+  "subregion": "Central America",
+  "borderCountries": ["NIC", "PAN"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".cr"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["06"],
+    "callingCodes": ["+506"]
+  },
+  "latitude": 10,
+  "longitude": -84,
+  "demonym": "Costa Rican"
+}

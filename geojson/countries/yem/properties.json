@@ -1,0 +1,80 @@
+{
+  "id": 248,
+  "name": {
+    "common": "Yemen",
+    "official": "Republic of Yemen",
+    "native": {
+      "ara": {
+        "official": "الجمهورية اليمنية",
+        "common": "اليَمَن"
+      }
+    }
+  },
+  "flag": "🇾🇪",
+  "cca2": "YE",
+  "cca3": "YEM",
+  "ccn3": "887",
+  "ioc": "YEM",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara"],
+    "spoken": [
+      "acq",
+      "acx",
+      "afb",
+      "apd",
+      "arz",
+      "ayh",
+      "ayn",
+      "bhm",
+      "gdq",
+      "hin",
+      "hoh",
+      "inm",
+      "jye",
+      "rzh",
+      "som",
+      "sqt",
+      "xqt",
+      "xsa"
+    ]
+  },
+  "locales": ["ar-YE"],
+  "currencies": ["YER"],
+  "timezones": ["Asia/Aden"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ar-YE": "d‏/M‏/yyyy"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Sana'a",
+  "landArea": 527968,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borderCountries": ["OMN", "SAU"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "D"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".ye"],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["67"],
+    "callingCodes": ["+967"]
+  },
+  "latitude": 15,
+  "longitude": 48,
+  "demonym": "Yemeni"
+}

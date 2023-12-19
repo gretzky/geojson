@@ -1,0 +1,61 @@
+{
+  "id": 138,
+  "name": {
+    "common": "Martinique",
+    "official": "Martinique",
+    "native": {
+      "fra": {
+        "official": "Martinique",
+        "common": "Martinique"
+      }
+    }
+  },
+  "flag": "🇲🇶",
+  "cca2": "MQ",
+  "cca3": "MTQ",
+  "ccn3": "474",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "FRA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["fra"],
+    "spoken": ["acf", "fsl", "gcf", "vie"]
+  },
+  "locales": ["fr-MQ"],
+  "currencies": ["EUR"],
+  "timezones": ["America/Martinique"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "fr-MQ": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Fort-de-France",
+  "landArea": 1128,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "D", "E"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".mq"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["96"],
+    "callingCodes": ["+596"]
+  },
+  "latitude": 14.666667,
+  "longitude": -61,
+  "demonym": "Martinican"
+}

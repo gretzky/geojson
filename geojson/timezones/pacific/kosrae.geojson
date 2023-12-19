@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          163.23647,
+          5.29498
+        ],
+        [
+          163.05331,
+          5.57196
+        ],
+        [
+          162.74509,
+          5.4394
+        ],
+        [
+          162.79544,
+          5.11154
+        ],
+        [
+          163.23647,
+          5.29498
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844c63",
+    "name": "Pacific/Kosrae",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+11:00",
+    "dstOffset": "+11:00",
+    "countries": [
+      "FSM"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 180,
+  "name": {
+    "common": "Qatar",
+    "official": "State of Qatar",
+    "native": {
+      "ara": {
+        "official": "دولة قطر",
+        "common": "قطر"
+      }
+    }
+  },
+  "flag": "🇶🇦",
+  "cca2": "QA",
+  "cca3": "QAT",
+  "ccn3": "634",
+  "ioc": "QAT",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara"],
+    "spoken": [
+      "acw",
+      "afb",
+      "ajp",
+      "apc",
+      "apd",
+      "ars",
+      "arz",
+      "fas",
+      "fra",
+      "mal",
+      "sin",
+      "tam",
+      "tgl",
+      "urd"
+    ]
+  },
+  "locales": ["ar-QA"],
+  "currencies": ["QAR"],
+  "timezones": ["Asia/Qatar"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ar-QA": "d‏/M‏/yyyy"
+  },
+  "weekStartDay": "saturday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Doha",
+  "landArea": 11586,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borderCountries": ["SAU"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [240],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".qa", "قطر."],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["74"],
+    "callingCodes": ["+974"]
+  },
+  "latitude": 25.5,
+  "longitude": 51.25,
+  "demonym": "Qatari"
+}

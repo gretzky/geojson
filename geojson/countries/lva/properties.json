@@ -1,0 +1,80 @@
+{
+  "id": 122,
+  "name": {
+    "common": "Latvia",
+    "official": "Republic of Latvia",
+    "native": {
+      "lav": {
+        "official": "Latvijas Republikas",
+        "common": "Latvija"
+      }
+    }
+  },
+  "flag": "🇱🇻",
+  "cca2": "LV",
+  "cca3": "LVA",
+  "ccn3": "428",
+  "ioc": "LAT",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["lav"],
+    "spoken": [
+      "bel",
+      "deu",
+      "eng",
+      "est",
+      "fra",
+      "liv",
+      "lsl",
+      "lit",
+      "ltg",
+      "myv",
+      "pol",
+      "rml",
+      "rus",
+      "tat",
+      "ukr",
+      "vro",
+      "xzm",
+      "zkv"
+    ]
+  },
+  "locales": ["lv-LV"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Riga"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "lv-LV": "yyyy.MM.d."
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Riga",
+  "landArea": 64559,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borderCountries": ["BLR", "EST", "LTU", "RUS"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".lv"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["71"],
+    "callingCodes": ["+371"]
+  },
+  "latitude": 57,
+  "longitude": 25,
+  "demonym": "Latvian"
+}

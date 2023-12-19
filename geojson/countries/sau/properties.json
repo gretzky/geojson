@@ -1,0 +1,88 @@
+{
+  "id": 196,
+  "name": {
+    "common": "Saudi Arabia",
+    "official": "Kingdom of Saudi Arabia",
+    "native": {
+      "ara": {
+        "official": "المملكة العربية السعودية",
+        "common": "العربية السعودية"
+      }
+    }
+  },
+  "flag": "🇸🇦",
+  "cca2": "SA",
+  "cca3": "SAU",
+  "ccn3": "682",
+  "ioc": "KSA",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara"],
+    "spoken": [
+      "acq",
+      "acw",
+      "acx",
+      "afb",
+      "ajp",
+      "apc",
+      "apd",
+      null,
+      "ars",
+      "arz",
+      "ayn",
+      "bal",
+      "ben",
+      "eng",
+      "gdq",
+      "rhg",
+      "sdl",
+      "shv",
+      "som",
+      "swa",
+      "swh",
+      "tgl",
+      "tur",
+      "uig",
+      "urd",
+      "xna"
+    ]
+  },
+  "locales": ["ar-SA"],
+  "currencies": ["SAR"],
+  "timezones": ["Asia/Riyadh"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ar-SA": "d‏/M‏/yyyy GG"
+  },
+  "weekStartDay": "sunday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Riyadh",
+  "landArea": 2149690,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borderCountries": ["IRQ", "JOR", "KWT", "OMN", "QAT", "ARE", "YEM"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [220],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".sa", ".السعودية"],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["66"],
+    "callingCodes": ["+966"]
+  },
+  "latitude": 25,
+  "longitude": 45,
+  "demonym": "Saudi Arabian"
+}

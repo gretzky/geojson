@@ -1,0 +1,103 @@
+{
+  "id": 125,
+  "name": {
+    "common": "Liberia",
+    "official": "Republic of Liberia",
+    "native": {
+      "eng": {
+        "official": "Republic of Liberia",
+        "common": "Liberia"
+      }
+    }
+  },
+  "flag": "🇱🇷",
+  "cca2": "LR",
+  "cca3": "LBR",
+  "ccn3": "430",
+  "ioc": "LBR",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "ful", "vai"],
+    "spoken": [
+      "aka",
+      "blh",
+      "bsq",
+      "bza",
+      "dee",
+      "ewe",
+      "gec",
+      "ggb",
+      "glr",
+      "gol",
+      "grb",
+      "grj",
+      "grv",
+      "gry",
+      "klu",
+      "kpe",
+      "xpe",
+      "kqo",
+      "krn",
+      "krw",
+      "kss",
+      "lir",
+      "lom",
+      "men",
+      "mev",
+      "mku",
+      "mzj",
+      "nqo",
+      "oub",
+      "ted",
+      "tja"
+    ]
+  },
+  "locales": [
+    "en-LR",
+    "ff-Adlm-LR",
+    "ff-Latn-LR",
+    "vai-Latn-LR",
+    "vai-Vaii-LR"
+  ],
+  "currencies": ["LRD"],
+  "timezones": ["Africa/Monrovia"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "en-LR": "dd/MM/yyyy",
+    "ff-Adlm-LR": "yyyyyyyy-MM-dd",
+    "ff-Latn-LR": "d/M/yyyy",
+    "vai-Latn-LR": "M/d/yyyy",
+    "vai-Vaii-LR": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Monrovia",
+  "landArea": 111369,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borderCountries": ["GIN", "CIV", "SLE"],
+  "measurementSystem": "imperial",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "fahrenheit",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [120, 220],
+  "frequencyHz": 60,
+  "drivingSide": "right",
+  "tld": [".lr"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["31"],
+    "callingCodes": ["+231"]
+  },
+  "latitude": 6.5,
+  "longitude": -9.5,
+  "demonym": "Liberian"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          34.05469,
+          31.46684
+        ],
+        [
+          34.2675,
+          31.22013
+        ],
+        [
+          34.56668,
+          31.54146
+        ],
+        [
+          34.29563,
+          31.70544
+        ],
+        [
+          34.05469,
+          31.46684
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844bb5",
+    "name": "Asia/Gaza",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+02:00",
+    "dstOffset": "+03:00",
+    "countries": [
+      "PSE"
+    ]
+  }
+}

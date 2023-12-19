@@ -1,0 +1,88 @@
+{
+  "id": 159,
+  "name": {
+    "common": "Niger",
+    "official": "Republic of Niger",
+    "native": {
+      "fra": {
+        "official": "République du Niger",
+        "common": "Niger"
+      }
+    }
+  },
+  "flag": "🇳🇪",
+  "cca2": "NE",
+  "cca3": "NER",
+  "ccn3": "562",
+  "ioc": "NIG",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["dje", "ful", "fra", "hau", "twq"],
+    "spoken": [
+      "aao",
+      null,
+      "ayl",
+      "bms",
+      "dzg",
+      "fuh",
+      "fuq",
+      "gux",
+      "kby",
+      "kau",
+      "knc",
+      "krt",
+      "mey",
+      "shu",
+      "tda",
+      "tez",
+      "thv",
+      "thz",
+      "tmh",
+      "ttq",
+      "tuq"
+    ]
+  },
+  "locales": ["dje-NE", "ff-Adlm-NE", "ff-Latn-NE", "fr-NE", "ha-NE", "twq-NE"],
+  "currencies": ["XOF"],
+  "timezones": ["Africa/Lagos"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "dje-NE": "d/M/yyyy",
+    "ff-Adlm-NE": "yyyyyyyy-MM-dd",
+    "ff-Latn-NE": "d/M/yyyy",
+    "fr-NE": "dd/MM/yyyy",
+    "ha-NE": "yyyy-MM-dd",
+    "twq-NE": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Niamey",
+  "landArea": 1267000,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borderCountries": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "D"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".ne"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["27"],
+    "callingCodes": ["+227"]
+  },
+  "latitude": 16,
+  "longitude": 8,
+  "demonym": "Nigerien"
+}

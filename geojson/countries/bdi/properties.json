@@ -1,0 +1,67 @@
+{
+  "id": 37,
+  "name": {
+    "common": "Burundi",
+    "official": "Republic of Burundi",
+    "native": {
+      "fra": {
+        "official": "République du Burundi",
+        "common": "Burundi"
+      },
+      "run": {
+        "official": "Republika y'Uburundi ",
+        "common": "Uburundi"
+      }
+    }
+  },
+  "flag": "🇧🇮",
+  "cca2": "BI",
+  "cca3": "BDI",
+  "ccn3": "108",
+  "ioc": "BDI",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "fra", "run"],
+    "spoken": ["lsb", "kin", "swa", "swh"]
+  },
+  "locales": ["en-BI", "fr-BI", "rn-BI"],
+  "currencies": ["BIF"],
+  "timezones": ["Africa/Maputo"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-BI": "M/d/yyyy",
+    "fr-BI": "dd/MM/yyyy",
+    "rn-BI": "d/M/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Gitega",
+  "landArea": 27834,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borderCountries": ["COD", "RWA", "TZA"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".bi"],
+  "idd": {
+    "prefix": "+2",
+    "suffixes": ["57"],
+    "callingCodes": ["+257"]
+  },
+  "latitude": -3.5,
+  "longitude": 30,
+  "demonym": "Burundian"
+}

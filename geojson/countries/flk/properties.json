@@ -1,0 +1,61 @@
+{
+  "id": 73,
+  "name": {
+    "common": "Falkland Islands",
+    "official": "Falkland Islands",
+    "native": {
+      "eng": {
+        "official": "Falkland Islands",
+        "common": "Falkland Islands"
+      }
+    }
+  },
+  "flag": "🇫🇰",
+  "cca2": "FK",
+  "cca3": "FLK",
+  "ccn3": "238",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "GBR",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": []
+  },
+  "locales": ["en-FK"],
+  "currencies": ["FKP"],
+  "timezones": ["Atlantic/Stanley"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-FK": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Stanley",
+  "landArea": 12173,
+  "region": "Americas",
+  "subregion": "South America",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["G"],
+  "voltage": [240],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".fk"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["00"],
+    "callingCodes": ["+500"]
+  },
+  "latitude": -51.75,
+  "longitude": -59,
+  "demonym": "Falkland Islander"
+}

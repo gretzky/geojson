@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -2.09888,
+          49.45961
+        ],
+        [
+          -2.05466,
+          49.92014
+        ],
+        [
+          -2.4675,
+          49.9147
+        ],
+        [
+          -2.93317,
+          49.30344
+        ],
+        [
+          -2.56055,
+          49.21988
+        ],
+        [
+          -2.09888,
+          49.45961
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844c0f",
+    "name": "Europe/Guernsey",
+    "type": "link",
+    "aliasedTo": "Europe/London",
+    "utcOffset": "+00:00",
+    "dstOffset": "+01:00",
+    "countries": [
+      "GGY"
+    ]
+  }
+}

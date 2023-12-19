@@ -1,0 +1,92 @@
+{
+  "id": 59,
+  "name": {
+    "common": "Czechia",
+    "official": "Czech Republic",
+    "native": {
+      "ces": {
+        "official": "Česká republika",
+        "common": "Česko"
+      },
+      "slk": {
+        "official": "Česká republika",
+        "common": "Česko"
+      }
+    }
+  },
+  "flag": "🇨🇿",
+  "cca2": "CZ",
+  "cca3": "CZE",
+  "ccn3": "203",
+  "ioc": "CZE",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": true,
+  "isSchengen": true,
+  "isEurozone": false,
+  "isUNMember": false,
+  "languages": {
+    "official": ["ces", "slk"],
+    "spoken": [
+      "bar",
+      "bel",
+      "bul",
+      "bos",
+      "cse",
+      "czk",
+      "deu",
+      "ell",
+      "eng",
+      "spa",
+      "fra",
+      "gmh",
+      "hrv",
+      "hun",
+      "ita",
+      "mon",
+      "khk",
+      "pol",
+      "rmc",
+      "rmo",
+      "rus",
+      "rue",
+      "sli",
+      "srp",
+      "ukr",
+      "vie"
+    ]
+  },
+  "locales": ["cs-CZ"],
+  "currencies": ["CZK"],
+  "timezones": ["Europe/Prague"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "cs-CZ": "d. M. yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Prague",
+  "landArea": 78865,
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "borderCountries": ["AUT", "DEU", "POL", "SVK"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["E"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".cz"],
+  "idd": {
+    "prefix": "+4",
+    "suffixes": ["20"],
+    "callingCodes": ["+420"]
+  },
+  "latitude": 49.75,
+  "longitude": 15.5,
+  "demonym": "Czech"
+}

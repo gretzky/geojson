@@ -1,0 +1,84 @@
+{
+  "id": 96,
+  "name": {
+    "common": "Guyana",
+    "official": "Co-operative Republic of Guyana",
+    "native": {
+      "eng": {
+        "official": "Co-operative Republic of Guyana",
+        "common": "Guyana"
+      }
+    }
+  },
+  "flag": "🇬🇾",
+  "cca2": "GY",
+  "cca3": "GUY",
+  "ccn3": "328",
+  "ioc": "GUY",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": [
+      "acf",
+      "ake",
+      "aoc",
+      "aox",
+      "arw",
+      "ase",
+      "brc",
+      "car",
+      "gyn",
+      "hin",
+      "hns",
+      "mbc",
+      "mpw",
+      "mzx",
+      "pbc",
+      "por",
+      "skw",
+      "tdm",
+      "urd",
+      "wap",
+      "waw",
+      "wba"
+    ]
+  },
+  "locales": ["en-GY"],
+  "currencies": ["GYD"],
+  "timezones": ["America/Guyana"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-GY": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Georgetown",
+  "landArea": 214969,
+  "region": "Americas",
+  "subregion": "South America",
+  "borderCountries": ["BRA", "SUR", "VEN"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B", "D", "G"],
+  "voltage": [120, 240],
+  "frequencyHz": 60,
+  "drivingSide": "left",
+  "tld": [".gy"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["92"],
+    "callingCodes": ["+592"]
+  },
+  "latitude": 5,
+  "longitude": -59,
+  "demonym": "Guyanese"
+}

@@ -1,0 +1,77 @@
+{
+  "id": 21,
+  "name": {
+    "common": "Belarus",
+    "official": "Republic of Belarus",
+    "native": {
+      "bel": {
+        "official": "Рэспубліка Беларусь",
+        "common": "Белару́сь"
+      },
+      "rus": {
+        "official": "Республика Беларусь",
+        "common": "Беларусь"
+      }
+    }
+  },
+  "flag": "🇧🇾",
+  "cca2": "BY",
+  "cca3": "BLR",
+  "ccn3": "112",
+  "ioc": "BLR",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": false,
+  "isSchengen": false,
+  "isEurozone": false,
+  "isUNMember": true,
+  "languages": {
+    "official": ["bel", "rus"],
+    "spoken": [
+      "kor",
+      "lit",
+      "lav",
+      "myv",
+      "pol",
+      "rml",
+      "rsl",
+      "tat",
+      "ukr",
+      "xsv"
+    ]
+  },
+  "locales": ["be-BY", "ru-BY"],
+  "currencies": ["BYN"],
+  "timezones": ["Europe/Minsk"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "be-BY": "d.M.yyyy",
+    "ru-BY": "dd.MM.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": true,
+  "isIsland": false,
+  "capitalCity": "Minsk",
+  "landArea": 207600,
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "borderCountries": ["LVA", "LTU", "POL", "RUS", "UKR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".by"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["75"],
+    "callingCodes": ["+375"]
+  },
+  "latitude": 53,
+  "longitude": 28,
+  "demonym": "Belarusian"
+}

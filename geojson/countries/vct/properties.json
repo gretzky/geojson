@@ -1,0 +1,61 @@
+{
+  "id": 192,
+  "name": {
+    "common": "Saint Vincent and the Grenadines",
+    "official": "Saint Vincent and the Grenadines",
+    "native": {
+      "eng": {
+        "official": "Saint Vincent and the Grenadines",
+        "common": "Saint Vincent and the Grenadines"
+      }
+    }
+  },
+  "flag": "🇻🇨",
+  "cca2": "VC",
+  "cca3": "VCT",
+  "ccn3": "670",
+  "ioc": "VIN",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng"],
+    "spoken": ["ase", "crb", "por", "svc"]
+  },
+  "locales": ["en-VC"],
+  "currencies": ["XCD"],
+  "timezones": ["America/St_Vincent"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-VC": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Kingstown",
+  "landArea": 389,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["A", "B"],
+  "voltage": [110, 230],
+  "frequencyHz": 50,
+  "drivingSide": "left",
+  "tld": [".vc"],
+  "idd": {
+    "prefix": "+1",
+    "suffixes": ["784"],
+    "callingCodes": ["+1784"]
+  },
+  "latitude": 13.25,
+  "longitude": -61.2,
+  "demonym": "Saint Vincentian"
+}

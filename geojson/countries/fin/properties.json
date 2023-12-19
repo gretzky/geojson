@@ -1,0 +1,101 @@
+{
+  "id": 76,
+  "name": {
+    "common": "Finland",
+    "official": "Republic of Finland",
+    "native": {
+      "fin": {
+        "official": "Suomen tasavalta",
+        "common": "Suomi"
+      },
+      "swe": {
+        "official": "Republiken Finland",
+        "common": "Finland"
+      }
+    }
+  },
+  "flag": "🇫🇮",
+  "cca2": "FI",
+  "cca3": "FIN",
+  "ccn3": "246",
+  "ioc": "FIN",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": true,
+  "isSchengen": true,
+  "isEurozone": true,
+  "isUNMember": true,
+  "languages": {
+    "official": ["eng", "fin", "sme", "smn", "swe"],
+    "spoken": [
+      "bul",
+      "ben",
+      "deu",
+      "spa",
+      "est",
+      "fas",
+      "fit",
+      "fra",
+      "fse",
+      "fss",
+      "hin",
+      "hun",
+      "ita",
+      "jpn",
+      "krl",
+      "kur",
+      "nep",
+      "nld",
+      "olo",
+      "pol",
+      "por",
+      "rmf",
+      "rus",
+      "sms",
+      "som",
+      "tha",
+      "tgl",
+      "tur",
+      "ukr",
+      "urd",
+      "vie"
+    ]
+  },
+  "locales": ["en-FI", "fi-FI", "se-FI", "smn-FI", "sv-FI"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Helsinki"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "en-FI": "dd/MM/yyyy",
+    "fi-FI": "d.M.yyyy",
+    "se-FI": "dd.MM.yyyy",
+    "smn-FI": "d.M.yyyy",
+    "sv-FI": "yyyy-MM-dd"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Helsinki",
+  "landArea": 338424,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borderCountries": ["NOR", "SWE", "RUS"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".fi"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["58"],
+    "callingCodes": ["+358"]
+  },
+  "latitude": 64,
+  "longitude": 26,
+  "demonym": "Finnish"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          129.00142,
+          -31.91264
+        ],
+        [
+          129.00192,
+          -31.3
+        ],
+        [
+          125.5,
+          -31.3
+        ],
+        [
+          125.5,
+          -32.77728
+        ],
+        [
+          126.0487,
+          -32.47636
+        ],
+        [
+          127.56446,
+          -32.41644
+        ],
+        [
+          129.00142,
+          -31.91264
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844bfe",
+    "name": "Australia/Eucla",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+08:45",
+    "dstOffset": "+08:45",
+    "countries": [
+      "AUS"
+    ]
+  }
+}

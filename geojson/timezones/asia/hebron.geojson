@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.55496,
+          32.38902
+        ],
+        [
+          35.22457,
+          32.55215
+        ],
+        [
+          34.95959,
+          32.17566
+        ],
+        [
+          34.92465,
+          31.34211
+        ],
+        [
+          35.47601,
+          31.49312
+        ],
+        [
+          35.55496,
+          32.38902
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": "62d74cdf457d3872cf844bb1",
+    "name": "Asia/Hebron",
+    "type": "canonical",
+    "aliasedTo": null,
+    "utcOffset": "+02:00",
+    "dstOffset": "+03:00",
+    "countries": [
+      "PSE"
+    ]
+  }
+}

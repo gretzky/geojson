@@ -1,0 +1,81 @@
+{
+  "id": 70,
+  "name": {
+    "common": "Estonia",
+    "official": "Republic of Estonia",
+    "native": {
+      "est": {
+        "official": "Eesti Vabariik",
+        "common": "Eesti"
+      }
+    }
+  },
+  "flag": "🇪🇪",
+  "cca2": "EE",
+  "cca3": "EST",
+  "ccn3": "233",
+  "ioc": "EST",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": true,
+  "isEU": true,
+  "isSchengen": true,
+  "isEurozone": true,
+  "isUNMember": true,
+  "languages": {
+    "official": ["est"],
+    "spoken": [
+      "aze",
+      "bel",
+      "deu",
+      "eng",
+      "eso",
+      "fin",
+      "fra",
+      "hye",
+      "lit",
+      "lav",
+      "myv",
+      "pol",
+      "rml",
+      "rsl",
+      "rus",
+      "swe",
+      "tat",
+      "ukr",
+      "vro"
+    ]
+  },
+  "locales": ["et-EE"],
+  "currencies": ["EUR"],
+  "timezones": ["Europe/Tallinn"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "et-EE": "d.M.yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Tallinn",
+  "landArea": 45227,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borderCountries": ["LVA", "RUS"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F"],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".ee"],
+  "idd": {
+    "prefix": "+3",
+    "suffixes": ["72"],
+    "callingCodes": ["+372"]
+  },
+  "latitude": 59,
+  "longitude": 26,
+  "demonym": "Estonian"
+}

@@ -1,0 +1,90 @@
+{
+  "id": 218,
+  "name": {
+    "common": "Syria",
+    "official": "Syrian Arab Republic",
+    "native": {
+      "ara": {
+        "official": "الجمهورية العربية السورية",
+        "common": "سوريا"
+      }
+    }
+  },
+  "flag": "🇸🇾",
+  "cca2": "SY",
+  "cca3": "SYR",
+  "ccn3": "760",
+  "ioc": "SYR",
+  "isSovereign": true,
+  "governingCountry": null,
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": true,
+  "languages": {
+    "official": ["ara", "fra"],
+    "spoken": [
+      "abk",
+      "acm",
+      "ady",
+      "ajp",
+      "amw",
+      "apc",
+      "ars",
+      "arz",
+      "avl",
+      "ayp",
+      "azb",
+      "che",
+      "fas",
+      "hye",
+      "hyw",
+      "kbd",
+      "kur",
+      "kmr",
+      "lhs",
+      "oar",
+      "oss",
+      "rmi",
+      "rmt",
+      "syr",
+      "tuk",
+      "tru",
+      "uga"
+    ]
+  },
+  "locales": ["ar-SY", "fr-SY"],
+  "currencies": ["SYP"],
+  "timezones": ["Asia/Damascus"],
+  "timeFormat": "12hr",
+  "dateFormats": {
+    "ar-SY": "d‏/M‏/yyyy",
+    "fr-SY": "dd/MM/yyyy"
+  },
+  "weekStartDay": "saturday",
+  "isLandlocked": false,
+  "isIsland": false,
+  "capitalCity": "Damascus",
+  "landArea": 185180,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borderCountries": ["IRQ", "ISR", "JOR", "LBN", "TUR"],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": ["C", "F", "E", "L"],
+  "voltage": [220],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".sy", "سوريا."],
+  "idd": {
+    "prefix": "+9",
+    "suffixes": ["63"],
+    "callingCodes": ["+963"]
+  },
+  "latitude": 35,
+  "longitude": 38,
+  "demonym": "Syrian"
+}

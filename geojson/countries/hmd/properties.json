@@ -1,0 +1,61 @@
+{
+  "id": 98,
+  "name": {
+    "common": "Heard Island and McDonald Islands",
+    "official": "Heard Island and McDonald Islands",
+    "native": {
+      "eng": {
+        "official": "Heard Island and McDonald Islands",
+        "common": "Heard Island and McDonald Islands"
+      }
+    }
+  },
+  "flag": "🇭🇲",
+  "cca2": "HM",
+  "cca3": "HMD",
+  "ccn3": "334",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "AUS",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["eng"],
+    "spoken": []
+  },
+  "locales": ["en"],
+  "currencies": ["AUD"],
+  "timezones": ["Indian/Kerguelen"],
+  "timeFormat": "mixed",
+  "dateFormats": {
+    "en": "M/d/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": null,
+  "landArea": 412,
+  "region": "Antarctic",
+  "subregion": null,
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".hm", ".aq"],
+  "idd": {
+    "prefix": null,
+    "suffixes": null,
+    "callingCodes": [""]
+  },
+  "latitude": -53.1,
+  "longitude": 72.51666666,
+  "demonym": "Heard and McDonald Islander"
+}

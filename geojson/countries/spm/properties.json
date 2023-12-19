@@ -1,0 +1,61 @@
+{
+  "id": 191,
+  "name": {
+    "common": "Saint Pierre and Miquelon",
+    "official": "Saint Pierre and Miquelon",
+    "native": {
+      "fra": {
+        "official": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
+        "common": "Saint-Pierre-et-Miquelon"
+      }
+    }
+  },
+  "flag": "🇵🇲",
+  "cca2": "PM",
+  "cca3": "SPM",
+  "ccn3": "666",
+  "ioc": null,
+  "isSovereign": false,
+  "governingCountry": "FRA",
+  "isNATO": false,
+  "isEU": null,
+  "isSchengen": null,
+  "isEurozone": null,
+  "isUNMember": false,
+  "languages": {
+    "official": ["fra"],
+    "spoken": ["arq", "eng"]
+  },
+  "locales": ["fr-PM"],
+  "currencies": ["EUR"],
+  "timezones": ["America/Miquelon"],
+  "timeFormat": "24hr",
+  "dateFormats": {
+    "fr-PM": "dd/MM/yyyy"
+  },
+  "weekStartDay": "monday",
+  "isLandlocked": false,
+  "isIsland": true,
+  "capitalCity": "Saint-Pierre",
+  "landArea": 242,
+  "region": "Americas",
+  "subregion": "North America",
+  "borderCountries": [],
+  "measurementSystem": "metric",
+  "distanceUnit": "kilometer",
+  "temperatureUnit": "celsius",
+  "speedUnit": "kmh",
+  "outletType": [],
+  "voltage": [230],
+  "frequencyHz": 50,
+  "drivingSide": "right",
+  "tld": [".pm"],
+  "idd": {
+    "prefix": "+5",
+    "suffixes": ["08"],
+    "callingCodes": ["+508"]
+  },
+  "latitude": 46.83333333,
+  "longitude": -56.33333333,
+  "demonym": "Saint-Pierrais, Miquelonnais"
+}
