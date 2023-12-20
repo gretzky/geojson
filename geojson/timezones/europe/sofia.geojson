@@ -112,14 +112,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c26",
     "name": "Europe/Sofia",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+02:00",
     "dstOffset": "+03:00",
     "countries": [
-      "BGR"
+      "BG"
     ]
   }
 }

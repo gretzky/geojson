@@ -786,14 +786,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bbb",
     "name": "Asia/Kolkata",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+05:30",
     "dstOffset": "+05:30",
     "countries": [
-      "IND"
+      "IN"
     ]
   }
 }

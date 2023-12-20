@@ -36,14 +36,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b80",
     "name": "America/St_Vincent",
     "type": "link",
-    "aliasedTo": "America/Puerto_Rico",
+    "linkTo": "America/Puerto_Rico",
     "utcOffset": "-04:00",
     "dstOffset": "-04:00",
     "countries": [
-      "VCT"
+      "VC"
     ]
   }
 }

@@ -32,14 +32,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c0f",
     "name": "Europe/Guernsey",
     "type": "link",
-    "aliasedTo": "Europe/London",
+    "linkTo": "Europe/London",
     "utcOffset": "+00:00",
     "dstOffset": "+01:00",
     "countries": [
-      "GGY"
+      "GG"
     ]
   }
 }

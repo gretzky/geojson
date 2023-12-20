@@ -190,14 +190,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b9c",
     "name": "Arctic/Longyearbyen",
     "type": "link",
-    "aliasedTo": "Europe/Oslo",
+    "linkTo": "Europe/Berlin",
     "utcOffset": "+01:00",
     "dstOffset": "+02:00",
     "countries": [
-      "SJM"
+      "SJ"
     ]
   }
 }

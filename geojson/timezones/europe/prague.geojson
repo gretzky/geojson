@@ -84,15 +84,14 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c23",
     "name": "Europe/Prague",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+01:00",
     "dstOffset": "+02:00",
     "countries": [
-      "CZE",
-      "SVK"
+      "CZ",
+      "SK"
     ]
   }
 }

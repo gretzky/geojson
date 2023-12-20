@@ -108,14 +108,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b82",
     "name": "America/St_Johns",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-03:30",
     "dstOffset": "-02:30",
     "countries": [
-      "CAN"
+      "CA"
     ]
   }
 }

@@ -270,14 +270,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bcb",
     "name": "Asia/Kamchatka",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+12:00",
     "dstOffset": "+12:00",
     "countries": [
-      "RUS"
+      "RU"
     ]
   }
 }

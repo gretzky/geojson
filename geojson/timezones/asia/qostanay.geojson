@@ -134,5 +134,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Asia/Qostanay",
+    "type": "canonical",
+    "linkTo": null,
+    "utcOffset": "+06:00",
+    "dstOffset": "+06:00",
+    "countries": [
+      "KZ"
+    ]
   }
 }

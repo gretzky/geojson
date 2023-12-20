@@ -84,16 +84,15 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b6b",
     "name": "America/Panama",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-05:00",
     "dstOffset": "-05:00",
     "countries": [
-      "PAN",
-      "CAN",
-      "CYM"
+      "PA",
+      "CA",
+      "KY"
     ]
   }
 }

@@ -36,14 +36,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844ba7",
     "name": "Asia/Brunei",
-    "type": "canonical",
-    "aliasedTo": null,
+    "type": "link",
+    "linkTo": "Asia/Kuching",
     "utcOffset": "+08:00",
     "dstOffset": "+08:00",
     "countries": [
-      "BRN"
+      "BN"
     ]
   }
 }

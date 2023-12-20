@@ -56,14 +56,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c1a",
     "name": "Europe/Ljubljana",
     "type": "link",
-    "aliasedTo": "Europe/Belgrade",
+    "linkTo": "Europe/Belgrade",
     "utcOffset": "+01:00",
     "dstOffset": "+02:00",
     "countries": [
-      "SVN"
+      "SI"
     ]
   }
 }

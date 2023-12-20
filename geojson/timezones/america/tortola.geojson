@@ -32,14 +32,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b87",
     "name": "America/Tortola",
     "type": "link",
-    "aliasedTo": "America/Puerto_Rico",
+    "linkTo": "America/Puerto_Rico",
     "utcOffset": "-04:00",
     "dstOffset": "-04:00",
     "countries": [
-      "VGB"
+      "VG"
     ]
   }
 }

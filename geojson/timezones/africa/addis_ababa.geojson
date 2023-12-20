@@ -218,5 +218,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Africa/Addis_Ababa",
+    "type": "link",
+    "linkTo": "Africa/Nairobi",
+    "utcOffset": "+03:00",
+    "dstOffset": "+03:00",
+    "countries": [
+      "ET"
+    ]
   }
 }

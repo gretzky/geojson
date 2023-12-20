@@ -80,14 +80,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b15",
     "name": "America/Boise",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-07:00",
     "dstOffset": "-06:00",
     "countries": [
-      "USA"
+      "US"
     ]
   }
 }

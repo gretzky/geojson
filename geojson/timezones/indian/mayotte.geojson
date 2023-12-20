@@ -32,14 +32,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c43",
     "name": "Indian/Mayotte",
     "type": "link",
-    "aliasedTo": "Africa/Nairobi",
+    "linkTo": "Africa/Nairobi",
     "utcOffset": "+03:00",
     "dstOffset": "+03:00",
     "countries": [
-      "MYT"
+      "YT"
     ]
   }
 }

@@ -24,14 +24,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c3c",
     "name": "Indian/Christmas",
-    "type": "canonical",
-    "aliasedTo": null,
+    "type": "link",
+    "linkTo": "Asia/Bangkok",
     "utcOffset": "+07:00",
     "dstOffset": "+07:00",
     "countries": [
-      "CXR"
+      "CX"
     ]
   }
 }

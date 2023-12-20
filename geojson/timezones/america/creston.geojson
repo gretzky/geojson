@@ -28,14 +28,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b26",
     "name": "America/Creston",
     "type": "link",
-    "aliasedTo": "America/Phoenix",
+    "linkTo": "America/Phoenix",
     "utcOffset": "-07:00",
     "dstOffset": "-07:00",
     "countries": [
-      "CAN"
+      "CA"
     ]
   }
 }

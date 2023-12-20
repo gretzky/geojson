@@ -226,14 +226,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c3f",
     "name": "Indian/Mahe",
-    "type": "canonical",
-    "aliasedTo": null,
+    "type": "link",
+    "linkTo": "Asia/Dubai",
     "utcOffset": "+04:00",
     "dstOffset": "+04:00",
     "countries": [
-      "SYC"
+      "SC"
     ]
   }
 }

@@ -230,5 +230,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Africa/Bangui",
+    "type": "link",
+    "linkTo": "Africa/Lagos",
+    "utcOffset": "+01:00",
+    "dstOffset": "+01:00",
+    "countries": [
+      "CF"
+    ]
   }
 }

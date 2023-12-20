@@ -164,14 +164,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844ba3",
     "name": "Asia/Barnaul",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+07:00",
     "dstOffset": "+07:00",
     "countries": [
-      "RUS"
+      "RU"
     ]
   }
 }

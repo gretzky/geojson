@@ -92,14 +92,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b7c",
     "name": "America/Rio_Branco",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-05:00",
     "dstOffset": "-05:00",
     "countries": [
-      "BRA"
+      "BR"
     ]
   }
 }

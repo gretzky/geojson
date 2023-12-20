@@ -162,14 +162,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bc5",
     "name": "Asia/Muscat",
     "type": "link",
-    "aliasedTo": "Asia/Dubai",
+    "linkTo": "Asia/Dubai",
     "utcOffset": "+04:00",
     "dstOffset": "+04:00",
     "countries": [
-      "OMN"
+      "OM"
     ]
   }
 }

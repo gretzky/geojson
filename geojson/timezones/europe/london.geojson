@@ -294,17 +294,16 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c1f",
     "name": "Europe/London",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+00:00",
     "dstOffset": "+01:00",
     "countries": [
-      "GBR",
-      "GGY",
-      "IMN",
-      "JEY"
+      "GB",
+      "GG",
+      "IM",
+      "JE"
     ]
   }
 }

@@ -52,14 +52,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c31",
     "name": "Europe/Skopje",
     "type": "link",
-    "aliasedTo": "Europe/Belgrade",
+    "linkTo": "Europe/Belgrade",
     "utcOffset": "+01:00",
     "dstOffset": "+02:00",
     "countries": [
-      "MKD"
+      "MK"
     ]
   }
 }

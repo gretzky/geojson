@@ -250,5 +250,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Europe/Kyiv",
+    "type": "canonical",
+    "linkTo": null,
+    "utcOffset": "+02:00",
+    "dstOffset": "+03:00",
+    "countries": [
+      "UA"
+    ]
   }
 }

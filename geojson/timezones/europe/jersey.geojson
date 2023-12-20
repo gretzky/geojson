@@ -24,14 +24,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c10",
     "name": "Europe/Jersey",
     "type": "link",
-    "aliasedTo": "Europe/London",
+    "linkTo": "Europe/London",
     "utcOffset": "+00:00",
     "dstOffset": "+01:00",
     "countries": [
-      "JEY"
+      "JE"
     ]
   }
 }

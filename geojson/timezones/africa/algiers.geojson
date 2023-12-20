@@ -280,14 +280,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844af4",
     "name": "Africa/Algiers",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+01:00",
     "dstOffset": "+01:00",
     "countries": [
-      "DZA"
+      "DZ"
     ]
   }
 }

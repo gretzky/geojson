@@ -52,14 +52,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c4c",
     "name": "Pacific/Galapagos",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-06:00",
     "dstOffset": "-06:00",
     "countries": [
-      "ECU"
+      "EC"
     ]
   }
 }

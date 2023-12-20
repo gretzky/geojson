@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -101.2568,
+          47.26823
+        ],
+        [
+          -101.76332,
+          46.98207
+        ],
+        [
+          -100.9351,
+          46.98257
+        ],
+        [
+          -101.2568,
+          47.26823
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "name": "America/North_Dakota/Center",
+    "type": "canonical",
+    "linkTo": null,
+    "utcOffset": "-06:00",
+    "dstOffset": "-05:00",
+    "countries": [
+      "US"
+    ]
+  }
+}

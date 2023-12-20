@@ -438,14 +438,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c21",
     "name": "Australia/Perth",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+08:00",
     "dstOffset": "+08:00",
     "countries": [
-      "AUS"
+      "AU"
     ]
   }
 }

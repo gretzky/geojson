@@ -160,24 +160,24 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b00",
     "name": "Africa/Abidjan",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+00:00",
     "dstOffset": "+00:00",
     "countries": [
-      "CIV",
-      "BFA",
-      "GHA",
-      "GMB",
-      "GIN",
-      "MLI",
-      "MRT",
-      "SHN",
-      "SLE",
-      "SEN",
-      "TGO"
+      "CI",
+      "BF",
+      "GH",
+      "GM",
+      "GN",
+      "IS",
+      "ML",
+      "MR",
+      "SH",
+      "SL",
+      "SN",
+      "TG"
     ]
   }
 }

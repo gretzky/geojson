@@ -438,14 +438,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b20",
     "name": "America/Bogota",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-05:00",
     "dstOffset": "-05:00",
     "countries": [
-      "COL"
+      "CO"
     ]
   }
 }

@@ -28,14 +28,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c57",
     "name": "Pacific/Norfolk",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+11:00",
     "dstOffset": "+12:00",
     "countries": [
-      "NFK"
+      "NF"
     ]
   }
 }

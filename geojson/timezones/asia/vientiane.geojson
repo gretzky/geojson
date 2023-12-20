@@ -212,14 +212,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844be7",
     "name": "Asia/Vientiane",
     "type": "link",
-    "aliasedTo": "Asia/Bangkok",
+    "linkTo": "Asia/Bangkok",
     "utcOffset": "+07:00",
     "dstOffset": "+07:00",
     "countries": [
-      "LAO"
+      "LA"
     ]
   }
 }

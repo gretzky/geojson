@@ -38,5 +38,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Africa/Mbabane",
+    "type": "link",
+    "linkTo": "Africa/Johannesburg",
+    "utcOffset": "+02:00",
+    "dstOffset": "+02:00",
+    "countries": [
+      "SZ"
+    ]
   }
 }

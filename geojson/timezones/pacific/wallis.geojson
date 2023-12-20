@@ -50,14 +50,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c65",
     "name": "Pacific/Wallis",
-    "type": "canonical",
-    "aliasedTo": null,
+    "type": "link",
+    "linkTo": "Pacific/Tarawa",
     "utcOffset": "+12:00",
     "dstOffset": "+12:00",
     "countries": [
-      "WLF"
+      "WF"
     ]
   }
 }

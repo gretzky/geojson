@@ -262,14 +262,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c27",
     "name": "Europe/Stockholm",
-    "type": "canonical",
-    "aliasedTo": null,
+    "type": "link",
+    "linkTo": "Europe/Berlin",
     "utcOffset": "+01:00",
     "dstOffset": "+02:00",
     "countries": [
-      "SWE"
+      "SE"
     ]
   }
 }

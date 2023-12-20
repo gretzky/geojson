@@ -168,15 +168,14 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c0b",
     "name": "Europe/Helsinki",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+02:00",
     "dstOffset": "+03:00",
     "countries": [
-      "FIN",
-      "ALA"
+      "FI",
+      "AX"
     ]
   }
 }

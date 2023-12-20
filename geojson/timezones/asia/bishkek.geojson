@@ -164,14 +164,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844ba4",
     "name": "Asia/Bishkek",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+06:00",
     "dstOffset": "+06:00",
     "countries": [
-      "KGZ"
+      "KG"
     ]
   }
 }

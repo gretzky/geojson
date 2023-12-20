@@ -294,14 +294,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bd4",
     "name": "Asia/Manila",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+08:00",
     "dstOffset": "+08:00",
     "countries": [
-      "PHL"
+      "PH"
     ]
   }
 }

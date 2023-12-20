@@ -74,5 +74,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "America/Ciudad_Juarez",
+    "type": "canonical",
+    "linkTo": null,
+    "utcOffset": "-07:00",
+    "dstOffset": "-06:00",
+    "countries": [
+      "MX"
+    ]
   }
 }

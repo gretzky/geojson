@@ -398,14 +398,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b77",
     "name": "America/Sao_Paulo",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-03:00",
     "dstOffset": "-03:00",
     "countries": [
-      "BRA"
+      "BR"
     ]
   }
 }

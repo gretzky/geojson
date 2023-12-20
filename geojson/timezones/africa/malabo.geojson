@@ -94,14 +94,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844aef",
     "name": "Africa/Malabo",
     "type": "link",
-    "aliasedTo": "Africa/Lagos",
+    "linkTo": "Africa/Lagos",
     "utcOffset": "+01:00",
     "dstOffset": "+01:00",
     "countries": [
-      "GNQ"
+      "GQ"
     ]
   }
 }

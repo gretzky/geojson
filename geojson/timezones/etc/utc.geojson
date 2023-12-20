@@ -26,5 +26,13 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Etc/UTC",
+    "type": "canonical",
+    "linkTo": null,
+    "utcOffset": "+00:00",
+    "dstOffset": "+00:00",
+    "countries": null
   }
 }

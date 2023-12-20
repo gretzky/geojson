@@ -36,14 +36,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bfe",
     "name": "Australia/Eucla",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+08:45",
     "dstOffset": "+08:45",
     "countries": [
-      "AUS"
+      "AU"
     ]
   }
 }

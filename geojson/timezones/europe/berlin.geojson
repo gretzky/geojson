@@ -188,14 +188,17 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c16",
     "name": "Europe/Berlin",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+01:00",
     "dstOffset": "+02:00",
     "countries": [
-      "DEU"
+      "DE",
+      "DK",
+      "NO",
+      "SE",
+      "SJ"
     ]
   }
 }

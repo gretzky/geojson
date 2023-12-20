@@ -116,14 +116,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bca",
     "name": "Asia/Phnom_Penh",
     "type": "link",
-    "aliasedTo": "Asia/Bangkok",
+    "linkTo": "Asia/Bangkok",
     "utcOffset": "+07:00",
     "dstOffset": "+07:00",
     "countries": [
-      "KHM"
+      "KH"
     ]
   }
 }

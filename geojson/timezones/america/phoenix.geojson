@@ -122,15 +122,14 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b6a",
     "name": "America/Phoenix",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-07:00",
     "dstOffset": "-07:00",
     "countries": [
-      "USA",
-      "CAN"
+      "US",
+      "CA"
     ]
   }
 }

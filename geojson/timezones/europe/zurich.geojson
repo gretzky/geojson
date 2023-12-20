@@ -72,16 +72,15 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c37",
     "name": "Europe/Zurich",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+01:00",
     "dstOffset": "+02:00",
     "countries": [
-      "CHE",
-      "DEU",
-      "LIE"
+      "CH",
+      "DE",
+      "LI"
     ]
   }
 }

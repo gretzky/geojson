@@ -242,5 +242,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "America/Nuuk",
+    "type": "canonical",
+    "linkTo": null,
+    "utcOffset": "-02:00",
+    "dstOffset": "-01:00",
+    "countries": [
+      "GL"
+    ]
   }
 }

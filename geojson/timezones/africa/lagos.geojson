@@ -200,23 +200,22 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844aee",
     "name": "Africa/Lagos",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+01:00",
     "dstOffset": "+01:00",
     "countries": [
-      "NGA",
-      "AGO",
-      "BEN",
-      "COD",
-      "CAF",
-      "COG",
-      "CMR",
-      "GAB",
-      "GNQ",
-      "NER"
+      "NG",
+      "AO",
+      "BJ",
+      "CD",
+      "CF",
+      "CG",
+      "CM",
+      "GA",
+      "GQ",
+      "NE"
     ]
   }
 }

@@ -138,5 +138,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Africa/Asmara",
+    "type": "link",
+    "linkTo": "Africa/Nairobi",
+    "utcOffset": "+03:00",
+    "dstOffset": "+03:00",
+    "countries": [
+      "ER"
+    ]
   }
 }

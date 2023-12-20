@@ -54,5 +54,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Africa/Freetown",
+    "type": "link",
+    "linkTo": "Africa/Abidjan",
+    "utcOffset": "+00:00",
+    "dstOffset": "+00:00",
+    "countries": [
+      "SL"
+    ]
   }
 }

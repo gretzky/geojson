@@ -46,14 +46,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c68",
     "name": "Pacific/Midway",
     "type": "link",
-    "aliasedTo": "Pacific/Pago_Pago",
+    "linkTo": "Pacific/Pago_Pago",
     "utcOffset": "-11:00",
     "dstOffset": "-11:00",
     "countries": [
-      "UMI"
+      "UM"
     ]
   }
 }

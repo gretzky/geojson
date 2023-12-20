@@ -40,14 +40,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b99",
     "name": "Antarctica/Vostok",
-    "type": "canonical",
-    "aliasedTo": null,
+    "type": "link",
+    "linkTo": "Asia/Urumqi",
     "utcOffset": "+06:00",
     "dstOffset": "+06:00",
     "countries": [
-      "ATA"
+      "AQ"
     ]
   }
 }

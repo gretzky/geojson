@@ -132,14 +132,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bc1",
     "name": "Asia/Kathmandu",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+05:45",
     "dstOffset": "+05:45",
     "countries": [
-      "NPL"
+      "NP"
     ]
   }
 }

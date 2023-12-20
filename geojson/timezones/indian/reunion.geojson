@@ -32,15 +32,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c45",
     "name": "Indian/Reunion",
-    "type": "canonical",
-    "aliasedTo": null,
+    "type": "link",
+    "linkTo": "Asia/Dubai",
     "utcOffset": "+04:00",
     "dstOffset": "+04:00",
     "countries": [
-      "REU",
-      "ATF"
+      "RE"
     ]
   }
 }

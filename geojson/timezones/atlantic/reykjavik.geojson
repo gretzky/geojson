@@ -80,14 +80,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bf4",
     "name": "Atlantic/Reykjavik",
-    "type": "canonical",
-    "aliasedTo": null,
+    "type": "link",
+    "linkTo": "Africa/Abidjan",
     "utcOffset": "+00:00",
     "dstOffset": "+00:00",
     "countries": [
-      "ISL"
+      "IS"
     ]
   }
 }

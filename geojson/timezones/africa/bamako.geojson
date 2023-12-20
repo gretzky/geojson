@@ -280,14 +280,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b05",
     "name": "Africa/Bamako",
     "type": "link",
-    "aliasedTo": "Africa/Abidjan",
+    "linkTo": "Africa/Abidjan",
     "utcOffset": "+00:00",
     "dstOffset": "+00:00",
     "countries": [
-      "MLI"
+      "ML"
     ]
   }
 }

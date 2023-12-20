@@ -28,14 +28,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c44",
     "name": "Indian/Cocos",
-    "type": "canonical",
-    "aliasedTo": null,
+    "type": "link",
+    "linkTo": "Asia/Yangon",
     "utcOffset": "+06:30",
     "dstOffset": "+06:30",
     "countries": [
-      "CCK"
+      "CC"
     ]
   }
 }

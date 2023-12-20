@@ -320,14 +320,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844be2",
     "name": "Asia/Tehran",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+03:30",
-    "dstOffset": "+04:30",
+    "dstOffset": "+03:30",
     "countries": [
-      "IRN"
+      "IR"
     ]
   }
 }

@@ -124,14 +124,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b22",
     "name": "America/Chihuahua",
     "type": "canonical",
-    "aliasedTo": null,
-    "utcOffset": "-07:00",
+    "linkTo": null,
+    "utcOffset": "-06:00",
     "dstOffset": "-06:00",
     "countries": [
-      "MEX"
+      "MX"
     ]
   }
 }

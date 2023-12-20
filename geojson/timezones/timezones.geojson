@@ -49,24 +49,24 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b00",
         "name": "Africa/Abidjan",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+00:00",
         "dstOffset": "+00:00",
         "countries": [
-          "CIV",
-          "BFA",
-          "GHA",
-          "GMB",
-          "GIN",
-          "MLI",
-          "MRT",
-          "SHN",
-          "SLE",
-          "SEN",
-          "TGO"
+          "CI",
+          "BF",
+          "GH",
+          "GM",
+          "GN",
+          "IS",
+          "ML",
+          "MR",
+          "SH",
+          "SL",
+          "SN",
+          "TG"
         ]
       }
     },
@@ -104,7 +104,14 @@
           ]
         ]
       },
-      "properties": "Africa/Accra"
+      "properties": {
+        "name": "Africa/Accra",
+        "type": "link",
+        "linkTo": "Africa/Abidjan",
+        "utcOffset": "+00:00",
+        "dstOffset": "+00:00",
+        "countries": ["GH"]
+      }
     },
     {
       "type": "Feature",
@@ -168,7 +175,14 @@
           ]
         ]
       },
-      "properties": "Africa/Addis_Ababa"
+      "properties": {
+        "name": "Africa/Addis_Ababa",
+        "type": "link",
+        "linkTo": "Africa/Nairobi",
+        "utcOffset": "+03:00",
+        "dstOffset": "+03:00",
+        "countries": ["ET"]
+      }
     },
     {
       "type": "Feature",
@@ -248,13 +262,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844af4",
         "name": "Africa/Algiers",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+01:00",
-        "countries": ["DZA"]
+        "countries": ["DZ"]
       }
     },
     {
@@ -299,7 +312,14 @@
           ]
         ]
       },
-      "properties": "Africa/Asmara"
+      "properties": {
+        "name": "Africa/Asmara",
+        "type": "link",
+        "linkTo": "Africa/Nairobi",
+        "utcOffset": "+03:00",
+        "dstOffset": "+03:00",
+        "countries": ["ER"]
+      }
     },
     {
       "type": "Feature",
@@ -379,13 +399,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b05",
         "name": "Africa/Bamako",
         "type": "link",
-        "aliasedTo": "Africa/Abidjan",
+        "linkTo": "Africa/Abidjan",
         "utcOffset": "+00:00",
         "dstOffset": "+00:00",
-        "countries": ["MLI"]
+        "countries": ["ML"]
       }
     },
     {
@@ -453,7 +472,14 @@
           ]
         ]
       },
-      "properties": "Africa/Bangui"
+      "properties": {
+        "name": "Africa/Bangui",
+        "type": "link",
+        "linkTo": "Africa/Lagos",
+        "utcOffset": "+01:00",
+        "dstOffset": "+01:00",
+        "countries": ["CF"]
+      }
     },
     {
       "type": "Feature",
@@ -473,7 +499,14 @@
           ]
         ]
       },
-      "properties": "Africa/Banjul"
+      "properties": {
+        "name": "Africa/Banjul",
+        "type": "link",
+        "linkTo": "Africa/Abidjan",
+        "utcOffset": "+00:00",
+        "dstOffset": "+00:00",
+        "countries": ["GM"]
+      }
     },
     {
       "type": "Feature",
@@ -497,13 +530,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b02",
         "name": "Africa/Bissau",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+00:00",
         "dstOffset": "+00:00",
-        "countries": ["GNB"]
+        "countries": ["GW"]
       }
     },
     {
@@ -543,7 +575,14 @@
           ]
         ]
       },
-      "properties": "Africa/Blantyre"
+      "properties": {
+        "name": "Africa/Blantyre",
+        "type": "link",
+        "linkTo": "Africa/Maputo",
+        "utcOffset": "+02:00",
+        "dstOffset": "+02:00",
+        "countries": ["MW"]
+      }
     },
     {
       "type": "Feature",
@@ -609,7 +648,14 @@
           ]
         ]
       },
-      "properties": "Africa/Brazzaville"
+      "properties": {
+        "name": "Africa/Brazzaville",
+        "type": "link",
+        "linkTo": "Africa/Lagos",
+        "utcOffset": "+01:00",
+        "dstOffset": "+01:00",
+        "countries": ["CG"]
+      }
     },
     {
       "type": "Feature",
@@ -632,7 +678,14 @@
           ]
         ]
       },
-      "properties": "Africa/Bujumbura"
+      "properties": {
+        "name": "Africa/Bujumbura",
+        "type": "link",
+        "linkTo": "Africa/Maputo",
+        "utcOffset": "+02:00",
+        "dstOffset": "+02:00",
+        "countries": ["BI"]
+      }
     },
     {
       "type": "Feature",
@@ -679,13 +732,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844aec",
         "name": "Africa/Cairo",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
-        "dstOffset": "+02:00",
-        "countries": ["EGY"]
+        "dstOffset": "+03:00",
+        "countries": ["EG"]
       }
     },
     {
@@ -737,13 +789,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b03",
         "name": "Africa/Casablanca",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+00:00",
-        "countries": ["MAR"]
+        "countries": ["MA"]
       }
     },
     {
@@ -760,13 +811,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b06",
         "name": "Africa/Ceuta",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["ESP"]
+        "countries": ["ES"]
       }
     },
     {
@@ -818,7 +868,14 @@
           ]
         ]
       },
-      "properties": "Africa/Conakry"
+      "properties": {
+        "name": "Africa/Conakry",
+        "type": "link",
+        "linkTo": "Africa/Abidjan",
+        "utcOffset": "+00:00",
+        "dstOffset": "+00:00",
+        "countries": ["GN"]
+      }
     },
     {
       "type": "Feature",
@@ -862,7 +919,14 @@
           ]
         ]
       },
-      "properties": "Africa/Dakar"
+      "properties": {
+        "name": "Africa/Dakar",
+        "type": "link",
+        "linkTo": "Africa/Abidjan",
+        "utcOffset": "+00:00",
+        "dstOffset": "+00:00",
+        "countries": ["SN"]
+      }
     },
     {
       "type": "Feature",
@@ -918,7 +982,14 @@
           ]
         ]
       },
-      "properties": "Africa/Dar_es_Salaam"
+      "properties": {
+        "name": "Africa/Dar_es_Salaam",
+        "type": "link",
+        "linkTo": "Africa/Nairobi",
+        "utcOffset": "+03:00",
+        "dstOffset": "+03:00",
+        "countries": ["TZ"]
+      }
     },
     {
       "type": "Feature",
@@ -941,7 +1012,14 @@
           ]
         ]
       },
-      "properties": "Africa/Djibouti"
+      "properties": {
+        "name": "Africa/Djibouti",
+        "type": "link",
+        "linkTo": "Africa/Nairobi",
+        "utcOffset": "+03:00",
+        "dstOffset": "+03:00",
+        "countries": ["DJ"]
+      }
     },
     {
       "type": "Feature",
@@ -1002,7 +1080,14 @@
           ]
         ]
       },
-      "properties": "Africa/Douala"
+      "properties": {
+        "name": "Africa/Douala",
+        "type": "link",
+        "linkTo": "Africa/Lagos",
+        "utcOffset": "+01:00",
+        "dstOffset": "+01:00",
+        "countries": ["CM"]
+      }
     },
     {
       "type": "Feature",
@@ -1036,13 +1121,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844af0",
         "name": "Africa/El_Aaiun",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+00:00",
-        "countries": ["ESH"]
+        "countries": ["EH"]
       }
     },
     {
@@ -1066,7 +1150,14 @@
           ]
         ]
       },
-      "properties": "Africa/Freetown"
+      "properties": {
+        "name": "Africa/Freetown",
+        "type": "link",
+        "linkTo": "Africa/Abidjan",
+        "utcOffset": "+00:00",
+        "dstOffset": "+00:00",
+        "countries": ["SL"]
+      }
     },
     {
       "type": "Feature",
@@ -1114,7 +1205,14 @@
           ]
         ]
       },
-      "properties": "Africa/Gaborone"
+      "properties": {
+        "name": "Africa/Gaborone",
+        "type": "link",
+        "linkTo": "Africa/Maputo",
+        "utcOffset": "+02:00",
+        "dstOffset": "+02:00",
+        "countries": ["BW"]
+      }
     },
     {
       "type": "Feature",
@@ -1154,7 +1252,14 @@
           ]
         ]
       },
-      "properties": "Africa/Harare"
+      "properties": {
+        "name": "Africa/Harare",
+        "type": "link",
+        "linkTo": "Africa/Maputo",
+        "utcOffset": "+02:00",
+        "dstOffset": "+02:00",
+        "countries": ["ZW"]
+      }
     },
     {
       "type": "Feature",
@@ -1258,13 +1363,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b04",
         "name": "Africa/Johannesburg",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+02:00",
-        "countries": ["ZAF", "LSO", "SWZ"]
+        "countries": ["ZA", "LS", "SZ"]
       }
     },
     {
@@ -1340,13 +1444,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b01",
         "name": "Africa/Juba",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+02:00",
-        "countries": ["SSD"]
+        "countries": ["SS"]
       }
     },
     {
@@ -1384,7 +1487,14 @@
           ]
         ]
       },
-      "properties": "Africa/Kampala"
+      "properties": {
+        "name": "Africa/Kampala",
+        "type": "link",
+        "linkTo": "Africa/Nairobi",
+        "utcOffset": "+03:00",
+        "dstOffset": "+03:00",
+        "countries": ["UG"]
+      }
     },
     {
       "type": "Feature",
@@ -1471,13 +1581,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844aed",
         "name": "Africa/Khartoum",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+02:00",
-        "countries": ["SDN"]
+        "countries": ["SD"]
       }
     },
     {
@@ -1501,7 +1610,14 @@
           ]
         ]
       },
-      "properties": "Africa/Kigali"
+      "properties": {
+        "name": "Africa/Kigali",
+        "type": "link",
+        "linkTo": "Africa/Maputo",
+        "utcOffset": "+02:00",
+        "dstOffset": "+02:00",
+        "countries": ["RW"]
+      }
     },
     {
       "type": "Feature",
@@ -1584,7 +1700,14 @@
           ]
         ]
       },
-      "properties": "Africa/Kinshasa"
+      "properties": {
+        "name": "Africa/Kinshasa",
+        "type": "link",
+        "linkTo": "Africa/Lagos",
+        "utcOffset": "+01:00",
+        "dstOffset": "+01:00",
+        "countries": ["CD"]
+      }
     },
     {
       "type": "Feature",
@@ -1644,23 +1767,22 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844aee",
         "name": "Africa/Lagos",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+01:00",
         "countries": [
-          "NGA",
-          "AGO",
-          "BEN",
-          "COD",
-          "CAF",
-          "COG",
-          "CMR",
-          "GAB",
-          "GNQ",
-          "NER"
+          "NG",
+          "AO",
+          "BJ",
+          "CD",
+          "CF",
+          "CG",
+          "CM",
+          "GA",
+          "GQ",
+          "NE"
         ]
       }
     },
@@ -1706,7 +1828,14 @@
           ]
         ]
       },
-      "properties": "Africa/Libreville"
+      "properties": {
+        "name": "Africa/Libreville",
+        "type": "link",
+        "linkTo": "Africa/Lagos",
+        "utcOffset": "+01:00",
+        "dstOffset": "+01:00",
+        "countries": ["GA"]
+      }
     },
     {
       "type": "Feature",
@@ -1735,7 +1864,14 @@
           ]
         ]
       },
-      "properties": "Africa/Lome"
+      "properties": {
+        "name": "Africa/Lome",
+        "type": "link",
+        "linkTo": "Africa/Abidjan",
+        "utcOffset": "+00:00",
+        "dstOffset": "+00:00",
+        "countries": ["TG"]
+      }
     },
     {
       "type": "Feature",
@@ -1812,7 +1948,14 @@
           ]
         ]
       },
-      "properties": "Africa/Luanda"
+      "properties": {
+        "name": "Africa/Luanda",
+        "type": "link",
+        "linkTo": "Africa/Lagos",
+        "utcOffset": "+01:00",
+        "dstOffset": "+01:00",
+        "countries": ["AO"]
+      }
     },
     {
       "type": "Feature",
@@ -1921,7 +2064,14 @@
           ]
         ]
       },
-      "properties": "Africa/Lubumbashi"
+      "properties": {
+        "name": "Africa/Lubumbashi",
+        "type": "link",
+        "linkTo": "Africa/Maputo",
+        "utcOffset": "+02:00",
+        "dstOffset": "+02:00",
+        "countries": ["CD"]
+      }
     },
     {
       "type": "Feature",
@@ -1982,7 +2132,14 @@
           ]
         ]
       },
-      "properties": "Africa/Lusaka"
+      "properties": {
+        "name": "Africa/Lusaka",
+        "type": "link",
+        "linkTo": "Africa/Maputo",
+        "utcOffset": "+02:00",
+        "dstOffset": "+02:00",
+        "countries": ["ZM"]
+      }
     },
     {
       "type": "Feature",
@@ -2023,13 +2180,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844aef",
         "name": "Africa/Malabo",
         "type": "link",
-        "aliasedTo": "Africa/Lagos",
+        "linkTo": "Africa/Lagos",
         "utcOffset": "+01:00",
         "dstOffset": "+01:00",
-        "countries": ["GNQ"]
+        "countries": ["GQ"]
       }
     },
     {
@@ -2108,13 +2264,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844af1",
         "name": "Africa/Maputo",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+02:00",
-        "countries": ["MOZ", "BDI", "BWA", "COD", "MWI", "RWA", "ZMB", "ZWE"]
+        "countries": ["MZ", "BI", "BW", "CD", "MW", "RW", "ZM", "ZW"]
       }
     },
     {
@@ -2135,7 +2290,14 @@
           ]
         ]
       },
-      "properties": "Africa/Maseru"
+      "properties": {
+        "name": "Africa/Maseru",
+        "type": "link",
+        "linkTo": "Africa/Johannesburg",
+        "utcOffset": "+02:00",
+        "dstOffset": "+02:00",
+        "countries": ["LS"]
+      }
     },
     {
       "type": "Feature",
@@ -2154,7 +2316,14 @@
           ]
         ]
       },
-      "properties": "Africa/Mbabane"
+      "properties": {
+        "name": "Africa/Mbabane",
+        "type": "link",
+        "linkTo": "Africa/Johannesburg",
+        "utcOffset": "+02:00",
+        "dstOffset": "+02:00",
+        "countries": ["SZ"]
+      }
     },
     {
       "type": "Feature",
@@ -2209,7 +2378,14 @@
           ]
         ]
       },
-      "properties": "Africa/Mogadishu"
+      "properties": {
+        "name": "Africa/Mogadishu",
+        "type": "link",
+        "linkTo": "Africa/Nairobi",
+        "utcOffset": "+03:00",
+        "dstOffset": "+03:00",
+        "countries": ["SO"]
+      }
     },
     {
       "type": "Feature",
@@ -2242,13 +2418,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844af2",
         "name": "Africa/Monrovia",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+00:00",
         "dstOffset": "+00:00",
-        "countries": ["LBR"]
+        "countries": ["LR"]
       }
     },
     {
@@ -2289,23 +2464,22 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844af3",
         "name": "Africa/Nairobi",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
         "countries": [
-          "KEN",
-          "DJI",
-          "ERI",
-          "ETH",
-          "COM",
-          "MDG",
-          "SOM",
-          "TZA",
-          "UGA",
-          "MYT"
+          "KE",
+          "DJ",
+          "ER",
+          "ET",
+          "KM",
+          "MG",
+          "SO",
+          "TZ",
+          "UG",
+          "YT"
         ]
       }
     },
@@ -2373,13 +2547,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844af5",
         "name": "Africa/Ndjamena",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+01:00",
-        "countries": ["TCD"]
+        "countries": ["TD"]
       }
     },
     {
@@ -2440,7 +2613,14 @@
           ]
         ]
       },
-      "properties": "Africa/Niamey"
+      "properties": {
+        "name": "Africa/Niamey",
+        "type": "link",
+        "linkTo": "Africa/Lagos",
+        "utcOffset": "+01:00",
+        "dstOffset": "+01:00",
+        "countries": ["NE"]
+      }
     },
     {
       "type": "Feature",
@@ -2489,7 +2669,14 @@
           ]
         ]
       },
-      "properties": "Africa/Nouakchott"
+      "properties": {
+        "name": "Africa/Nouakchott",
+        "type": "link",
+        "linkTo": "Africa/Abidjan",
+        "utcOffset": "+00:00",
+        "dstOffset": "+00:00",
+        "countries": ["MR"]
+      }
     },
     {
       "type": "Feature",
@@ -2539,7 +2726,14 @@
           ]
         ]
       },
-      "properties": "Africa/Ouagadougou"
+      "properties": {
+        "name": "Africa/Ouagadougou",
+        "type": "link",
+        "linkTo": "Africa/Abidjan",
+        "utcOffset": "+00:00",
+        "dstOffset": "+00:00",
+        "countries": ["BF"]
+      }
     },
     {
       "type": "Feature",
@@ -2572,7 +2766,14 @@
           ]
         ]
       },
-      "properties": "Africa/Porto-Novo"
+      "properties": {
+        "name": "Africa/Porto-Novo",
+        "type": "link",
+        "linkTo": "Africa/Lagos",
+        "utcOffset": "+01:00",
+        "dstOffset": "+01:00",
+        "countries": ["BJ"]
+      }
     },
     {
       "type": "Feature",
@@ -2593,13 +2794,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844af6",
         "name": "Africa/Sao_Tome",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+00:00",
         "dstOffset": "+00:00",
-        "countries": ["STP"]
+        "countries": ["ST"]
       }
     },
     {
@@ -2660,13 +2860,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844af8",
         "name": "Africa/Tripoli",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+02:00",
-        "countries": ["LBY"]
+        "countries": ["LY"]
       }
     },
     {
@@ -2708,13 +2907,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844af7",
         "name": "Africa/Tunis",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+01:00",
-        "countries": ["TUN"]
+        "countries": ["TN"]
       }
     },
     {
@@ -2771,13 +2969,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844af9",
         "name": "Africa/Windhoek",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+02:00",
-        "countries": ["NAM"]
+        "countries": ["NA"]
       }
     },
     {
@@ -2858,13 +3055,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844afa",
         "name": "America/Adak",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-10:00",
         "dstOffset": "-09:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -2953,13 +3149,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844aff",
         "name": "America/Anchorage",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-09:00",
         "dstOffset": "-08:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -2976,7 +3171,14 @@
           ]
         ]
       },
-      "properties": "America/Anguilla"
+      "properties": {
+        "name": "America/Anguilla",
+        "type": "link",
+        "linkTo": "America/Puerto_Rico",
+        "utcOffset": "-04:00",
+        "dstOffset": "-04:00",
+        "countries": ["AI"]
+      }
     },
     {
       "type": "Feature",
@@ -2995,7 +3197,14 @@
           ]
         ]
       },
-      "properties": "America/Antigua"
+      "properties": {
+        "name": "America/Antigua",
+        "type": "link",
+        "linkTo": "America/Puerto_Rico",
+        "utcOffset": "-04:00",
+        "dstOffset": "-04:00",
+        "countries": ["AG"]
+      }
     },
     {
       "type": "Feature",
@@ -3012,13 +3221,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b0f",
         "name": "America/Aruba",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["ABW"]
+        "countries": ["AW"]
       }
     },
     {
@@ -3074,13 +3282,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844afc",
         "name": "America/Araguaina",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -3119,13 +3326,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844afb",
         "name": "America/Argentina/Buenos_Aires",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["ARG"]
+        "countries": ["AR"]
       }
     },
     {
@@ -3190,13 +3396,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844afd",
         "name": "America/Argentina/Catamarca",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["ARG"]
+        "countries": ["AR"]
       }
     },
     {
@@ -3263,13 +3468,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844afe",
         "name": "America/Argentina/Cordoba",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["ARG"]
+        "countries": ["AR"]
       }
     },
     {
@@ -3300,13 +3504,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b07",
         "name": "America/Argentina/Jujuy",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["ARG"]
+        "countries": ["AR"]
       }
     },
     {
@@ -3338,13 +3541,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b08",
         "name": "America/Argentina/La_Rioja",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["ARG"]
+        "countries": ["AR"]
       }
     },
     {
@@ -3376,13 +3578,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b0a",
         "name": "America/Argentina/Mendoza",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["ARG"]
+        "countries": ["AR"]
       }
     },
     {
@@ -3425,13 +3626,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b09",
         "name": "America/Argentina/Rio_Gallegos",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["ARG"]
+        "countries": ["AR"]
       }
     },
     {
@@ -3507,13 +3707,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b0b",
         "name": "America/Argentina/Salta",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["ARG"]
+        "countries": ["AR"]
       }
     },
     {
@@ -3549,13 +3748,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b0c",
         "name": "America/Argentina/San_Juan",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["ARG"]
+        "countries": ["AR"]
       }
     },
     {
@@ -3582,13 +3780,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b0d",
         "name": "America/Argentina/San_Luis",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["ARG"]
+        "countries": ["AR"]
       }
     },
     {
@@ -3612,13 +3809,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b14",
         "name": "America/Argentina/Tucuman",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["ARG"]
+        "countries": ["AR"]
       }
     },
     {
@@ -3676,13 +3872,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b0e",
         "name": "America/Argentina/Ushuaia",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["ARG"]
+        "countries": ["AR"]
       }
     },
     {
@@ -3730,13 +3925,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b10",
         "name": "America/Asuncion",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-03:00",
-        "countries": ["PRY"]
+        "countries": ["PY"]
       }
     },
     {
@@ -3790,13 +3984,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b11",
         "name": "America/Atikokan",
         "type": "link",
-        "aliasedTo": "America/Panama",
+        "linkTo": "America/Panama",
         "utcOffset": "-05:00",
         "dstOffset": "-05:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -3867,13 +4060,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b12",
         "name": "America/Bahia",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -3891,13 +4083,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b13",
         "name": "America/Bahia_Banderas",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
-        "dstOffset": "-05:00",
-        "countries": ["MEX"]
+        "dstOffset": "-06:00",
+        "countries": ["MX"]
       }
     },
     {
@@ -3915,13 +4106,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b1f",
         "name": "America/Barbados",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["BRB"]
+        "countries": ["BB"]
       }
     },
     {
@@ -3991,13 +4181,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b17",
         "name": "America/Belem",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -4023,13 +4212,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b19",
         "name": "America/Belize",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-06:00",
-        "countries": ["BLZ"]
+        "countries": ["BZ"]
       }
     },
     {
@@ -4055,13 +4243,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b16",
         "name": "America/Blanc-Sablon",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -4111,13 +4298,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b18",
         "name": "America/Boa_Vista",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -4254,13 +4440,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b20",
         "name": "America/Bogota",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-05:00",
-        "countries": ["COL"]
+        "countries": ["CO"]
       }
     },
     {
@@ -4291,13 +4476,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b15",
         "name": "America/Boise",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-07:00",
         "dstOffset": "-06:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -4337,13 +4521,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b23",
         "name": "America/Cambridge_Bay",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-07:00",
         "dstOffset": "-06:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -4390,13 +4573,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b21",
         "name": "America/Campo_Grande",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -4427,13 +4609,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b1b",
         "name": "America/Cancun",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-05:00",
-        "countries": ["MEX"]
+        "countries": ["MX"]
       }
     },
     {
@@ -4588,13 +4769,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b1a",
         "name": "America/Caracas",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["VEN"]
+        "countries": ["VE"]
       }
     },
     {
@@ -4623,13 +4803,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b1e",
         "name": "America/Cayenne",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["GUF"]
+        "countries": ["GF"]
       }
     },
     {
@@ -4658,13 +4837,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b1c",
         "name": "America/Cayman",
         "type": "link",
-        "aliasedTo": "America/Panama",
+        "linkTo": "America/Panama",
         "utcOffset": "-05:00",
         "dstOffset": "-05:00",
-        "countries": ["CYM"]
+        "countries": ["KY"]
       }
     },
     {
@@ -4784,13 +4962,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b1d",
         "name": "America/Chicago",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-05:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -4832,13 +5009,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b22",
         "name": "America/Chihuahua",
         "type": "canonical",
-        "aliasedTo": null,
-        "utcOffset": "-07:00",
+        "linkTo": null,
+        "utcOffset": "-06:00",
         "dstOffset": "-06:00",
-        "countries": ["MEX"]
+        "countries": ["MX"]
       }
     },
     {
@@ -4867,7 +5043,14 @@
           ]
         ]
       },
-      "properties": "America/Ciudad_Juarez"
+      "properties": {
+        "name": "America/Ciudad_Juarez",
+        "type": "canonical",
+        "linkTo": null,
+        "utcOffset": "-07:00",
+        "dstOffset": "-06:00",
+        "countries": ["MX"]
+      }
     },
     {
       "type": "Feature",
@@ -4907,13 +5090,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b28",
         "name": "America/Costa_Rica",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-06:00",
-        "countries": ["CRI"]
+        "countries": ["CR"]
       }
     },
     {
@@ -4931,13 +5113,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b26",
         "name": "America/Creston",
         "type": "link",
-        "aliasedTo": "America/Phoenix",
+        "linkTo": "America/Phoenix",
         "utcOffset": "-07:00",
         "dstOffset": "-07:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -5001,13 +5182,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b24",
         "name": "America/Cuiaba",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -5026,13 +5206,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b37",
         "name": "America/Curacao",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["CUW"]
+        "countries": ["CW"]
       }
     },
     {
@@ -5054,13 +5233,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b2b",
         "name": "America/Danmarkshavn",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+00:00",
         "dstOffset": "+00:00",
-        "countries": ["GRL"]
+        "countries": ["GL"]
       }
     },
     {
@@ -5088,13 +5266,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b38",
         "name": "America/Dawson",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-07:00",
         "dstOffset": "-07:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -5117,13 +5294,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b3e",
         "name": "America/Dawson_Creek",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-07:00",
         "dstOffset": "-07:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -5213,13 +5389,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b39",
         "name": "America/Denver",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-07:00",
         "dstOffset": "-06:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -5260,13 +5435,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b3a",
         "name": "America/Detroit",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-04:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -5284,13 +5458,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b2c",
         "name": "America/Dominica",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["DMA"]
+        "countries": ["DM"]
       }
     },
     {
@@ -5353,13 +5526,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b25",
         "name": "America/Edmonton",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-07:00",
         "dstOffset": "-06:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -5387,13 +5559,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b27",
         "name": "America/Eirunepe",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-05:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -5417,13 +5588,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b2a",
         "name": "America/El_Salvador",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-06:00",
-        "countries": ["SLV"]
+        "countries": ["SV"]
       }
     },
     {
@@ -5445,13 +5615,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b29",
         "name": "America/Fort_Nelson",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-07:00",
         "dstOffset": "-07:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -5521,13 +5690,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b2e",
         "name": "America/Fortaleza",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -5558,13 +5726,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b2d",
         "name": "America/Glace_Bay",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-03:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -5618,13 +5785,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b31",
         "name": "America/Goose_Bay",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-03:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -5645,13 +5811,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b2f",
         "name": "America/Grand_Turk",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-04:00",
-        "countries": ["TCA"]
+        "countries": ["TC"]
       }
     },
     {
@@ -5669,13 +5834,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b30",
         "name": "America/Grenada",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["GRD"]
+        "countries": ["GD"]
       }
     },
     {
@@ -5695,13 +5859,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b35",
         "name": "America/Guadeloupe",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["GLP"]
+        "countries": ["GP"]
       }
     },
     {
@@ -5734,13 +5897,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b33",
         "name": "America/Guatemala",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-06:00",
-        "countries": ["GTM"]
+        "countries": ["GT"]
       }
     },
     {
@@ -5782,13 +5944,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b34",
         "name": "America/Guayaquil",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-05:00",
-        "countries": ["ECU"]
+        "countries": ["EC"]
       }
     },
     {
@@ -5837,13 +5998,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b36",
         "name": "America/Guyana",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["GUY"]
+        "countries": ["GY"]
       }
     },
     {
@@ -5896,13 +6056,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b3b",
         "name": "America/Halifax",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-03:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -5939,13 +6098,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b3c",
         "name": "America/Havana",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-04:00",
-        "countries": ["CUB"]
+        "countries": ["CU"]
       }
     },
     {
@@ -5982,13 +6140,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b3d",
         "name": "America/Hermosillo",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-07:00",
         "dstOffset": "-07:00",
-        "countries": ["MEX"]
+        "countries": ["MX"]
       }
     },
     {
@@ -6016,13 +6173,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b3f",
         "name": "America/Indiana/Indianapolis",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-04:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -6039,13 +6195,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b41",
         "name": "America/Indiana/Knox",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-05:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -6064,13 +6219,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b40",
         "name": "America/Indiana/Marengo",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-04:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -6088,13 +6242,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b42",
         "name": "America/Indiana/Tell_City",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-05:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -6115,13 +6268,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b5a",
         "name": "America/Indiana/Vincennes",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-04:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -6138,13 +6290,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b57",
         "name": "America/Indiana/Winamac",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-04:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -6191,13 +6342,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b49",
         "name": "America/Inuvik",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-07:00",
         "dstOffset": "-06:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -6302,13 +6452,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b54",
         "name": "America/Iqaluit",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-04:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -6332,13 +6481,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b47",
         "name": "America/Jamaica",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-05:00",
-        "countries": ["JAM"]
+        "countries": ["JM"]
       }
     },
     {
@@ -6366,13 +6514,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b48",
         "name": "America/Juneau",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-09:00",
         "dstOffset": "-08:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -6391,13 +6538,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b52",
         "name": "America/Kentucky/Louisville",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-04:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -6431,7 +6577,14 @@
           ]
         ]
       },
-      "properties": "America/Kralendijk"
+      "properties": {
+        "name": "America/Kralendijk",
+        "type": "link",
+        "linkTo": "America/Puerto_Rico",
+        "utcOffset": "-04:00",
+        "dstOffset": "-04:00",
+        "countries": ["BQ"]
+      }
     },
     {
       "type": "Feature",
@@ -6508,13 +6661,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b45",
         "name": "America/La_Paz",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["BOL"]
+        "countries": ["BO"]
       }
     },
     {
@@ -6609,13 +6761,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b46",
         "name": "America/Lima",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-05:00",
-        "countries": ["PER"]
+        "countries": ["PE"]
       }
     },
     {
@@ -6692,13 +6843,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b4a",
         "name": "America/Los_Angeles",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-08:00",
         "dstOffset": "-07:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -6719,13 +6869,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b4b",
         "name": "America/Lower_Princes",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["SXM"]
+        "countries": ["SX"]
       }
     },
     {
@@ -6754,13 +6903,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b4c",
         "name": "America/Maceio",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -6801,13 +6949,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b4d",
         "name": "America/Managua",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-06:00",
-        "countries": ["NIC"]
+        "countries": ["NI"]
       }
     },
     {
@@ -6875,13 +7022,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b4f",
         "name": "America/Manaus",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -6902,13 +7048,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b4e",
         "name": "America/Marigot",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["MAF"]
+        "countries": ["MF"]
       }
     },
     {
@@ -6928,13 +7073,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b51",
         "name": "America/Martinique",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["MTQ"]
+        "countries": ["MQ"]
       }
     },
     {
@@ -6983,13 +7127,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b56",
         "name": "America/Matamoros",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-05:00",
-        "countries": ["MEX"]
+        "countries": ["MX"]
       }
     },
     {
@@ -7086,13 +7229,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b53",
         "name": "America/Mazatlan",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-07:00",
-        "dstOffset": "-06:00",
-        "countries": ["MEX"]
+        "dstOffset": "-07:00",
+        "countries": ["MX"]
       }
     },
     {
@@ -7109,13 +7251,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b5c",
         "name": "America/Miquelon",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-02:00",
-        "countries": ["SPM"]
+        "countries": ["PM"]
       }
     },
     {
@@ -7138,13 +7279,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b58",
         "name": "America/Menominee",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-05:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -7194,13 +7334,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b55",
         "name": "America/Merida",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
-        "dstOffset": "-05:00",
-        "countries": ["MEX"]
+        "dstOffset": "-06:00",
+        "countries": ["MX"]
       }
     },
     {
@@ -7274,13 +7413,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b5b",
         "name": "America/Mexico_City",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
-        "dstOffset": "-05:00",
-        "countries": ["MEX"]
+        "dstOffset": "-06:00",
+        "countries": ["MX"]
       }
     },
     {
@@ -7318,13 +7456,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b5d",
         "name": "America/Moncton",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-03:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -7392,13 +7529,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b5e",
         "name": "America/Monterrey",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
-        "dstOffset": "-05:00",
-        "countries": ["MEX"]
+        "dstOffset": "-06:00",
+        "countries": ["MX"]
       }
     },
     {
@@ -7435,13 +7571,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b63",
         "name": "America/Montevideo",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["URY"]
+        "countries": ["UY"]
       }
     },
     {
@@ -7458,13 +7593,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b5f",
         "name": "America/Montserrat",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["MSR"]
+        "countries": ["MS"]
       }
     },
     {
@@ -7500,13 +7634,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b61",
         "name": "America/Nassau",
         "type": "link",
-        "aliasedTo": "America/Toronto",
+        "linkTo": "America/Toronto",
         "utcOffset": "-05:00",
         "dstOffset": "-04:00",
-        "countries": ["BHS"]
+        "countries": ["BS"]
       }
     },
     {
@@ -7620,13 +7753,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b60",
         "name": "America/New_York",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-04:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -7754,13 +7886,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b62",
         "name": "America/Nome",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-09:00",
         "dstOffset": "-08:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -7777,13 +7908,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b65",
         "name": "America/Noronha",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-02:00",
         "dstOffset": "-02:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -7802,13 +7932,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b66",
         "name": "America/North_Dakota/Beulah",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-05:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -7825,13 +7954,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b67",
         "name": "America/North_Dakota/Center",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-05:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -7854,13 +7982,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b68",
         "name": "America/North_Dakota/New_Salem",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-05:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -7931,7 +8058,14 @@
           ]
         ]
       },
-      "properties": "America/Nuuk"
+      "properties": {
+        "name": "America/Nuuk",
+        "type": "canonical",
+        "linkTo": null,
+        "utcOffset": "-02:00",
+        "dstOffset": "-01:00",
+        "countries": ["GL"]
+      }
     },
     {
       "type": "Feature",
@@ -7954,13 +8088,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b69",
         "name": "America/Ojinaga",
         "type": "canonical",
-        "aliasedTo": null,
-        "utcOffset": "-07:00",
-        "dstOffset": "-06:00",
-        "countries": ["MEX"]
+        "linkTo": null,
+        "utcOffset": "-06:00",
+        "dstOffset": "-05:00",
+        "countries": ["MX"]
       }
     },
     {
@@ -7992,13 +8125,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b6b",
         "name": "America/Panama",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-05:00",
-        "countries": ["PAN", "CAN", "CYM"]
+        "countries": ["PA", "CA", "KY"]
       }
     },
     {
@@ -8035,13 +8167,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b70",
         "name": "America/Paramaribo",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["SUR"]
+        "countries": ["SR"]
       }
     },
     {
@@ -8087,13 +8218,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b6a",
         "name": "America/Phoenix",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-07:00",
         "dstOffset": "-07:00",
-        "countries": ["USA", "CAN"]
+        "countries": ["US", "CA"]
       }
     },
     {
@@ -8135,13 +8265,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b6e",
         "name": "America/Port-au-Prince",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-04:00",
-        "countries": ["HTI"]
+        "countries": ["HT"]
       }
     },
     {
@@ -8163,13 +8292,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b6d",
         "name": "America/Port_of_Spain",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["TTO"]
+        "countries": ["TT"]
       }
     },
     {
@@ -8214,13 +8342,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b71",
         "name": "America/Porto_Velho",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -8252,33 +8379,32 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b73",
         "name": "America/Puerto_Rico",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
         "countries": [
-          "PRI",
-          "ATG",
-          "CAN",
-          "AIA",
-          "ABW",
-          "BLM",
-          "BES",
-          "CUW",
-          "DMA",
-          "GRD",
-          "GLP",
-          "KNA",
-          "LCA",
-          "MAF",
-          "MSR",
-          "SXM",
-          "TTO",
-          "VCT",
-          "VGB",
-          "VIR"
+          "PR",
+          "AG",
+          "CA",
+          "AI",
+          "AW",
+          "BL",
+          "BQ",
+          "CW",
+          "DM",
+          "GD",
+          "GP",
+          "KN",
+          "LC",
+          "MF",
+          "MS",
+          "SX",
+          "TT",
+          "VC",
+          "VG",
+          "VI"
         ]
       }
     },
@@ -8332,7 +8458,14 @@
           ]
         ]
       },
-      "properties": "America/Punta_Arenas"
+      "properties": {
+        "name": "America/Punta_Arenas",
+        "type": "canonical",
+        "linkTo": null,
+        "utcOffset": "-03:00",
+        "dstOffset": "-03:00",
+        "countries": ["CL"]
+      }
     },
     {
       "type": "Feature",
@@ -8396,13 +8529,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b72",
         "name": "America/Rankin_Inlet",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-05:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -8446,13 +8578,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b75",
         "name": "America/Recife",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -8488,13 +8619,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b74",
         "name": "America/Regina",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-06:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -8514,13 +8644,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b76",
         "name": "America/Resolute",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-05:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -8554,13 +8683,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b7c",
         "name": "America/Rio_Branco",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-05:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -8623,13 +8751,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b7a",
         "name": "America/Santarem",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -8770,13 +8897,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b78",
         "name": "America/Santiago",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-03:00",
-        "countries": ["CHL"]
+        "countries": ["CL"]
       }
     },
     {
@@ -8806,13 +8932,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b7b",
         "name": "America/Santo_Domingo",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["DOM"]
+        "countries": ["DO"]
       }
     },
     {
@@ -8927,13 +9052,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b77",
         "name": "America/Sao_Paulo",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["BRA"]
+        "countries": ["BR"]
       }
     },
     {
@@ -8954,13 +9078,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b79",
         "name": "America/Scoresbysund",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-01:00",
         "dstOffset": "+00:00",
-        "countries": ["GRL"]
+        "countries": ["GL"]
       }
     },
     {
@@ -8994,13 +9117,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b90",
         "name": "America/Sitka",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-09:00",
         "dstOffset": "-08:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -9021,13 +9143,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b7e",
         "name": "America/St_Barthelemy",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["BLM"]
+        "countries": ["BL"]
       }
     },
     {
@@ -9065,13 +9186,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b82",
         "name": "America/St_Johns",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:30",
         "dstOffset": "-02:30",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -9089,13 +9209,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b81",
         "name": "America/St_Kitts",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["KNA"]
+        "countries": ["KN"]
       }
     },
     {
@@ -9115,13 +9234,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b91",
         "name": "America/St_Lucia",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["LCA"]
+        "countries": ["LC"]
       }
     },
     {
@@ -9149,13 +9267,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b7d",
         "name": "America/St_Thomas",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["VIR"]
+        "countries": ["VI"]
       }
     },
     {
@@ -9175,13 +9292,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b80",
         "name": "America/St_Vincent",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["VCT"]
+        "countries": ["VC"]
       }
     },
     {
@@ -9215,13 +9331,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b7f",
         "name": "America/Swift_Current",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-06:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -9265,13 +9380,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b83",
         "name": "America/Tegucigalpa",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-06:00",
-        "countries": ["HND"]
+        "countries": ["HN"]
       }
     },
     {
@@ -9297,13 +9411,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b84",
         "name": "America/Thule",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-03:00",
-        "countries": ["GRL"]
+        "countries": ["GL"]
       }
     },
     {
@@ -9353,13 +9466,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b86",
         "name": "America/Tijuana",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-08:00",
         "dstOffset": "-07:00",
-        "countries": ["MEX"]
+        "countries": ["MX"]
       }
     },
     {
@@ -9496,13 +9608,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b8f",
         "name": "America/Toronto",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-05:00",
         "dstOffset": "-04:00",
-        "countries": ["CAN", "BHS"]
+        "countries": ["CA", "BS"]
       }
     },
     {
@@ -9521,13 +9632,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b87",
         "name": "America/Tortola",
         "type": "link",
-        "aliasedTo": "America/Puerto_Rico",
+        "linkTo": "America/Puerto_Rico",
         "utcOffset": "-04:00",
         "dstOffset": "-04:00",
-        "countries": ["VGB"]
+        "countries": ["VG"]
       }
     },
     {
@@ -9595,13 +9705,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b88",
         "name": "America/Vancouver",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-08:00",
         "dstOffset": "-07:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -9639,13 +9748,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b89",
         "name": "America/Whitehorse",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-07:00",
         "dstOffset": "-07:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -9699,13 +9807,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b8e",
         "name": "America/Winnipeg",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-05:00",
-        "countries": ["CAN"]
+        "countries": ["CA"]
       }
     },
     {
@@ -9728,13 +9835,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b8a",
         "name": "America/Yakutat",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-09:00",
         "dstOffset": "-08:00",
-        "countries": ["USA"]
+        "countries": ["US"]
       }
     },
     {
@@ -9753,13 +9859,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b8c",
         "name": "Antarctica/Casey",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+11:00",
         "dstOffset": "+11:00",
-        "countries": ["ATA"]
+        "countries": ["AQ"]
       }
     },
     {
@@ -9777,13 +9882,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b8d",
         "name": "Antarctica/Davis",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+07:00",
         "dstOffset": "+07:00",
-        "countries": ["ATA"]
+        "countries": ["AQ"]
       }
     },
     {
@@ -9805,13 +9909,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b9a",
         "name": "Antarctica/DumontDUrville",
         "type": "link",
-        "aliasedTo": "Pacific/Port_Moresby",
+        "linkTo": "Pacific/Port_Moresby",
         "utcOffset": "+10:00",
         "dstOffset": "+10:00",
-        "countries": ["ATA"]
+        "countries": ["AQ"]
       }
     },
     {
@@ -9829,13 +9932,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b95",
         "name": "Antarctica/Macquarie",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+10:00",
         "dstOffset": "+11:00",
-        "countries": ["AUS"]
+        "countries": ["AU"]
       }
     },
     {
@@ -9853,13 +9955,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b93",
         "name": "Antarctica/Mawson",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:00",
         "dstOffset": "+05:00",
-        "countries": ["ATA"]
+        "countries": ["AQ"]
       }
     },
     {
@@ -9904,13 +10005,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b97",
         "name": "Antarctica/McMurdo",
         "type": "link",
-        "aliasedTo": "Pacific/Auckland",
+        "linkTo": "Pacific/Auckland",
         "utcOffset": "+12:00",
         "dstOffset": "+13:00",
-        "countries": ["ATA"]
+        "countries": ["AQ"]
       }
     },
     {
@@ -9928,13 +10028,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b94",
         "name": "Antarctica/Palmer",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["ATA"]
+        "countries": ["AQ"]
       }
     },
     {
@@ -9963,13 +10062,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b96",
         "name": "Antarctica/Rothera",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["ATA"]
+        "countries": ["AQ"]
       }
     },
     {
@@ -9988,13 +10086,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b98",
         "name": "Antarctica/Syowa",
         "type": "link",
-        "aliasedTo": "Asia/Riyadh",
+        "linkTo": "Asia/Riyadh",
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["ATA"]
+        "countries": ["AQ"]
       }
     },
     {
@@ -10013,13 +10110,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b92",
         "name": "Antarctica/Troll",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+00:00",
         "dstOffset": "+02:00",
-        "countries": ["ATA"]
+        "countries": ["AQ"]
       }
     },
     {
@@ -10040,13 +10136,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b99",
         "name": "Antarctica/Vostok",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Asia/Urumqi",
         "utcOffset": "+06:00",
         "dstOffset": "+06:00",
-        "countries": ["ATA"]
+        "countries": ["AQ"]
       }
     },
     {
@@ -10118,13 +10213,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b9c",
         "name": "Arctic/Longyearbyen",
         "type": "link",
-        "aliasedTo": "Europe/Oslo",
+        "linkTo": "Europe/Berlin",
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["SJM"]
+        "countries": ["SJ"]
       }
     },
     {
@@ -10211,13 +10305,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b9b",
         "name": "Asia/Aden",
         "type": "link",
-        "aliasedTo": "Asia/Riyadh",
+        "linkTo": "Asia/Riyadh",
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["YEM"]
+        "countries": ["YE"]
       }
     },
     {
@@ -10320,13 +10413,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844ba8",
         "name": "Asia/Almaty",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+06:00",
         "dstOffset": "+06:00",
-        "countries": ["KAZ"]
+        "countries": ["KZ"]
       }
     },
     {
@@ -10354,13 +10446,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bae",
         "name": "Asia/Amman",
         "type": "canonical",
-        "aliasedTo": null,
-        "utcOffset": "+02:00",
+        "linkTo": null,
+        "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["JOR"]
+        "countries": ["JO"]
       }
     },
     {
@@ -10537,13 +10628,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844baf",
         "name": "Asia/Anadyr",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+12:00",
         "dstOffset": "+12:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -10581,13 +10671,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844ba1",
         "name": "Asia/Aqtau",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:00",
         "dstOffset": "+05:00",
-        "countries": ["KAZ"]
+        "countries": ["KZ"]
       }
     },
     {
@@ -10638,13 +10727,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bb2",
         "name": "Asia/Aqtobe",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:00",
         "dstOffset": "+05:00",
-        "countries": ["KAZ"]
+        "countries": ["KZ"]
       }
     },
     {
@@ -10708,13 +10796,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b9e",
         "name": "Asia/Ashgabat",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:00",
         "dstOffset": "+05:00",
-        "countries": ["TKM"]
+        "countries": ["TM"]
       }
     },
     {
@@ -10754,7 +10841,14 @@
           ]
         ]
       },
-      "properties": "Asia/Atyrau"
+      "properties": {
+        "name": "Asia/Atyrau",
+        "type": "canonical",
+        "linkTo": null,
+        "utcOffset": "+05:00",
+        "dstOffset": "+05:00",
+        "countries": ["KZ"]
+      }
     },
     {
       "type": "Feature",
@@ -10801,13 +10895,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b9f",
         "name": "Asia/Baghdad",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["IRQ"]
+        "countries": ["IQ"]
       }
     },
     {
@@ -10825,13 +10918,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844b9d",
         "name": "Asia/Bahrain",
         "type": "link",
-        "aliasedTo": "Asia/Qatar",
+        "linkTo": "Asia/Qatar",
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["BHR"]
+        "countries": ["BH"]
       }
     },
     {
@@ -10884,13 +10976,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844ba0",
         "name": "Asia/Baku",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+04:00",
         "dstOffset": "+04:00",
-        "countries": ["AZE"]
+        "countries": ["AZ"]
       }
     },
     {
@@ -11034,13 +11125,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844ba2",
         "name": "Asia/Bangkok",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+07:00",
         "dstOffset": "+07:00",
-        "countries": ["THA", "KHM", "LAO", "VNM"]
+        "countries": ["TH", "CX", "KH", "LA", "VN"]
       }
     },
     {
@@ -11092,13 +11182,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844ba3",
         "name": "Asia/Barnaul",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+07:00",
         "dstOffset": "+07:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -11118,13 +11207,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844ba5",
         "name": "Asia/Beirut",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+03:00",
-        "countries": ["LBN"]
+        "countries": ["LB"]
       }
     },
     {
@@ -11176,13 +11264,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844ba4",
         "name": "Asia/Bishkek",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+06:00",
         "dstOffset": "+06:00",
-        "countries": ["KGZ"]
+        "countries": ["KG"]
       }
     },
     {
@@ -11202,13 +11289,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844ba7",
         "name": "Asia/Brunei",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Asia/Kuching",
         "utcOffset": "+08:00",
         "dstOffset": "+08:00",
-        "countries": ["BRN"]
+        "countries": ["BN"]
       }
     },
     {
@@ -11273,13 +11359,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844ba6",
         "name": "Asia/Chita",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+09:00",
         "dstOffset": "+09:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -11323,13 +11408,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bac",
         "name": "Asia/Choibalsan",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+08:00",
         "dstOffset": "+08:00",
-        "countries": ["MNG"]
+        "countries": ["MN"]
       }
     },
     {
@@ -11358,13 +11442,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844ba9",
         "name": "Asia/Colombo",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:30",
         "dstOffset": "+05:30",
-        "countries": ["LKA"]
+        "countries": ["LK"]
       }
     },
     {
@@ -11402,13 +11485,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844baa",
         "name": "Asia/Damascus",
         "type": "canonical",
-        "aliasedTo": null,
-        "utcOffset": "+02:00",
+        "linkTo": null,
+        "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["SYR"]
+        "countries": ["SY"]
       }
     },
     {
@@ -11452,13 +11534,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bab",
         "name": "Asia/Dhaka",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+06:00",
         "dstOffset": "+06:00",
-        "countries": ["BGD"]
+        "countries": ["BD"]
       }
     },
     {
@@ -11490,13 +11571,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bad",
         "name": "Asia/Dili",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+09:00",
         "dstOffset": "+09:00",
-        "countries": ["TLS"]
+        "countries": ["TL"]
       }
     },
     {
@@ -11531,13 +11611,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bb3",
         "name": "Asia/Dubai",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+04:00",
         "dstOffset": "+04:00",
-        "countries": ["ARE", "OMN"]
+        "countries": ["AE", "OM", "RE", "SC", "TF"]
       }
     },
     {
@@ -11589,13 +11668,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bb0",
         "name": "Asia/Dushanbe",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:00",
         "dstOffset": "+05:00",
-        "countries": ["TJK"]
+        "countries": ["TJ"]
       }
     },
     {
@@ -11615,7 +11693,14 @@
           ]
         ]
       },
-      "properties": "Asia/Famagusta"
+      "properties": {
+        "name": "Asia/Famagusta",
+        "type": "canonical",
+        "linkTo": null,
+        "utcOffset": "+02:00",
+        "dstOffset": "+03:00",
+        "countries": ["CY"]
+      }
     },
     {
       "type": "Feature",
@@ -11632,13 +11717,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bb5",
         "name": "Asia/Gaza",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+03:00",
-        "countries": ["PSE"]
+        "countries": ["PS"]
       }
     },
     {
@@ -11657,13 +11741,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bb1",
         "name": "Asia/Hebron",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+03:00",
-        "countries": ["PSE"]
+        "countries": ["PS"]
       }
     },
     {
@@ -11705,13 +11788,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bb4",
         "name": "Asia/Ho_Chi_Minh",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+07:00",
         "dstOffset": "+07:00",
-        "countries": ["VNM"]
+        "countries": ["VN"]
       }
     },
     {
@@ -11729,13 +11811,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bb9",
         "name": "Asia/Hong_Kong",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+08:00",
         "dstOffset": "+08:00",
-        "countries": ["HKG"]
+        "countries": ["HK"]
       }
     },
     {
@@ -11786,13 +11867,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bb8",
         "name": "Asia/Hovd",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+07:00",
         "dstOffset": "+07:00",
-        "countries": ["MNG"]
+        "countries": ["MN"]
       }
     },
     {
@@ -11889,13 +11969,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bc4",
         "name": "Asia/Irkutsk",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+08:00",
         "dstOffset": "+08:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -11966,13 +12045,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bb6",
         "name": "Asia/Jakarta",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+07:00",
         "dstOffset": "+07:00",
-        "countries": ["IDN"]
+        "countries": ["ID"]
       }
     },
     {
@@ -12039,13 +12117,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bb7",
         "name": "Asia/Jayapura",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+09:00",
         "dstOffset": "+09:00",
-        "countries": ["IDN"]
+        "countries": ["ID"]
       }
     },
     {
@@ -12069,13 +12146,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bc3",
         "name": "Asia/Jerusalem",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+03:00",
-        "countries": ["ISR"]
+        "countries": ["IL"]
       }
     },
     {
@@ -12145,13 +12221,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bba",
         "name": "Asia/Kabul",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+04:30",
         "dstOffset": "+04:30",
-        "countries": ["AFG"]
+        "countries": ["AF"]
       }
     },
     {
@@ -12237,13 +12312,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bcb",
         "name": "Asia/Kamchatka",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+12:00",
         "dstOffset": "+12:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -12327,13 +12401,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bc2",
         "name": "Asia/Karachi",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:00",
         "dstOffset": "+05:00",
-        "countries": ["PAK"]
+        "countries": ["PK"]
       }
     },
     {
@@ -12377,13 +12450,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bc1",
         "name": "Asia/Kathmandu",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:45",
         "dstOffset": "+05:45",
-        "countries": ["NPL"]
+        "countries": ["NP"]
       }
     },
     {
@@ -12432,13 +12504,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bcc",
         "name": "Asia/Khandyga",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+09:00",
         "dstOffset": "+09:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -12656,13 +12727,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bbb",
         "name": "Asia/Kolkata",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:30",
         "dstOffset": "+05:30",
-        "countries": ["IND"]
+        "countries": ["IN"]
       }
     },
     {
@@ -12881,13 +12951,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bbc",
         "name": "Asia/Krasnoyarsk",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+07:00",
         "dstOffset": "+07:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -12925,13 +12994,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bbd",
         "name": "Asia/Kuala_Lumpur",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Asia/Singapore",
         "utcOffset": "+08:00",
         "dstOffset": "+08:00",
-        "countries": ["MYS"]
+        "countries": ["MY"]
       }
     },
     {
@@ -12999,13 +13067,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bbe",
         "name": "Asia/Kuching",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+08:00",
         "dstOffset": "+08:00",
-        "countries": ["MYS"]
+        "countries": ["MY", "BN"]
       }
     },
     {
@@ -13027,13 +13094,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bbf",
         "name": "Asia/Kuwait",
         "type": "link",
-        "aliasedTo": "Asia/Riyadh",
+        "linkTo": "Asia/Riyadh",
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["KWT"]
+        "countries": ["KW"]
       }
     },
     {
@@ -13136,13 +13202,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bc6",
         "name": "Asia/Magadan",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+11:00",
         "dstOffset": "+11:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -13232,13 +13297,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bd9",
         "name": "Asia/Makassar",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+08:00",
         "dstOffset": "+08:00",
-        "countries": ["IDN"]
+        "countries": ["ID"]
       }
     },
     {
@@ -13339,13 +13403,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bd4",
         "name": "Asia/Manila",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+08:00",
         "dstOffset": "+08:00",
-        "countries": ["PHL"]
+        "countries": ["PH"]
       }
     },
     {
@@ -13401,13 +13464,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bc5",
         "name": "Asia/Muscat",
         "type": "link",
-        "aliasedTo": "Asia/Dubai",
+        "linkTo": "Asia/Dubai",
         "utcOffset": "+04:00",
         "dstOffset": "+04:00",
-        "countries": ["OMN"]
+        "countries": ["OM"]
       }
     },
     {
@@ -13428,13 +13490,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bc8",
         "name": "Asia/Nicosia",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+03:00",
-        "countries": ["CYP"]
+        "countries": ["CY"]
       }
     },
     {
@@ -13465,13 +13526,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bcd",
         "name": "Asia/Novokuznetsk",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+07:00",
         "dstOffset": "+07:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -13512,13 +13572,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bd0",
         "name": "Asia/Novosibirsk",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+07:00",
         "dstOffset": "+07:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -13555,13 +13614,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bc7",
         "name": "Asia/Omsk",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+06:00",
         "dstOffset": "+06:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -13601,13 +13659,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bc9",
         "name": "Asia/Oral",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:00",
         "dstOffset": "+05:00",
-        "countries": ["KAZ"]
+        "countries": ["KZ"]
       }
     },
     {
@@ -13647,13 +13704,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bca",
         "name": "Asia/Phnom_Penh",
         "type": "link",
-        "aliasedTo": "Asia/Bangkok",
+        "linkTo": "Asia/Bangkok",
         "utcOffset": "+07:00",
         "dstOffset": "+07:00",
-        "countries": ["KHM"]
+        "countries": ["KH"]
       }
     },
     {
@@ -13703,13 +13759,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bcf",
         "name": "Asia/Pontianak",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+07:00",
         "dstOffset": "+07:00",
-        "countries": ["IDN"]
+        "countries": ["ID"]
       }
     },
     {
@@ -13749,13 +13804,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bce",
         "name": "Asia/Pyongyang",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+09:00",
         "dstOffset": "+09:00",
-        "countries": ["PRK"]
+        "countries": ["KP"]
       }
     },
     {
@@ -13786,13 +13840,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bd2",
         "name": "Asia/Qatar",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["QAT", "BHR"]
+        "countries": ["QA", "BH"]
       }
     },
     {
@@ -13836,7 +13889,14 @@
           ]
         ]
       },
-      "properties": "Asia/Qostanay"
+      "properties": {
+        "name": "Asia/Qostanay",
+        "type": "canonical",
+        "linkTo": null,
+        "utcOffset": "+06:00",
+        "dstOffset": "+06:00",
+        "countries": ["KZ"]
+      }
     },
     {
       "type": "Feature",
@@ -13875,13 +13935,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bd1",
         "name": "Asia/Qyzylorda",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:00",
         "dstOffset": "+05:00",
-        "countries": ["KAZ"]
+        "countries": ["KZ"]
       }
     },
     {
@@ -13957,13 +14016,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844be6",
         "name": "Asia/Riyadh",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["SAU", "ATA", "KWT", "YEM"]
+        "countries": ["SA", "AQ", "KW", "YE"]
       }
     },
     {
@@ -14018,13 +14076,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bda",
         "name": "Asia/Sakhalin",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+11:00",
         "dstOffset": "+11:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -14077,13 +14134,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bd8",
         "name": "Asia/Samarkand",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:00",
         "dstOffset": "+05:00",
-        "countries": ["UZB"]
+        "countries": ["UZ"]
       }
     },
     {
@@ -14142,13 +14198,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bd5",
         "name": "Asia/Seoul",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+09:00",
         "dstOffset": "+09:00",
-        "countries": ["KOR"]
+        "countries": ["KR"]
       }
     },
     {
@@ -14459,13 +14514,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bd6",
         "name": "Asia/Shanghai",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+08:00",
         "dstOffset": "+08:00",
-        "countries": ["CHN"]
+        "countries": ["CN"]
       }
     },
     {
@@ -14492,13 +14546,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bd7",
         "name": "Asia/Singapore",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+08:00",
         "dstOffset": "+08:00",
-        "countries": ["SGP", "MYS"]
+        "countries": ["SG", "MY"]
       }
     },
     {
@@ -14602,13 +14655,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bdb",
         "name": "Asia/Srednekolymsk",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+11:00",
         "dstOffset": "+11:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -14644,13 +14696,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844be3",
         "name": "Asia/Taipei",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+08:00",
         "dstOffset": "+08:00",
-        "countries": ["TWN"]
+        "countries": ["TW"]
       }
     },
     {
@@ -14688,13 +14739,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bdc",
         "name": "Asia/Tashkent",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:00",
         "dstOffset": "+05:00",
-        "countries": ["UZB"]
+        "countries": ["UZ"]
       }
     },
     {
@@ -14731,13 +14781,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bdd",
         "name": "Asia/Tbilisi",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+04:00",
         "dstOffset": "+04:00",
-        "countries": ["GEO"]
+        "countries": ["GE"]
       }
     },
     {
@@ -14828,13 +14877,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844be2",
         "name": "Asia/Tehran",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+03:30",
-        "dstOffset": "+04:30",
-        "countries": ["IRN"]
+        "dstOffset": "+03:30",
+        "countries": ["IR"]
       }
     },
     {
@@ -14864,13 +14912,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844be4",
         "name": "Asia/Thimphu",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+06:00",
         "dstOffset": "+06:00",
-        "countries": ["BTN"]
+        "countries": ["BT"]
       }
     },
     {
@@ -15093,13 +15140,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bde",
         "name": "Asia/Tokyo",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+09:00",
         "dstOffset": "+09:00",
-        "countries": ["JPN"]
+        "countries": ["JP"]
       }
     },
     {
@@ -15145,13 +15191,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844be0",
         "name": "Asia/Tomsk",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+07:00",
         "dstOffset": "+07:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -15219,13 +15264,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bdf",
         "name": "Asia/Ulaanbaatar",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+08:00",
         "dstOffset": "+08:00",
-        "countries": ["MNG"]
+        "countries": ["MN"]
       }
     },
     {
@@ -15323,13 +15367,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844be1",
         "name": "Asia/Urumqi",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+06:00",
         "dstOffset": "+06:00",
-        "countries": ["CHN"]
+        "countries": ["CN", "AQ"]
       }
     },
     {
@@ -15361,13 +15404,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844be5",
         "name": "Asia/Ust-Nera",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+10:00",
         "dstOffset": "+10:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -15431,13 +15473,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844be7",
         "name": "Asia/Vientiane",
         "type": "link",
-        "aliasedTo": "Asia/Bangkok",
+        "linkTo": "Asia/Bangkok",
         "utcOffset": "+07:00",
         "dstOffset": "+07:00",
-        "countries": ["LAO"]
+        "countries": ["LA"]
       }
     },
     {
@@ -15594,13 +15635,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bed",
         "name": "Asia/Vladivostok",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+10:00",
         "dstOffset": "+10:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -15817,13 +15857,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844be9",
         "name": "Asia/Yakutsk",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+09:00",
         "dstOffset": "+09:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -15931,7 +15970,14 @@
           ]
         ]
       },
-      "properties": "Asia/Yangon"
+      "properties": {
+        "name": "Asia/Yangon",
+        "type": "canonical",
+        "linkTo": null,
+        "utcOffset": "+06:30",
+        "dstOffset": "+06:30",
+        "countries": ["MM", "CC"]
+      }
     },
     {
       "type": "Feature",
@@ -16072,13 +16118,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bec",
         "name": "Asia/Yekaterinburg",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:00",
         "dstOffset": "+05:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -16107,13 +16152,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bea",
         "name": "Asia/Yerevan",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+04:00",
         "dstOffset": "+04:00",
-        "countries": ["ARM"]
+        "countries": ["AM"]
       }
     },
     {
@@ -16160,13 +16204,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bef",
         "name": "Atlantic/Azores",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-01:00",
         "dstOffset": "+00:00",
-        "countries": ["PRT"]
+        "countries": ["PT"]
       }
     },
     {
@@ -16184,13 +16227,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844beb",
         "name": "Atlantic/Bermuda",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-04:00",
         "dstOffset": "-03:00",
-        "countries": ["BMU"]
+        "countries": ["BM"]
       }
     },
     {
@@ -16252,13 +16294,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bf5",
         "name": "Atlantic/Canary",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+00:00",
         "dstOffset": "+01:00",
-        "countries": ["ESP"]
+        "countries": ["ES"]
       }
     },
     {
@@ -16284,13 +16325,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844be8",
         "name": "Atlantic/Cape_Verde",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-01:00",
         "dstOffset": "-01:00",
-        "countries": ["CPV"]
+        "countries": ["CV"]
       }
     },
     {
@@ -16310,13 +16350,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bee",
         "name": "Atlantic/Faroe",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+00:00",
         "dstOffset": "+01:00",
-        "countries": ["FRO"]
+        "countries": ["FO"]
       }
     },
     {
@@ -16350,13 +16389,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bf0",
         "name": "Atlantic/Madeira",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+00:00",
         "dstOffset": "+01:00",
-        "countries": ["PRT"]
+        "countries": ["PT"]
       }
     },
     {
@@ -16387,13 +16425,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bf4",
         "name": "Atlantic/Reykjavik",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Africa/Abidjan",
         "utcOffset": "+00:00",
         "dstOffset": "+00:00",
-        "countries": ["ISL"]
+        "countries": ["IS"]
       }
     },
     {
@@ -16481,13 +16518,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bf2",
         "name": "Atlantic/South_Georgia",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-02:00",
         "dstOffset": "-02:00",
-        "countries": ["SGS"]
+        "countries": ["GS"]
       }
     },
     {
@@ -16531,7 +16567,14 @@
           ]
         ]
       },
-      "properties": "Atlantic/St_Helena"
+      "properties": {
+        "name": "Atlantic/St_Helena",
+        "type": "link",
+        "linkTo": "Africa/Abidjan",
+        "utcOffset": "+00:00",
+        "dstOffset": "+00:00",
+        "countries": ["SH"]
+      }
     },
     {
       "type": "Feature",
@@ -16552,13 +16595,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bf1",
         "name": "Atlantic/Stanley",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-03:00",
         "dstOffset": "-03:00",
-        "countries": ["FLK"]
+        "countries": ["FK"]
       }
     },
     {
@@ -16606,13 +16648,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bf3",
         "name": "Australia/Adelaide",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+09:30",
         "dstOffset": "+10:30",
-        "countries": ["AUS"]
+        "countries": ["AU"]
       }
     },
     {
@@ -16866,13 +16907,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bfa",
         "name": "Australia/Brisbane",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+10:00",
         "dstOffset": "+10:00",
-        "countries": ["AUS"]
+        "countries": ["AU"]
       }
     },
     {
@@ -16890,13 +16930,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bf6",
         "name": "Australia/Broken_Hill",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+09:30",
         "dstOffset": "+10:30",
-        "countries": ["AUS"]
+        "countries": ["AU"]
       }
     },
     {
@@ -16950,13 +16989,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bf7",
         "name": "Australia/Darwin",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+09:30",
         "dstOffset": "+09:30",
-        "countries": ["AUS"]
+        "countries": ["AU"]
       }
     },
     {
@@ -16976,13 +17014,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bfe",
         "name": "Australia/Eucla",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+08:45",
         "dstOffset": "+08:45",
-        "countries": ["AUS"]
+        "countries": ["AU"]
       }
     },
     {
@@ -17022,13 +17059,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bfd",
         "name": "Australia/Hobart",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+10:00",
         "dstOffset": "+11:00",
-        "countries": ["AUS"]
+        "countries": ["AU"]
       }
     },
     {
@@ -17046,13 +17082,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bfb",
         "name": "Australia/Lindeman",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+10:00",
         "dstOffset": "+10:00",
-        "countries": ["AUS"]
+        "countries": ["AU"]
       }
     },
     {
@@ -17070,13 +17105,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bff",
         "name": "Australia/Lord_Howe",
         "type": "canonical",
-        "aliasedTo": null,
-        "utcOffset": "+10:00",
+        "linkTo": null,
+        "utcOffset": "+10:30",
         "dstOffset": "+11:00",
-        "countries": ["AUS"]
+        "countries": ["AU"]
       }
     },
     {
@@ -17118,13 +17152,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c01",
         "name": "Australia/Melbourne",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+10:00",
         "dstOffset": "+11:00",
-        "countries": ["AUS"]
+        "countries": ["AU"]
       }
     },
     {
@@ -17261,13 +17294,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c21",
         "name": "Australia/Perth",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+08:00",
         "dstOffset": "+08:00",
-        "countries": ["AUS"]
+        "countries": ["AU"]
       }
     },
     {
@@ -17321,13 +17353,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bf8",
         "name": "Australia/Sydney",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+10:00",
         "dstOffset": "+11:00",
-        "countries": ["AUS"]
+        "countries": ["AU"]
       }
     },
     {
@@ -17344,7 +17375,14 @@
           ]
         ]
       },
-      "properties": "Etc/UTC"
+      "properties": {
+        "name": "Etc/UTC",
+        "type": "canonical",
+        "linkTo": null,
+        "utcOffset": "+00:00",
+        "dstOffset": "+00:00",
+        "countries": null
+      }
     },
     {
       "type": "Feature",
@@ -17370,13 +17408,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844bf9",
         "name": "Europe/Amsterdam",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Europe/Brussels",
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["NLD"]
+        "countries": ["NL"]
       }
     },
     {
@@ -17407,13 +17444,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c15",
         "name": "Europe/Astrakhan",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+04:00",
         "dstOffset": "+04:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -17579,13 +17615,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c03",
         "name": "Europe/Athens",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+03:00",
-        "countries": ["GRC"]
+        "countries": ["GR"]
       }
     },
     {
@@ -17632,13 +17667,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c08",
         "name": "Europe/Belgrade",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["SRB", "BIH", "HRV", "MNE", "MKD", "SVN"]
+        "countries": ["RS", "BA", "HR", "ME", "MK", "SI"]
       }
     },
     {
@@ -17696,13 +17730,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c16",
         "name": "Europe/Berlin",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["DEU"]
+        "countries": ["DE", "DK", "NO", "SE", "SJ"]
       }
     },
     {
@@ -17734,13 +17767,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c04",
         "name": "Europe/Bratislava",
         "type": "link",
-        "aliasedTo": "Europe/Prague",
+        "linkTo": "Europe/Prague",
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["SVK"]
+        "countries": ["SK"]
       }
     },
     {
@@ -17766,13 +17798,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c14",
         "name": "Europe/Brussels",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["BEL"]
+        "countries": ["BE", "LU", "NL"]
       }
     },
     {
@@ -17817,13 +17848,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c13",
         "name": "Europe/Bucharest",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+03:00",
-        "countries": ["ROU"]
+        "countries": ["RO"]
       }
     },
     {
@@ -17859,13 +17889,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c02",
         "name": "Europe/Budapest",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["HUN"]
+        "countries": ["HU"]
       }
     },
     {
@@ -17892,13 +17921,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c07",
         "name": "Europe/Chisinau",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+03:00",
-        "countries": ["MDA"]
+        "countries": ["MD"]
       }
     },
     {
@@ -17943,13 +17971,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c06",
         "name": "Europe/Copenhagen",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Europe/Berlin",
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["DNK"]
+        "countries": ["DK"]
       }
     },
     {
@@ -17983,13 +18010,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c0a",
         "name": "Europe/Dublin",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+00:00",
-        "countries": ["IRL"]
+        "countries": ["IE"]
       }
     },
     {
@@ -18008,13 +18034,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c0f",
         "name": "Europe/Guernsey",
         "type": "link",
-        "aliasedTo": "Europe/London",
+        "linkTo": "Europe/London",
         "utcOffset": "+00:00",
         "dstOffset": "+01:00",
-        "countries": ["GGY"]
+        "countries": ["GG"]
       }
     },
     {
@@ -18067,13 +18092,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c0b",
         "name": "Europe/Helsinki",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+03:00",
-        "countries": ["FIN", "ALA"]
+        "countries": ["FI", "AX"]
       }
     },
     {
@@ -18091,13 +18115,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c0c",
         "name": "Europe/Isle_of_Man",
         "type": "link",
-        "aliasedTo": "Europe/London",
+        "linkTo": "Europe/London",
         "utcOffset": "+00:00",
         "dstOffset": "+01:00",
-        "countries": ["IMN"]
+        "countries": ["IM"]
       }
     },
     {
@@ -18200,13 +18223,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c0d",
         "name": "Europe/Istanbul",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["TUR"]
+        "countries": ["TR"]
       }
     },
     {
@@ -18223,13 +18245,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c10",
         "name": "Europe/Jersey",
         "type": "link",
-        "aliasedTo": "Europe/London",
+        "linkTo": "Europe/London",
         "utcOffset": "+00:00",
         "dstOffset": "+01:00",
-        "countries": ["JEY"]
+        "countries": ["JE"]
       }
     },
     {
@@ -18250,13 +18271,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c0e",
         "name": "Europe/Kaliningrad",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+02:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -18329,7 +18349,14 @@
           ]
         ]
       },
-      "properties": "Europe/Kyiv"
+      "properties": {
+        "name": "Europe/Kyiv",
+        "type": "canonical",
+        "linkTo": null,
+        "utcOffset": "+02:00",
+        "dstOffset": "+03:00",
+        "countries": ["UA"]
+      }
     },
     {
       "type": "Feature",
@@ -18371,13 +18398,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c12",
         "name": "Europe/Kirov",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -18412,13 +18438,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c17",
         "name": "Europe/Lisbon",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+00:00",
         "dstOffset": "+01:00",
-        "countries": ["PRT"]
+        "countries": ["PT"]
       }
     },
     {
@@ -18443,13 +18468,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c1a",
         "name": "Europe/Ljubljana",
         "type": "link",
-        "aliasedTo": "Europe/Belgrade",
+        "linkTo": "Europe/Belgrade",
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["SVN"]
+        "countries": ["SI"]
       }
     },
     {
@@ -18541,13 +18565,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c1f",
         "name": "Europe/London",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+00:00",
         "dstOffset": "+01:00",
-        "countries": ["GBR", "GGY", "IMN", "JEY"]
+        "countries": ["GB", "GG", "IM", "JE"]
       }
     },
     {
@@ -18568,13 +18591,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c22",
         "name": "Europe/Luxembourg",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Europe/Brussels",
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["LUX"]
+        "countries": ["LU"]
       }
     },
     {
@@ -18657,13 +18679,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c20",
         "name": "Europe/Madrid",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["ESP"]
+        "countries": ["ES"]
       }
     },
     {
@@ -18681,13 +18702,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c19",
         "name": "Europe/Malta",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["MLT"]
+        "countries": ["MT"]
       }
     },
     {
@@ -18708,13 +18728,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c18",
         "name": "Europe/Mariehamn",
         "type": "link",
-        "aliasedTo": "Europe/Helsinki",
+        "linkTo": "Europe/Helsinki",
         "utcOffset": "+02:00",
         "dstOffset": "+03:00",
-        "countries": ["ALA"]
+        "countries": ["AX"]
       }
     },
     {
@@ -18759,13 +18778,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c1b",
         "name": "Europe/Minsk",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["BLR"]
+        "countries": ["BY"]
       }
     },
     {
@@ -19029,13 +19047,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c1d",
         "name": "Europe/Moscow",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -19120,13 +19137,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c1e",
         "name": "Europe/Oslo",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Europe/Berlin",
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["NOR", "SJM"]
+        "countries": ["NO"]
       }
     },
     {
@@ -19215,13 +19231,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c25",
         "name": "Europe/Paris",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["FRA"]
+        "countries": ["FR", "MC"]
       }
     },
     {
@@ -19244,13 +19259,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c24",
         "name": "Europe/Podgorica",
         "type": "link",
-        "aliasedTo": "Europe/Belgrade",
+        "linkTo": "Europe/Belgrade",
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["MNE"]
+        "countries": ["ME"]
       }
     },
     {
@@ -19282,13 +19296,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c23",
         "name": "Europe/Prague",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["CZE", "SVK"]
+        "countries": ["CZ", "SK"]
       }
     },
     {
@@ -19319,13 +19332,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c39",
         "name": "Europe/Riga",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+03:00",
-        "countries": ["LVA"]
+        "countries": ["LV"]
       }
     },
     {
@@ -19435,13 +19447,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c3d",
         "name": "Europe/Rome",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["ITA", "SMR", "VAT"]
+        "countries": ["IT", "SM", "VA"]
       }
     },
     {
@@ -19488,13 +19499,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c42",
         "name": "Europe/Samara",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+04:00",
         "dstOffset": "+04:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -19520,13 +19530,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c3b",
         "name": "Europe/Sarajevo",
         "type": "link",
-        "aliasedTo": "Europe/Belgrade",
+        "linkTo": "Europe/Belgrade",
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["BIH"]
+        "countries": ["BA"]
       }
     },
     {
@@ -19563,7 +19572,14 @@
           ]
         ]
       },
-      "properties": "Europe/Saratov"
+      "properties": {
+        "name": "Europe/Saratov",
+        "type": "canonical",
+        "linkTo": null,
+        "utcOffset": "+04:00",
+        "dstOffset": "+04:00",
+        "countries": ["RU"]
+      }
     },
     {
       "type": "Feature",
@@ -19590,13 +19606,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c36",
         "name": "Europe/Simferopol",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["RUS", "UKR"]
+        "countries": ["RU", "UA"]
       }
     },
     {
@@ -19620,13 +19635,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c31",
         "name": "Europe/Skopje",
         "type": "link",
-        "aliasedTo": "Europe/Belgrade",
+        "linkTo": "Europe/Belgrade",
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["MKD"]
+        "countries": ["MK"]
       }
     },
     {
@@ -19665,13 +19679,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c26",
         "name": "Europe/Sofia",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+03:00",
-        "countries": ["BGR"]
+        "countries": ["BG"]
       }
     },
     {
@@ -19752,13 +19765,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c27",
         "name": "Europe/Stockholm",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Europe/Berlin",
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["SWE"]
+        "countries": ["SE"]
       }
     },
     {
@@ -19787,13 +19799,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c28",
         "name": "Europe/Tallinn",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+03:00",
-        "countries": ["EST"]
+        "countries": ["EE"]
       }
     },
     {
@@ -19819,13 +19830,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c2a",
         "name": "Europe/Tirane",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["ALB"]
+        "countries": ["AL"]
       }
     },
     {
@@ -19853,13 +19863,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c29",
         "name": "Europe/Ulyanovsk",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+04:00",
         "dstOffset": "+04:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -19896,13 +19905,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c2e",
         "name": "Europe/Vienna",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["AUT"]
+        "countries": ["AT"]
       }
     },
     {
@@ -19929,13 +19937,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c2f",
         "name": "Europe/Vilnius",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+02:00",
         "dstOffset": "+03:00",
-        "countries": ["LTU"]
+        "countries": ["LT"]
       }
     },
     {
@@ -19974,13 +19981,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c30",
         "name": "Europe/Volgograd",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["RUS"]
+        "countries": ["RU"]
       }
     },
     {
@@ -20028,13 +20034,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c32",
         "name": "Europe/Warsaw",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["POL"]
+        "countries": ["PL"]
       }
     },
     {
@@ -20083,13 +20088,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c34",
         "name": "Europe/Zagreb",
         "type": "link",
-        "aliasedTo": "Europe/Belgrade",
+        "linkTo": "Europe/Belgrade",
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["HRV"]
+        "countries": ["HR"]
       }
     },
     {
@@ -20118,13 +20122,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c37",
         "name": "Europe/Zurich",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+01:00",
         "dstOffset": "+02:00",
-        "countries": ["CHE", "DEU", "LIE"]
+        "countries": ["CH", "DE", "LI"]
       }
     },
     {
@@ -20171,13 +20174,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c38",
         "name": "Indian/Antananarivo",
         "type": "link",
-        "aliasedTo": "Africa/Nairobi",
+        "linkTo": "Africa/Nairobi",
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["MDG"]
+        "countries": ["MG"]
       }
     },
     {
@@ -20194,13 +20196,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c3c",
         "name": "Indian/Christmas",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Asia/Bangkok",
         "utcOffset": "+07:00",
         "dstOffset": "+07:00",
-        "countries": ["CXR"]
+        "countries": ["CX"]
       }
     },
     {
@@ -20218,13 +20219,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c44",
         "name": "Indian/Cocos",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Asia/Yangon",
         "utcOffset": "+06:30",
         "dstOffset": "+06:30",
-        "countries": ["CCK"]
+        "countries": ["CC"]
       }
     },
     {
@@ -20245,13 +20245,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c3e",
         "name": "Indian/Comoro",
         "type": "link",
-        "aliasedTo": "Africa/Nairobi",
+        "linkTo": "Africa/Nairobi",
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["COM"]
+        "countries": ["KM"]
       }
     },
     {
@@ -20311,13 +20310,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c40",
         "name": "Indian/Kerguelen",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Indian/Maldives",
         "utcOffset": "+05:00",
         "dstOffset": "+05:00",
-        "countries": ["ATF"]
+        "countries": ["TF"]
       }
     },
     {
@@ -20407,13 +20405,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c3f",
         "name": "Indian/Mahe",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Asia/Dubai",
         "utcOffset": "+04:00",
         "dstOffset": "+04:00",
-        "countries": ["SYC"]
+        "countries": ["SC"]
       }
     },
     {
@@ -20442,13 +20439,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c46",
         "name": "Indian/Maldives",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+05:00",
         "dstOffset": "+05:00",
-        "countries": ["MDV"]
+        "countries": ["MV", "TF"]
       }
     },
     {
@@ -20498,13 +20494,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c41",
         "name": "Indian/Mauritius",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+04:00",
         "dstOffset": "+04:00",
-        "countries": ["MUS"]
+        "countries": ["MU"]
       }
     },
     {
@@ -20523,13 +20518,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c43",
         "name": "Indian/Mayotte",
         "type": "link",
-        "aliasedTo": "Africa/Nairobi",
+        "linkTo": "Africa/Nairobi",
         "utcOffset": "+03:00",
         "dstOffset": "+03:00",
-        "countries": ["MYT"]
+        "countries": ["YT"]
       }
     },
     {
@@ -20548,13 +20542,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c45",
         "name": "Indian/Reunion",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Asia/Dubai",
         "utcOffset": "+04:00",
         "dstOffset": "+04:00",
-        "countries": ["REU", "ATF"]
+        "countries": ["RE"]
       }
     },
     {
@@ -20575,13 +20568,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c49",
         "name": "Pacific/Apia",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+13:00",
         "dstOffset": "+13:00",
-        "countries": ["WSM"]
+        "countries": ["WS"]
       }
     },
     {
@@ -20727,13 +20719,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c47",
         "name": "Pacific/Auckland",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+12:00",
         "dstOffset": "+13:00",
-        "countries": ["NZL", "ATA"]
+        "countries": ["NZ", "AQ"]
       }
     },
     {
@@ -20778,13 +20769,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c48",
         "name": "Pacific/Bougainville",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+11:00",
         "dstOffset": "+11:00",
-        "countries": ["PNG"]
+        "countries": ["PG"]
       }
     },
     {
@@ -20805,13 +20795,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c6e",
         "name": "Pacific/Chatham",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+12:45",
-        "dstOffset": "+12:45",
-        "countries": ["NZL"]
+        "dstOffset": "+13:45",
+        "countries": ["NZ"]
       }
     },
     {
@@ -20946,13 +20935,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c59",
         "name": "Pacific/Chuuk",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Pacific/Port_Moresby",
         "utcOffset": "+10:00",
         "dstOffset": "+10:00",
-        "countries": ["FSM"]
+        "countries": ["FM"]
       }
     },
     {
@@ -20969,13 +20957,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c4b",
         "name": "Pacific/Easter",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-05:00",
-        "countries": ["CHL"]
+        "countries": ["CL"]
       }
     },
     {
@@ -21008,13 +20995,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c50",
         "name": "Pacific/Efate",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+11:00",
         "dstOffset": "+11:00",
-        "countries": ["VUT"]
+        "countries": ["VU"]
       }
     },
     {
@@ -21051,13 +21037,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c4d",
         "name": "Pacific/Fakaofo",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+13:00",
         "dstOffset": "+13:00",
-        "countries": ["TKL"]
+        "countries": ["TK"]
       }
     },
     {
@@ -21249,13 +21234,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c5d",
         "name": "Pacific/Fiji",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+12:00",
         "dstOffset": "+12:00",
-        "countries": ["FJI"]
+        "countries": ["FJ"]
       }
     },
     {
@@ -21318,13 +21302,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c5a",
         "name": "Pacific/Funafuti",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Pacific/Tarawa",
         "utcOffset": "+12:00",
         "dstOffset": "+12:00",
-        "countries": ["TUV"]
+        "countries": ["TV"]
       }
     },
     {
@@ -21348,13 +21331,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c4c",
         "name": "Pacific/Galapagos",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-06:00",
         "dstOffset": "-06:00",
-        "countries": ["ECU"]
+        "countries": ["EC"]
       }
     },
     {
@@ -21401,13 +21383,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c5e",
         "name": "Pacific/Gambier",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-09:00",
         "dstOffset": "-09:00",
-        "countries": ["PYF"]
+        "countries": ["PF"]
       }
     },
     {
@@ -21508,13 +21489,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c54",
         "name": "Pacific/Guadalcanal",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+11:00",
         "dstOffset": "+11:00",
-        "countries": ["SLB"]
+        "countries": ["SB", "FM"]
       }
     },
     {
@@ -21533,13 +21513,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c4e",
         "name": "Pacific/Guam",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+10:00",
         "dstOffset": "+10:00",
-        "countries": ["GUM", "MNP"]
+        "countries": ["GU", "MP"]
       }
     },
     {
@@ -21614,13 +21593,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c4f",
         "name": "Pacific/Honolulu",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-10:00",
         "dstOffset": "-10:00",
-        "countries": ["USA", "UMI"]
+        "countries": ["US"]
       }
     },
     {
@@ -21663,7 +21641,14 @@
           ]
         ]
       },
-      "properties": "Pacific/Kanton"
+      "properties": {
+        "name": "Pacific/Kanton",
+        "type": "canonical",
+        "linkTo": null,
+        "utcOffset": "+13:00",
+        "dstOffset": "+13:00",
+        "countries": ["KI"]
+      }
     },
     {
       "type": "Feature",
@@ -21716,13 +21701,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c69",
         "name": "Pacific/Kiritimati",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+14:00",
         "dstOffset": "+14:00",
-        "countries": ["KIR"]
+        "countries": ["KI"]
       }
     },
     {
@@ -21740,13 +21724,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c63",
         "name": "Pacific/Kosrae",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+11:00",
         "dstOffset": "+11:00",
-        "countries": ["FSM"]
+        "countries": ["FM"]
       }
     },
     {
@@ -21766,13 +21749,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c6b",
         "name": "Pacific/Kwajalein",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+12:00",
         "dstOffset": "+12:00",
-        "countries": ["MHL"]
+        "countries": ["MH"]
       }
     },
     {
@@ -21877,13 +21859,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c52",
         "name": "Pacific/Majuro",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Pacific/Tarawa",
         "utcOffset": "+12:00",
         "dstOffset": "+12:00",
-        "countries": ["MHL"]
+        "countries": ["MH"]
       }
     },
     {
@@ -21935,13 +21916,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c53",
         "name": "Pacific/Marquesas",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-09:30",
         "dstOffset": "-09:30",
-        "countries": ["PYF"]
+        "countries": ["PF"]
       }
     },
     {
@@ -21968,13 +21948,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c68",
         "name": "Pacific/Midway",
         "type": "link",
-        "aliasedTo": "Pacific/Pago_Pago",
+        "linkTo": "Pacific/Pago_Pago",
         "utcOffset": "-11:00",
         "dstOffset": "-11:00",
-        "countries": ["UMI"]
+        "countries": ["UM"]
       }
     },
     {
@@ -21991,13 +21970,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c55",
         "name": "Pacific/Nauru",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+12:00",
         "dstOffset": "+12:00",
-        "countries": ["NRU"]
+        "countries": ["NR"]
       }
     },
     {
@@ -22014,13 +21992,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c56",
         "name": "Pacific/Niue",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-11:00",
         "dstOffset": "-11:00",
-        "countries": ["NIU"]
+        "countries": ["NU"]
       }
     },
     {
@@ -22038,13 +22015,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c57",
         "name": "Pacific/Norfolk",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+11:00",
         "dstOffset": "+12:00",
-        "countries": ["NFK"]
+        "countries": ["NF"]
       }
     },
     {
@@ -22145,13 +22121,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c58",
         "name": "Pacific/Noumea",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+11:00",
         "dstOffset": "+11:00",
-        "countries": ["NCL"]
+        "countries": ["NC"]
       }
     },
     {
@@ -22179,13 +22154,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c5b",
         "name": "Pacific/Pago_Pago",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-11:00",
         "dstOffset": "-11:00",
-        "countries": ["ASM", "UMI"]
+        "countries": ["AS", "UM"]
       }
     },
     {
@@ -22208,13 +22182,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c62",
         "name": "Pacific/Palau",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+09:00",
         "dstOffset": "+09:00",
-        "countries": ["PLW"]
+        "countries": ["PW"]
       }
     },
     {
@@ -22257,13 +22230,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c70",
         "name": "Pacific/Pitcairn",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-08:00",
         "dstOffset": "-08:00",
-        "countries": ["PCN"]
+        "countries": ["PN"]
       }
     },
     {
@@ -22334,13 +22306,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c5c",
         "name": "Pacific/Pohnpei",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Pacific/Guadalcanal",
         "utcOffset": "+11:00",
         "dstOffset": "+11:00",
-        "countries": ["FSM"]
+        "countries": ["FM"]
       }
     },
     {
@@ -22425,13 +22396,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c7a",
         "name": "Pacific/Port_Moresby",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+10:00",
         "dstOffset": "+10:00",
-        "countries": ["PNG", "ATA"]
+        "countries": ["PG", "AQ", "FM"]
       }
     },
     {
@@ -22529,13 +22499,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c5f",
         "name": "Pacific/Rarotonga",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-10:00",
         "dstOffset": "-10:00",
-        "countries": ["COK"]
+        "countries": ["CK"]
       }
     },
     {
@@ -22616,13 +22585,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c60",
         "name": "Pacific/Saipan",
         "type": "link",
-        "aliasedTo": "Pacific/Guam",
+        "linkTo": "Pacific/Guam",
         "utcOffset": "+10:00",
         "dstOffset": "+10:00",
-        "countries": ["MNP"]
+        "countries": ["MP"]
       }
     },
     {
@@ -23031,13 +22999,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c61",
         "name": "Pacific/Tahiti",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "-10:00",
         "dstOffset": "-10:00",
-        "countries": ["PYF"]
+        "countries": ["PF"]
       }
     },
     {
@@ -23086,13 +23053,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c64",
         "name": "Pacific/Tarawa",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+12:00",
         "dstOffset": "+12:00",
-        "countries": ["KIR"]
+        "countries": ["KI", "MH", "TV", "UM", "WF"]
       }
     },
     {
@@ -23177,13 +23143,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c66",
         "name": "Pacific/Tongatapu",
         "type": "canonical",
-        "aliasedTo": null,
+        "linkTo": null,
         "utcOffset": "+13:00",
         "dstOffset": "+13:00",
-        "countries": ["TON"]
+        "countries": ["TO"]
       }
     },
     {
@@ -23200,13 +23165,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c67",
         "name": "Pacific/Wake",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Pacific/Tarawa",
         "utcOffset": "+12:00",
         "dstOffset": "+12:00",
-        "countries": ["UMI"]
+        "countries": ["UM"]
       }
     },
     {
@@ -23234,13 +23198,12 @@
         ]
       },
       "properties": {
-        "id": "62d74cdf457d3872cf844c65",
         "name": "Pacific/Wallis",
-        "type": "canonical",
-        "aliasedTo": null,
+        "type": "link",
+        "linkTo": "Pacific/Tarawa",
         "utcOffset": "+12:00",
         "dstOffset": "+12:00",
-        "countries": ["WLF"]
+        "countries": ["WF"]
       }
     }
   ]

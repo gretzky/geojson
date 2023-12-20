@@ -60,14 +60,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b84",
     "name": "America/Thule",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-04:00",
     "dstOffset": "-03:00",
     "countries": [
-      "GRL"
+      "GL"
     ]
   }
 }

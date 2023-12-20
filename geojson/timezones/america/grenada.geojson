@@ -28,14 +28,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b30",
     "name": "America/Grenada",
     "type": "link",
-    "aliasedTo": "America/Puerto_Rico",
+    "linkTo": "America/Puerto_Rico",
     "utcOffset": "-04:00",
     "dstOffset": "-04:00",
     "countries": [
-      "GRD"
+      "GD"
     ]
   }
 }

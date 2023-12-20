@@ -38,5 +38,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Asia/Famagusta",
+    "type": "canonical",
+    "linkTo": null,
+    "utcOffset": "+02:00",
+    "dstOffset": "+03:00",
+    "countries": [
+      "CY"
+    ]
   }
 }

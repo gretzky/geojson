@@ -136,14 +136,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b97",
     "name": "Antarctica/McMurdo",
     "type": "link",
-    "aliasedTo": "Pacific/Auckland",
+    "linkTo": "Pacific/Auckland",
     "utcOffset": "+12:00",
     "dstOffset": "+13:00",
     "countries": [
-      "ATA"
+      "AQ"
     ]
   }
 }

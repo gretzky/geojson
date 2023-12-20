@@ -40,14 +40,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c22",
     "name": "Europe/Luxembourg",
-    "type": "canonical",
-    "aliasedTo": null,
+    "type": "link",
+    "linkTo": "Europe/Brussels",
     "utcOffset": "+01:00",
     "dstOffset": "+02:00",
     "countries": [
-      "LUX"
+      "LU"
     ]
   }
 }

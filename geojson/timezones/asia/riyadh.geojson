@@ -260,17 +260,16 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844be6",
     "name": "Asia/Riyadh",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+03:00",
     "dstOffset": "+03:00",
     "countries": [
-      "SAU",
-      "ATA",
-      "KWT",
-      "YEM"
+      "SA",
+      "AQ",
+      "KW",
+      "YE"
     ]
   }
 }

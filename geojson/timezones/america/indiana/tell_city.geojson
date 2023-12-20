@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -86.79155,
+          38.20515
+        ],
+        [
+          -86.49068,
+          38.04567
+        ],
+        [
+          -86.46293,
+          38.11943
+        ],
+        [
+          -86.67992,
+          38.26342
+        ],
+        [
+          -86.79155,
+          38.20515
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "name": "America/Indiana/Tell_City",
+    "type": "canonical",
+    "linkTo": null,
+    "utcOffset": "-06:00",
+    "dstOffset": "-05:00",
+    "countries": [
+      "US"
+    ]
+  }
+}

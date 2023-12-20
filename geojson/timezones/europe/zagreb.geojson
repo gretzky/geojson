@@ -152,14 +152,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c34",
     "name": "Europe/Zagreb",
     "type": "link",
-    "aliasedTo": "Europe/Belgrade",
+    "linkTo": "Europe/Belgrade",
     "utcOffset": "+01:00",
     "dstOffset": "+02:00",
     "countries": [
-      "HRV"
+      "HR"
     ]
   }
 }

@@ -28,14 +28,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bff",
     "name": "Australia/Lord_Howe",
     "type": "canonical",
-    "aliasedTo": null,
-    "utcOffset": "+10:00",
+    "linkTo": null,
+    "utcOffset": "+10:30",
     "dstOffset": "+11:00",
     "countries": [
-      "AUS"
+      "AU"
     ]
   }
 }

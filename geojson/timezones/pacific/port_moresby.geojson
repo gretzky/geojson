@@ -278,15 +278,15 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c7a",
     "name": "Pacific/Port_Moresby",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+10:00",
     "dstOffset": "+10:00",
     "countries": [
-      "PNG",
-      "ATA"
+      "PG",
+      "AQ",
+      "FM"
     ]
   }
 }

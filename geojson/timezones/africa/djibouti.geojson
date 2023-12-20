@@ -54,5 +54,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Africa/Djibouti",
+    "type": "link",
+    "linkTo": "Africa/Nairobi",
+    "utcOffset": "+03:00",
+    "dstOffset": "+03:00",
+    "countries": [
+      "DJ"
+    ]
   }
 }

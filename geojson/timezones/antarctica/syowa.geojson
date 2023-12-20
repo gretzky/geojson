@@ -32,14 +32,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b98",
     "name": "Antarctica/Syowa",
     "type": "link",
-    "aliasedTo": "Asia/Riyadh",
+    "linkTo": "Asia/Riyadh",
     "utcOffset": "+03:00",
     "dstOffset": "+03:00",
     "countries": [
-      "ATA"
+      "AQ"
     ]
   }
 }

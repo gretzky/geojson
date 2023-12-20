@@ -100,14 +100,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b61",
     "name": "America/Nassau",
     "type": "link",
-    "aliasedTo": "America/Toronto",
+    "linkTo": "America/Toronto",
     "utcOffset": "-05:00",
     "dstOffset": "-04:00",
     "countries": [
-      "BHS"
+      "BS"
     ]
   }
 }

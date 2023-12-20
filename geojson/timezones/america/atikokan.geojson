@@ -130,14 +130,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b11",
     "name": "America/Atikokan",
     "type": "link",
-    "aliasedTo": "America/Panama",
+    "linkTo": "America/Panama",
     "utcOffset": "-05:00",
     "dstOffset": "-05:00",
     "countries": [
-      "CAN"
+      "CA"
     ]
   }
 }

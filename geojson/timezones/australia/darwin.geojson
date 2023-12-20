@@ -172,14 +172,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bf7",
     "name": "Australia/Darwin",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+09:30",
     "dstOffset": "+09:30",
     "countries": [
-      "AUS"
+      "AU"
     ]
   }
 }

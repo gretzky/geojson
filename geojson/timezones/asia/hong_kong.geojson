@@ -28,14 +28,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bb9",
     "name": "Asia/Hong_Kong",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+08:00",
     "dstOffset": "+08:00",
     "countries": [
-      "HKG"
+      "HK"
     ]
   }
 }

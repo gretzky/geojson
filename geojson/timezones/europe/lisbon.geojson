@@ -96,14 +96,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c17",
     "name": "Europe/Lisbon",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+00:00",
     "dstOffset": "+01:00",
     "countries": [
-      "PRT"
+      "PT"
     ]
   }
 }

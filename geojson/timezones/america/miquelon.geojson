@@ -24,14 +24,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b5c",
     "name": "America/Miquelon",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-03:00",
     "dstOffset": "-02:00",
     "countries": [
-      "SPM"
+      "PM"
     ]
   }
 }

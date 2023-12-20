@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -101.2568,
+          47.26823
+        ],
+        [
+          -101.42987,
+          47.56186
+        ],
+        [
+          -102.20343,
+          47.57338
+        ],
+        [
+          -102.09699,
+          46.9809
+        ],
+        [
+          -101.76332,
+          46.98207
+        ],
+        [
+          -101.2568,
+          47.26823
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "name": "America/North_Dakota/Beulah",
+    "type": "canonical",
+    "linkTo": null,
+    "utcOffset": "-06:00",
+    "dstOffset": "-05:00",
+    "countries": [
+      "US"
+    ]
+  }
+}

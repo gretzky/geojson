@@ -264,14 +264,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b4a",
     "name": "America/Los_Angeles",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-08:00",
     "dstOffset": "-07:00",
     "countries": [
-      "USA"
+      "US"
     ]
   }
 }

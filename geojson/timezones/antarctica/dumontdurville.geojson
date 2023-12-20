@@ -44,14 +44,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b9a",
     "name": "Antarctica/DumontDUrville",
     "type": "link",
-    "aliasedTo": "Pacific/Port_Moresby",
+    "linkTo": "Pacific/Port_Moresby",
     "utcOffset": "+10:00",
     "dstOffset": "+10:00",
     "countries": [
-      "ATA"
+      "AQ"
     ]
   }
 }

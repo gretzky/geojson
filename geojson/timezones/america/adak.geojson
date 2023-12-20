@@ -226,14 +226,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844afa",
     "name": "America/Adak",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-10:00",
     "dstOffset": "-09:00",
     "countries": [
-      "USA"
+      "US"
     ]
   }
 }

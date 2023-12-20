@@ -68,14 +68,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bae",
     "name": "Asia/Amman",
     "type": "canonical",
-    "aliasedTo": null,
-    "utcOffset": "+02:00",
+    "linkTo": null,
+    "utcOffset": "+03:00",
     "dstOffset": "+03:00",
     "countries": [
-      "JOR"
+      "JO"
     ]
   }
 }

@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -86.33109,
+          38.18099
+        ],
+        [
+          -86.25504,
+          38.42269
+        ],
+        [
+          -86.68142,
+          38.39477
+        ],
+        [
+          -86.67992,
+          38.26342
+        ],
+        [
+          -86.46293,
+          38.11943
+        ],
+        [
+          -86.33109,
+          38.18099
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "name": "America/Indiana/Marengo",
+    "type": "canonical",
+    "linkTo": null,
+    "utcOffset": "-05:00",
+    "dstOffset": "-04:00",
+    "countries": [
+      "US"
+    ]
+  }
+}

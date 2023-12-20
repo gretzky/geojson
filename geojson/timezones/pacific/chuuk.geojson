@@ -334,14 +334,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c59",
     "name": "Pacific/Chuuk",
-    "type": "canonical",
-    "aliasedTo": null,
+    "type": "link",
+    "linkTo": "Pacific/Port_Moresby",
     "utcOffset": "+10:00",
     "dstOffset": "+10:00",
     "countries": [
-      "FSM"
+      "FM"
     ]
   }
 }

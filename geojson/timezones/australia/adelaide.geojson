@@ -148,14 +148,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bf3",
     "name": "Australia/Adelaide",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+09:30",
     "dstOffset": "+10:30",
     "countries": [
-      "AUS"
+      "AU"
     ]
   }
 }

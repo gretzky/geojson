@@ -504,15 +504,14 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b8f",
     "name": "America/Toronto",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-05:00",
     "dstOffset": "-04:00",
     "countries": [
-      "CAN",
-      "BHS"
+      "CA",
+      "BS"
     ]
   }
 }

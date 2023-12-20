@@ -88,5 +88,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Pacific/Kanton",
+    "type": "canonical",
+    "linkTo": null,
+    "utcOffset": "+13:00",
+    "dstOffset": "+13:00",
+    "countries": [
+      "KI"
+    ]
   }
 }

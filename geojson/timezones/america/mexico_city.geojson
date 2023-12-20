@@ -252,14 +252,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b5b",
     "name": "America/Mexico_City",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-06:00",
-    "dstOffset": "-05:00",
+    "dstOffset": "-06:00",
     "countries": [
-      "MEX"
+      "MX"
     ]
   }
 }

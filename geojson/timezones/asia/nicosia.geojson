@@ -40,14 +40,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bc8",
     "name": "Asia/Nicosia",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+02:00",
     "dstOffset": "+03:00",
     "countries": [
-      "CYP"
+      "CY"
     ]
   }
 }

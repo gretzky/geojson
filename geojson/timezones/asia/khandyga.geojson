@@ -152,14 +152,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bcc",
     "name": "Asia/Khandyga",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+09:00",
     "dstOffset": "+09:00",
     "countries": [
-      "RUS"
+      "RU"
     ]
   }
 }

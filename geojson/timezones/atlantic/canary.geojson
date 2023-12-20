@@ -150,14 +150,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bf5",
     "name": "Atlantic/Canary",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+00:00",
     "dstOffset": "+01:00",
     "countries": [
-      "ESP"
+      "ES"
     ]
   }
 }

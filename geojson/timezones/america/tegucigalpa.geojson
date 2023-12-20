@@ -132,14 +132,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b83",
     "name": "America/Tegucigalpa",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-06:00",
     "dstOffset": "-06:00",
     "countries": [
-      "HND"
+      "HN"
     ]
   }
 }

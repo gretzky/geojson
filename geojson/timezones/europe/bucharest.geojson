@@ -136,14 +136,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c13",
     "name": "Europe/Bucharest",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+02:00",
     "dstOffset": "+03:00",
     "countries": [
-      "ROU"
+      "RO"
     ]
   }
 }

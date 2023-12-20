@@ -502,17 +502,17 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844ba2",
     "name": "Asia/Bangkok",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+07:00",
     "dstOffset": "+07:00",
     "countries": [
-      "THA",
-      "KHM",
-      "LAO",
-      "VNM"
+      "TH",
+      "CX",
+      "KH",
+      "LA",
+      "VN"
     ]
   }
 }

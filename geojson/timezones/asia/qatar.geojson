@@ -62,15 +62,14 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bd2",
     "name": "Asia/Qatar",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+03:00",
     "dstOffset": "+03:00",
     "countries": [
-      "QAT",
-      "BHR"
+      "QA",
+      "BH"
     ]
   }
 }

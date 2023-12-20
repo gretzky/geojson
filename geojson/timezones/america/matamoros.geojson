@@ -152,14 +152,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b56",
     "name": "America/Matamoros",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-06:00",
     "dstOffset": "-05:00",
     "countries": [
-      "MEX"
+      "MX"
     ]
   }
 }

@@ -28,14 +28,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b9d",
     "name": "Asia/Bahrain",
     "type": "link",
-    "aliasedTo": "Asia/Qatar",
+    "linkTo": "Asia/Qatar",
     "utcOffset": "+03:00",
     "dstOffset": "+03:00",
     "countries": [
-      "BHR"
+      "BH"
     ]
   }
 }

@@ -44,14 +44,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b6d",
     "name": "America/Port_of_Spain",
     "type": "link",
-    "aliasedTo": "America/Puerto_Rico",
+    "linkTo": "America/Puerto_Rico",
     "utcOffset": "-04:00",
     "dstOffset": "-04:00",
     "countries": [
-      "TTO"
+      "TT"
     ]
   }
 }

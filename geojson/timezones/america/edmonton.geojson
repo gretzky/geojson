@@ -190,14 +190,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844b25",
     "name": "America/Edmonton",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-07:00",
     "dstOffset": "-06:00",
     "countries": [
-      "CAN"
+      "CA"
     ]
   }
 }

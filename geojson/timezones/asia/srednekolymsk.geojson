@@ -330,14 +330,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844bdb",
     "name": "Asia/Srednekolymsk",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+11:00",
     "dstOffset": "+11:00",
     "countries": [
-      "RUS"
+      "RU"
     ]
   }
 }

@@ -190,14 +190,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c60",
     "name": "Pacific/Saipan",
     "type": "link",
-    "aliasedTo": "Pacific/Guam",
+    "linkTo": "Pacific/Guam",
     "utcOffset": "+10:00",
     "dstOffset": "+10:00",
     "countries": [
-      "MNP"
+      "MP"
     ]
   }
 }

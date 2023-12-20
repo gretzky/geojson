@@ -122,14 +122,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c53",
     "name": "Pacific/Marquesas",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "-09:30",
     "dstOffset": "-09:30",
     "countries": [
-      "PYF"
+      "PF"
     ]
   }
 }

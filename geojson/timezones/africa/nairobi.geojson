@@ -120,23 +120,22 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844af3",
     "name": "Africa/Nairobi",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+03:00",
     "dstOffset": "+03:00",
     "countries": [
-      "KEN",
-      "DJI",
-      "ERI",
-      "ETH",
-      "COM",
-      "MDG",
-      "SOM",
-      "TZA",
-      "UGA",
-      "MYT"
+      "KE",
+      "DJ",
+      "ER",
+      "ET",
+      "KM",
+      "MG",
+      "SO",
+      "TZ",
+      "UG",
+      "YT"
     ]
   }
 }

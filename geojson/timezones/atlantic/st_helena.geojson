@@ -92,5 +92,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Atlantic/St_Helena",
+    "type": "link",
+    "linkTo": "Africa/Abidjan",
+    "utcOffset": "+00:00",
+    "dstOffset": "+00:00",
+    "countries": [
+      "SH"
+    ]
   }
 }

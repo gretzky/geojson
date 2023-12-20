@@ -398,5 +398,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Africa/Lubumbashi",
+    "type": "link",
+    "linkTo": "Africa/Maputo",
+    "utcOffset": "+02:00",
+    "dstOffset": "+02:00",
+    "countries": [
+      "CD"
+    ]
   }
 }

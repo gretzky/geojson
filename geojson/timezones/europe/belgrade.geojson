@@ -144,19 +144,18 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c08",
     "name": "Europe/Belgrade",
     "type": "canonical",
-    "aliasedTo": null,
+    "linkTo": null,
     "utcOffset": "+01:00",
     "dstOffset": "+02:00",
     "countries": [
-      "SRB",
-      "BIH",
-      "HRV",
-      "MNE",
-      "MKD",
-      "SVN"
+      "RS",
+      "BA",
+      "HR",
+      "ME",
+      "MK",
+      "SI"
     ]
   }
 }

@@ -158,5 +158,15 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Africa/Nouakchott",
+    "type": "link",
+    "linkTo": "Africa/Abidjan",
+    "utcOffset": "+00:00",
+    "dstOffset": "+00:00",
+    "countries": [
+      "MR"
+    ]
   }
 }

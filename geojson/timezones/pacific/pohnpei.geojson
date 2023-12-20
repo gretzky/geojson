@@ -162,14 +162,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c5c",
     "name": "Pacific/Pohnpei",
-    "type": "canonical",
-    "aliasedTo": null,
+    "type": "link",
+    "linkTo": "Pacific/Guadalcanal",
     "utcOffset": "+11:00",
     "dstOffset": "+11:00",
     "countries": [
-      "FSM"
+      "FM"
     ]
   }
 }

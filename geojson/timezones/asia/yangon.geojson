@@ -360,5 +360,16 @@
         ]
       ]
     ]
+  },
+  "properties": {
+    "name": "Asia/Yangon",
+    "type": "canonical",
+    "linkTo": null,
+    "utcOffset": "+06:30",
+    "dstOffset": "+06:30",
+    "countries": [
+      "MM",
+      "CC"
+    ]
   }
 }

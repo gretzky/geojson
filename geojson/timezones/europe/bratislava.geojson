@@ -84,14 +84,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c04",
     "name": "Europe/Bratislava",
     "type": "link",
-    "aliasedTo": "Europe/Prague",
+    "linkTo": "Europe/Prague",
     "utcOffset": "+01:00",
     "dstOffset": "+02:00",
     "countries": [
-      "SVK"
+      "SK"
     ]
   }
 }

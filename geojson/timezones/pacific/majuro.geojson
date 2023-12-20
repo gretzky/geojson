@@ -298,14 +298,13 @@
     ]
   },
   "properties": {
-    "id": "62d74cdf457d3872cf844c52",
     "name": "Pacific/Majuro",
-    "type": "canonical",
-    "aliasedTo": null,
+    "type": "link",
+    "linkTo": "Pacific/Tarawa",
     "utcOffset": "+12:00",
     "dstOffset": "+12:00",
     "countries": [
-      "MHL"
+      "MH"
     ]
   }
 }
