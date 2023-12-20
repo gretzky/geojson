@@ -5,8 +5,9 @@ GeoJSON datasets of:
 - Continents
 - Regions & Subregions (as defined by the [UN Geoscheme](https://en.wikipedia.org/wiki/United_Nations_geoscheme))
 - Countries and their [administrative divisions](https://en.wikipedia.org/wiki/Administrative_division)
-- Major Bodies of Water
+- Cities with populations greater than 1000
 - Timezones (as defined by the [tz database](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones))
+- Major Bodies of Water
 
 ## Usage
 
