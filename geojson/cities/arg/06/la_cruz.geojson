@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Cruz",
+    "country": "AR",
+    "subdivision": "06",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.64326,
+      -29.17443
+    ]
+  }
+}

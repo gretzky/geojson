@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Radlett",
+    "country": "GB",
+    "subdivision": "ENG",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.31868,
+      51.68593
+    ]
+  }
+}

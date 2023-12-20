@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kimberling City",
+    "country": "US",
+    "subdivision": "MO",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.41685,
+      36.6334
+    ]
+  }
+}

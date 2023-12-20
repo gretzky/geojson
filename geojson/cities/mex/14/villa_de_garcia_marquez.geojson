@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa de García Márquez",
+    "country": "MX",
+    "subdivision": "14",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.49508,
+      20.43121
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brooke",
+    "country": "GB",
+    "subdivision": "ENG",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.37076,
+      52.54175
+    ]
+  }
+}

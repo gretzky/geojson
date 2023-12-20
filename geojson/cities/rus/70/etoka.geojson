@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Etoka",
+    "country": "RU",
+    "subdivision": "70",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.04833,
+      43.91944
+    ]
+  }
+}

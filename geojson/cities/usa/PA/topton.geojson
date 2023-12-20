@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Topton",
+    "country": "US",
+    "subdivision": "PA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.7013,
+      40.50343
+    ]
+  }
+}

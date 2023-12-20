@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moline Acres",
+    "country": "US",
+    "subdivision": "MO",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.24011,
+      38.74699
+    ]
+  }
+}

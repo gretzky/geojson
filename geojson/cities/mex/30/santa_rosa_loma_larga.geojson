@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Rosa Loma Larga",
+    "country": "MX",
+    "subdivision": "30",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -95.0871,
+      18.23098
+    ]
+  }
+}

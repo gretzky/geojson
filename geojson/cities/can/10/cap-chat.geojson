@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cap-Chat",
+    "country": "CA",
+    "subdivision": "10",
+    "timezone": "America/Toronto"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.68514,
+      49.09736
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cabra",
+    "country": "IE",
+    "subdivision": "L",
+    "timezone": "Europe/Dublin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.29444,
+      53.36694
+    ]
+  }
+}

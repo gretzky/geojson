@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Turgen",
+    "country": "KZ",
+    "subdivision": "01",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.59333,
+      43.40056
+    ]
+  }
+}

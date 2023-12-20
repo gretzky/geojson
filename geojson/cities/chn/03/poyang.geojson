@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Poyang",
+    "country": "CN",
+    "subdivision": "03",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.66754,
+      28.99242
+    ]
+  }
+}

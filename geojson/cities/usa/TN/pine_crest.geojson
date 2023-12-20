@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pine Crest",
+    "country": "US",
+    "subdivision": "TN",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.12881,
+      36.27619
+    ]
+  }
+}

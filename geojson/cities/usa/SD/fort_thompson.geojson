@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fort Thompson",
+    "country": "US",
+    "subdivision": "SD",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.43788,
+      44.0686
+    ]
+  }
+}

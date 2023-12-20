@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wuzhou",
+    "country": "CN",
+    "subdivision": "16",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      111.28848,
+      23.48054
+    ]
+  }
+}

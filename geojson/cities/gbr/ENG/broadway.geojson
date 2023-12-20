@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Broadway",
+    "country": "GB",
+    "subdivision": "ENG",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.86079,
+      52.03825
+    ]
+  }
+}

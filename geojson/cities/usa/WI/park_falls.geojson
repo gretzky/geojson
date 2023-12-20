@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Park Falls",
+    "country": "US",
+    "subdivision": "WI",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.44155,
+      45.9344
+    ]
+  }
+}

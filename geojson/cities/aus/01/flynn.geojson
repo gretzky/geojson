@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Flynn",
+    "country": "AU",
+    "subdivision": "01",
+    "timezone": "Australia/Sydney"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.04389,
+      -35.20593
+    ]
+  }
+}

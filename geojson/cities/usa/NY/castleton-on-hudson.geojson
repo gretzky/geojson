@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Castleton-on-Hudson",
+    "country": "US",
+    "subdivision": "NY",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.75123,
+      42.51841
+    ]
+  }
+}

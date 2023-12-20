@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Iquique",
+    "country": "CL",
+    "subdivision": "15",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.15027,
+      -20.21326
+    ]
+  }
+}

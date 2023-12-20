@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Upton",
+    "country": "US",
+    "subdivision": "WY",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.62802,
+      44.0997
+    ]
+  }
+}

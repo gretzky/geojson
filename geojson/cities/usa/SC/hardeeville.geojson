@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hardeeville",
+    "country": "US",
+    "subdivision": "SC",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.08067,
+      32.28714
+    ]
+  }
+}

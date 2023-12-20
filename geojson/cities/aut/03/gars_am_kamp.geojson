@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gars am Kamp",
+    "country": "AT",
+    "subdivision": "03",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.66073,
+      48.59769
+    ]
+  }
+}

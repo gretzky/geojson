@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Glencoe",
+    "country": "ZA",
+    "subdivision": "02",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.14702,
+      -28.17827
+    ]
+  }
+}

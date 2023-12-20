@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Giovanni",
+    "country": "IT",
+    "subdivision": "06",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.51556,
+      46.02104
+    ]
+  }
+}

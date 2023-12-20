@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Utajärvi",
+    "country": "FI",
+    "subdivision": "17",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.38333,
+      64.75
+    ]
+  }
+}

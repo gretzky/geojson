@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "New Norfolk",
+    "country": "AU",
+    "subdivision": "06",
+    "timezone": "Australia/Hobart"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.0587,
+      -42.78261
+    ]
+  }
+}

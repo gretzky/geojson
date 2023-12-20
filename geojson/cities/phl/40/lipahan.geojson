@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lipahan",
+    "country": "PH",
+    "subdivision": "40",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.40167,
+      13.83687
+    ]
+  }
+}

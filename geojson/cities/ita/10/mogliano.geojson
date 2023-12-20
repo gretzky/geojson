@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mogliano",
+    "country": "IT",
+    "subdivision": "10",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.49123,
+      43.1875
+    ]
+  }
+}

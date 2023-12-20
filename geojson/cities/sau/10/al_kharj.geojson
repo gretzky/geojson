@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Al Kharj",
+    "country": "SA",
+    "subdivision": "10",
+    "timezone": "Asia/Riyadh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.33457,
+      24.15541
+    ]
+  }
+}

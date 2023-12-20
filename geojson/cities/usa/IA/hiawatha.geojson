@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hiawatha",
+    "country": "US",
+    "subdivision": "IA",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.68212,
+      42.03583
+    ]
+  }
+}

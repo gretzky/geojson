@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beachwood",
+    "country": "US",
+    "subdivision": "NJ",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.19292,
+      39.93901
+    ]
+  }
+}

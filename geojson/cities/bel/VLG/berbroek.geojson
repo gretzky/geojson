@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Berbroek",
+    "country": "BE",
+    "subdivision": "VLG",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.20904,
+      50.95031
+    ]
+  }
+}

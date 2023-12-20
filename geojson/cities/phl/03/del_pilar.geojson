@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Del Pilar",
+    "country": "PH",
+    "subdivision": "03",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.69935,
+      15.03601
+    ]
+  }
+}

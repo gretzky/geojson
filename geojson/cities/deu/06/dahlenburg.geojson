@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dahlenburg",
+    "country": "DE",
+    "subdivision": "06",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7365,
+      53.18767
+    ]
+  }
+}

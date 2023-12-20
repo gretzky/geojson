@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kiratu",
+    "country": "TZ",
+    "subdivision": "26",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.66667,
+      -3.33333
+    ]
+  }
+}

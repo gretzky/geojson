@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Carrizal",
+    "country": "MX",
+    "subdivision": "20",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -95.39308,
+      16.06438
+    ]
+  }
+}

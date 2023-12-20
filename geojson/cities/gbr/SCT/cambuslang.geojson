@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cambuslang",
+    "country": "GB",
+    "subdivision": "SCT",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.16096,
+      55.80966
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maisach",
+    "country": "DE",
+    "subdivision": "02",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.26667,
+      48.21667
+    ]
+  }
+}

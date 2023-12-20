@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Malangabang",
+    "country": "PH",
+    "subdivision": "06",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.2062,
+      11.2367
+    ]
+  }
+}

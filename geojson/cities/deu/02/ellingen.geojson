@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ellingen",
+    "country": "DE",
+    "subdivision": "02",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.96783,
+      49.06076
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villisca",
+    "country": "US",
+    "subdivision": "IA",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.97609,
+      40.92971
+    ]
+  }
+}

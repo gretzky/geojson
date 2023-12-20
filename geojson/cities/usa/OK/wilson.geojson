@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wilson",
+    "country": "US",
+    "subdivision": "OK",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.42586,
+      34.16204
+    ]
+  }
+}

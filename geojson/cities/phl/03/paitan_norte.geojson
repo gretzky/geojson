@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Paitan Norte",
+    "country": "PH",
+    "subdivision": "03",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.74086,
+      15.83333
+    ]
+  }
+}

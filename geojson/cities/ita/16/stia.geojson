@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stia",
+    "country": "IT",
+    "subdivision": "16",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.70894,
+      43.79877
+    ]
+  }
+}

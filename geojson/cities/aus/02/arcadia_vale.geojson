@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arcadia vale",
+    "country": "AU",
+    "subdivision": "02",
+    "timezone": "Australia/Sydney"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.58408,
+      -33.06052
+    ]
+  }
+}

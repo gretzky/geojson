@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Padina",
+    "country": "RO",
+    "subdivision": "11",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.11667,
+      44.83333
+    ]
+  }
+}

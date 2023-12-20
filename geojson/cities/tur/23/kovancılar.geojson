@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kovancılar",
+    "country": "TR",
+    "subdivision": "23",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.86268,
+      38.71882
+    ]
+  }
+}

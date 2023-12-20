@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Koltushi",
+    "country": "RU",
+    "subdivision": "42",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.64465,
+      59.92969
+    ]
+  }
+}

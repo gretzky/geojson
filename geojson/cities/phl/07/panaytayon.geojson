@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Panaytayon",
+    "country": "PH",
+    "subdivision": "07",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.98333,
+      9.95
+    ]
+  }
+}

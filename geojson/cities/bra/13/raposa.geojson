@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Raposa",
+    "country": "BR",
+    "subdivision": "13",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -44.18333,
+      -6.51667
+    ]
+  }
+}

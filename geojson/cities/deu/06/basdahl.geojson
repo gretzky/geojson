@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Basdahl",
+    "country": "DE",
+    "subdivision": "06",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.00025,
+      53.44502
+    ]
+  }
+}

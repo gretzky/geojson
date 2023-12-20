@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sandy",
+    "country": "GB",
+    "subdivision": "ENG",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.28925,
+      52.12927
+    ]
+  }
+}

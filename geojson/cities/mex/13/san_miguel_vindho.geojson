@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Miguel Vindho",
+    "country": "MX",
+    "subdivision": "13",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.31782,
+      19.99447
+    ]
+  }
+}

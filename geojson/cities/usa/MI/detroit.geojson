@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Detroit",
+    "country": "US",
+    "subdivision": "MI",
+    "timezone": "America/Detroit"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.04575,
+      42.33143
+    ]
+  }
+}

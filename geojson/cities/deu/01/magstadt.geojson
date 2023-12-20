@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Magstadt",
+    "country": "DE",
+    "subdivision": "01",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.96675,
+      48.74471
+    ]
+  }
+}

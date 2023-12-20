@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pampa de los Guanacos",
+    "country": "AR",
+    "subdivision": "22",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.83774,
+      -26.23002
+    ]
+  }
+}

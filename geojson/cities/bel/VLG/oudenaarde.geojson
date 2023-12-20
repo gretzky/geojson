@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oudenaarde",
+    "country": "BE",
+    "subdivision": "VLG",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.60891,
+      50.85168
+    ]
+  }
+}

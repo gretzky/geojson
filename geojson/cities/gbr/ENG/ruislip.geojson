@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ruislip",
+    "country": "GB",
+    "subdivision": "ENG",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.42341,
+      51.57344
+    ]
+  }
+}

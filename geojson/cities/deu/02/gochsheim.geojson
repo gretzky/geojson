@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gochsheim",
+    "country": "DE",
+    "subdivision": "02",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.28333,
+      50.01667
+    ]
+  }
+}

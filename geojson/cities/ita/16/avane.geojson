@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Avane",
+    "country": "IT",
+    "subdivision": "16",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.40982,
+      43.79049
+    ]
+  }
+}

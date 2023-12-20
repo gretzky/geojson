@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Champaign",
+    "country": "US",
+    "subdivision": "IL",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.24338,
+      40.11642
+    ]
+  }
+}

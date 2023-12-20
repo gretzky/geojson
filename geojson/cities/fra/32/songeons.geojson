@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Songeons",
+    "country": "FR",
+    "subdivision": "32",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.85361,
+      49.54916
+    ]
+  }
+}

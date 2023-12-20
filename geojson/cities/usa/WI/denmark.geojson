@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Denmark",
+    "country": "US",
+    "subdivision": "WI",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.82732,
+      44.34777
+    ]
+  }
+}

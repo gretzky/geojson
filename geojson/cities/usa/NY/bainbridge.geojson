@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bainbridge",
+    "country": "US",
+    "subdivision": "NY",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.47935,
+      42.29341
+    ]
+  }
+}

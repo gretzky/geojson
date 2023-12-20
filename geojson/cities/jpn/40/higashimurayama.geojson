@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Higashimurayama",
+    "country": "JP",
+    "subdivision": "40",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.46852,
+      35.75459
+    ]
+  }
+}

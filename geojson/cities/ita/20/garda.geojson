@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Garda",
+    "country": "IT",
+    "subdivision": "20",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.71763,
+      45.57889
+    ]
+  }
+}

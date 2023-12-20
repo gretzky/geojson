@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mannford",
+    "country": "US",
+    "subdivision": "OK",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -96.35446,
+      36.13341
+    ]
+  }
+}

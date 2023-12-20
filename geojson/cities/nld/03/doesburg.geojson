@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Doesburg",
+    "country": "NL",
+    "subdivision": "03",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.61667,
+      52.06667
+    ]
+  }
+}

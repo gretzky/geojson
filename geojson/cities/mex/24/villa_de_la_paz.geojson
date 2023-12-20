@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa de la Paz",
+    "country": "MX",
+    "subdivision": "24",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.71167,
+      23.67616
+    ]
+  }
+}

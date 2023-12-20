@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Laguna",
+    "country": "MX",
+    "subdivision": "13",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.49989,
+      19.73447
+    ]
+  }
+}

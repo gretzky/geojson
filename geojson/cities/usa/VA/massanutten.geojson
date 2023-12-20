@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Massanutten",
+    "country": "US",
+    "subdivision": "VA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.7378,
+      38.40957
+    ]
+  }
+}

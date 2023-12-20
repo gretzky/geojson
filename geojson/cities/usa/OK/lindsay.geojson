@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lindsay",
+    "country": "US",
+    "subdivision": "OK",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.60253,
+      34.8348
+    ]
+  }
+}

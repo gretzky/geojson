@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maing",
+    "country": "FR",
+    "subdivision": "32",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.48447,
+      50.30791
+    ]
+  }
+}

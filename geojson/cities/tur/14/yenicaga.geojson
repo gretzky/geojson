@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yeniçağa",
+    "country": "TR",
+    "subdivision": "14",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.03375,
+      40.77115
+    ]
+  }
+}

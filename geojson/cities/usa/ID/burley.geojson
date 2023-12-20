@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Burley",
+    "country": "US",
+    "subdivision": "ID",
+    "timezone": "America/Boise"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.79279,
+      42.53574
+    ]
+  }
+}

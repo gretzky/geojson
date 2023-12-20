@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nogales",
+    "country": "MX",
+    "subdivision": "30",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.16311,
+      18.82776
+    ]
+  }
+}

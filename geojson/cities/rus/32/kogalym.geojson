@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kogalym",
+    "country": "RU",
+    "subdivision": "32",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.47906,
+      62.26537
+    ]
+  }
+}

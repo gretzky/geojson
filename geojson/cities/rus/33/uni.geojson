@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Uni",
+    "country": "RU",
+    "subdivision": "33",
+    "timezone": "Europe/Kirov"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.4913,
+      57.751
+    ]
+  }
+}

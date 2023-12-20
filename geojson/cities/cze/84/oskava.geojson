@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oskava",
+    "country": "CZ",
+    "subdivision": "84",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.13214,
+      49.89523
+    ]
+  }
+}

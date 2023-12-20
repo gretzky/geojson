@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sibbesse",
+    "country": "DE",
+    "subdivision": "06",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9,
+      52.05
+    ]
+  }
+}

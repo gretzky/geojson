@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cono Norte",
+    "country": "PE",
+    "subdivision": "04",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.58151,
+      -16.32369
+    ]
+  }
+}

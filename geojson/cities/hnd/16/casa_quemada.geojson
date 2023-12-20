@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Casa Quemada",
+    "country": "HN",
+    "subdivision": "16",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.55,
+      15.26667
+    ]
+  }
+}

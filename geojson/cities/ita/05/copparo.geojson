@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Copparo",
+    "country": "IT",
+    "subdivision": "05",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.82287,
+      44.89263
+    ]
+  }
+}

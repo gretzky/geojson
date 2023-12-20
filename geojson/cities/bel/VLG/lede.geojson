@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lede",
+    "country": "BE",
+    "subdivision": "VLG",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.98594,
+      50.96626
+    ]
+  }
+}

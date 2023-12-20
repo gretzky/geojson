@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Avis",
+    "country": "US",
+    "subdivision": "PA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.31386,
+      41.18479
+    ]
+  }
+}

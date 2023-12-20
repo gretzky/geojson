@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cato",
+    "country": "US",
+    "subdivision": "WI",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.8612,
+      44.14277
+    ]
+  }
+}

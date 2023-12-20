@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Calhoun Falls",
+    "country": "US",
+    "subdivision": "SC",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.59569,
+      34.09234
+    ]
+  }
+}

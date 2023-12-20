@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eschede",
+    "country": "DE",
+    "subdivision": "06",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.2354,
+      52.73494
+    ]
+  }
+}

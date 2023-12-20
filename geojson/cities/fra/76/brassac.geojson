@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brassac",
+    "country": "FR",
+    "subdivision": "76",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4984,
+      43.63
+    ]
+  }
+}

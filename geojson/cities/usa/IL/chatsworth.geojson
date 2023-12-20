@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chatsworth",
+    "country": "US",
+    "subdivision": "IL",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.29199,
+      40.75365
+    ]
+  }
+}

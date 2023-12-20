@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chunghwa",
+    "country": "KP",
+    "subdivision": "12",
+    "timezone": "Asia/Pyongyang"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.8,
+      38.86389
+    ]
+  }
+}

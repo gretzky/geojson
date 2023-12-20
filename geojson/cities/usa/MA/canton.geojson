@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Canton",
+    "country": "US",
+    "subdivision": "MA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.14477,
+      42.15843
+    ]
+  }
+}

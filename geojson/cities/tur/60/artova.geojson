@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Artova",
+    "country": "TR",
+    "subdivision": "60",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3001,
+      40.11578
+    ]
+  }
+}

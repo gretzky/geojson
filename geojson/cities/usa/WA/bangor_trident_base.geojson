@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bangor Trident Base",
+    "country": "US",
+    "subdivision": "WA",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.71446,
+      47.72274
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kamba",
+    "country": "NG",
+    "subdivision": "40",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.65478,
+      11.85172
+    ]
+  }
+}

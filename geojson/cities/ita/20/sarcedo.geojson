@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sarcedo",
+    "country": "IT",
+    "subdivision": "20",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.52963,
+      45.70134
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sheffield",
+    "country": "US",
+    "subdivision": "IA",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.2152,
+      42.8933
+    ]
+  }
+}

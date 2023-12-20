@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Marshall",
+    "country": "US",
+    "subdivision": "AR",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -92.63127,
+      35.90896
+    ]
+  }
+}

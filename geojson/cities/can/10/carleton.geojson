@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carleton",
+    "country": "CA",
+    "subdivision": "10",
+    "timezone": "America/Toronto"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.11962,
+      48.10252
+    ]
+  }
+}

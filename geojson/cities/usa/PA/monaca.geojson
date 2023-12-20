@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monaca",
+    "country": "US",
+    "subdivision": "PA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.27145,
+      40.68729
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taşlı",
+    "country": "TR",
+    "subdivision": "74",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.1351,
+      37.98699
+    ]
+  }
+}

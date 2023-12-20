@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Náxos",
+    "country": "GR",
+    "subdivision": "ESYE42",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.37639,
+      37.10556
+    ]
+  }
+}

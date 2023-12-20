@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Tejeras",
+    "country": "HN",
+    "subdivision": "13",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.6,
+      14.8
+    ]
+  }
+}

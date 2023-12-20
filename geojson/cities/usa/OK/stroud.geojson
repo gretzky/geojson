@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stroud",
+    "country": "US",
+    "subdivision": "OK",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -96.65807,
+      35.74868
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Jose",
+    "country": "PH",
+    "subdivision": "08",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.03528,
+      10.98889
+    ]
+  }
+}

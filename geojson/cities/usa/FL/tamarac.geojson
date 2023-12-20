@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tamarac",
+    "country": "US",
+    "subdivision": "FL",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.24977,
+      26.21286
+    ]
+  }
+}

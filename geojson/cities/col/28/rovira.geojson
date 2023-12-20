@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rovira",
+    "country": "CO",
+    "subdivision": "28",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.23996,
+      4.23922
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palomas",
+    "country": "PR",
+    "subdivision": "045",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.25628,
+      18.23246
+    ]
+  }
+}

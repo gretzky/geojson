@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Giswil",
+    "country": "CH",
+    "subdivision": "OW",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.18065,
+      46.83333
+    ]
+  }
+}

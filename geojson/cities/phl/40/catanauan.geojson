@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Catanauan",
+    "country": "PH",
+    "subdivision": "40",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.3215,
+      13.5926
+    ]
+  }
+}

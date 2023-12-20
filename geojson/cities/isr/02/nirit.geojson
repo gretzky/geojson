@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nirit",
+    "country": "IL",
+    "subdivision": "02",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.98622,
+      32.14677
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lake Lotawana",
+    "country": "US",
+    "subdivision": "MO",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.24411,
+      38.92306
+    ]
+  }
+}

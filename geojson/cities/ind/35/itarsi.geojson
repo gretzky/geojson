@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Itārsi",
+    "country": "IN",
+    "subdivision": "35",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.76222,
+      22.61477
+    ]
+  }
+}

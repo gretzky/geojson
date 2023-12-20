@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stowell",
+    "country": "US",
+    "subdivision": "TX",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.38324,
+      29.78994
+    ]
+  }
+}

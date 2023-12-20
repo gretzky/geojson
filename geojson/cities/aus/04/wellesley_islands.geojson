@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wellesley Islands",
+    "country": "AU",
+    "subdivision": "04",
+    "timezone": "Australia/Brisbane"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.4014,
+      -16.63184
+    ]
+  }
+}

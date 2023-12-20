@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Providence",
+    "country": "MU",
+    "subdivision": "15",
+    "timezone": "Indian/Mauritius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.61222,
+      -20.24472
+    ]
+  }
+}

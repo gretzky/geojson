@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wausau",
+    "country": "US",
+    "subdivision": "WI",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.63012,
+      44.95914
+    ]
+  }
+}

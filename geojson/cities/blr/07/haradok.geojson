@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Haradok",
+    "country": "BY",
+    "subdivision": "07",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.9845,
+      55.4624
+    ]
+  }
+}

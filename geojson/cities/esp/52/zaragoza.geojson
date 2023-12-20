@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zaragoza",
+    "country": "ES",
+    "subdivision": "52",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.87734,
+      41.65606
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Isla Verde",
+    "country": "AR",
+    "subdivision": "05",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -62.40297,
+      -33.24104
+    ]
+  }
+}

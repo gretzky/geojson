@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cerro del Aire",
+    "country": "MX",
+    "subdivision": "20",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.20438,
+      16.11012
+    ]
+  }
+}

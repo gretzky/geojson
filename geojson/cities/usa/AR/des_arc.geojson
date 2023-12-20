@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Des Arc",
+    "country": "US",
+    "subdivision": "AR",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.49513,
+      34.97704
+    ]
+  }
+}

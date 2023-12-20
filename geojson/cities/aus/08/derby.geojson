@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Derby",
+    "country": "AU",
+    "subdivision": "08",
+    "timezone": "Australia/Perth"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.62864,
+      -17.30295
+    ]
+  }
+}

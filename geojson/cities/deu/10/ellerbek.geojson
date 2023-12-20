@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ellerbek",
+    "country": "DE",
+    "subdivision": "10",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.86991,
+      53.65817
+    ]
+  }
+}

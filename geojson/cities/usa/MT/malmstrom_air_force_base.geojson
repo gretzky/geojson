@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Malmstrom Air Force Base",
+    "country": "US",
+    "subdivision": "MT",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.18302,
+      47.50549
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Siwa Oasis",
+    "country": "EG",
+    "subdivision": "22",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.51965,
+      29.2032
+    ]
+  }
+}

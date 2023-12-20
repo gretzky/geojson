@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Latrobe",
+    "country": "US",
+    "subdivision": "PA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.37948,
+      40.32118
+    ]
+  }
+}

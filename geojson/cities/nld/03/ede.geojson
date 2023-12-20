@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ede",
+    "country": "NL",
+    "subdivision": "03",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.65833,
+      52.03333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Recoveco",
+    "country": "MX",
+    "subdivision": "25",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.72796,
+      24.99356
+    ]
+  }
+}

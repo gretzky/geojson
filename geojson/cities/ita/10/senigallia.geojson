@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Senigallia",
+    "country": "IT",
+    "subdivision": "10",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.20882,
+      43.71626
+    ]
+  }
+}

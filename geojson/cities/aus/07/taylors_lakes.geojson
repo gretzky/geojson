@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taylors Lakes",
+    "country": "AU",
+    "subdivision": "07",
+    "timezone": "Australia/Melbourne"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.78631,
+      -37.69863
+    ]
+  }
+}

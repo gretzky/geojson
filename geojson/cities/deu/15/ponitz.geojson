@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ponitz",
+    "country": "DE",
+    "subdivision": "15",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.42309,
+      50.85762
+    ]
+  }
+}

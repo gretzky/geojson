@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Primorsk",
+    "country": "RU",
+    "subdivision": "42",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.60615,
+      60.36622
+    ]
+  }
+}

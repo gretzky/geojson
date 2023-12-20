@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boucherville",
+    "country": "CA",
+    "subdivision": "10",
+    "timezone": "America/Toronto"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.43605,
+      45.59104
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Manning",
+    "country": "US",
+    "subdivision": "SC",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.21091,
+      33.69516
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rosult",
+    "country": "FR",
+    "subdivision": "32",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.35902,
+      50.45888
+    ]
+  }
+}

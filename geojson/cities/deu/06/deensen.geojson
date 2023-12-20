@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Deensen",
+    "country": "DE",
+    "subdivision": "06",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.59322,
+      51.86053
+    ]
+  }
+}

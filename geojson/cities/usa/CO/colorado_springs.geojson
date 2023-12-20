@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colorado Springs",
+    "country": "US",
+    "subdivision": "CO",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.82136,
+      38.83388
+    ]
+  }
+}

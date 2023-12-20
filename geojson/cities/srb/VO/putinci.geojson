@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Putinci",
+    "country": "RS",
+    "subdivision": "VO",
+    "timezone": "Europe/Belgrade"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.97102,
+      44.99259
+    ]
+  }
+}

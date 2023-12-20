@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Indura",
+    "country": "BY",
+    "subdivision": "03",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.8823,
+      53.4605
+    ]
+  }
+}

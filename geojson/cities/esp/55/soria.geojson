@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Soria",
+    "country": "ES",
+    "subdivision": "55",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.46883,
+      41.76401
+    ]
+  }
+}

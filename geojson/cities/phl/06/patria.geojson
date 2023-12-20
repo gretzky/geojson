@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Patria",
+    "country": "PH",
+    "subdivision": "06",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.0171,
+      11.7403
+    ]
+  }
+}

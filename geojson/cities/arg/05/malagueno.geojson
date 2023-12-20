@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Malagueño",
+    "country": "AR",
+    "subdivision": "05",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.3584,
+      -31.46467
+    ]
+  }
+}

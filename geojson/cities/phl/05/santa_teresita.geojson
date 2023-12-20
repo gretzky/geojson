@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Teresita",
+    "country": "PH",
+    "subdivision": "05",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.4191,
+      13.4786
+    ]
+  }
+}

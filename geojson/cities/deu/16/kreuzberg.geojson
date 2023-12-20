@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kreuzberg",
+    "country": "DE",
+    "subdivision": "16",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.40338,
+      52.49973
+    ]
+  }
+}

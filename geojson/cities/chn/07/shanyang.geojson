@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shanyang",
+    "country": "CN",
+    "subdivision": "07",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.20509,
+      26.67019
+    ]
+  }
+}

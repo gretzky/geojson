@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ben Zakkay",
+    "country": "IL",
+    "subdivision": "02",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.72747,
+      31.85612
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Khao Yoi",
+    "country": "TH",
+    "subdivision": "56",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.82428,
+      13.24025
+    ]
+  }
+}

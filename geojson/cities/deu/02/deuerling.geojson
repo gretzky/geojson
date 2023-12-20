@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Deuerling",
+    "country": "DE",
+    "subdivision": "02",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.91045,
+      49.0372
+    ]
+  }
+}

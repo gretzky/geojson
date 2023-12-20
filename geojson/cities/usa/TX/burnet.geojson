@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Burnet",
+    "country": "US",
+    "subdivision": "TX",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.22836,
+      30.75824
+    ]
+  }
+}

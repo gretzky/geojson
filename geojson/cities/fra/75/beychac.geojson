@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beychac",
+    "country": "FR",
+    "subdivision": "75",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.40277,
+      44.87747
+    ]
+  }
+}

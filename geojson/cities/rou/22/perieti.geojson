@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Perieţi",
+    "country": "RO",
+    "subdivision": "22",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.21667,
+      44.55
+    ]
+  }
+}

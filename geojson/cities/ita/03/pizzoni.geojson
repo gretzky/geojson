@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pizzoni",
+    "country": "IT",
+    "subdivision": "03",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.24876,
+      38.62286
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Noda",
+    "country": "JP",
+    "subdivision": "04",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.86793,
+      35.94897
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Springs",
+    "country": "ZA",
+    "subdivision": "06",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.4,
+      -26.25
+    ]
+  }
+}

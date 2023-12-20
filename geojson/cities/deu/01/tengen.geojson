@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tengen",
+    "country": "DE",
+    "subdivision": "01",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.66117,
+      47.82128
+    ]
+  }
+}

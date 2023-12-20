@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Clanton Park",
+    "country": "CA",
+    "subdivision": "08",
+    "timezone": "America/Toronto"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.4463,
+      43.74198
+    ]
+  }
+}

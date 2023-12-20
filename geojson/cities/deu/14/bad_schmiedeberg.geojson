@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bad Schmiedeberg",
+    "country": "DE",
+    "subdivision": "14",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.73483,
+      51.68516
+    ]
+  }
+}

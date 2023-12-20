@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Graton",
+    "country": "US",
+    "subdivision": "CA",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.86972,
+      38.4363
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Selva",
+    "country": "ES",
+    "subdivision": "07",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.90069,
+      39.75504
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mugeni",
+    "country": "RO",
+    "subdivision": "20",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.21667,
+      46.25
+    ]
+  }
+}

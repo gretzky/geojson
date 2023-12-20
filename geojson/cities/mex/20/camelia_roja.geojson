@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Camelia Roja",
+    "country": "MX",
+    "subdivision": "20",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -96.20806,
+      18.02833
+    ]
+  }
+}

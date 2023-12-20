@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lieksa",
+    "country": "FI",
+    "subdivision": "12",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.01667,
+      63.31667
+    ]
+  }
+}

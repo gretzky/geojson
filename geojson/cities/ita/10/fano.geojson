@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fano",
+    "country": "IT",
+    "subdivision": "10",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.01665,
+      43.84052
+    ]
+  }
+}

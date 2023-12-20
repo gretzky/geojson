@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pieterlen",
+    "country": "CH",
+    "subdivision": "BE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.33791,
+      47.17501
+    ]
+  }
+}

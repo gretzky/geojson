@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dulles Town Center",
+    "country": "US",
+    "subdivision": "VA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.41582,
+      39.03761
+    ]
+  }
+}

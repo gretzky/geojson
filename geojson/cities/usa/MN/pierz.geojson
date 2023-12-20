@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pierz",
+    "country": "US",
+    "subdivision": "MN",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.10471,
+      45.98163
+    ]
+  }
+}

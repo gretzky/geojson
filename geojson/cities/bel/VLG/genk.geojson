@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Genk",
+    "country": "BE",
+    "subdivision": "VLG",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.50082,
+      50.965
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Čáslav",
+    "country": "CZ",
+    "subdivision": "88",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.38972,
+      49.91099
+    ]
+  }
+}

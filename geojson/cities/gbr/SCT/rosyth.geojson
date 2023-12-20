@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rosyth",
+    "country": "GB",
+    "subdivision": "SCT",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.438,
+      56.03689
+    ]
+  }
+}

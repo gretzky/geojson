@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Xiangtan",
+    "country": "CN",
+    "subdivision": "11",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.9,
+      27.85
+    ]
+  }
+}

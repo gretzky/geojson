@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Blaton",
+    "country": "BE",
+    "subdivision": "WAL",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.66008,
+      50.50038
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krzyki",
+    "country": "PL",
+    "subdivision": "72",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.99475,
+      51.07085
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Well",
+    "country": "NL",
+    "subdivision": "05",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.08889,
+      51.55
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rancho Nuevo de la Cruz",
+    "country": "MX",
+    "subdivision": "11",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -101.51786,
+      20.65105
+    ]
+  }
+}

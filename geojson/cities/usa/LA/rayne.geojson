@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rayne",
+    "country": "US",
+    "subdivision": "LA",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -92.26846,
+      30.23493
+    ]
+  }
+}

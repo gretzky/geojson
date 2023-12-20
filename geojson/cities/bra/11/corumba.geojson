@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Corumbá",
+    "country": "BR",
+    "subdivision": "11",
+    "timezone": "America/Campo_Grande"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.65333,
+      -19.00917
+    ]
+  }
+}

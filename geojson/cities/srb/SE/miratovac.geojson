@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Miratovac",
+    "country": "RS",
+    "subdivision": "SE",
+    "timezone": "Europe/Belgrade"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.66456,
+      42.25846
+    ]
+  }
+}

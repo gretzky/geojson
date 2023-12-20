@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hagavik",
+    "country": "NO",
+    "subdivision": "46",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.40146,
+      60.18076
+    ]
+  }
+}

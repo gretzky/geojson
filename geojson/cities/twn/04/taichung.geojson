@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taichung",
+    "country": "TW",
+    "subdivision": "04",
+    "timezone": "Asia/Taipei"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.6839,
+      24.1469
+    ]
+  }
+}

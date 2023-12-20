@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zawoja",
+    "country": "PL",
+    "subdivision": "77",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.54227,
+      49.64396
+    ]
+  }
+}

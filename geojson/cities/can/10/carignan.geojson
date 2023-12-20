@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carignan",
+    "country": "CA",
+    "subdivision": "10",
+    "timezone": "America/Toronto"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.29916,
+      45.45008
+    ]
+  }
+}

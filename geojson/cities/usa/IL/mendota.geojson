@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mendota",
+    "country": "US",
+    "subdivision": "IL",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.11759,
+      41.54725
+    ]
+  }
+}

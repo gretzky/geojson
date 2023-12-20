@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alloa",
+    "country": "GB",
+    "subdivision": "SCT",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.78997,
+      56.11586
+    ]
+  }
+}

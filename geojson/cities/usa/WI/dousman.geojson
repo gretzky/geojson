@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dousman",
+    "country": "US",
+    "subdivision": "WI",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.4726,
+      43.01418
+    ]
+  }
+}

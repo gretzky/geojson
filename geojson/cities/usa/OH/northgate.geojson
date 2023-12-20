@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Northgate",
+    "country": "US",
+    "subdivision": "OH",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.59245,
+      39.25283
+    ]
+  }
+}

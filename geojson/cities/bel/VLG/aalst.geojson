@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aalst",
+    "country": "BE",
+    "subdivision": "VLG",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.0355,
+      50.93604
+    ]
+  }
+}

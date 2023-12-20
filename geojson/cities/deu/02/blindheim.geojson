@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Blindheim",
+    "country": "DE",
+    "subdivision": "02",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.61992,
+      48.63138
+    ]
+  }
+}

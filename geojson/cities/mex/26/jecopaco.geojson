@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jecopaco",
+    "country": "MX",
+    "subdivision": "26",
+    "timezone": "America/Hermosillo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.76946,
+      27.19831
+    ]
+  }
+}

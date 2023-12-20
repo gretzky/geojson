@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kishiwada",
+    "country": "JP",
+    "subdivision": "32",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.36667,
+      34.46667
+    ]
+  }
+}

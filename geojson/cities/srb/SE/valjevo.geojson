@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Valjevo",
+    "country": "RS",
+    "subdivision": "SE",
+    "timezone": "Europe/Belgrade"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.89821,
+      44.27513
+    ]
+  }
+}

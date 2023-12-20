@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sanfront",
+    "country": "IT",
+    "subdivision": "12",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.32243,
+      44.64698
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Schellhorn",
+    "country": "DE",
+    "subdivision": "10",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.29402,
+      54.22952
+    ]
+  }
+}

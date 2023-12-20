@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "June Park",
+    "country": "US",
+    "subdivision": "FL",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.68006,
+      28.07224
+    ]
+  }
+}

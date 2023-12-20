@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Weifang",
+    "country": "CN",
+    "subdivision": "25",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.10194,
+      36.71
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Horse Pasture",
+    "country": "US",
+    "subdivision": "VA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.95087,
+      36.62847
+    ]
+  }
+}

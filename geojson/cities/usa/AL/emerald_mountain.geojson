@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Emerald Mountain",
+    "country": "US",
+    "subdivision": "AL",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.09429,
+      32.44793
+    ]
+  }
+}

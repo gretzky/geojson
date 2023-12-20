@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dazaifu",
+    "country": "JP",
+    "subdivision": "07",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.52389,
+      33.51278
+    ]
+  }
+}

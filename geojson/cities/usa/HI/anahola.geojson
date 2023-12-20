@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Anahola",
+    "country": "US",
+    "subdivision": "HI",
+    "timezone": "Pacific/Honolulu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -159.31388,
+      22.14226
+    ]
+  }
+}

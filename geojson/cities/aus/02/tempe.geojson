@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tempe",
+    "country": "AU",
+    "subdivision": "02",
+    "timezone": "Australia/Sydney"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.1602,
+      -33.92335
+    ]
+  }
+}

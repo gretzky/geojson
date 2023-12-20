@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lombard",
+    "country": "US",
+    "subdivision": "IL",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.00784,
+      41.88003
+    ]
+  }
+}

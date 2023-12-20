@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Méricourt",
+    "country": "FR",
+    "subdivision": "32",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.86246,
+      50.40116
+    ]
+  }
+}

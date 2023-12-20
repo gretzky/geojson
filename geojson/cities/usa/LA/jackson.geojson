@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jackson",
+    "country": "US",
+    "subdivision": "LA",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.21761,
+      30.8374
+    ]
+  }
+}

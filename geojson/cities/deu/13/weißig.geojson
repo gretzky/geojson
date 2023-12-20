@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Weißig",
+    "country": "DE",
+    "subdivision": "13",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.44117,
+      51.29192
+    ]
+  }
+}

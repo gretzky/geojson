@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Adrian",
+    "country": "US",
+    "subdivision": "MO",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.35162,
+      38.39752
+    ]
+  }
+}

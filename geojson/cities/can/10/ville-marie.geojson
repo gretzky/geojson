@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ville-Marie",
+    "country": "CA",
+    "subdivision": "10",
+    "timezone": "America/Toronto"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.43297,
+      47.33345
+    ]
+  }
+}

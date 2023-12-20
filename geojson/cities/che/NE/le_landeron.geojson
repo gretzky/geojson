@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Landeron",
+    "country": "CH",
+    "subdivision": "NE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.07052,
+      47.05702
+    ]
+  }
+}

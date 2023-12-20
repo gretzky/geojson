@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Digras",
+    "country": "IN",
+    "subdivision": "16",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.71846,
+      20.1035
+    ]
+  }
+}

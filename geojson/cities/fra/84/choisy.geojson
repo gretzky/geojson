@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Choisy",
+    "country": "FR",
+    "subdivision": "84",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.05866,
+      45.99359
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jacksonville",
+    "country": "US",
+    "subdivision": "AR",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -92.11015,
+      34.8662
+    ]
+  }
+}

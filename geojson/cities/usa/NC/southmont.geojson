@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Southmont",
+    "country": "US",
+    "subdivision": "NC",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.267,
+      35.66792
+    ]
+  }
+}

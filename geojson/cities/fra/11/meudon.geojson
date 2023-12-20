@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Meudon",
+    "country": "FR",
+    "subdivision": "11",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.235,
+      48.81381
+    ]
+  }
+}

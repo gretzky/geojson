@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mount Kisco",
+    "country": "US",
+    "subdivision": "NY",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.72708,
+      41.20426
+    ]
+  }
+}

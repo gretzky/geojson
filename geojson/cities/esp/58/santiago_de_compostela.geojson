@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santiago de Compostela",
+    "country": "ES",
+    "subdivision": "58",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.54569,
+      42.88052
+    ]
+  }
+}

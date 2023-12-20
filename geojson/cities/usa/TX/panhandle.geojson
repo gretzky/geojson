@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Panhandle",
+    "country": "US",
+    "subdivision": "TX",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -101.38044,
+      35.3456
+    ]
+  }
+}

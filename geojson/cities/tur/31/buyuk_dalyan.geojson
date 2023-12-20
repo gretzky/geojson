@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Büyük Dalyan",
+    "country": "TR",
+    "subdivision": "31",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.20903,
+      36.28824
+    ]
+  }
+}

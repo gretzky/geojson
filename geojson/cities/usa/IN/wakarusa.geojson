@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wakarusa",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.02083,
+      41.53616
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alaplı",
+    "country": "TR",
+    "subdivision": "85",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.38514,
+      41.1814
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tressin",
+    "country": "FR",
+    "subdivision": "32",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.19354,
+      50.6175
+    ]
+  }
+}

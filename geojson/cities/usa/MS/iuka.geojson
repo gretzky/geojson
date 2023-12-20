@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Iuka",
+    "country": "US",
+    "subdivision": "MS",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.19004,
+      34.81176
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wattenbek",
+    "country": "DE",
+    "subdivision": "10",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.05,
+      54.16667
+    ]
+  }
+}

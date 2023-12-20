@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guadalupe",
+    "country": "CR",
+    "subdivision": "08",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.05665,
+      9.94805
+    ]
+  }
+}

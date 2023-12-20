@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Budapest",
+    "country": "HU",
+    "subdivision": "05",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.04045,
+      47.49835
+    ]
+  }
+}

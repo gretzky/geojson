@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Midland Beach",
+    "country": "US",
+    "subdivision": "NY",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.09459,
+      40.57316
+    ]
+  }
+}

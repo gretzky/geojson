@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kolari",
+    "country": "FI",
+    "subdivision": "19",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.77785,
+      67.33047
+    ]
+  }
+}

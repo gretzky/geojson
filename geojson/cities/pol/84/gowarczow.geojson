@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gowarczów",
+    "country": "PL",
+    "subdivision": "84",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.43835,
+      51.27845
+    ]
+  }
+}

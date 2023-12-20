@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rustburg",
+    "country": "US",
+    "subdivision": "VA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.10085,
+      37.27681
+    ]
+  }
+}

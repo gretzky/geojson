@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Borne",
+    "country": "DE",
+    "subdivision": "14",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.55865,
+      51.94881
+    ]
+  }
+}

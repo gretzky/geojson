@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Giresun",
+    "country": "TR",
+    "subdivision": "28",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.38741,
+      40.91698
+    ]
+  }
+}

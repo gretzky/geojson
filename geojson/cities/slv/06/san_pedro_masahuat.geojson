@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pedro Masahuat",
+    "country": "SV",
+    "subdivision": "06",
+    "timezone": "America/El_Salvador"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.03861,
+      13.54361
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Woodstock",
+    "country": "CA",
+    "subdivision": "08",
+    "timezone": "America/Toronto"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.7497,
+      43.13339
+    ]
+  }
+}

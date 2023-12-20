@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Minden",
+    "country": "US",
+    "subdivision": "LA",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.28684,
+      32.61543
+    ]
+  }
+}

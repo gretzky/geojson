@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tétouan",
+    "country": "MA",
+    "subdivision": "01",
+    "timezone": "Africa/Casablanca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.36837,
+      35.57845
+    ]
+  }
+}

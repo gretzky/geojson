@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zoar",
+    "country": "ZA",
+    "subdivision": "11",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.44373,
+      -33.4956
+    ]
+  }
+}

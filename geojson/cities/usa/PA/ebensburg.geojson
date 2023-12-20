@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ebensburg",
+    "country": "US",
+    "subdivision": "PA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.72474,
+      40.48507
+    ]
+  }
+}

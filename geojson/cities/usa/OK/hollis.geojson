@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hollis",
+    "country": "US",
+    "subdivision": "OK",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.91205,
+      34.68839
+    ]
+  }
+}

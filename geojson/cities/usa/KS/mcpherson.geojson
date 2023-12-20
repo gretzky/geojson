@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "McPherson",
+    "country": "US",
+    "subdivision": "KS",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.66421,
+      38.37084
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Tremblade",
+    "country": "FR",
+    "subdivision": "75",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.14232,
+      45.7699
+    ]
+  }
+}

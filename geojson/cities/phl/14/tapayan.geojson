@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tapayan",
+    "country": "PH",
+    "subdivision": "14",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.26611,
+      7.29444
+    ]
+  }
+}

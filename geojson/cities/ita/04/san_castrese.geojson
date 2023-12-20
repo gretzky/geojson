@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Castrese",
+    "country": "IT",
+    "subdivision": "04",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.86541,
+      41.25862
+    ]
+  }
+}

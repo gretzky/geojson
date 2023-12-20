@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stanley",
+    "country": "US",
+    "subdivision": "ND",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.39045,
+      48.31724
+    ]
+  }
+}

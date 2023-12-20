@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Berezivka",
+    "country": "UA",
+    "subdivision": "07",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.70736,
+      49.43935
+    ]
+  }
+}

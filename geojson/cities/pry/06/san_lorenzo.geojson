@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Lorenzo",
+    "country": "PY",
+    "subdivision": "06",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.50879,
+      -25.33968
+    ]
+  }
+}

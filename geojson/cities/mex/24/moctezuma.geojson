@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moctezuma",
+    "country": "MX",
+    "subdivision": "24",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -101.08219,
+      22.74787
+    ]
+  }
+}

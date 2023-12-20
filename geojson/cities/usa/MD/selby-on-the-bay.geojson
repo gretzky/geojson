@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Selby-on-the-Bay",
+    "country": "US",
+    "subdivision": "MD",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.52246,
+      38.91622
+    ]
+  }
+}

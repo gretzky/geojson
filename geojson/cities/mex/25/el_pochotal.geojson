@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Pochotal",
+    "country": "MX",
+    "subdivision": "25",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.84355,
+      25.99541
+    ]
+  }
+}

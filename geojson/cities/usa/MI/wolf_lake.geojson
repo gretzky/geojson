@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wolf Lake",
+    "country": "US",
+    "subdivision": "MI",
+    "timezone": "America/Detroit"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.10978,
+      43.25474
+    ]
+  }
+}

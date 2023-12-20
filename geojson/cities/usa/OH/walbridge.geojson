@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Walbridge",
+    "country": "US",
+    "subdivision": "OH",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.49327,
+      41.58783
+    ]
+  }
+}

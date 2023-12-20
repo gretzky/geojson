@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Tour-de-Peilz",
+    "country": "CH",
+    "subdivision": "VD",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.85856,
+      46.45312
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Blackfoot",
+    "country": "US",
+    "subdivision": "ID",
+    "timezone": "America/Boise"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.34498,
+      43.19047
+    ]
+  }
+}

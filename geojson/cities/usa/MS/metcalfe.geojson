@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Metcalfe",
+    "country": "US",
+    "subdivision": "MS",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.00733,
+      33.454
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Caimito",
+    "country": "CO",
+    "subdivision": "27",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.11686,
+      8.78962
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bengbu",
+    "country": "CN",
+    "subdivision": "01",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.36083,
+      32.94083
+    ]
+  }
+}

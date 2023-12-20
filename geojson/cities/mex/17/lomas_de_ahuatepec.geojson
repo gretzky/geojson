@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lomas de Ahuatepec",
+    "country": "MX",
+    "subdivision": "17",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.18972,
+      18.97139
+    ]
+  }
+}

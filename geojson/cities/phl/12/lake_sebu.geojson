@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lake Sebu",
+    "country": "PH",
+    "subdivision": "12",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.71042,
+      6.22482
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Greenville",
+    "country": "US",
+    "subdivision": "AL",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.61775,
+      31.8296
+    ]
+  }
+}

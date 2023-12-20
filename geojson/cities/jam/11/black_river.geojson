@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Black River",
+    "country": "JM",
+    "subdivision": "11",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.84873,
+      18.02636
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "St. Albert",
+    "country": "CA",
+    "subdivision": "01",
+    "timezone": "America/Edmonton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.63533,
+      53.63344
+    ]
+  }
+}

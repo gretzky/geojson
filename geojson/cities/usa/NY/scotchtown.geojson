@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Scotchtown",
+    "country": "US",
+    "subdivision": "NY",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.36015,
+      41.48148
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aceitunas",
+    "country": "PR",
+    "subdivision": "099",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.0649,
+      18.44328
+    ]
+  }
+}

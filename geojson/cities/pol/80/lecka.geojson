@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lecka",
+    "country": "PL",
+    "subdivision": "80",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.01368,
+      49.8786
+    ]
+  }
+}

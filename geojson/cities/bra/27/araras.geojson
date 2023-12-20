@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Araras",
+    "country": "BR",
+    "subdivision": "27",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -47.38417,
+      -22.35694
+    ]
+  }
+}

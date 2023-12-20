@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Priekule",
+    "country": "LV",
+    "subdivision": "A8",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.58968,
+      56.44679
+    ]
+  }
+}

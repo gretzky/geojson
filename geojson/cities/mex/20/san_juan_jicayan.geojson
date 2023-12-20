@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan Jicayán",
+    "country": "MX",
+    "subdivision": "20",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.0125,
+      16.47583
+    ]
+  }
+}

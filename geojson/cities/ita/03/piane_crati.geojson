@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Piane Crati",
+    "country": "IT",
+    "subdivision": "03",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.32313,
+      39.23472
+    ]
+  }
+}

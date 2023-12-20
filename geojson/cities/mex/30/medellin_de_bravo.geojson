@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Medellín de Bravo",
+    "country": "MX",
+    "subdivision": "30",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -96.15781,
+      19.05869
+    ]
+  }
+}

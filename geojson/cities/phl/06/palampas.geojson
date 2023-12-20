@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palampas",
+    "country": "PH",
+    "subdivision": "06",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.4208,
+      10.52506
+    ]
+  }
+}

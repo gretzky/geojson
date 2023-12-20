@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Whangarei",
+    "country": "NZ",
+    "subdivision": "F6",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.32391,
+      -35.73167
+    ]
+  }
+}

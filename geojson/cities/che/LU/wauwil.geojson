@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wauwil",
+    "country": "CH",
+    "subdivision": "LU",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.021,
+      47.18457
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moss Bluff",
+    "country": "US",
+    "subdivision": "LA",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.19071,
+      30.3027
+    ]
+  }
+}

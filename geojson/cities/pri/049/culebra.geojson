@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Culebra",
+    "country": "PR",
+    "subdivision": "049",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.30099,
+      18.30301
+    ]
+  }
+}

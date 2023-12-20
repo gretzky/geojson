@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kilmallock",
+    "country": "IE",
+    "subdivision": "M",
+    "timezone": "Europe/Dublin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.57722,
+      52.4
+    ]
+  }
+}

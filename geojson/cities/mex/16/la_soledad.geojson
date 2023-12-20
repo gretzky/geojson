@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Soledad",
+    "country": "MX",
+    "subdivision": "16",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.48333,
+      19.52111
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cholet",
+    "country": "FR",
+    "subdivision": "52",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.87974,
+      47.05893
+    ]
+  }
+}

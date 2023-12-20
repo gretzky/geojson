@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "East End-Danforth",
+    "country": "CA",
+    "subdivision": "08",
+    "timezone": "America/Toronto"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.29936,
+      43.68417
+    ]
+  }
+}

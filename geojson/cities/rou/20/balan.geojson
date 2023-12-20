@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bălan",
+    "country": "RO",
+    "subdivision": "20",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.80834,
+      46.6505
+    ]
+  }
+}

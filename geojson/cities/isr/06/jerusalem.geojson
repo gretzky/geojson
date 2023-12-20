@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jerusalem",
+    "country": "IL",
+    "subdivision": "06",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.21633,
+      31.76904
+    ]
+  }
+}

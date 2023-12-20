@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Navoloki",
+    "country": "RU",
+    "subdivision": "21",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.96344,
+      57.46572
+    ]
+  }
+}

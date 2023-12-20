@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fairfield",
+    "country": "US",
+    "subdivision": "NJ",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.30598,
+      40.88371
+    ]
+  }
+}

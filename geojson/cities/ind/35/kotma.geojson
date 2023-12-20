@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kotma",
+    "country": "IN",
+    "subdivision": "35",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.97904,
+      23.20383
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tongwan",
+    "country": "CN",
+    "subdivision": "11",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      110.27722,
+      27.58111
+    ]
+  }
+}

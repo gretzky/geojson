@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hanford",
+    "country": "US",
+    "subdivision": "CA",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.64568,
+      36.32745
+    ]
+  }
+}

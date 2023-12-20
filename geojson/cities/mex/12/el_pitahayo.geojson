@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Pitahayo",
+    "country": "MX",
+    "subdivision": "12",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.5276,
+      16.53236
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fundeni",
+    "country": "RO",
+    "subdivision": "11",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.88028,
+      45.29141
+    ]
+  }
+}

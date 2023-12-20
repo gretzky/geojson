@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Montevarchi",
+    "country": "IT",
+    "subdivision": "16",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.57238,
+      43.5252
+    ]
+  }
+}

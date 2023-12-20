@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "O'Fallon",
+    "country": "US",
+    "subdivision": "MO",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.69985,
+      38.81061
+    ]
+  }
+}

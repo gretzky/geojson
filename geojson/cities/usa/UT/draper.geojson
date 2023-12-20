@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Draper",
+    "country": "US",
+    "subdivision": "UT",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.86382,
+      40.52467
+    ]
+  }
+}

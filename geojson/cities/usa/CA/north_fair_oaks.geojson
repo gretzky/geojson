@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "North Fair Oaks",
+    "country": "US",
+    "subdivision": "CA",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.19663,
+      37.47438
+    ]
+  }
+}

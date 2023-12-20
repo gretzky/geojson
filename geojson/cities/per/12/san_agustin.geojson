@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Agustin",
+    "country": "PE",
+    "subdivision": "12",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.25562,
+      -11.97195
+    ]
+  }
+}

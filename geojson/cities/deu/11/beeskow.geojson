@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beeskow",
+    "country": "DE",
+    "subdivision": "11",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.24597,
+      52.17291
+    ]
+  }
+}

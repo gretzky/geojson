@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stratham Station",
+    "country": "US",
+    "subdivision": "NH",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.89533,
+      43.05287
+    ]
+  }
+}

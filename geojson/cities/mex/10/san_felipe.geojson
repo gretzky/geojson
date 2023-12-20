@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Felipe",
+    "country": "MX",
+    "subdivision": "10",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.3825,
+      25.69278
+    ]
+  }
+}

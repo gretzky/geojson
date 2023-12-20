@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rockledge",
+    "country": "US",
+    "subdivision": "FL",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.72533,
+      28.35084
+    ]
+  }
+}

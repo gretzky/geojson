@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Smögen",
+    "country": "SE",
+    "subdivision": "28",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.22411,
+      58.35593
+    ]
+  }
+}

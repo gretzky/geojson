@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "South Dos Palos",
+    "country": "US",
+    "subdivision": "CA",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.65324,
+      36.96439
+    ]
+  }
+}

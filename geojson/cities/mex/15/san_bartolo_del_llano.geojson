@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Bartolo del Llano",
+    "country": "MX",
+    "subdivision": "15",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.74099,
+      19.59069
+    ]
+  }
+}

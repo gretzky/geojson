@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Polo di Piave",
+    "country": "IT",
+    "subdivision": "20",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.39287,
+      45.78969
+    ]
+  }
+}

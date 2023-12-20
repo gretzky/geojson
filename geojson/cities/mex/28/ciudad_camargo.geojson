@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad Camargo",
+    "country": "MX",
+    "subdivision": "28",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.83378,
+      26.31437
+    ]
+  }
+}

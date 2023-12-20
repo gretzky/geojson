@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Transito Tular",
+    "country": "MX",
+    "subdivision": "27",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.40283,
+      18.33849
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carbon Hill",
+    "country": "US",
+    "subdivision": "AL",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.52612,
+      33.89177
+    ]
+  }
+}

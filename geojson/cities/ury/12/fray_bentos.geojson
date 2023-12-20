@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fray Bentos",
+    "country": "UY",
+    "subdivision": "12",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.31067,
+      -33.11651
+    ]
+  }
+}

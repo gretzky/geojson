@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sundre",
+    "country": "CA",
+    "subdivision": "01",
+    "timezone": "America/Edmonton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.63532,
+      51.8001
+    ]
+  }
+}

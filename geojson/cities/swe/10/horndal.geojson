@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Horndal",
+    "country": "SE",
+    "subdivision": "10",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.41667,
+      60.3
+    ]
+  }
+}

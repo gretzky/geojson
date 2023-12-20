@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sitten",
+    "country": "CH",
+    "subdivision": "VS",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.35559,
+      46.22739
+    ]
+  }
+}

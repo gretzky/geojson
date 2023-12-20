@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Goiás",
+    "country": "BR",
+    "subdivision": "29",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -50.14028,
+      -15.93444
+    ]
+  }
+}

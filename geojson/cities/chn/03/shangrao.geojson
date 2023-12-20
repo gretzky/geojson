@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shangrao",
+    "country": "CN",
+    "subdivision": "03",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.94287,
+      28.45179
+    ]
+  }
+}

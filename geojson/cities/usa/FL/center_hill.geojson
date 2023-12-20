@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Center Hill",
+    "country": "US",
+    "subdivision": "FL",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.99258,
+      28.64999
+    ]
+  }
+}

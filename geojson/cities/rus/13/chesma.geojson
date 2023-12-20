@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chesma",
+    "country": "RU",
+    "subdivision": "13",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      60.65333,
+      53.81111
+    ]
+  }
+}

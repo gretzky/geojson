@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Murmino",
+    "country": "RU",
+    "subdivision": "62",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.0549,
+      54.6043
+    ]
+  }
+}

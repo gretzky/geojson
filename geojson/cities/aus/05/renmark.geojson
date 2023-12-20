@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Renmark",
+    "country": "AU",
+    "subdivision": "05",
+    "timezone": "Australia/Adelaide"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.74697,
+      -34.17702
+    ]
+  }
+}

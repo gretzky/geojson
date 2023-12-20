@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fayette",
+    "country": "US",
+    "subdivision": "AL",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.83085,
+      33.68455
+    ]
+  }
+}

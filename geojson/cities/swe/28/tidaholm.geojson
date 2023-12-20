@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tidaholm",
+    "country": "SE",
+    "subdivision": "28",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.95824,
+      58.18035
+    ]
+  }
+}

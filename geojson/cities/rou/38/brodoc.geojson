@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brodoc",
+    "country": "RO",
+    "subdivision": "38",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.67669,
+      46.6509
+    ]
+  }
+}

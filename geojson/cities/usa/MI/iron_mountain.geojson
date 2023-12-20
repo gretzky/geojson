@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Iron Mountain",
+    "country": "US",
+    "subdivision": "MI",
+    "timezone": "America/Menominee"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.06596,
+      45.82023
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tokuyama",
+    "country": "JP",
+    "subdivision": "45",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.81667,
+      34.05
+    ]
+  }
+}

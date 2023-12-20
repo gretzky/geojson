@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Savannakhet",
+    "country": "LA",
+    "subdivision": "20",
+    "timezone": "Asia/Vientiane"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.7622,
+      16.5703
+    ]
+  }
+}

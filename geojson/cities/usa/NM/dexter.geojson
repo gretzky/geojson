@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dexter",
+    "country": "US",
+    "subdivision": "NM",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.37302,
+      33.19733
+    ]
+  }
+}

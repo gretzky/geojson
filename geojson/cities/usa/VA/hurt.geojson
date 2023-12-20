@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hurt",
+    "country": "US",
+    "subdivision": "VA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.29641,
+      37.09264
+    ]
+  }
+}

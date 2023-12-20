@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fujisawa",
+    "country": "JP",
+    "subdivision": "19",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.47666,
+      35.34926
+    ]
+  }
+}

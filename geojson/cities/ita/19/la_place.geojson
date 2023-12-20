@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Place",
+    "country": "IT",
+    "subdivision": "19",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.68414,
+      45.65414
+    ]
+  }
+}

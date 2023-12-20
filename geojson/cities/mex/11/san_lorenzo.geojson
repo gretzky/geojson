@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Lorenzo",
+    "country": "MX",
+    "subdivision": "11",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.7197,
+      20.46687
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Selikhino",
+    "country": "RU",
+    "subdivision": "30",
+    "timezone": "Asia/Vladivostok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.50163,
+      50.36832
+    ]
+  }
+}

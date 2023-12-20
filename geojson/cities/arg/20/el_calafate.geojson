@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Calafate",
+    "country": "AR",
+    "subdivision": "20",
+    "timezone": "America/Argentina/Rio_Gallegos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.27682,
+      -50.34075
+    ]
+  }
+}

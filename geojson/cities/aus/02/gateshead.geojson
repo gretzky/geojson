@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gateshead",
+    "country": "AU",
+    "subdivision": "02",
+    "timezone": "Australia/Sydney"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.69188,
+      -32.98208
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lusacan",
+    "country": "PH",
+    "subdivision": "40",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.34477,
+      13.95523
+    ]
+  }
+}

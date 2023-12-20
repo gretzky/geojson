@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yao",
+    "country": "JP",
+    "subdivision": "32",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.6,
+      34.61667
+    ]
+  }
+}

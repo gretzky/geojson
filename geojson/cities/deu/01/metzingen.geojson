@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Metzingen",
+    "country": "DE",
+    "subdivision": "01",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2833,
+      48.53695
+    ]
+  }
+}

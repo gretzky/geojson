@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Batan",
+    "country": "PH",
+    "subdivision": "06",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.4971,
+      11.5857
+    ]
+  }
+}

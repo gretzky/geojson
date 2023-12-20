@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Margarita",
+    "country": "PA",
+    "subdivision": "04",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.89028,
+      9.32603
+    ]
+  }
+}

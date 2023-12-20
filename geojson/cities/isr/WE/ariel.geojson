@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ariel",
+    "country": "IL",
+    "subdivision": "WE",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.18449,
+      32.1065
+    ]
+  }
+}

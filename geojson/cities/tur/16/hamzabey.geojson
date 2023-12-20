@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hamzabey",
+    "country": "TR",
+    "subdivision": "16",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.52639,
+      40.13583
+    ]
+  }
+}

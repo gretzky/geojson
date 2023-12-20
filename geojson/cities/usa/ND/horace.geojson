@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Horace",
+    "country": "US",
+    "subdivision": "ND",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -96.9037,
+      46.75886
+    ]
+  }
+}

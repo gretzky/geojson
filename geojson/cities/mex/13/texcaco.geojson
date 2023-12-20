@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Texcaco",
+    "country": "MX",
+    "subdivision": "13",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.61613,
+      20.83982
+    ]
+  }
+}

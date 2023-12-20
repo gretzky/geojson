@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tervola",
+    "country": "FI",
+    "subdivision": "19",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.8,
+      66.08333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Trévoux",
+    "country": "FR",
+    "subdivision": "53",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.64169,
+      47.89474
+    ]
+  }
+}

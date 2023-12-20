@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Arenal",
+    "country": "MX",
+    "subdivision": "10",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.43387,
+      24.06527
+    ]
+  }
+}

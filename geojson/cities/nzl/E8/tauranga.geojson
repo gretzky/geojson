@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tauranga",
+    "country": "NZ",
+    "subdivision": "E8",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      176.16667,
+      -37.68611
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Elk River",
+    "country": "US",
+    "subdivision": "MN",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.56718,
+      45.30385
+    ]
+  }
+}

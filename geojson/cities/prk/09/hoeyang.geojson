@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hoeyang",
+    "country": "KP",
+    "subdivision": "09",
+    "timezone": "Asia/Pyongyang"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.59833,
+      38.71028
+    ]
+  }
+}

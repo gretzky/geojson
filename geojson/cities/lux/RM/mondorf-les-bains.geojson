@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mondorf-les-Bains",
+    "country": "LU",
+    "subdivision": "RM",
+    "timezone": "Europe/Luxembourg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.28111,
+      49.505
+    ]
+  }
+}

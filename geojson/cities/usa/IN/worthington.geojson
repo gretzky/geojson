@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Worthington",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.97945,
+      39.12504
+    ]
+  }
+}

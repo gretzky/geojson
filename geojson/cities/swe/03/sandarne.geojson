@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sandarne",
+    "country": "SE",
+    "subdivision": "03",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.15284,
+      61.25893
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Rafael Abajo",
+    "country": "CR",
+    "subdivision": "08",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.29008,
+      9.831
+    ]
+  }
+}

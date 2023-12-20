@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colonia San Francisco",
+    "country": "MX",
+    "subdivision": "17",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.90361,
+      18.89611
+    ]
+  }
+}

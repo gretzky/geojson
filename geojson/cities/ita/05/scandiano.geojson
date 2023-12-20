@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Scandiano",
+    "country": "IT",
+    "subdivision": "05",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.69558,
+      44.5983
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bog Walk",
+    "country": "JM",
+    "subdivision": "10",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.00541,
+      18.10205
+    ]
+  }
+}

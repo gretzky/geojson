@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Haverhill",
+    "country": "US",
+    "subdivision": "FL",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.12004,
+      26.69118
+    ]
+  }
+}

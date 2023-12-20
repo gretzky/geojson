@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palmview",
+    "country": "US",
+    "subdivision": "TX",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.37085,
+      26.23341
+    ]
+  }
+}

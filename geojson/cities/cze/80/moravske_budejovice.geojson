@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moravské Budějovice",
+    "country": "CZ",
+    "subdivision": "80",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.80864,
+      49.05209
+    ]
+  }
+}

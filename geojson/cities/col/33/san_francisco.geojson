@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Francisco",
+    "country": "CO",
+    "subdivision": "33",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.2927,
+      4.97876
+    ]
+  }
+}

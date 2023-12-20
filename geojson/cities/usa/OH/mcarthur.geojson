@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "McArthur",
+    "country": "US",
+    "subdivision": "OH",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.47849,
+      39.24646
+    ]
+  }
+}

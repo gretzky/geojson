@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Keller",
+    "country": "US",
+    "subdivision": "TX",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.25168,
+      32.93457
+    ]
+  }
+}

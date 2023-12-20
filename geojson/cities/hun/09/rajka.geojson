@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rajka",
+    "country": "HU",
+    "subdivision": "09",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.19821,
+      47.99643
+    ]
+  }
+}

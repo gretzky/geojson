@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Coloso",
+    "country": "MX",
+    "subdivision": "15",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.59778,
+      19.09778
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Abadeh",
+    "country": "IR",
+    "subdivision": "07",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.6506,
+      31.1608
+    ]
+  }
+}

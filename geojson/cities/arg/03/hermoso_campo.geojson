@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hermoso Campo",
+    "country": "AR",
+    "subdivision": "03",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.34441,
+      -27.60816
+    ]
+  }
+}

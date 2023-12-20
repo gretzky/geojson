@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Iriga City",
+    "country": "PH",
+    "subdivision": "05",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.4115,
+      13.4324
+    ]
+  }
+}

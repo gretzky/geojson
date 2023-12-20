@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rossville",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.59472,
+      40.41698
+    ]
+  }
+}

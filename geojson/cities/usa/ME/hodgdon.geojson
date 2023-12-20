@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hodgdon",
+    "country": "US",
+    "subdivision": "ME",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.86668,
+      46.05394
+    ]
+  }
+}

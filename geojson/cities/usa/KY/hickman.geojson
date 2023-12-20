@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hickman",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.18618,
+      36.57117
+    ]
+  }
+}

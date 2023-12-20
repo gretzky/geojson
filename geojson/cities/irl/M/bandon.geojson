@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bandon",
+    "country": "IE",
+    "subdivision": "M",
+    "timezone": "Europe/Dublin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.7425,
+      51.74694
+    ]
+  }
+}

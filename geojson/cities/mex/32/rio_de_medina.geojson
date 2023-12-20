@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rio de Medina",
+    "country": "MX",
+    "subdivision": "32",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.01791,
+      23.5026
+    ]
+  }
+}

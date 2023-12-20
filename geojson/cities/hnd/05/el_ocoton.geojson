@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Ocotón",
+    "country": "HN",
+    "subdivision": "05",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.88333,
+      15.03333
+    ]
+  }
+}

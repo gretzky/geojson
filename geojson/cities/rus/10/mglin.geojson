@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mglin",
+    "country": "RU",
+    "subdivision": "10",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.84753,
+      53.05907
+    ]
+  }
+}

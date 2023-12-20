@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sânsimion",
+    "country": "RO",
+    "subdivision": "20",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.88333,
+      46.25
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Riyadh",
+    "country": "SA",
+    "subdivision": "10",
+    "timezone": "Asia/Riyadh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.72185,
+      24.68773
+    ]
+  }
+}

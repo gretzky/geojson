@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Damp",
+    "country": "DE",
+    "subdivision": "10",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.01785,
+      54.58469
+    ]
+  }
+}

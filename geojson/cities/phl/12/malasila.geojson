@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Malasila",
+    "country": "PH",
+    "subdivision": "12",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.12944,
+      6.94389
+    ]
+  }
+}

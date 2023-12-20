@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gimzo",
+    "country": "IL",
+    "subdivision": "02",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.94154,
+      31.92846
+    ]
+  }
+}

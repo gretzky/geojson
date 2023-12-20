@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hernando",
+    "country": "AR",
+    "subdivision": "05",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.73333,
+      -32.42657
+    ]
+  }
+}

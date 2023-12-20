@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rokietnica",
+    "country": "PL",
+    "subdivision": "80",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.64171,
+      49.89983
+    ]
+  }
+}

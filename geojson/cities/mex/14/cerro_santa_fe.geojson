@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cerro Santa Fe",
+    "country": "MX",
+    "subdivision": "14",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.08448,
+      20.52599
+    ]
+  }
+}

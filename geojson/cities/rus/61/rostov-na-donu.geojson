@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rostov-na-Donu",
+    "country": "RU",
+    "subdivision": "61",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.72328,
+      47.23135
+    ]
+  }
+}

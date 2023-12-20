@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lianshan",
+    "country": "CN",
+    "subdivision": "19",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.85327,
+      40.76432
+    ]
+  }
+}

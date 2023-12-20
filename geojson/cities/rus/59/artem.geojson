@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Artëm",
+    "country": "RU",
+    "subdivision": "59",
+    "timezone": "Asia/Vladivostok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      132.18887,
+      43.3595
+    ]
+  }
+}

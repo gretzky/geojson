@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Robertsfors",
+    "country": "SE",
+    "subdivision": "23",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.84806,
+      64.19324
+    ]
+  }
+}

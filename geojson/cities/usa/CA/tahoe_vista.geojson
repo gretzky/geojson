@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tahoe Vista",
+    "country": "US",
+    "subdivision": "CA",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.05102,
+      39.23991
+    ]
+  }
+}

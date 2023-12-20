@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan Bautista",
+    "country": "MX",
+    "subdivision": "18",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.0975,
+      22.14359
+    ]
+  }
+}

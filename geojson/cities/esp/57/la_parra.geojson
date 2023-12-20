@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Parra",
+    "country": "ES",
+    "subdivision": "57",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.6226,
+      38.5212
+    ]
+  }
+}

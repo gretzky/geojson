@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Iberia",
+    "country": "PE",
+    "subdivision": "17",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.49267,
+      -11.40613
+    ]
+  }
+}

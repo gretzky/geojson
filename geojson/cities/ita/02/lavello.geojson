@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lavello",
+    "country": "IT",
+    "subdivision": "02",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.78915,
+      41.04769
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lonoke",
+    "country": "US",
+    "subdivision": "AR",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.89986,
+      34.78398
+    ]
+  }
+}

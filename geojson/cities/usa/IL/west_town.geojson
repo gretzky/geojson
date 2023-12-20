@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "West Town",
+    "country": "US",
+    "subdivision": "IL",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.67493,
+      41.89381
+    ]
+  }
+}

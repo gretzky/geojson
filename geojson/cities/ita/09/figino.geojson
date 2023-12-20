@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Figino",
+    "country": "IT",
+    "subdivision": "09",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.07779,
+      45.49261
+    ]
+  }
+}

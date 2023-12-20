@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mieders",
+    "country": "AT",
+    "subdivision": "07",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.38333,
+      47.16667
+    ]
+  }
+}

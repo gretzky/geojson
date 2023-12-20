@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dasi",
+    "country": "CN",
+    "subdivision": "28",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.23768,
+      39.01821
+    ]
+  }
+}

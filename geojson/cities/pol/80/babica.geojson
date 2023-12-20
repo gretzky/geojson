@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Babica",
+    "country": "PL",
+    "subdivision": "80",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.87035,
+      49.93476
+    ]
+  }
+}

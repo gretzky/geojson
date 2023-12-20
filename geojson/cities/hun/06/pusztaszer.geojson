@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pusztaszer",
+    "country": "HU",
+    "subdivision": "06",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.98823,
+      46.55083
+    ]
+  }
+}

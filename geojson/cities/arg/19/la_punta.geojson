@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Punta",
+    "country": "AR",
+    "subdivision": "19",
+    "timezone": "America/Argentina/San_Luis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.3127,
+      -33.18368
+    ]
+  }
+}

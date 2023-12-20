@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hutchinson",
+    "country": "US",
+    "subdivision": "MN",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.36971,
+      44.88774
+    ]
+  }
+}

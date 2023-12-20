@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arbia",
+    "country": "IT",
+    "subdivision": "16",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.40978,
+      43.29342
+    ]
+  }
+}

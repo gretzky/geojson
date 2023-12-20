@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fruitland",
+    "country": "US",
+    "subdivision": "NC",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.39317,
+      35.39651
+    ]
+  }
+}

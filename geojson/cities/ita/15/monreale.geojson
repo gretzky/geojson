@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monreale",
+    "country": "IT",
+    "subdivision": "15",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.28947,
+      38.08125
+    ]
+  }
+}

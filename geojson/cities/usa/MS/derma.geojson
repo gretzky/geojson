@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Derma",
+    "country": "US",
+    "subdivision": "MS",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.28452,
+      33.85567
+    ]
+  }
+}

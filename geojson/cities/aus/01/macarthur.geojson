@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Macarthur",
+    "country": "AU",
+    "subdivision": "01",
+    "timezone": "Australia/Sydney"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.12696,
+      -35.40885
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taquari",
+    "country": "BR",
+    "subdivision": "23",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -51.86444,
+      -29.79972
+    ]
+  }
+}

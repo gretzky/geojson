@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Cruz",
+    "country": "MX",
+    "subdivision": "06",
+    "timezone": "America/Chihuahua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.19596,
+      27.86359
+    ]
+  }
+}

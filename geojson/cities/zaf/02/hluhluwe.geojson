@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hluhluwe",
+    "country": "ZA",
+    "subdivision": "02",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.26762,
+      -28.01895
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Union",
+    "country": "US",
+    "subdivision": "ME",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.27421,
+      44.21147
+    ]
+  }
+}

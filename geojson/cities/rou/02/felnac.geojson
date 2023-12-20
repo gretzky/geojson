@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Felnac",
+    "country": "RO",
+    "subdivision": "02",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.15,
+      46.11667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nusse",
+    "country": "DE",
+    "subdivision": "10",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.58391,
+      53.65654
+    ]
+  }
+}

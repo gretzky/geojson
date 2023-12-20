@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Helsinki",
+    "country": "FI",
+    "subdivision": "01",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.93545,
+      60.16952
+    ]
+  }
+}

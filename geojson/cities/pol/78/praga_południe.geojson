@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Praga Południe",
+    "country": "PL",
+    "subdivision": "78",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.08545,
+      52.24424
+    ]
+  }
+}

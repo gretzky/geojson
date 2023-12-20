@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ashville",
+    "country": "US",
+    "subdivision": "OH",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.95296,
+      39.71562
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Quimichis",
+    "country": "MX",
+    "subdivision": "18",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.53913,
+      22.36122
+    ]
+  }
+}

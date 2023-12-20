@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chiquimula",
+    "country": "GT",
+    "subdivision": "04",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.54583,
+      14.8
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cloverport",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.63276,
+      37.83339
+    ]
+  }
+}

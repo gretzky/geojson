@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Seehof",
+    "country": "DE",
+    "subdivision": "12",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.43256,
+      53.69249
+    ]
+  }
+}

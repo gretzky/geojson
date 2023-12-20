@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Demnya",
+    "country": "UA",
+    "subdivision": "15",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.94607,
+      49.56738
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Şicula",
+    "country": "RO",
+    "subdivision": "02",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.75,
+      46.43333
+    ]
+  }
+}

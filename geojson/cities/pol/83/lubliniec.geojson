@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lubliniec",
+    "country": "PL",
+    "subdivision": "83",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.6844,
+      50.66897
+    ]
+  }
+}

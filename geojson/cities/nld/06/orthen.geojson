@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Orthen",
+    "country": "NL",
+    "subdivision": "06",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.30468,
+      51.70613
+    ]
+  }
+}

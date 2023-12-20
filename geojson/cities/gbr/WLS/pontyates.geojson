@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pontyates",
+    "country": "GB",
+    "subdivision": "WLS",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.21718,
+      51.75182
+    ]
+  }
+}

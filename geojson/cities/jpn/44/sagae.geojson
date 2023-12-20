@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sagae",
+    "country": "JP",
+    "subdivision": "44",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.2725,
+      38.3725
+    ]
+  }
+}

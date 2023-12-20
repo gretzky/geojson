@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad Río Bravo",
+    "country": "MX",
+    "subdivision": "28",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.09414,
+      25.98729
+    ]
+  }
+}

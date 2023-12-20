@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sioux Lookout",
+    "country": "CA",
+    "subdivision": "08",
+    "timezone": "America/Winnipeg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.98358,
+      50.06676
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tres Palos",
+    "country": "MX",
+    "subdivision": "12",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.77813,
+      16.82959
+    ]
+  }
+}

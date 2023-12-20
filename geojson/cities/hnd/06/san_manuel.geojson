@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Manuel",
+    "country": "HN",
+    "subdivision": "06",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.91667,
+      15.33333
+    ]
+  }
+}

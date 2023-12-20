@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tonto Basin",
+    "country": "US",
+    "subdivision": "AZ",
+    "timezone": "America/Phoenix"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.29457,
+      33.83171
+    ]
+  }
+}

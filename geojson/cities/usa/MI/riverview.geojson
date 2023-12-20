@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Riverview",
+    "country": "US",
+    "subdivision": "MI",
+    "timezone": "America/Detroit"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.17937,
+      42.17421
+    ]
+  }
+}

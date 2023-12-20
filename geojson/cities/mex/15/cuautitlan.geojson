@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cuautitlán",
+    "country": "MX",
+    "subdivision": "15",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.17989,
+      19.67052
+    ]
+  }
+}

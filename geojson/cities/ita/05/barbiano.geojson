@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barbiano",
+    "country": "IT",
+    "subdivision": "05",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.8865,
+      44.3895
+    ]
+  }
+}

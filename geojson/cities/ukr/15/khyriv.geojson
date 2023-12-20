@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Khyriv",
+    "country": "UA",
+    "subdivision": "15",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.85312,
+      49.53345
+    ]
+  }
+}

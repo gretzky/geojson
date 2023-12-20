@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad Miguel Alemán",
+    "country": "MX",
+    "subdivision": "28",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.02836,
+      26.39952
+    ]
+  }
+}

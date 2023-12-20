@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eden Isle",
+    "country": "US",
+    "subdivision": "LA",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.79867,
+      30.22853
+    ]
+  }
+}

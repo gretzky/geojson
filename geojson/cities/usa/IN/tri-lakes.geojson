@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tri-Lakes",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.44192,
+      41.24588
+    ]
+  }
+}

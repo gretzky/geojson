@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Větřní",
+    "country": "CZ",
+    "subdivision": "79",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.28616,
+      48.77425
+    ]
+  }
+}

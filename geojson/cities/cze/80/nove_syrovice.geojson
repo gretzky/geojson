@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nové Syrovice",
+    "country": "CZ",
+    "subdivision": "80",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.77345,
+      49.01763
+    ]
+  }
+}

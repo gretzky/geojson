@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hampton",
+    "country": "US",
+    "subdivision": "AR",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -92.46988,
+      33.53789
+    ]
+  }
+}

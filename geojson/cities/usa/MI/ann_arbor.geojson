@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ann Arbor",
+    "country": "US",
+    "subdivision": "MI",
+    "timezone": "America/Detroit"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.74088,
+      42.27756
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nathan",
+    "country": "AU",
+    "subdivision": "04",
+    "timezone": "Australia/Brisbane"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.0623,
+      -27.55888
+    ]
+  }
+}

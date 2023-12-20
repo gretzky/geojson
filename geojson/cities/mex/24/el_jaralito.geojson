@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Jaralito",
+    "country": "MX",
+    "subdivision": "24",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.82119,
+      22.03851
+    ]
+  }
+}

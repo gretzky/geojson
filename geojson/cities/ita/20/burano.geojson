@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Burano",
+    "country": "IT",
+    "subdivision": "20",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.41696,
+      45.48548
+    ]
+  }
+}

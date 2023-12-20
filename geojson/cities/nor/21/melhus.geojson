@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Melhus",
+    "country": "NO",
+    "subdivision": "21",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.27806,
+      63.28555
+    ]
+  }
+}

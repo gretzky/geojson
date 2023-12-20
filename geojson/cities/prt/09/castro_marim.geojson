@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Castro Marim",
+    "country": "PT",
+    "subdivision": "09",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.4435,
+      37.22068
+    ]
+  }
+}

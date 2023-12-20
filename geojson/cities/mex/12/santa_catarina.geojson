@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Catarina",
+    "country": "MX",
+    "subdivision": "12",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.175,
+      17.54835
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Badalona",
+    "country": "ES",
+    "subdivision": "56",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.24741,
+      41.45004
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sneads Ferry",
+    "country": "US",
+    "subdivision": "NC",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.39718,
+      34.55267
+    ]
+  }
+}

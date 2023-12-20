@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lake Cathie",
+    "country": "AU",
+    "subdivision": "02",
+    "timezone": "Australia/Sydney"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.85465,
+      -31.55183
+    ]
+  }
+}

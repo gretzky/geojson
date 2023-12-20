@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pepeekeo",
+    "country": "US",
+    "subdivision": "HI",
+    "timezone": "Pacific/Honolulu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.10722,
+      19.83361
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maulburg",
+    "country": "DE",
+    "subdivision": "01",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7821,
+      47.64631
+    ]
+  }
+}

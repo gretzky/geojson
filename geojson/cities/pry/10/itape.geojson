@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Itapé",
+    "country": "PY",
+    "subdivision": "10",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.61385,
+      -25.85172
+    ]
+  }
+}

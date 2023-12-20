@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Catemaco",
+    "country": "MX",
+    "subdivision": "30",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -95.11398,
+      18.42131
+    ]
+  }
+}

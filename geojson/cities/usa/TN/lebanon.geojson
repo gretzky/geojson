@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lebanon",
+    "country": "US",
+    "subdivision": "TN",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.2911,
+      36.20811
+    ]
+  }
+}

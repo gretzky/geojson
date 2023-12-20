@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saint-Marcel",
+    "country": "FR",
+    "subdivision": "24",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.51324,
+      46.60193
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karrinyup",
+    "country": "AU",
+    "subdivision": "08",
+    "timezone": "Australia/Perth"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.77684,
+      -31.87233
+    ]
+  }
+}

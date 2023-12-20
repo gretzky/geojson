@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eastpointe",
+    "country": "US",
+    "subdivision": "MI",
+    "timezone": "America/Detroit"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.95547,
+      42.46837
+    ]
+  }
+}

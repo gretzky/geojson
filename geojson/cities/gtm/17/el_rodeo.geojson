@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Rodeo",
+    "country": "GT",
+    "subdivision": "17",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.97631,
+      14.91447
+    ]
+  }
+}

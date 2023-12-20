@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cromwell",
+    "country": "US",
+    "subdivision": "CT",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.64537,
+      41.5951
+    ]
+  }
+}

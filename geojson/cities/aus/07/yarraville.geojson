@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yarraville",
+    "country": "AU",
+    "subdivision": "07",
+    "timezone": "Australia/Melbourne"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9,
+      -37.81667
+    ]
+  }
+}

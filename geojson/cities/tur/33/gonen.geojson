@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gönen",
+    "country": "TR",
+    "subdivision": "33",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.5114,
+      37.95639
+    ]
+  }
+}

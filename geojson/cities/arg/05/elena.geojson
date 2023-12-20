@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Elena",
+    "country": "AR",
+    "subdivision": "05",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.39481,
+      -32.57205
+    ]
+  }
+}

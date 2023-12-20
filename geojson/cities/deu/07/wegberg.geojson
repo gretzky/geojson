@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wegberg",
+    "country": "DE",
+    "subdivision": "07",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.28436,
+      51.14221
+    ]
+  }
+}

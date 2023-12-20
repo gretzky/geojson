@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wonga Park",
+    "country": "AU",
+    "subdivision": "07",
+    "timezone": "Australia/Melbourne"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.26667,
+      -37.73333
+    ]
+  }
+}

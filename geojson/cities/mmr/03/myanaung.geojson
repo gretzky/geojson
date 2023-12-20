@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Myanaung",
+    "country": "MM",
+    "subdivision": "03",
+    "timezone": "Asia/Yangon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.32014,
+      18.28651
+    ]
+  }
+}

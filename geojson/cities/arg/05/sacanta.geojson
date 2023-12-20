@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sacanta",
+    "country": "AR",
+    "subdivision": "05",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.04505,
+      -31.663
+    ]
+  }
+}

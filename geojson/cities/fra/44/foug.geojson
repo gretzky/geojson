@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Foug",
+    "country": "FR",
+    "subdivision": "44",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.78735,
+      48.68385
+    ]
+  }
+}

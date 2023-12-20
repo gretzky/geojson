@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Xiantan",
+    "country": "CN",
+    "subdivision": "32",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.1927,
+      28.81859
+    ]
+  }
+}

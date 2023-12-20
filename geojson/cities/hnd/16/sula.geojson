@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sula",
+    "country": "HN",
+    "subdivision": "16",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.56667,
+      15.25
+    ]
+  }
+}

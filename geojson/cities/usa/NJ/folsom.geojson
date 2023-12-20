@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Folsom",
+    "country": "US",
+    "subdivision": "NJ",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.84267,
+      39.60206
+    ]
+  }
+}

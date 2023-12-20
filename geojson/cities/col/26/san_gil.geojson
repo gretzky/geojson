@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Gil",
+    "country": "CO",
+    "subdivision": "26",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.13637,
+      6.55952
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Czermin",
+    "country": "PL",
+    "subdivision": "80",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.33356,
+      50.33911
+    ]
+  }
+}

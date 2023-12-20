@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Netivot",
+    "country": "IL",
+    "subdivision": "01",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.58911,
+      31.42305
+    ]
+  }
+}

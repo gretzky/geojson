@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Lorenzo del Vallo",
+    "country": "IT",
+    "subdivision": "03",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.29866,
+      39.66739
+    ]
+  }
+}

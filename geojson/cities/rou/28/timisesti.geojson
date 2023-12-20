@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Timişeşti",
+    "country": "RO",
+    "subdivision": "28",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.55,
+      47.23333
+    ]
+  }
+}

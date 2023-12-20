@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Leavenworth",
+    "country": "US",
+    "subdivision": "KS",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.92246,
+      39.31111
+    ]
+  }
+}

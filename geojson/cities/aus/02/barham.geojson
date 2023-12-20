@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barham",
+    "country": "AU",
+    "subdivision": "02",
+    "timezone": "Australia/Sydney"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.12895,
+      -35.62647
+    ]
+  }
+}

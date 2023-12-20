@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Keroka",
+    "country": "KE",
+    "subdivision": "42",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.94678,
+      -0.77612
+    ]
+  }
+}

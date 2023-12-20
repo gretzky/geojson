@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tavşanlı",
+    "country": "TR",
+    "subdivision": "43",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.49866,
+      39.54237
+    ]
+  }
+}

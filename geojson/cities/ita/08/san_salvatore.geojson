@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Salvatore",
+    "country": "IT",
+    "subdivision": "08",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.35479,
+      44.33098
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chetopa",
+    "country": "US",
+    "subdivision": "KS",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -95.08996,
+      37.03729
+    ]
+  }
+}

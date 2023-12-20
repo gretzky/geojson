@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Home Hill",
+    "country": "AU",
+    "subdivision": "04",
+    "timezone": "Australia/Brisbane"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.41232,
+      -19.65921
+    ]
+  }
+}

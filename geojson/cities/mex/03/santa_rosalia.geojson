@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Rosalía",
+    "country": "MX",
+    "subdivision": "03",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.26761,
+      27.34045
+    ]
+  }
+}

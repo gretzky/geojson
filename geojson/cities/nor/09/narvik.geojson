@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Narvik",
+    "country": "NO",
+    "subdivision": "09",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.4272,
+      68.43838
+    ]
+  }
+}

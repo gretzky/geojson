@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Rosario",
+    "country": "PY",
+    "subdivision": "17",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.14272,
+      -24.44127
+    ]
+  }
+}

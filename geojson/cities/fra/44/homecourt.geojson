@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Homécourt",
+    "country": "FR",
+    "subdivision": "44",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.99242,
+      49.22071
+    ]
+  }
+}

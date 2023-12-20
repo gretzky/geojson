@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Barcarès",
+    "country": "FR",
+    "subdivision": "76",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.03656,
+      42.78773
+    ]
+  }
+}

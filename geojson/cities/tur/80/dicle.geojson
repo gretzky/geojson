@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dicle",
+    "country": "TR",
+    "subdivision": "80",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.06721,
+      37.28869
+    ]
+  }
+}

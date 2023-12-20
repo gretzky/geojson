@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Smedjebacken",
+    "country": "SE",
+    "subdivision": "10",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.41416,
+      60.14181
+    ]
+  }
+}

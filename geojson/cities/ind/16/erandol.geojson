@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Erandol",
+    "country": "IN",
+    "subdivision": "16",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.32641,
+      20.92206
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Alia",
+    "country": "TN",
+    "subdivision": "18",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.03478,
+      37.16911
+    ]
+  }
+}

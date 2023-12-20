@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Polop",
+    "country": "ES",
+    "subdivision": "60",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1309,
+      38.62258
+    ]
+  }
+}

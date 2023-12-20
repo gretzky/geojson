@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Corsano",
+    "country": "IT",
+    "subdivision": "13",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.36747,
+      39.88911
+    ]
+  }
+}

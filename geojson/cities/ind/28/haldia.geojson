@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Haldia",
+    "country": "IN",
+    "subdivision": "28",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      88.10975,
+      22.06046
+    ]
+  }
+}

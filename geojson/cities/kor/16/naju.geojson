@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Naju",
+    "country": "KR",
+    "subdivision": "16",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.7175,
+      35.0292
+    ]
+  }
+}

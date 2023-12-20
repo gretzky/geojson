@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Korop",
+    "country": "UA",
+    "subdivision": "02",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.95861,
+      51.56638
+    ]
+  }
+}

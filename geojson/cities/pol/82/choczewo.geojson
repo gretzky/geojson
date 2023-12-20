@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Choczewo",
+    "country": "PL",
+    "subdivision": "82",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.89175,
+      54.73993
+    ]
+  }
+}

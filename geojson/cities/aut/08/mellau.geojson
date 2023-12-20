@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mellau",
+    "country": "AT",
+    "subdivision": "08",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.88149,
+      47.35034
+    ]
+  }
+}

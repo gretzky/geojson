@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Buena Vista",
+    "country": "MX",
+    "subdivision": "19",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.36,
+      25.85222
+    ]
+  }
+}

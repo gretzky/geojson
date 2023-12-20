@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ruseni",
+    "country": "RO",
+    "subdivision": "28",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.53943,
+      46.79841
+    ]
+  }
+}

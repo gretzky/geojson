@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Calamar",
+    "country": "CO",
+    "subdivision": "35",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.91574,
+      10.25271
+    ]
+  }
+}

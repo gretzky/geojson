@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Givatayim",
+    "country": "IL",
+    "subdivision": "05",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.81253,
+      32.07225
+    ]
+  }
+}

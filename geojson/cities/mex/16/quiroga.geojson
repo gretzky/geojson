@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Quiroga",
+    "country": "MX",
+    "subdivision": "16",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -101.52287,
+      19.66557
+    ]
+  }
+}

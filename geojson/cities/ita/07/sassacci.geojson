@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sassacci",
+    "country": "IT",
+    "subdivision": "07",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.44108,
+      42.32342
+    ]
+  }
+}

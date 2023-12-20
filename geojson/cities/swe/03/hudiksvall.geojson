@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hudiksvall",
+    "country": "SE",
+    "subdivision": "03",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.10558,
+      61.72744
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hepu",
+    "country": "CN",
+    "subdivision": "16",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      109.20011,
+      21.65921
+    ]
+  }
+}

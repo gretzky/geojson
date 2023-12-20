@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bavent",
+    "country": "FR",
+    "subdivision": "28",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.18675,
+      49.22996
+    ]
+  }
+}

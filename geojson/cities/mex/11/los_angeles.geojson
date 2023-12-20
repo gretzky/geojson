@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Ángeles",
+    "country": "MX",
+    "subdivision": "11",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.94167,
+      20.55361
+    ]
+  }
+}

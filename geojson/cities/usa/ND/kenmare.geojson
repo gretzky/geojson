@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kenmare",
+    "country": "US",
+    "subdivision": "ND",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.08266,
+      48.67475
+    ]
+  }
+}

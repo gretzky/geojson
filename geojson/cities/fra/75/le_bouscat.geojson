@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Bouscat",
+    "country": "FR",
+    "subdivision": "75",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.59864,
+      44.86488
+    ]
+  }
+}

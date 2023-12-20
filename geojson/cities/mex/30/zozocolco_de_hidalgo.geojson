@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zozocolco de Hidalgo",
+    "country": "MX",
+    "subdivision": "30",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.57567,
+      20.14048
+    ]
+  }
+}

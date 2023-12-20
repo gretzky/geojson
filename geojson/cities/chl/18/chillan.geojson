@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chillán",
+    "country": "CL",
+    "subdivision": "18",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.10344,
+      -36.60664
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zacatecas",
+    "country": "MX",
+    "subdivision": "32",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.58141,
+      22.76843
+    ]
+  }
+}

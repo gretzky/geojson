@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nowy Dwór Gdański",
+    "country": "PL",
+    "subdivision": "82",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.11771,
+      54.21305
+    ]
+  }
+}

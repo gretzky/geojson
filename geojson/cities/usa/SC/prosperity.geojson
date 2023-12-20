@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Prosperity",
+    "country": "US",
+    "subdivision": "SC",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.53316,
+      34.20931
+    ]
+  }
+}

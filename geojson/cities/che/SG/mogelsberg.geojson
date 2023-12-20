@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mogelsberg",
+    "country": "CH",
+    "subdivision": "SG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.13541,
+      47.36222
+    ]
+  }
+}

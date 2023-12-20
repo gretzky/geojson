@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Polesella",
+    "country": "IT",
+    "subdivision": "20",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.74887,
+      44.96457
+    ]
+  }
+}

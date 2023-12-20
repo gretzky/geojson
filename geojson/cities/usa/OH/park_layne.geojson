@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Park Layne",
+    "country": "US",
+    "subdivision": "OH",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.03966,
+      39.88645
+    ]
+  }
+}

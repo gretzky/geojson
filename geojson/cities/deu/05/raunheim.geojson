@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Raunheim",
+    "country": "DE",
+    "subdivision": "05",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.45253,
+      50.0132
+    ]
+  }
+}

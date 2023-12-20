@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Letka",
+    "country": "RU",
+    "subdivision": "34",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.42321,
+      59.60111
+    ]
+  }
+}

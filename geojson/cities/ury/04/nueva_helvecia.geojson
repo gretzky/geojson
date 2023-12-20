@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nueva Helvecia",
+    "country": "UY",
+    "subdivision": "04",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.23333,
+      -34.3
+    ]
+  }
+}

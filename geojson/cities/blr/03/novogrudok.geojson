@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novogrudok",
+    "country": "BY",
+    "subdivision": "03",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.8191,
+      53.5942
+    ]
+  }
+}

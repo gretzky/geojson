@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Osmeña",
+    "country": "PH",
+    "subdivision": "05",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.3318,
+      12.7315
+    ]
+  }
+}

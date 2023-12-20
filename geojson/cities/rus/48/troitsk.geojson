@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Troitsk",
+    "country": "RU",
+    "subdivision": "48",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.30736,
+      55.48498
+    ]
+  }
+}

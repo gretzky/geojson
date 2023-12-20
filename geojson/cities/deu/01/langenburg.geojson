@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Langenburg",
+    "country": "DE",
+    "subdivision": "01",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.85673,
+      49.25401
+    ]
+  }
+}

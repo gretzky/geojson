@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cieszanów",
+    "country": "PL",
+    "subdivision": "80",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.13163,
+      50.24564
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rotorua",
+    "country": "NZ",
+    "subdivision": "E8",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      176.24516,
+      -38.13874
+    ]
+  }
+}

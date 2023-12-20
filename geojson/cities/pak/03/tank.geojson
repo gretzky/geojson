@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tank",
+    "country": "PK",
+    "subdivision": "03",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      70.38315,
+      32.21707
+    ]
+  }
+}

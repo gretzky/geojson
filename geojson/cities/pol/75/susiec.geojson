@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Susiec",
+    "country": "PL",
+    "subdivision": "75",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.19626,
+      50.41973
+    ]
+  }
+}

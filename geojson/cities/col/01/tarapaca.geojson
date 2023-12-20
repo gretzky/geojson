@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tarapacá",
+    "country": "CO",
+    "subdivision": "01",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.742,
+      -2.892
+    ]
+  }
+}

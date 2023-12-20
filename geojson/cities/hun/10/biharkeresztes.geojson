@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Biharkeresztes",
+    "country": "HU",
+    "subdivision": "10",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.71667,
+      47.13333
+    ]
+  }
+}

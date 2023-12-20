@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wehrheim",
+    "country": "DE",
+    "subdivision": "05",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.56667,
+      50.3
+    ]
+  }
+}

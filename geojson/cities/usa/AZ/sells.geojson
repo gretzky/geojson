@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sells",
+    "country": "US",
+    "subdivision": "AZ",
+    "timezone": "America/Phoenix"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.88123,
+      31.91202
+    ]
+  }
+}

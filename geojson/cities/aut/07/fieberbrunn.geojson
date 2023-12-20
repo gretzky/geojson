@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fieberbrunn",
+    "country": "AT",
+    "subdivision": "07",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.54347,
+      47.47626
+    ]
+  }
+}

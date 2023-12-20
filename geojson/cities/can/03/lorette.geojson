@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lorette",
+    "country": "CA",
+    "subdivision": "03",
+    "timezone": "America/Winnipeg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -96.87232,
+      49.73919
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Toba Tek Singh",
+    "country": "PK",
+    "subdivision": "04",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.48275,
+      30.97127
+    ]
+  }
+}

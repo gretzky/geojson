@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ely",
+    "country": "US",
+    "subdivision": "NV",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.88863,
+      39.24744
+    ]
+  }
+}

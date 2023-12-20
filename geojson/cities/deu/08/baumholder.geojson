@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Baumholder",
+    "country": "DE",
+    "subdivision": "08",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.33381,
+      49.61738
+    ]
+  }
+}

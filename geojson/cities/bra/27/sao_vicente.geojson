@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "São Vicente",
+    "country": "BR",
+    "subdivision": "27",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -46.39194,
+      -23.96306
+    ]
+  }
+}

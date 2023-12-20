@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bekasi",
+    "country": "ID",
+    "subdivision": "30",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.9896,
+      -6.2349
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Collings Lakes",
+    "country": "US",
+    "subdivision": "NJ",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.88156,
+      39.59567
+    ]
+  }
+}

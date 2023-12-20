@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Devils Lake",
+    "country": "US",
+    "subdivision": "ND",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.86512,
+      48.11278
+    ]
+  }
+}

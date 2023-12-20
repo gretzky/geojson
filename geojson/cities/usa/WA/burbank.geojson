@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Burbank",
+    "country": "US",
+    "subdivision": "WA",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.01306,
+      46.19986
+    ]
+  }
+}

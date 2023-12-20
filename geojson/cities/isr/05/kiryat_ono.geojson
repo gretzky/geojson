@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kiryat Ono",
+    "country": "IL",
+    "subdivision": "05",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.85618,
+      32.06124
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Falkenberg",
+    "country": "SE",
+    "subdivision": "06",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.49118,
+      56.90552
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ratho Station",
+    "country": "GB",
+    "subdivision": "SCT",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.3889,
+      55.9367
+    ]
+  }
+}

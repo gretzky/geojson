@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jawor",
+    "country": "PL",
+    "subdivision": "72",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.19347,
+      51.05132
+    ]
+  }
+}

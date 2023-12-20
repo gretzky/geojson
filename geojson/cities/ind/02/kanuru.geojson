@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kanuru",
+    "country": "IN",
+    "subdivision": "02",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.25464,
+      16.28584
+    ]
+  }
+}

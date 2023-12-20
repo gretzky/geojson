@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pyshchug",
+    "country": "RU",
+    "subdivision": "37",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.71341,
+      58.88726
+    ]
+  }
+}

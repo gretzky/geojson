@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Balazar",
+    "country": "PT",
+    "subdivision": "17",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.62386,
+      41.40435
+    ]
+  }
+}

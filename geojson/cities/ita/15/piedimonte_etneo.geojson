@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Piedimonte Etneo",
+    "country": "IT",
+    "subdivision": "15",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.17516,
+      37.80677
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bolong",
+    "country": "PH",
+    "subdivision": "09",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.23917,
+      7.09833
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lubu",
+    "country": "CN",
+    "subdivision": "30",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.28298,
+      23.17233
+    ]
+  }
+}

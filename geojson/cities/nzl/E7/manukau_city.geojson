@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Manukau City",
+    "country": "NZ",
+    "subdivision": "E7",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.87986,
+      -36.99282
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Trenzano",
+    "country": "IT",
+    "subdivision": "09",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.01066,
+      45.47728
+    ]
+  }
+}

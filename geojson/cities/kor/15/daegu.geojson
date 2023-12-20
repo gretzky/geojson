@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Daegu",
+    "country": "KR",
+    "subdivision": "15",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.59111,
+      35.87028
+    ]
+  }
+}

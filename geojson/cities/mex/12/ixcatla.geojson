@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ixcatla",
+    "country": "MX",
+    "subdivision": "12",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.99944,
+      17.4225
+    ]
+  }
+}

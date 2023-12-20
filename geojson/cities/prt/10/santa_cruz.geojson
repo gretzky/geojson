@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Cruz",
+    "country": "PT",
+    "subdivision": "10",
+    "timezone": "Atlantic/Madeira"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.79388,
+      32.68806
+    ]
+  }
+}

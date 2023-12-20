@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kigali",
+    "country": "RW",
+    "subdivision": "12",
+    "timezone": "Africa/Kigali"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.05885,
+      -1.94995
+    ]
+  }
+}

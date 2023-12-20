@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mladé Buky",
+    "country": "CZ",
+    "subdivision": "82",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.83348,
+      50.60643
+    ]
+  }
+}

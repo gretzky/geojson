@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wisner",
+    "country": "US",
+    "subdivision": "NE",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -96.91421,
+      41.98722
+    ]
+  }
+}

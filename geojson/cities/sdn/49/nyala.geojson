@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nyala",
+    "country": "SD",
+    "subdivision": "49",
+    "timezone": "Africa/Khartoum"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.88069,
+      12.04888
+    ]
+  }
+}

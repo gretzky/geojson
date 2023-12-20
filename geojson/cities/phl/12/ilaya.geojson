@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ilaya",
+    "country": "PH",
+    "subdivision": "12",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.22667,
+      5.81528
+    ]
+  }
+}

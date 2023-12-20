@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Paderborn",
+    "country": "DE",
+    "subdivision": "07",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.75439,
+      51.71905
+    ]
+  }
+}

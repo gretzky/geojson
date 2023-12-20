@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beleţi",
+    "country": "RO",
+    "subdivision": "03",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.08333,
+      44.9
+    ]
+  }
+}

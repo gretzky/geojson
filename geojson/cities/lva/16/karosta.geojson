@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karosta",
+    "country": "LV",
+    "subdivision": "16",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.01287,
+      56.55128
+    ]
+  }
+}

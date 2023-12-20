@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wilson",
+    "country": "US",
+    "subdivision": "WY",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.87521,
+      43.50076
+    ]
+  }
+}

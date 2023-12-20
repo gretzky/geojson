@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Effelder",
+    "country": "DE",
+    "subdivision": "15",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.24778,
+      51.23948
+    ]
+  }
+}

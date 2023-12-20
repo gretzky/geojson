@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bogdand",
+    "country": "RO",
+    "subdivision": "32",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.93333,
+      47.41667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Amapa",
+    "country": "MX",
+    "subdivision": "18",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.25482,
+      21.78359
+    ]
+  }
+}

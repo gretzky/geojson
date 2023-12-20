@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Borodino",
+    "country": "UA",
+    "subdivision": "17",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.23965,
+      46.30239
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Almus",
+    "country": "TR",
+    "subdivision": "60",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.90444,
+      40.37583
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Albac",
+    "country": "RO",
+    "subdivision": "01",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.95164,
+      46.45246
+    ]
+  }
+}

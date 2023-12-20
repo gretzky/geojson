@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Laredo",
+    "country": "PE",
+    "subdivision": "13",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.9602,
+      -8.08965
+    ]
+  }
+}

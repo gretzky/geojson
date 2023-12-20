@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Goma",
+    "country": "MX",
+    "subdivision": "10",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.68884,
+      25.4846
+    ]
+  }
+}

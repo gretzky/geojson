@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Piraziz",
+    "country": "TR",
+    "subdivision": "28",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.12458,
+      40.92244
+    ]
+  }
+}

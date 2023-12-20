@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Rosa de Copán",
+    "country": "HN",
+    "subdivision": "05",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.77917,
+      14.76667
+    ]
+  }
+}

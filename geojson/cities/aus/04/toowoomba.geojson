@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Toowoomba",
+    "country": "AU",
+    "subdivision": "04",
+    "timezone": "Australia/Brisbane"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.95386,
+      -27.56056
+    ]
+  }
+}

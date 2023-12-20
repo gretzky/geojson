@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Utschtal",
+    "country": "AT",
+    "subdivision": "06",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2,
+      47.4
+    ]
+  }
+}

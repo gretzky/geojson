@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hardwick",
+    "country": "US",
+    "subdivision": "NJ",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.93212,
+      41.05454
+    ]
+  }
+}

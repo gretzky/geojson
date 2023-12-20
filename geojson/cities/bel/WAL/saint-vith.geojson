@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saint-Vith",
+    "country": "BE",
+    "subdivision": "WAL",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.12724,
+      50.28146
+    ]
+  }
+}

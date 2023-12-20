@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "College Park",
+    "country": "US",
+    "subdivision": "GA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.44937,
+      33.65344
+    ]
+  }
+}

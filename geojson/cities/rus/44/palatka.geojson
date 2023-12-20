@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palatka",
+    "country": "RU",
+    "subdivision": "44",
+    "timezone": "Asia/Magadan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      150.93433,
+      60.10183
+    ]
+  }
+}

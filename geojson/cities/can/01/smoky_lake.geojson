@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Smoky Lake",
+    "country": "CA",
+    "subdivision": "01",
+    "timezone": "America/Edmonton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.46863,
+      54.11687
+    ]
+  }
+}

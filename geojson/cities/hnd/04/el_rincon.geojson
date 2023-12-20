@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Rincón",
+    "country": "HN",
+    "subdivision": "04",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.93333,
+      14.58333
+    ]
+  }
+}

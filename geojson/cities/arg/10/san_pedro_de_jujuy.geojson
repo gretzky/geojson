@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pedro de Jujuy",
+    "country": "AR",
+    "subdivision": "10",
+    "timezone": "America/Argentina/Jujuy"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.86614,
+      -24.23127
+    ]
+  }
+}

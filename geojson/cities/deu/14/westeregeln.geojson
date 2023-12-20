@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Westeregeln",
+    "country": "DE",
+    "subdivision": "14",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.39265,
+      51.96328
+    ]
+  }
+}

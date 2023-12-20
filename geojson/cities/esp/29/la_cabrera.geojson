@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Cabrera",
+    "country": "ES",
+    "subdivision": "29",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.61265,
+      40.86386
+    ]
+  }
+}

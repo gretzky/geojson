@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Roseau",
+    "country": "US",
+    "subdivision": "MN",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -95.76277,
+      48.84609
+    ]
+  }
+}

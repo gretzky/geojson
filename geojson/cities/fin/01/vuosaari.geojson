@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vuosaari",
+    "country": "FI",
+    "subdivision": "01",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.14195,
+      60.20963
+    ]
+  }
+}

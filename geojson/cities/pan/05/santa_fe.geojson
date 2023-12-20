@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Fé",
+    "country": "PA",
+    "subdivision": "05",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.1614,
+      8.65525
+    ]
+  }
+}

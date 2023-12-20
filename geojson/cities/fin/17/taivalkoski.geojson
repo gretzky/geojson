@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taivalkoski",
+    "country": "FI",
+    "subdivision": "17",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.25,
+      65.56667
+    ]
+  }
+}

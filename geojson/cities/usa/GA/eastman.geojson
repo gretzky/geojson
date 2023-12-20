@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eastman",
+    "country": "US",
+    "subdivision": "GA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.17765,
+      32.19767
+    ]
+  }
+}

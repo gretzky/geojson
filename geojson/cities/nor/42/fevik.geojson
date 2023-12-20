@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fevik",
+    "country": "NO",
+    "subdivision": "42",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.67601,
+      58.3782
+    ]
+  }
+}

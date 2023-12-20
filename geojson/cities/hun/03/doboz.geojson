@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Doboz",
+    "country": "HU",
+    "subdivision": "03",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.25,
+      46.73333
+    ]
+  }
+}

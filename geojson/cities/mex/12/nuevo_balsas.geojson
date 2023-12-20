@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nuevo Balsas",
+    "country": "MX",
+    "subdivision": "12",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.75913,
+      18.03253
+    ]
+  }
+}

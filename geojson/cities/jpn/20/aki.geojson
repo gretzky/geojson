@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aki",
+    "country": "JP",
+    "subdivision": "20",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      133.9,
+      33.5
+    ]
+  }
+}

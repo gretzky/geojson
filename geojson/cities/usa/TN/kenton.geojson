@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kenton",
+    "country": "US",
+    "subdivision": "TN",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.01229,
+      36.20229
+    ]
+  }
+}

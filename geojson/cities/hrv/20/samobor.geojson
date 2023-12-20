@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Samobor",
+    "country": "HR",
+    "subdivision": "20",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.71806,
+      45.80306
+    ]
+  }
+}

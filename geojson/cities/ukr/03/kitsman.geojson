@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kitsman",
+    "country": "UA",
+    "subdivision": "03",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.76111,
+      48.43867
+    ]
+  }
+}

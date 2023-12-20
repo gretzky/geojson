@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hazen",
+    "country": "US",
+    "subdivision": "ND",
+    "timezone": "America/North_Dakota/Beulah"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -101.62266,
+      47.29445
+    ]
+  }
+}

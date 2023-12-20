@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Spreyton",
+    "country": "AU",
+    "subdivision": "06",
+    "timezone": "Australia/Hobart"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.35108,
+      -41.23524
+    ]
+  }
+}

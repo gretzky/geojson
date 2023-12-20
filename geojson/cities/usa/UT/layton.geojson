@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Layton",
+    "country": "US",
+    "subdivision": "UT",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.97105,
+      41.06022
+    ]
+  }
+}

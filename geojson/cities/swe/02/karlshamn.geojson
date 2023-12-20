@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karlshamn",
+    "country": "SE",
+    "subdivision": "02",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.86188,
+      56.1706
+    ]
+  }
+}

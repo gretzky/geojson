@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alba",
+    "country": "RO",
+    "subdivision": "07",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.47736,
+      48.15859
+    ]
+  }
+}

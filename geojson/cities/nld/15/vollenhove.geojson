@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vollenhove",
+    "country": "NL",
+    "subdivision": "15",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.95417,
+      52.68083
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bridgeport",
+    "country": "US",
+    "subdivision": "CT",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.18945,
+      41.17923
+    ]
+  }
+}

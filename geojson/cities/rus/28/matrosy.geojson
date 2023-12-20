@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matrosy",
+    "country": "RU",
+    "subdivision": "28",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.81283,
+      61.78042
+    ]
+  }
+}

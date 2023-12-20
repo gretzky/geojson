@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barra",
+    "country": "BR",
+    "subdivision": "05",
+    "timezone": "America/Bahia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -43.14167,
+      -11.08944
+    ]
+  }
+}

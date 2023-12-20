@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wiggins",
+    "country": "US",
+    "subdivision": "MS",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.13533,
+      30.85824
+    ]
+  }
+}

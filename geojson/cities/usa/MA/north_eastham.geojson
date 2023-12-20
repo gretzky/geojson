@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "North Eastham",
+    "country": "US",
+    "subdivision": "MA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.99113,
+      41.86511
+    ]
+  }
+}

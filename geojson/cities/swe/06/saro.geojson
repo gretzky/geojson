@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Särö",
+    "country": "SE",
+    "subdivision": "06",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.9321,
+      57.50577
+    ]
+  }
+}

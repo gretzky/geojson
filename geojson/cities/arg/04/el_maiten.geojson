@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Maitén",
+    "country": "AR",
+    "subdivision": "04",
+    "timezone": "America/Argentina/Catamarca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.16693,
+      -42.04924
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dankmarshausen",
+    "country": "DE",
+    "subdivision": "15",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.01601,
+      50.92527
+    ]
+  }
+}

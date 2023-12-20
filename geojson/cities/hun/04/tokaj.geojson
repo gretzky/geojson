@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tokaj",
+    "country": "HU",
+    "subdivision": "04",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.40922,
+      48.11717
+    ]
+  }
+}

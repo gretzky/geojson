@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Pintas de Arriba",
+    "country": "MX",
+    "subdivision": "14",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.32345,
+      20.57376
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Morwa",
+    "country": "IN",
+    "subdivision": "09",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.83912,
+      22.90469
+    ]
+  }
+}

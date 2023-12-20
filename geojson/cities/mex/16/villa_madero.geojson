@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Madero",
+    "country": "MX",
+    "subdivision": "16",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -101.27883,
+      19.3915
+    ]
+  }
+}

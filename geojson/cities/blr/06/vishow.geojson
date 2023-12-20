@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vishow",
+    "country": "BY",
+    "subdivision": "06",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.9925,
+      53.9805
+    ]
+  }
+}

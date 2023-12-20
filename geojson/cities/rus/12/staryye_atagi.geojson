@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Staryye Atagi",
+    "country": "RU",
+    "subdivision": "12",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.74056,
+      43.12028
+    ]
+  }
+}

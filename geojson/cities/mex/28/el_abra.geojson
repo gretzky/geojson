@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Abra",
+    "country": "MX",
+    "subdivision": "28",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.02142,
+      22.62058
+    ]
+  }
+}

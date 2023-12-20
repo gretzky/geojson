@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kildare",
+    "country": "IE",
+    "subdivision": "L",
+    "timezone": "Europe/Dublin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.91444,
+      53.15611
+    ]
+  }
+}

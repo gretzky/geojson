@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kogota",
+    "country": "JP",
+    "subdivision": "24",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.05,
+      38.55
+    ]
+  }
+}

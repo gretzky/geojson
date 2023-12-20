@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pietro Belvedere",
+    "country": "IT",
+    "subdivision": "16",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.66604,
+      43.57011
+    ]
+  }
+}

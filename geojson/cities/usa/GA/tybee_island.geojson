@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tybee Island",
+    "country": "US",
+    "subdivision": "GA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.84567,
+      32.00022
+    ]
+  }
+}

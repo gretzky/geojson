@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Buzescu",
+    "country": "RO",
+    "subdivision": "35",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.23333,
+      44.01667
+    ]
+  }
+}

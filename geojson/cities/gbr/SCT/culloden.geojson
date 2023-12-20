@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Culloden",
+    "country": "GB",
+    "subdivision": "SCT",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.1415,
+      57.48699
+    ]
+  }
+}

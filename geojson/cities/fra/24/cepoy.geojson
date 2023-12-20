@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cepoy",
+    "country": "FR",
+    "subdivision": "24",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.73782,
+      48.04795
+    ]
+  }
+}

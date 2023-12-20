@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lakki",
+    "country": "PK",
+    "subdivision": "03",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      70.91234,
+      32.60724
+    ]
+  }
+}

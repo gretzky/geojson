@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fort Scott",
+    "country": "US",
+    "subdivision": "KS",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.7083,
+      37.83976
+    ]
+  }
+}

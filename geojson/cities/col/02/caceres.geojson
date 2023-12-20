@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cáceres",
+    "country": "CO",
+    "subdivision": "02",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.34842,
+      7.58078
+    ]
+  }
+}

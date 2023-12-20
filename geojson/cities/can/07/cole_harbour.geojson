@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cole Harbour",
+    "country": "CA",
+    "subdivision": "07",
+    "timezone": "America/Halifax"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.47506,
+      44.67244
+    ]
+  }
+}

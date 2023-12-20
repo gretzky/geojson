@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Horten",
+    "country": "NO",
+    "subdivision": "38",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.48343,
+      59.41721
+    ]
+  }
+}

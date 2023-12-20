@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karagach",
+    "country": "RU",
+    "subdivision": "22",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.775,
+      43.80528
+    ]
+  }
+}

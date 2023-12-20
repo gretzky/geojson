@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Būriya",
+    "country": "IN",
+    "subdivision": "10",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.35814,
+      30.15911
+    ]
+  }
+}

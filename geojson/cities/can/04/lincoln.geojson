@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lincoln",
+    "country": "CA",
+    "subdivision": "04",
+    "timezone": "America/Moncton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.58218,
+      45.90012
+    ]
+  }
+}

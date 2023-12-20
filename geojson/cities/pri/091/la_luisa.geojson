@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Luisa",
+    "country": "PR",
+    "subdivision": "091",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.50989,
+      18.44884
+    ]
+  }
+}

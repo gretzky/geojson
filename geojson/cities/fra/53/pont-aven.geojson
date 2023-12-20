@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pont-Aven",
+    "country": "FR",
+    "subdivision": "53",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.74799,
+      47.85536
+    ]
+  }
+}

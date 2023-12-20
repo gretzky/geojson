@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lisbon",
+    "country": "US",
+    "subdivision": "ND",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.68121,
+      46.44163
+    ]
+  }
+}

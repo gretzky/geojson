@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ridgefield",
+    "country": "US",
+    "subdivision": "WA",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.7426,
+      45.81511
+    ]
+  }
+}

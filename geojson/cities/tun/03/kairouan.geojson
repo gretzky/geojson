@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kairouan",
+    "country": "TN",
+    "subdivision": "03",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.09633,
+      35.6781
+    ]
+  }
+}

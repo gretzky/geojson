@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Clay City",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.91853,
+      37.85925
+    ]
+  }
+}

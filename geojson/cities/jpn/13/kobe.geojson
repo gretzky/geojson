@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kobe",
+    "country": "JP",
+    "subdivision": "13",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.183,
+      34.6913
+    ]
+  }
+}

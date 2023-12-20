@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Willimantic",
+    "country": "US",
+    "subdivision": "CT",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.20813,
+      41.71065
+    ]
+  }
+}

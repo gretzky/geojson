@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krasnoyarka",
+    "country": "RU",
+    "subdivision": "54",
+    "timezone": "Asia/Omsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.11667,
+      55.33333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kirov",
+    "country": "RU",
+    "subdivision": "33",
+    "timezone": "Europe/Kirov"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.66007,
+      58.59665
+    ]
+  }
+}

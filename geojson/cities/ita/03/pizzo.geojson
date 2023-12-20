@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pizzo",
+    "country": "IT",
+    "subdivision": "03",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.18696,
+      38.75259
+    ]
+  }
+}

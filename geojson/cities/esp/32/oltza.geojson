@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oltza",
+    "country": "ES",
+    "subdivision": "32",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.76667,
+      42.85
+    ]
+  }
+}

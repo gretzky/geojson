@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Applecross",
+    "country": "AU",
+    "subdivision": "08",
+    "timezone": "Australia/Perth"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.83333,
+      -32.01667
+    ]
+  }
+}

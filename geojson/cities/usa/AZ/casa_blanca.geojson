@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Casa Blanca",
+    "country": "US",
+    "subdivision": "AZ",
+    "timezone": "America/Phoenix"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.88819,
+      33.12033
+    ]
+  }
+}

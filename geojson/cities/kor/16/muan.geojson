@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Muan",
+    "country": "KR",
+    "subdivision": "16",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.47899,
+      34.99014
+    ]
+  }
+}

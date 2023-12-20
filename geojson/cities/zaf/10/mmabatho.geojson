@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mmabatho",
+    "country": "ZA",
+    "subdivision": "10",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.63333,
+      -25.85
+    ]
+  }
+}

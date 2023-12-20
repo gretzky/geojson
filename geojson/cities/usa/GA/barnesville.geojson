@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barnesville",
+    "country": "US",
+    "subdivision": "GA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.15575,
+      33.05457
+    ]
+  }
+}

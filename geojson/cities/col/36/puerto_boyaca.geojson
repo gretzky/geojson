@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Boyacá",
+    "country": "CO",
+    "subdivision": "36",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.58516,
+      5.976
+    ]
+  }
+}

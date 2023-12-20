@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Golden Point",
+    "country": "AU",
+    "subdivision": "07",
+    "timezone": "Australia/Melbourne"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      143.8687,
+      -37.57493
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Woodbury Center",
+    "country": "US",
+    "subdivision": "CT",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.20476,
+      41.54453
+    ]
+  }
+}

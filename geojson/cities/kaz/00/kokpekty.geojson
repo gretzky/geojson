@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kokpekty",
+    "country": "KZ",
+    "subdivision": "00",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      82.4,
+      48.75
+    ]
+  }
+}

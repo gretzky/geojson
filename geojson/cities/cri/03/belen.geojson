@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Belén",
+    "country": "CR",
+    "subdivision": "03",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.58836,
+      10.40789
+    ]
+  }
+}

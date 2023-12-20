@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Montalvo",
+    "country": "PT",
+    "subdivision": "18",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.3,
+      39.48333
+    ]
+  }
+}

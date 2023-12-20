@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Silla",
+    "country": "ES",
+    "subdivision": "60",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.41169,
+      39.36257
+    ]
+  }
+}

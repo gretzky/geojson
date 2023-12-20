@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Siquirres",
+    "country": "CR",
+    "subdivision": "06",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.50659,
+      10.09748
+    ]
+  }
+}

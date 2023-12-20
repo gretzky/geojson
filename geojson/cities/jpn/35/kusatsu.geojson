@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kusatsu",
+    "country": "JP",
+    "subdivision": "35",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.96667,
+      35.01667
+    ]
+  }
+}

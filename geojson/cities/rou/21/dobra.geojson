@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dobra",
+    "country": "RO",
+    "subdivision": "21",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.56667,
+      45.91667
+    ]
+  }
+}

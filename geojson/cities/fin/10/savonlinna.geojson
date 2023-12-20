@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Savonlinna",
+    "country": "FI",
+    "subdivision": "10",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.87999,
+      61.8699
+    ]
+  }
+}

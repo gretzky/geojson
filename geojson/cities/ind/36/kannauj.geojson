@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kannauj",
+    "country": "IN",
+    "subdivision": "36",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.9188,
+      27.05524
+    ]
+  }
+}

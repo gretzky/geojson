@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Longjing",
+    "country": "CN",
+    "subdivision": "05",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      129.42333,
+      42.77139
+    ]
+  }
+}

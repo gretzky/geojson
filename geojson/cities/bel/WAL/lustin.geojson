@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lustin",
+    "country": "BE",
+    "subdivision": "WAL",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.89871,
+      50.37876
+    ]
+  }
+}

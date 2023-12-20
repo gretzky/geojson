@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monte Azul",
+    "country": "BR",
+    "subdivision": "15",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -42.87472,
+      -15.155
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novyye Zori",
+    "country": "RU",
+    "subdivision": "04",
+    "timezone": "Asia/Barnaul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.425,
+      53.24778
+    ]
+  }
+}

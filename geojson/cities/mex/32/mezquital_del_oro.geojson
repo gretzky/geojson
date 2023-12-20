@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mezquital del Oro",
+    "country": "MX",
+    "subdivision": "32",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.36278,
+      21.21667
+    ]
+  }
+}

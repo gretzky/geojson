@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Quba",
+    "country": "AZ",
+    "subdivision": "42",
+    "timezone": "Asia/Baku"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.51341,
+      41.36108
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Entrerríos",
+    "country": "CO",
+    "subdivision": "02",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.5169,
+      6.5654
+    ]
+  }
+}

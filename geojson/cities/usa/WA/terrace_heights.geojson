@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Terrace Heights",
+    "country": "US",
+    "subdivision": "WA",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.43979,
+      46.60624
+    ]
+  }
+}

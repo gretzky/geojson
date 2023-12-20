@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gütersloh",
+    "country": "DE",
+    "subdivision": "07",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.37853,
+      51.90693
+    ]
+  }
+}

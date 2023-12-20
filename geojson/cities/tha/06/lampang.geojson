@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lampang",
+    "country": "TH",
+    "subdivision": "06",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.49277,
+      18.29232
+    ]
+  }
+}

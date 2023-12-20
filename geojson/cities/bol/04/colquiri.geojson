@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colquiri",
+    "country": "BO",
+    "subdivision": "04",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.12671,
+      -17.38918
+    ]
+  }
+}

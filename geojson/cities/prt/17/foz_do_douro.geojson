@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Foz do Douro",
+    "country": "PT",
+    "subdivision": "17",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.67125,
+      41.15119
+    ]
+  }
+}

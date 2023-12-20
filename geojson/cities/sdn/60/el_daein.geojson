@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Daein",
+    "country": "SD",
+    "subdivision": "60",
+    "timezone": "Africa/Khartoum"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.12583,
+      11.46186
+    ]
+  }
+}

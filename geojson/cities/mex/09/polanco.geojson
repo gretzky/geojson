@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Polanco",
+    "country": "MX",
+    "subdivision": "09",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.19919,
+      19.43332
+    ]
+  }
+}

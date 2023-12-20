@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Suyan",
+    "country": "PH",
+    "subdivision": "12",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.38528,
+      6.06028
+    ]
+  }
+}

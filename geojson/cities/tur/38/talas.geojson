@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Talas",
+    "country": "TR",
+    "subdivision": "38",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.5538,
+      38.6908
+    ]
+  }
+}

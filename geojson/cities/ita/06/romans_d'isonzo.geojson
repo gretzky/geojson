@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Romans d'Isonzo",
+    "country": "IT",
+    "subdivision": "06",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.44187,
+      45.88816
+    ]
+  }
+}

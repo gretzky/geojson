@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ahaus",
+    "country": "DE",
+    "subdivision": "07",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.01344,
+      52.07936
+    ]
+  }
+}

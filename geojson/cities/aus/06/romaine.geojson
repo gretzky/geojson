@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Romaine",
+    "country": "AU",
+    "subdivision": "06",
+    "timezone": "Australia/Hobart"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.89376,
+      -41.09944
+    ]
+  }
+}

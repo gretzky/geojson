@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Araulí",
+    "country": "HN",
+    "subdivision": "07",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.55,
+      13.95
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tiszavasvári",
+    "country": "HU",
+    "subdivision": "18",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.35,
+      47.96667
+    ]
+  }
+}

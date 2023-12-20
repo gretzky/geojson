@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Goianésia",
+    "country": "BR",
+    "subdivision": "29",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -49.1175,
+      -15.3175
+    ]
+  }
+}

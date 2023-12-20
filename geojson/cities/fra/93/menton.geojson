@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Menton",
+    "country": "FR",
+    "subdivision": "93",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.50435,
+      43.77649
+    ]
+  }
+}

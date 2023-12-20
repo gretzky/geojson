@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Armstrong",
+    "country": "AR",
+    "subdivision": "21",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.60222,
+      -32.78215
+    ]
+  }
+}

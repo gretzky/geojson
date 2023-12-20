@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rize",
+    "country": "TR",
+    "subdivision": "53",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.52194,
+      41.02083
+    ]
+  }
+}

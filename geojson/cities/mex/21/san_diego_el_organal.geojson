@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Diego el Organal",
+    "country": "MX",
+    "subdivision": "21",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.51667,
+      18.73083
+    ]
+  }
+}

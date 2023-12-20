@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villanova",
+    "country": "IT",
+    "subdivision": "10",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.93529,
+      43.73926
+    ]
+  }
+}

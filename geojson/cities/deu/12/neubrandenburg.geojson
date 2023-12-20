@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Neubrandenburg",
+    "country": "DE",
+    "subdivision": "12",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.27532,
+      53.56414
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rancho Nuevo",
+    "country": "MX",
+    "subdivision": "24",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.92287,
+      22.22216
+    ]
+  }
+}

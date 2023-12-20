@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Berwick",
+    "country": "CA",
+    "subdivision": "07",
+    "timezone": "America/Halifax"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.73208,
+      45.05015
+    ]
+  }
+}

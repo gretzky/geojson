@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kulary",
+    "country": "RU",
+    "subdivision": "12",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.50417,
+      43.23972
+    ]
+  }
+}

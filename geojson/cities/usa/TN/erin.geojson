@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Erin",
+    "country": "US",
+    "subdivision": "TN",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.69474,
+      36.31839
+    ]
+  }
+}

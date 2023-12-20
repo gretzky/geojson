@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Velbert",
+    "country": "DE",
+    "subdivision": "07",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.04348,
+      51.33537
+    ]
+  }
+}

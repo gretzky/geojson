@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zoucheng",
+    "country": "CN",
+    "subdivision": "25",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.96556,
+      35.40056
+    ]
+  }
+}

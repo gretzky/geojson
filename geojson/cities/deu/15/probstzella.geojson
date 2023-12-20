@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Probstzella",
+    "country": "DE",
+    "subdivision": "15",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.38333,
+      50.53333
+    ]
+  }
+}

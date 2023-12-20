@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kvitok",
+    "country": "RU",
+    "subdivision": "20",
+    "timezone": "Asia/Irkutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.4813,
+      56.0724
+    ]
+  }
+}

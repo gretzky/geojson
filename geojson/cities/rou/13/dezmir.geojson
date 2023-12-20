@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dezmir",
+    "country": "RO",
+    "subdivision": "13",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.72451,
+      46.76475
+    ]
+  }
+}

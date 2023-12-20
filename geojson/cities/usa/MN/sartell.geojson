@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sartell",
+    "country": "US",
+    "subdivision": "MN",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.20694,
+      45.62163
+    ]
+  }
+}

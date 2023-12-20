@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krölpa",
+    "country": "DE",
+    "subdivision": "15",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.53848,
+      50.67743
+    ]
+  }
+}

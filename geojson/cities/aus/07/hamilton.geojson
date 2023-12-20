@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hamilton",
+    "country": "AU",
+    "subdivision": "07",
+    "timezone": "Australia/Melbourne"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      142.02202,
+      -37.74425
+    ]
+  }
+}

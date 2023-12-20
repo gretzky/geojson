@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Miyazu",
+    "country": "JP",
+    "subdivision": "22",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.18333,
+      35.53333
+    ]
+  }
+}

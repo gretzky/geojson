@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Bartolo del Progreso",
+    "country": "MX",
+    "subdivision": "15",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.40409,
+      19.10156
+    ]
+  }
+}

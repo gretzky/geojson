@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kitgum",
+    "country": "UG",
+    "subdivision": "N",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.88667,
+      3.27833
+    ]
+  }
+}

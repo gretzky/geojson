@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Manitou Springs",
+    "country": "US",
+    "subdivision": "CO",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.9172,
+      38.85971
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hukvaldy",
+    "country": "CZ",
+    "subdivision": "85",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.22189,
+      49.62381
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carpinteros",
+    "country": "MX",
+    "subdivision": "13",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.53964,
+      20.58606
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taneytown",
+    "country": "US",
+    "subdivision": "MD",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.17443,
+      39.65788
+    ]
+  }
+}

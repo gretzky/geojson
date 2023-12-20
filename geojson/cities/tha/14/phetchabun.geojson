@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Phetchabun",
+    "country": "TH",
+    "subdivision": "14",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.16056,
+      16.41904
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kuševac",
+    "country": "HR",
+    "subdivision": "10",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.42889,
+      45.34778
+    ]
+  }
+}

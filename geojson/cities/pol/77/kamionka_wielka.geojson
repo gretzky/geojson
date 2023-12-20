@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kamionka Wielka",
+    "country": "PL",
+    "subdivision": "77",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.82364,
+      49.56848
+    ]
+  }
+}

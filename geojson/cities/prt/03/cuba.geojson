@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cuba",
+    "country": "PT",
+    "subdivision": "03",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.8924,
+      38.16544
+    ]
+  }
+}

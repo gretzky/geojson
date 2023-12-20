@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Avellaneda",
+    "country": "AR",
+    "subdivision": "21",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.65834,
+      -29.11761
+    ]
+  }
+}

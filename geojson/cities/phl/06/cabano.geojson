@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cabano",
+    "country": "PH",
+    "subdivision": "06",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.7002,
+      10.5869
+    ]
+  }
+}

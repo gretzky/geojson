@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karwar",
+    "country": "IN",
+    "subdivision": "19",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.12972,
+      14.81361
+    ]
+  }
+}

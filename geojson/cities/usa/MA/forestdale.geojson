@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Forestdale",
+    "country": "US",
+    "subdivision": "MA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.49947,
+      41.69177
+    ]
+  }
+}

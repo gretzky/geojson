@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Darlington",
+    "country": "US",
+    "subdivision": "SC",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.87617,
+      34.29988
+    ]
+  }
+}

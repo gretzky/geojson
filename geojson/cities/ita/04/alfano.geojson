@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alfano",
+    "country": "IT",
+    "subdivision": "04",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.4245,
+      40.17687
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Germencik",
+    "country": "TR",
+    "subdivision": "09",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.60283,
+      37.87056
+    ]
+  }
+}

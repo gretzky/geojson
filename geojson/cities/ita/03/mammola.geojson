@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mammola",
+    "country": "IT",
+    "subdivision": "03",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.23871,
+      38.36262
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Felipe",
+    "country": "CL",
+    "subdivision": "01",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.72584,
+      -32.74976
+    ]
+  }
+}

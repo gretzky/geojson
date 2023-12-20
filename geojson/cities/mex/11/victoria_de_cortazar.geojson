@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Victoria de Cortazar",
+    "country": "MX",
+    "subdivision": "11",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -101.03173,
+      20.3346
+    ]
+  }
+}

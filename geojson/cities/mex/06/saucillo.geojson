@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saucillo",
+    "country": "MX",
+    "subdivision": "06",
+    "timezone": "America/Chihuahua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.29376,
+      28.03055
+    ]
+  }
+}

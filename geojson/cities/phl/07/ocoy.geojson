@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ocoy",
+    "country": "PH",
+    "subdivision": "07",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.7948,
+      11.1716
+    ]
+  }
+}

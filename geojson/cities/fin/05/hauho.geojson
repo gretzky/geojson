@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hauho",
+    "country": "FI",
+    "subdivision": "05",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.56303,
+      61.17255
+    ]
+  }
+}

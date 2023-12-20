@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Madryn",
+    "country": "AR",
+    "subdivision": "04",
+    "timezone": "America/Argentina/Catamarca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.03851,
+      -42.7692
+    ]
+  }
+}

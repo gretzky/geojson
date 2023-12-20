@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ibaraki",
+    "country": "JP",
+    "subdivision": "32",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.56828,
+      34.81641
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hebron",
+    "country": "US",
+    "subdivision": "NE",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.58588,
+      40.16639
+    ]
+  }
+}

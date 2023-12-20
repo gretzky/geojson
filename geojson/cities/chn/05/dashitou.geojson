@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dashitou",
+    "country": "CN",
+    "subdivision": "05",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.51139,
+      43.30667
+    ]
+  }
+}

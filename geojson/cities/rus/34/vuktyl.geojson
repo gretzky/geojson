@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vuktyl",
+    "country": "RU",
+    "subdivision": "34",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.30944,
+      63.85667
+    ]
+  }
+}

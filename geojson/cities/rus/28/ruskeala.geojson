@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ruskeala",
+    "country": "RU",
+    "subdivision": "28",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.58902,
+      61.93191
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chuckey",
+    "country": "US",
+    "subdivision": "TN",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.68821,
+      36.21594
+    ]
+  }
+}

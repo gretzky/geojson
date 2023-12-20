@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Târgu Trotuş",
+    "country": "RO",
+    "subdivision": "04",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.66667,
+      46.26667
+    ]
+  }
+}

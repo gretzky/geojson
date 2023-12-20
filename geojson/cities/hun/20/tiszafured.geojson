@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tiszafüred",
+    "country": "HU",
+    "subdivision": "20",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.76667,
+      47.61667
+    ]
+  }
+}

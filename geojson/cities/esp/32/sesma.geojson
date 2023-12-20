@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sesma",
+    "country": "ES",
+    "subdivision": "32",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.08353,
+      42.47748
+    ]
+  }
+}

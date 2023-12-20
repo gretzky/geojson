@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dois Vizinhos",
+    "country": "BR",
+    "subdivision": "18",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -53.05722,
+      -25.73361
+    ]
+  }
+}

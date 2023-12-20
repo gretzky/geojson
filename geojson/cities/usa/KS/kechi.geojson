@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kechi",
+    "country": "US",
+    "subdivision": "KS",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.27949,
+      37.79585
+    ]
+  }
+}

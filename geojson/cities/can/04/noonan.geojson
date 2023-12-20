@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Noonan",
+    "country": "CA",
+    "subdivision": "04",
+    "timezone": "America/Moncton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.53218,
+      45.96682
+    ]
+  }
+}

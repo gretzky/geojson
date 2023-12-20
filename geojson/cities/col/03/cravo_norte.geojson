@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cravo Norte",
+    "country": "CO",
+    "subdivision": "03",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.20415,
+      6.30173
+    ]
+  }
+}

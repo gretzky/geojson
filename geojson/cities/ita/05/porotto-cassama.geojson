@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porotto-Cassama",
+    "country": "IT",
+    "subdivision": "05",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.55,
+      44.85
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dumra",
+    "country": "IN",
+    "subdivision": "34",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.5204,
+      26.56708
+    ]
+  }
+}

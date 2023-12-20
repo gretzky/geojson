@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Keelung",
+    "country": "TW",
+    "subdivision": "04",
+    "timezone": "Asia/Taipei"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.7419,
+      25.12825
+    ]
+  }
+}

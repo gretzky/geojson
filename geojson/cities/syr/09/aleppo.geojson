@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aleppo",
+    "country": "SY",
+    "subdivision": "09",
+    "timezone": "Asia/Damascus"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.16117,
+      36.20124
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Baruny",
+    "country": "BY",
+    "subdivision": "03",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.1376,
+      54.3171
+    ]
+  }
+}

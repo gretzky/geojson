@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Katwijk aan Zee",
+    "country": "NL",
+    "subdivision": "11",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.39861,
+      52.20333
+    ]
+  }
+}

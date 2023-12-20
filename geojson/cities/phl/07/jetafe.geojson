@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jetafe",
+    "country": "PH",
+    "subdivision": "07",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.15389,
+      10.14722
+    ]
+  }
+}

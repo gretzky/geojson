@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Topsham",
+    "country": "US",
+    "subdivision": "ME",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.97588,
+      43.92758
+    ]
+  }
+}

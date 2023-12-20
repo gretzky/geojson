@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Islas Agrarias Grupo B",
+    "country": "MX",
+    "subdivision": "02",
+    "timezone": "America/Tijuana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.27172,
+      32.60034
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krzeszyce",
+    "country": "PL",
+    "subdivision": "76",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.00707,
+      52.58329
+    ]
+  }
+}

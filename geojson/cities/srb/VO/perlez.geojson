@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Perlez",
+    "country": "RS",
+    "subdivision": "VO",
+    "timezone": "Europe/Belgrade"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.38197,
+      45.20813
+    ]
+  }
+}

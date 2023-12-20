@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tarm",
+    "country": "DK",
+    "subdivision": "18",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.53041,
+      55.90861
+    ]
+  }
+}

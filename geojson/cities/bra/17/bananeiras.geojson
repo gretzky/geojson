@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bananeiras",
+    "country": "BR",
+    "subdivision": "17",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -35.63333,
+      -6.75
+    ]
+  }
+}

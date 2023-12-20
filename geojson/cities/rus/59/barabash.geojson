@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barabash",
+    "country": "RU",
+    "subdivision": "59",
+    "timezone": "Asia/Vladivostok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.49185,
+      43.19948
+    ]
+  }
+}

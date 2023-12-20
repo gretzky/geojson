@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yungay",
+    "country": "PE",
+    "subdivision": "02",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.74361,
+      -9.13833
+    ]
+  }
+}

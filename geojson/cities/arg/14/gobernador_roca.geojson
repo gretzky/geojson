@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gobernador Roca",
+    "country": "AR",
+    "subdivision": "14",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.46433,
+      -27.18636
+    ]
+  }
+}

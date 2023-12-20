@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Białystok",
+    "country": "PL",
+    "subdivision": "81",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.16433,
+      53.13333
+    ]
+  }
+}

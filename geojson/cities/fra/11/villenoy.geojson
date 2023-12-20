@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villenoy",
+    "country": "FR",
+    "subdivision": "11",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.8602,
+      48.94112
+    ]
+  }
+}

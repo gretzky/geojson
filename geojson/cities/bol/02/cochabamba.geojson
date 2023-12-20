@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cochabamba",
+    "country": "BO",
+    "subdivision": "02",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.1568,
+      -17.3895
+    ]
+  }
+}

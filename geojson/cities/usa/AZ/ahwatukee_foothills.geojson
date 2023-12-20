@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ahwatukee Foothills",
+    "country": "US",
+    "subdivision": "AZ",
+    "timezone": "America/Phoenix"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.98403,
+      33.34171
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tychy",
+    "country": "PL",
+    "subdivision": "83",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.96641,
+      50.13717
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Haridwar",
+    "country": "IN",
+    "subdivision": "39",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.16025,
+      29.94791
+    ]
+  }
+}

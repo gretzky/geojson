@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "University Park",
+    "country": "US",
+    "subdivision": "NM",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.75334,
+      32.28343
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Morro d'Alba",
+    "country": "IT",
+    "subdivision": "10",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.21331,
+      43.6
+    ]
+  }
+}

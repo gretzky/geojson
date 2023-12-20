@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "New Ipswich",
+    "country": "US",
+    "subdivision": "NH",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.85424,
+      42.74814
+    ]
+  }
+}

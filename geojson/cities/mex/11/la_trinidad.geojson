@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Trinidad",
+    "country": "MX",
+    "subdivision": "11",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.78361,
+      20.56333
+    ]
+  }
+}

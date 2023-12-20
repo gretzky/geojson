@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Méxpan",
+    "country": "MX",
+    "subdivision": "18",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.41479,
+      21.03567
+    ]
+  }
+}

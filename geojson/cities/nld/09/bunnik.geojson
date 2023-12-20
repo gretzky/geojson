@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bunnik",
+    "country": "NL",
+    "subdivision": "09",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.19861,
+      52.06667
+    ]
+  }
+}

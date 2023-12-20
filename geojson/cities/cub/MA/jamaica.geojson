@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jamaica",
+    "country": "CU",
+    "subdivision": "MA",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.16852,
+      22.97559
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wendover",
+    "country": "US",
+    "subdivision": "UT",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.03751,
+      40.73715
+    ]
+  }
+}

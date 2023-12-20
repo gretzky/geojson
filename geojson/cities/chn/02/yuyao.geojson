@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yuyao",
+    "country": "CN",
+    "subdivision": "02",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.14944,
+      30.05
+    ]
+  }
+}

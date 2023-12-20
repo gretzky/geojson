@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Esenyurt",
+    "country": "TR",
+    "subdivision": "34",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.67732,
+      41.02697
+    ]
+  }
+}

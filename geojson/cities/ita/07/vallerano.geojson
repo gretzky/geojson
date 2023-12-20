@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vallerano",
+    "country": "IT",
+    "subdivision": "07",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.26144,
+      42.38331
+    ]
+  }
+}

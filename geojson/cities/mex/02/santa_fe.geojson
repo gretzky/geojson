@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Fé",
+    "country": "MX",
+    "subdivision": "02",
+    "timezone": "America/Tijuana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.97653,
+      30.67984
+    ]
+  }
+}

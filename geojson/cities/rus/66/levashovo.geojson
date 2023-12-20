@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Levashovo",
+    "country": "RU",
+    "subdivision": "66",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.20683,
+      60.10369
+    ]
+  }
+}

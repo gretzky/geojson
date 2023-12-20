@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gudermes",
+    "country": "RU",
+    "subdivision": "12",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.10925,
+      43.35071
+    ]
+  }
+}

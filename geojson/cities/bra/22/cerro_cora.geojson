@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cerro Corá",
+    "country": "BR",
+    "subdivision": "22",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -36.34583,
+      -6.04556
+    ]
+  }
+}

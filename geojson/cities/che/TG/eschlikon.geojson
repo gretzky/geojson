@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eschlikon",
+    "country": "CH",
+    "subdivision": "TG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.96381,
+      47.46361
+    ]
+  }
+}

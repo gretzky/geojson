@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Miguel Papaxtla",
+    "country": "MX",
+    "subdivision": "21",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.39,
+      19.06278
+    ]
+  }
+}

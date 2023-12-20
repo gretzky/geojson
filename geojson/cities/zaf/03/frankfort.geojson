@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Frankfort",
+    "country": "ZA",
+    "subdivision": "03",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.49696,
+      -27.27888
+    ]
+  }
+}

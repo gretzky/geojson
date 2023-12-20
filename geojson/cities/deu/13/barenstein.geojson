@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bärenstein",
+    "country": "DE",
+    "subdivision": "13",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.79771,
+      50.80125
+    ]
+  }
+}

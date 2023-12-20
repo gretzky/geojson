@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Ménil",
+    "country": "FR",
+    "subdivision": "44",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.78209,
+      47.90477
+    ]
+  }
+}

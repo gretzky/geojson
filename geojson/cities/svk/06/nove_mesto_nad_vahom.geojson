@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nové Mesto nad Váhom",
+    "country": "SK",
+    "subdivision": "06",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.8309,
+      48.75763
+    ]
+  }
+}

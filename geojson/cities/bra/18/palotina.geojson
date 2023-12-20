@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palotina",
+    "country": "BR",
+    "subdivision": "18",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -53.84,
+      -24.28389
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bristol",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.81749,
+      41.72144
+    ]
+  }
+}

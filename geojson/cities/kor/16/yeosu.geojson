@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yeosu",
+    "country": "KR",
+    "subdivision": "16",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.66215,
+      34.76062
+    ]
+  }
+}

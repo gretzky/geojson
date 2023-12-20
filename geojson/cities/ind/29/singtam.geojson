@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Singtam",
+    "country": "IN",
+    "subdivision": "29",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      88.50168,
+      27.23467
+    ]
+  }
+}

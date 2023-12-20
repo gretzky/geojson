@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Glenville",
+    "country": "US",
+    "subdivision": "WV",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.8376,
+      38.93426
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Al Fashn",
+    "country": "EG",
+    "subdivision": "18",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.89903,
+      28.82306
+    ]
+  }
+}

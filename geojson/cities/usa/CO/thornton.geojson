@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Thornton",
+    "country": "US",
+    "subdivision": "CO",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.97192,
+      39.86804
+    ]
+  }
+}

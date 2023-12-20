@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Douchy",
+    "country": "FR",
+    "subdivision": "24",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.05392,
+      47.94282
+    ]
+  }
+}

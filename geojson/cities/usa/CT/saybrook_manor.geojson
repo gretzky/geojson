@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saybrook Manor",
+    "country": "US",
+    "subdivision": "CT",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.39897,
+      41.28538
+    ]
+  }
+}

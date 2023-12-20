@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Äänekoski",
+    "country": "FI",
+    "subdivision": "13",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.73333,
+      62.6
+    ]
+  }
+}

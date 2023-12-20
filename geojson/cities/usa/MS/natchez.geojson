@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Natchez",
+    "country": "US",
+    "subdivision": "MS",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.40329,
+      31.56017
+    ]
+  }
+}

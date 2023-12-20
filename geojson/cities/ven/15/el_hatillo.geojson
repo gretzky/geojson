@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Hatillo",
+    "country": "VE",
+    "subdivision": "15",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.82581,
+      10.42411
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Reed Creek",
+    "country": "US",
+    "subdivision": "GA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.92487,
+      34.44594
+    ]
+  }
+}

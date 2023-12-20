@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vázquez",
+    "country": "PR",
+    "subdivision": "123",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.2385,
+      18.0658
+    ]
+  }
+}

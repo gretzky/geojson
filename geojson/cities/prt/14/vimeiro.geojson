@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vimeiro",
+    "country": "PT",
+    "subdivision": "14",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.31702,
+      39.17768
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arkadak",
+    "country": "RU",
+    "subdivision": "67",
+    "timezone": "Europe/Saratov"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.49779,
+      51.93261
+    ]
+  }
+}

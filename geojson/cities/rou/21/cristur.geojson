@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cristur",
+    "country": "RO",
+    "subdivision": "21",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.94323,
+      45.82936
+    ]
+  }
+}

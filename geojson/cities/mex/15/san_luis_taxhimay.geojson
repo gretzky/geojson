@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Luis Taxhimay",
+    "country": "MX",
+    "subdivision": "15",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.39861,
+      19.83972
+    ]
+  }
+}

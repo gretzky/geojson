@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Qinzhou",
+    "country": "CN",
+    "subdivision": "16",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      108.65061,
+      21.98247
+    ]
+  }
+}

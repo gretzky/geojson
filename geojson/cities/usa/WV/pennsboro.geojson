@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pennsboro",
+    "country": "US",
+    "subdivision": "WV",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.96844,
+      39.28508
+    ]
+  }
+}

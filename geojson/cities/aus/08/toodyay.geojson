@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Toodyay",
+    "country": "AU",
+    "subdivision": "08",
+    "timezone": "Australia/Perth"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.46743,
+      -31.54977
+    ]
+  }
+}

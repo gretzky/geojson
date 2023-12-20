@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Parfino",
+    "country": "RU",
+    "subdivision": "52",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.64806,
+      57.97306
+    ]
+  }
+}

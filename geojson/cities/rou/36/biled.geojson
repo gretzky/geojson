@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Biled",
+    "country": "RO",
+    "subdivision": "36",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.95889,
+      45.88639
+    ]
+  }
+}

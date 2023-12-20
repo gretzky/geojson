@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taco Pozo",
+    "country": "AR",
+    "subdivision": "03",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.26708,
+      -25.61557
+    ]
+  }
+}

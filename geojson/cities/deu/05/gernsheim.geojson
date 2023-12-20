@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gernsheim",
+    "country": "DE",
+    "subdivision": "05",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.48859,
+      49.75305
+    ]
+  }
+}

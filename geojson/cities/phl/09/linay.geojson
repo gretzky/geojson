@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Linay",
+    "country": "PH",
+    "subdivision": "09",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.13333,
+      8.51667
+    ]
+  }
+}

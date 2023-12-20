@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hocalar",
+    "country": "TR",
+    "subdivision": "03",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.96768,
+      38.57824
+    ]
+  }
+}

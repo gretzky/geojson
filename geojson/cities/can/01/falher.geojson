@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Falher",
+    "country": "CA",
+    "subdivision": "01",
+    "timezone": "America/Edmonton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.20262,
+      55.73339
+    ]
+  }
+}

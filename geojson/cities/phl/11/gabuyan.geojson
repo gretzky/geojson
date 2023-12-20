@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gabuyan",
+    "country": "PH",
+    "subdivision": "11",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.66889,
+      7.60806
+    ]
+  }
+}

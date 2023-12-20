@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ørje",
+    "country": "NO",
+    "subdivision": "30",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.66016,
+      59.48023
+    ]
+  }
+}

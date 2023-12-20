@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moorcroft",
+    "country": "US",
+    "subdivision": "WY",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.95025,
+      44.26331
+    ]
+  }
+}

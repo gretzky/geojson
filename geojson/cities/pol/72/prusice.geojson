@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Prusice",
+    "country": "PL",
+    "subdivision": "72",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.96025,
+      51.37116
+    ]
+  }
+}

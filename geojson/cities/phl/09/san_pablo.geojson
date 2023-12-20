@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pablo",
+    "country": "PH",
+    "subdivision": "09",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.46083,
+      7.65639
+    ]
+  }
+}

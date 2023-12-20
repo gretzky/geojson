@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Landenne",
+    "country": "BE",
+    "subdivision": "WAL",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.06684,
+      50.51534
+    ]
+  }
+}

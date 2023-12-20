@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gunsan",
+    "country": "KR",
+    "subdivision": "03",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.71139,
+      35.97861
+    ]
+  }
+}

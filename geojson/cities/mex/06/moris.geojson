@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moris",
+    "country": "MX",
+    "subdivision": "06",
+    "timezone": "America/Chihuahua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.52325,
+      28.14888
+    ]
+  }
+}

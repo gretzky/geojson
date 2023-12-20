@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Nueva",
+    "country": "GT",
+    "subdivision": "07",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.58544,
+      14.52512
+    ]
+  }
+}

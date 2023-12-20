@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Caicedo",
+    "country": "CO",
+    "subdivision": "02",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.98255,
+      6.40511
+    ]
+  }
+}

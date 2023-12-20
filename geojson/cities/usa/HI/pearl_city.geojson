@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pearl City",
+    "country": "US",
+    "subdivision": "HI",
+    "timezone": "Pacific/Honolulu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -157.97516,
+      21.39734
+    ]
+  }
+}

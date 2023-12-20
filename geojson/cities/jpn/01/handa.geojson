@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Handa",
+    "country": "JP",
+    "subdivision": "01",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.93333,
+      34.88333
+    ]
+  }
+}

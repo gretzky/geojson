@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Venecia",
+    "country": "MX",
+    "subdivision": "10",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.35266,
+      25.77844
+    ]
+  }
+}

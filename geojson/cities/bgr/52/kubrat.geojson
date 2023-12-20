@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kubrat",
+    "country": "BG",
+    "subdivision": "52",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.50063,
+      43.79658
+    ]
+  }
+}

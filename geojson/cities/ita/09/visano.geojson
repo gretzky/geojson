@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Visano",
+    "country": "IT",
+    "subdivision": "09",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.37092,
+      45.31684
+    ]
+  }
+}

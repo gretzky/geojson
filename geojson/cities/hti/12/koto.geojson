@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Koto",
+    "country": "HT",
+    "subdivision": "12",
+    "timezone": "America/Port-au-Prince"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.04013,
+      18.20601
+    ]
+  }
+}

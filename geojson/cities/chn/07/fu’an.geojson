@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fu’an",
+    "country": "CN",
+    "subdivision": "07",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.6528,
+      27.06372
+    ]
+  }
+}

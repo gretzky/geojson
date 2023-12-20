@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Narovchat",
+    "country": "RU",
+    "subdivision": "57",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.69458,
+      53.87654
+    ]
+  }
+}

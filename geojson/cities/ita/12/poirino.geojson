@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Poirino",
+    "country": "IT",
+    "subdivision": "12",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.84465,
+      44.92047
+    ]
+  }
+}

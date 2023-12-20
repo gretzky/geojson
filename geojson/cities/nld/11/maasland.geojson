@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maasland",
+    "country": "NL",
+    "subdivision": "11",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.27222,
+      51.93417
+    ]
+  }
+}

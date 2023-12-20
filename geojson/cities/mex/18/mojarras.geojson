@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mojarras",
+    "country": "MX",
+    "subdivision": "18",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.60851,
+      21.42592
+    ]
+  }
+}

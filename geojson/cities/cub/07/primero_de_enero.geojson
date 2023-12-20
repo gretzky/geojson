@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Primero de Enero",
+    "country": "CU",
+    "subdivision": "07",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.4313,
+      21.94501
+    ]
+  }
+}

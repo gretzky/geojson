@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mezzano",
+    "country": "IT",
+    "subdivision": "17",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.80876,
+      46.15393
+    ]
+  }
+}

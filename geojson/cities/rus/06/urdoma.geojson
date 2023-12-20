@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Urdoma",
+    "country": "RU",
+    "subdivision": "06",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.5442,
+      61.75335
+    ]
+  }
+}

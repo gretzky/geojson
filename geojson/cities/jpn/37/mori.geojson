@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mori",
+    "country": "JP",
+    "subdivision": "37",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.93333,
+      34.83333
+    ]
+  }
+}

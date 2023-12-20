@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pueblos Unidos",
+    "country": "MX",
+    "subdivision": "25",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.15139,
+      24.2925
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Agapovka",
+    "country": "RU",
+    "subdivision": "13",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      59.1348,
+      53.2973
+    ]
+  }
+}

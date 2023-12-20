@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karłowice",
+    "country": "PL",
+    "subdivision": "72",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.05212,
+      51.14132
+    ]
+  }
+}

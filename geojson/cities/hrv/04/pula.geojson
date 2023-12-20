@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pula",
+    "country": "HR",
+    "subdivision": "04",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.84806,
+      44.86833
+    ]
+  }
+}

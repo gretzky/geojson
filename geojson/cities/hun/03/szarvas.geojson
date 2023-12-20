@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Szarvas",
+    "country": "HU",
+    "subdivision": "03",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.55,
+      46.86667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Candon",
+    "country": "PH",
+    "subdivision": "01",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.45167,
+      17.19472
+    ]
+  }
+}

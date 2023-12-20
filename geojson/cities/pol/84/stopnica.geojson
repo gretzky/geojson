@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stopnica",
+    "country": "PL",
+    "subdivision": "84",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.9378,
+      50.44018
+    ]
+  }
+}

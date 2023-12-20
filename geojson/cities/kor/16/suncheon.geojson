@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Suncheon",
+    "country": "KR",
+    "subdivision": "16",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.48784,
+      34.9505
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pizhou",
+    "country": "CN",
+    "subdivision": "04",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.95028,
+      34.31139
+    ]
+  }
+}

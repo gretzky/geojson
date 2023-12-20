@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Magula",
+    "country": "RO",
+    "subdivision": "30",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.30114,
+      44.93185
+    ]
+  }
+}

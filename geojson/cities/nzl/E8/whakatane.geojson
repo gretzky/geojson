@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Whakatane",
+    "country": "NZ",
+    "subdivision": "E8",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      176.98545,
+      -37.95855
+    ]
+  }
+}

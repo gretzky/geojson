@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Francisco Kobén",
+    "country": "MX",
+    "subdivision": "04",
+    "timezone": "America/Merida"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.41709,
+      19.91516
+    ]
+  }
+}

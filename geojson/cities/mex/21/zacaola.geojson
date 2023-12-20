@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zacaola",
+    "country": "MX",
+    "subdivision": "21",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.84762,
+      18.88099
+    ]
+  }
+}

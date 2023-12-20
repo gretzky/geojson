@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yuanping",
+    "country": "CN",
+    "subdivision": "24",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7575,
+      38.71528
+    ]
+  }
+}

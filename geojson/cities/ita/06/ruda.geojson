@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ruda",
+    "country": "IT",
+    "subdivision": "06",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.40177,
+      45.83986
+    ]
+  }
+}

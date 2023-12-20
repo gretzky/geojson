@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mtsensk",
+    "country": "RU",
+    "subdivision": "56",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.57334,
+      53.27657
+    ]
+  }
+}

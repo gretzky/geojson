@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pihtipudas",
+    "country": "FI",
+    "subdivision": "13",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.56667,
+      63.38333
+    ]
+  }
+}

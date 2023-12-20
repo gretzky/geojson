@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Erdemli",
+    "country": "TR",
+    "subdivision": "32",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.30836,
+      36.60498
+    ]
+  }
+}

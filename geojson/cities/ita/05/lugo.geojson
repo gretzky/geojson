@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lugo",
+    "country": "IT",
+    "subdivision": "05",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.91094,
+      44.42137
+    ]
+  }
+}

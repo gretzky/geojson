@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Tocuyo",
+    "country": "VE",
+    "subdivision": "13",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.79294,
+      9.78709
+    ]
+  }
+}

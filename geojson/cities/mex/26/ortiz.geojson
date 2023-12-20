@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ortiz",
+    "country": "MX",
+    "subdivision": "26",
+    "timezone": "America/Hermosillo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.7141,
+      28.28786
+    ]
+  }
+}

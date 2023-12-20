@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mount Morgan",
+    "country": "AU",
+    "subdivision": "04",
+    "timezone": "Australia/Brisbane"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      150.38902,
+      -23.64532
+    ]
+  }
+}

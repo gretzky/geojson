@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Skärhamn",
+    "country": "SE",
+    "subdivision": "28",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.55742,
+      57.98665
+    ]
+  }
+}

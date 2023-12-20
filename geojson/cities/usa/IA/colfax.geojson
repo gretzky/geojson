@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colfax",
+    "country": "US",
+    "subdivision": "IA",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.2452,
+      41.67777
+    ]
+  }
+}

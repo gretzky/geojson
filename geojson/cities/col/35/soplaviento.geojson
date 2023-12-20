@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Soplaviento",
+    "country": "CO",
+    "subdivision": "35",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.14083,
+      10.39306
+    ]
+  }
+}

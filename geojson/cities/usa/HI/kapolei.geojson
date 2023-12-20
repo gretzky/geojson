@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kapolei",
+    "country": "US",
+    "subdivision": "HI",
+    "timezone": "Pacific/Honolulu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -158.0582,
+      21.33555
+    ]
+  }
+}

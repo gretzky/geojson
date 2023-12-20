@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Byske",
+    "country": "SE",
+    "subdivision": "23",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.2058,
+      64.95258
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Payson",
+    "country": "US",
+    "subdivision": "UT",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.73215,
+      40.0444
+    ]
+  }
+}

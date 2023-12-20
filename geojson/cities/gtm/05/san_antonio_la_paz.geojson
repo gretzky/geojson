@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Antonio La Paz",
+    "country": "GT",
+    "subdivision": "05",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.28485,
+      14.75888
+    ]
+  }
+}

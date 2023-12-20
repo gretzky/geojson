@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Rica",
+    "country": "PE",
+    "subdivision": "19",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.26972,
+      -10.73944
+    ]
+  }
+}

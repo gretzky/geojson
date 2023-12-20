@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Blades",
+    "country": "US",
+    "subdivision": "DE",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.60993,
+      38.63567
+    ]
+  }
+}

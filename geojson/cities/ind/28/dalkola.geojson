@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dalkola",
+    "country": "IN",
+    "subdivision": "28",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.84009,
+      25.87577
+    ]
+  }
+}

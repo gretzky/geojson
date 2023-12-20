@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puieni",
+    "country": "RO",
+    "subdivision": "42",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.19114,
+      44.07675
+    ]
+  }
+}

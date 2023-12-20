@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Richards Bay",
+    "country": "ZA",
+    "subdivision": "02",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.03768,
+      -28.78301
+    ]
+  }
+}

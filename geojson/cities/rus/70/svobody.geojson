@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Svobody",
+    "country": "RU",
+    "subdivision": "70",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.05028,
+      44.02556
+    ]
+  }
+}

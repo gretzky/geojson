@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moa",
+    "country": "CU",
+    "subdivision": "12",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.95075,
+      20.65776
+    ]
+  }
+}

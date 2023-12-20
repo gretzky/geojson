@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Incheon",
+    "country": "KR",
+    "subdivision": "12",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.70515,
+      37.45646
+    ]
+  }
+}

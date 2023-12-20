@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saratoga Springs",
+    "country": "US",
+    "subdivision": "UT",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.90466,
+      40.34912
+    ]
+  }
+}

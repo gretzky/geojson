@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "İspir",
+    "country": "TR",
+    "subdivision": "25",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.99373,
+      40.47981
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gowrie",
+    "country": "AU",
+    "subdivision": "01",
+    "timezone": "Australia/Sydney"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.10903,
+      -35.41187
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Garruchos",
+    "country": "AR",
+    "subdivision": "06",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.65406,
+      -28.17208
+    ]
+  }
+}

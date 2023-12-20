@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ikovka",
+    "country": "RU",
+    "subdivision": "40",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      64.9375,
+      55.60889
+    ]
+  }
+}

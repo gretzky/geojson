@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Bárbara",
+    "country": "MX",
+    "subdivision": "06",
+    "timezone": "America/Chihuahua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.82024,
+      26.80381
+    ]
+  }
+}

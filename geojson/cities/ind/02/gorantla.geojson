@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gorantla",
+    "country": "IN",
+    "subdivision": "02",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.77224,
+      13.98411
+    ]
+  }
+}

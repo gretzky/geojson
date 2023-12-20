@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Matas",
+    "country": "ES",
+    "subdivision": "29",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.89173,
+      40.55779
+    ]
+  }
+}

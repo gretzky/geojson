@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chittenden",
+    "country": "US",
+    "subdivision": "VT",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.94816,
+      43.70784
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santo Domingo",
+    "country": "PA",
+    "subdivision": "07",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.2414,
+      7.74856
+    ]
+  }
+}

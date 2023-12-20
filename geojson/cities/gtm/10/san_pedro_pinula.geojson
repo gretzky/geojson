@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pedro Pinula",
+    "country": "GT",
+    "subdivision": "10",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.84625,
+      14.66349
+    ]
+  }
+}

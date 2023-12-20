@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ostrów Lubelski",
+    "country": "PL",
+    "subdivision": "75",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.85287,
+      51.49416
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pirey",
+    "country": "FR",
+    "subdivision": "27",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.96466,
+      47.26136
+    ]
+  }
+}

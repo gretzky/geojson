@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Orahovica",
+    "country": "HR",
+    "subdivision": "17",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.88472,
+      45.54
+    ]
+  }
+}

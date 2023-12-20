@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nabari",
+    "country": "JP",
+    "subdivision": "23",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.08333,
+      34.61667
+    ]
+  }
+}

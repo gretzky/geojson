@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Radna",
+    "country": "RO",
+    "subdivision": "02",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.68732,
+      46.09444
+    ]
+  }
+}

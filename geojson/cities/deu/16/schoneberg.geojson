@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Schöneberg",
+    "country": "DE",
+    "subdivision": "16",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.35,
+      52.46667
+    ]
+  }
+}

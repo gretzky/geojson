@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ürümqi",
+    "country": "CN",
+    "subdivision": "13",
+    "timezone": "Asia/Urumqi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.60046,
+      43.80096
+    ]
+  }
+}

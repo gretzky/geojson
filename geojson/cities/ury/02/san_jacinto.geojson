@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Jacinto",
+    "country": "UY",
+    "subdivision": "02",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.87151,
+      -34.54465
+    ]
+  }
+}

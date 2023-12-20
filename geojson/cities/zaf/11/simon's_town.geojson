@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Simon's Town",
+    "country": "ZA",
+    "subdivision": "11",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.43585,
+      -34.1934
+    ]
+  }
+}

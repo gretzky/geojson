@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Çivril",
+    "country": "TR",
+    "subdivision": "20",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.73861,
+      38.30139
+    ]
+  }
+}

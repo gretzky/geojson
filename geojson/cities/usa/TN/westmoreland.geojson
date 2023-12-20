@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Westmoreland",
+    "country": "US",
+    "subdivision": "TN",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.24804,
+      36.56199
+    ]
+  }
+}

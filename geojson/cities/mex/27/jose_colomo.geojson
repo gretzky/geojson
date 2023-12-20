@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "José Colomo",
+    "country": "MX",
+    "subdivision": "27",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -92.46659,
+      17.94691
+    ]
+  }
+}

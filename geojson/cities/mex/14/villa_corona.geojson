@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Corona",
+    "country": "MX",
+    "subdivision": "14",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.66416,
+      20.41564
+    ]
+  }
+}

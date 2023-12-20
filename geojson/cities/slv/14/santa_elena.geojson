@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Elena",
+    "country": "SV",
+    "subdivision": "14",
+    "timezone": "America/El_Salvador"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.41667,
+      13.38333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mawlamyine",
+    "country": "MM",
+    "subdivision": "13",
+    "timezone": "Asia/Yangon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.62825,
+      16.49051
+    ]
+  }
+}

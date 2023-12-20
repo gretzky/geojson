@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Weldon",
+    "country": "US",
+    "subdivision": "NC",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.59553,
+      36.4271
+    ]
+  }
+}

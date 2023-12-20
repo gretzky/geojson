@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Copala",
+    "country": "MX",
+    "subdivision": "14",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.77188,
+      19.61123
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Harzgerode",
+    "country": "DE",
+    "subdivision": "14",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1433,
+      51.64189
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Paredón",
+    "country": "MX",
+    "subdivision": "13",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.25224,
+      19.86686
+    ]
+  }
+}

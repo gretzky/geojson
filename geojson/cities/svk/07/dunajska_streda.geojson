@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dunajská Streda",
+    "country": "SK",
+    "subdivision": "07",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.61211,
+      47.99268
+    ]
+  }
+}

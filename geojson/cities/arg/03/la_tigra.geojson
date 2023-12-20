@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Tigra",
+    "country": "AR",
+    "subdivision": "03",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.58719,
+      -27.10996
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lorette",
+    "country": "FR",
+    "subdivision": "84",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.58242,
+      45.51105
+    ]
+  }
+}

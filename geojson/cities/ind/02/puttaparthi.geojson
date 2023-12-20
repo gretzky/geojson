@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puttaparthi",
+    "country": "IN",
+    "subdivision": "02",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.8117,
+      14.1652
+    ]
+  }
+}

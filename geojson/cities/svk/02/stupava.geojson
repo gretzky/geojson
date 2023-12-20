@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stupava",
+    "country": "SK",
+    "subdivision": "02",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.03173,
+      48.27474
+    ]
+  }
+}

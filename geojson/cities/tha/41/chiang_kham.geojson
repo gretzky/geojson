@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chiang Kham",
+    "country": "TH",
+    "subdivision": "41",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.3,
+      19.52331
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tando Jam",
+    "country": "PK",
+    "subdivision": "05",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      68.52923,
+      25.42813
+    ]
+  }
+}

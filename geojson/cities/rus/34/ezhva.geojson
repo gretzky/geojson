@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ezhva",
+    "country": "RU",
+    "subdivision": "34",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      50.72834,
+      61.81281
+    ]
+  }
+}

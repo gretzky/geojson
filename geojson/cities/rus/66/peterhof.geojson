@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Peterhof",
+    "country": "RU",
+    "subdivision": "66",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.9,
+      59.88333
+    ]
+  }
+}

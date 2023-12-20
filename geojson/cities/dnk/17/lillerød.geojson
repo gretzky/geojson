@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lillerød",
+    "country": "DK",
+    "subdivision": "17",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.34579,
+      55.87496
+    ]
+  }
+}

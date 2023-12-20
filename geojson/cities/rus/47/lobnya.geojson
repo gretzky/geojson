@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lobnya",
+    "country": "RU",
+    "subdivision": "47",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.48194,
+      56.00972
+    ]
+  }
+}

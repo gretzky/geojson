@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vajont",
+    "country": "IT",
+    "subdivision": "06",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.69647,
+      46.14534
+    ]
+  }
+}

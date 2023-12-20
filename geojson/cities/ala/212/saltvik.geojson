@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saltvik",
+    "country": "AX",
+    "subdivision": "212",
+    "timezone": "Europe/Mariehamn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.05,
+      60.28333
+    ]
+  }
+}

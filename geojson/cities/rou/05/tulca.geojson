@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tulca",
+    "country": "RO",
+    "subdivision": "05",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.78333,
+      46.78333
+    ]
+  }
+}

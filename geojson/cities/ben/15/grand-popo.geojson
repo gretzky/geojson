@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Grand-Popo",
+    "country": "BJ",
+    "subdivision": "15",
+    "timezone": "Africa/Porto-Novo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.82251,
+      6.28036
+    ]
+  }
+}

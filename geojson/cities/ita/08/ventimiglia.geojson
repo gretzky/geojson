@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ventimiglia",
+    "country": "IT",
+    "subdivision": "08",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.60872,
+      43.78956
+    ]
+  }
+}

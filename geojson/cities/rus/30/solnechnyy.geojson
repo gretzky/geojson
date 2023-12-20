@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Solnechnyy",
+    "country": "RU",
+    "subdivision": "30",
+    "timezone": "Asia/Vladivostok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.63831,
+      50.72367
+    ]
+  }
+}

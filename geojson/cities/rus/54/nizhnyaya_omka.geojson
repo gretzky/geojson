@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nizhnyaya Omka",
+    "country": "RU",
+    "subdivision": "54",
+    "timezone": "Asia/Omsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.94256,
+      55.43375
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Sebastián",
+    "country": "PR",
+    "subdivision": "131",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.99018,
+      18.33662
+    ]
+  }
+}

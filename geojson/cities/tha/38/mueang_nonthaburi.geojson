@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mueang Nonthaburi",
+    "country": "TH",
+    "subdivision": "38",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.51477,
+      13.86075
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Valkenburg",
+    "country": "NL",
+    "subdivision": "05",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.83205,
+      50.86523
+    ]
+  }
+}

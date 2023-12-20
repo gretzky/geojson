@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Antonio Ocotlán",
+    "country": "MX",
+    "subdivision": "20",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.16585,
+      16.64929
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Meitar",
+    "country": "IL",
+    "subdivision": "01",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.93855,
+      31.32726
+    ]
+  }
+}

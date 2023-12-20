@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Khon Kaen",
+    "country": "TH",
+    "subdivision": "22",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.833,
+      16.44671
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Broken Hill",
+    "country": "AU",
+    "subdivision": "02",
+    "timezone": "Australia/Broken_Hill"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.4512,
+      -31.9652
+    ]
+  }
+}

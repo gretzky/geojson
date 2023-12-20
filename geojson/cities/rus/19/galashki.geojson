@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Galashki",
+    "country": "RU",
+    "subdivision": "19",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.99055,
+      43.1174
+    ]
+  }
+}

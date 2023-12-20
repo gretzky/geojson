@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kanda",
+    "country": "JP",
+    "subdivision": "07",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.98333,
+      33.78333
+    ]
+  }
+}

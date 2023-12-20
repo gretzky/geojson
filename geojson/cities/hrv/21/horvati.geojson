@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Horvati",
+    "country": "HR",
+    "subdivision": "21",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.81667,
+      45.7
+    ]
+  }
+}

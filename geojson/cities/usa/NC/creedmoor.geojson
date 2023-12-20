@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Creedmoor",
+    "country": "US",
+    "subdivision": "NC",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.68611,
+      36.12237
+    ]
+  }
+}

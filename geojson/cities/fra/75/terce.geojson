@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tercé",
+    "country": "FR",
+    "subdivision": "75",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.56361,
+      46.5168
+    ]
+  }
+}

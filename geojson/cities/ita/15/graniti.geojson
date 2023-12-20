@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Graniti",
+    "country": "IT",
+    "subdivision": "15",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.22459,
+      37.88986
+    ]
+  }
+}

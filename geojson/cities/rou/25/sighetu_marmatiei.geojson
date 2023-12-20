@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sighetu Marmaţiei",
+    "country": "RO",
+    "subdivision": "25",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.88603,
+      47.93195
+    ]
+  }
+}

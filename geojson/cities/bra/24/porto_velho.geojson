@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porto Velho",
+    "country": "BR",
+    "subdivision": "24",
+    "timezone": "America/Porto_Velho"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.90389,
+      -8.76194
+    ]
+  }
+}

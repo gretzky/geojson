@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Roccafranca",
+    "country": "IT",
+    "subdivision": "09",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9126,
+      45.46405
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Encrucijada",
+    "country": "CU",
+    "subdivision": "16",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.86603,
+      22.61802
+    ]
+  }
+}

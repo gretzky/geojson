@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bătrâni",
+    "country": "RO",
+    "subdivision": "30",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.15091,
+      45.31425
+    ]
+  }
+}

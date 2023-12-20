@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Broquerie",
+    "country": "CA",
+    "subdivision": "03",
+    "timezone": "America/Winnipeg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -96.50029,
+      49.51688
+    ]
+  }
+}

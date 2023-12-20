@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chester",
+    "country": "US",
+    "subdivision": "VT",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.59509,
+      43.26285
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kutulik",
+    "country": "RU",
+    "subdivision": "20",
+    "timezone": "Asia/Irkutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.78389,
+      53.3508
+    ]
+  }
+}

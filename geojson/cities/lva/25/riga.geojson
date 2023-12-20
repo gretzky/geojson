@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Riga",
+    "country": "LV",
+    "subdivision": "25",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.10589,
+      56.946
+    ]
+  }
+}

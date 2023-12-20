@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Delitzsch",
+    "country": "DE",
+    "subdivision": "13",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.34284,
+      51.52546
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bistrinci",
+    "country": "HR",
+    "subdivision": "10",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.39861,
+      45.69167
+    ]
+  }
+}

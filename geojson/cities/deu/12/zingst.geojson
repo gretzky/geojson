@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zingst",
+    "country": "DE",
+    "subdivision": "12",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.6888,
+      54.43572
+    ]
+  }
+}

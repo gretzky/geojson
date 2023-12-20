@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Birmenstorf",
+    "country": "CH",
+    "subdivision": "AG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.24816,
+      47.46152
+    ]
+  }
+}

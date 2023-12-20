@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Toyohashi",
+    "country": "JP",
+    "subdivision": "01",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.38333,
+      34.76667
+    ]
+  }
+}

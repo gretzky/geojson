@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Embu",
+    "country": "BR",
+    "subdivision": "27",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -46.85222,
+      -23.64889
+    ]
+  }
+}

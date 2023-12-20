@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Magaluf",
+    "country": "ES",
+    "subdivision": "07",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5353,
+      39.5111
+    ]
+  }
+}

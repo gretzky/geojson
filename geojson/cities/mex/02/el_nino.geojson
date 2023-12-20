@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Niño",
+    "country": "MX",
+    "subdivision": "02",
+    "timezone": "America/Tijuana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.79194,
+      32.5075
+    ]
+  }
+}

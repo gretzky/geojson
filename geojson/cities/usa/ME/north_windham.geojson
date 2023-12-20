@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "North Windham",
+    "country": "US",
+    "subdivision": "ME",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.43839,
+      43.83424
+    ]
+  }
+}

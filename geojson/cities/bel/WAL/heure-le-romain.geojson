@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Heure-le-Romain",
+    "country": "BE",
+    "subdivision": "WAL",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6329,
+      50.73162
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San José",
+    "country": "MX",
+    "subdivision": "17",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.66345,
+      19.00777
+    ]
+  }
+}

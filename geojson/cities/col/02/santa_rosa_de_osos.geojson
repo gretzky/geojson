@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Rosa de Osos",
+    "country": "CO",
+    "subdivision": "02",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.46031,
+      6.64738
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bezhanitsy",
+    "country": "RU",
+    "subdivision": "60",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.89065,
+      56.97669
+    ]
+  }
+}

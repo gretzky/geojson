@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brandenburg",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.16941,
+      37.99896
+    ]
+  }
+}

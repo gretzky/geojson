@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Surin",
+    "country": "TH",
+    "subdivision": "29",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.49364,
+      14.88181
+    ]
+  }
+}

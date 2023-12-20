@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tivoli",
+    "country": "IT",
+    "subdivision": "07",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.8016,
+      41.95952
+    ]
+  }
+}

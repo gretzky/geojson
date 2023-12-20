@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Rinconoda",
+    "country": "MX",
+    "subdivision": "16",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.2885,
+      20.04363
+    ]
+  }
+}

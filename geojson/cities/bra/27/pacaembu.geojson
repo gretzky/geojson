@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pacaembu",
+    "country": "BR",
+    "subdivision": "27",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -51.26056,
+      -21.56222
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Perleberg",
+    "country": "DE",
+    "subdivision": "11",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.85739,
+      53.07583
+    ]
+  }
+}

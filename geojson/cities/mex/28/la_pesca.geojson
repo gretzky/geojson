@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Pesca",
+    "country": "MX",
+    "subdivision": "28",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.77712,
+      23.7866
+    ]
+  }
+}

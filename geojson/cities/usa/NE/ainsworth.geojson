@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ainsworth",
+    "country": "US",
+    "subdivision": "NE",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.86262,
+      42.55
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guéret",
+    "country": "FR",
+    "subdivision": "75",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.87166,
+      46.17185
+    ]
+  }
+}

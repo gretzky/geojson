@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carlow",
+    "country": "IE",
+    "subdivision": "L",
+    "timezone": "Europe/Dublin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.92611,
+      52.84083
+    ]
+  }
+}

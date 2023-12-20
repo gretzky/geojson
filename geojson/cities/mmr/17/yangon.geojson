@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yangon",
+    "country": "MM",
+    "subdivision": "17",
+    "timezone": "Asia/Yangon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      96.15611,
+      16.80528
+    ]
+  }
+}

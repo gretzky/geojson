@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Francisco Ocotlán",
+    "country": "MX",
+    "subdivision": "21",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.28345,
+      19.13411
+    ]
+  }
+}

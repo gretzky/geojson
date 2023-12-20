@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Seeley Lake",
+    "country": "US",
+    "subdivision": "MT",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.48452,
+      47.17938
+    ]
+  }
+}

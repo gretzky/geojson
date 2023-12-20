@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Terborg",
+    "country": "NL",
+    "subdivision": "03",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.35417,
+      51.92
+    ]
+  }
+}

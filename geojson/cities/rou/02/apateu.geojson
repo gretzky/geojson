@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Apateu",
+    "country": "RO",
+    "subdivision": "02",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.78333,
+      46.61667
+    ]
+  }
+}

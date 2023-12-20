@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Nio",
+    "country": "MX",
+    "subdivision": "25",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.40029,
+      25.62455
+    ]
+  }
+}

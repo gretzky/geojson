@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Be’eri",
+    "country": "IL",
+    "subdivision": "01",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.49163,
+      31.42426
+    ]
+  }
+}

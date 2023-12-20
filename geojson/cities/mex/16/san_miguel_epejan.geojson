@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Miguel Epejan",
+    "country": "MX",
+    "subdivision": "16",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -101.81584,
+      20.06632
+    ]
+  }
+}

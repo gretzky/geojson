@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Miyoshi",
+    "country": "JP",
+    "subdivision": "11",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      132.85,
+      34.8
+    ]
+  }
+}

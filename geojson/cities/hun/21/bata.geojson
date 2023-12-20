@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Báta",
+    "country": "HU",
+    "subdivision": "21",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.77027,
+      46.12864
+    ]
+  }
+}

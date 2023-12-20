@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gumtow",
+    "country": "DE",
+    "subdivision": "11",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.25,
+      52.98333
+    ]
+  }
+}

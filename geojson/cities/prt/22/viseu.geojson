@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Viseu",
+    "country": "PT",
+    "subdivision": "22",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.90971,
+      40.66101
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Montmagny",
+    "country": "FR",
+    "subdivision": "11",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.34688,
+      48.97338
+    ]
+  }
+}

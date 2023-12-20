@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boi",
+    "country": "NG",
+    "subdivision": "46",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.50154,
+      9.56109
+    ]
+  }
+}

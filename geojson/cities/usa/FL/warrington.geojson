@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Warrington",
+    "country": "US",
+    "subdivision": "FL",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.27497,
+      30.38409
+    ]
+  }
+}

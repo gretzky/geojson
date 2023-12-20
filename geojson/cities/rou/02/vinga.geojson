@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vinga",
+    "country": "RO",
+    "subdivision": "02",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.2,
+      46.01667
+    ]
+  }
+}

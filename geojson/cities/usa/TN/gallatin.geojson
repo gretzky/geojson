@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gallatin",
+    "country": "US",
+    "subdivision": "TN",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.44666,
+      36.38838
+    ]
+  }
+}

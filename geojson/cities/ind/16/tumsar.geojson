@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tumsar",
+    "country": "IN",
+    "subdivision": "16",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.73333,
+      21.38333
+    ]
+  }
+}

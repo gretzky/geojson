@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rocca di Papa",
+    "country": "IT",
+    "subdivision": "07",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.70188,
+      41.7658
+    ]
+  }
+}

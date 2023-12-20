@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Velázquez",
+    "country": "UY",
+    "subdivision": "14",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.28054,
+      -34.03631
+    ]
+  }
+}

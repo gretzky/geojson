@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pandak",
+    "country": "ID",
+    "subdivision": "10",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      110.29361,
+      -7.91306
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Aquilino",
+    "country": "PH",
+    "subdivision": "41",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.48671,
+      12.59743
+    ]
+  }
+}

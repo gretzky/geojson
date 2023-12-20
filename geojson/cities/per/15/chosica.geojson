@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chosica",
+    "country": "PE",
+    "subdivision": "15",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.70944,
+      -11.94306
+    ]
+  }
+}

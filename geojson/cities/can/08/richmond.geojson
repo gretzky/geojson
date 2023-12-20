@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Richmond",
+    "country": "CA",
+    "subdivision": "08",
+    "timezone": "America/Toronto"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.83266,
+      45.1834
+    ]
+  }
+}

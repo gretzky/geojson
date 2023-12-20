@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cavallino",
+    "country": "IT",
+    "subdivision": "13",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.20221,
+      40.3102
+    ]
+  }
+}

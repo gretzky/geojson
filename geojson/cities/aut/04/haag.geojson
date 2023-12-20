@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Haag",
+    "country": "AT",
+    "subdivision": "04",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.26875,
+      48.27063
+    ]
+  }
+}

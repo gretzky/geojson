@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Evrenseki",
+    "country": "TR",
+    "subdivision": "07",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.35559,
+      36.83868
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Parkside",
+    "country": "AU",
+    "subdivision": "05",
+    "timezone": "Australia/Adelaide"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.61304,
+      -34.94512
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pearl Lagoon",
+    "country": "NI",
+    "subdivision": "18",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.67123,
+      12.34294
+    ]
+  }
+}

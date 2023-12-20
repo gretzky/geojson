@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hässleholm",
+    "country": "SE",
+    "subdivision": "27",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.76638,
+      56.15905
+    ]
+  }
+}

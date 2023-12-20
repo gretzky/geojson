@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "North Adams",
+    "country": "US",
+    "subdivision": "MA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.10871,
+      42.70092
+    ]
+  }
+}

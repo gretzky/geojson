@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lamphun",
+    "country": "TH",
+    "subdivision": "05",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.00745,
+      18.58054
+    ]
+  }
+}

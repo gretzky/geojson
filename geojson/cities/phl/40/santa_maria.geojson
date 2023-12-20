@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Maria",
+    "country": "PH",
+    "subdivision": "40",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.4286,
+      14.4719
+    ]
+  }
+}

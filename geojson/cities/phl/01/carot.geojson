@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carot",
+    "country": "PH",
+    "subdivision": "01",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.98005,
+      16.34468
+    ]
+  }
+}

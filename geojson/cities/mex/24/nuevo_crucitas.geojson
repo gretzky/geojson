@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nuevo Crucitas",
+    "country": "MX",
+    "subdivision": "24",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.20444,
+      22.10833
+    ]
+  }
+}

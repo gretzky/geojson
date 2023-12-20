@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Merzig",
+    "country": "DE",
+    "subdivision": "09",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.63874,
+      49.44331
+    ]
+  }
+}

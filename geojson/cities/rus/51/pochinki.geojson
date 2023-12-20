@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pochinki",
+    "country": "RU",
+    "subdivision": "51",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.86678,
+      54.69875
+    ]
+  }
+}

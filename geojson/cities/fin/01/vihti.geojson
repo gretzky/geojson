@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vihti",
+    "country": "FI",
+    "subdivision": "01",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.31965,
+      60.41699
+    ]
+  }
+}

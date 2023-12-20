@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sabzevar",
+    "country": "IR",
+    "subdivision": "42",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.68191,
+      36.2126
+    ]
+  }
+}

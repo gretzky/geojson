@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Winooski",
+    "country": "US",
+    "subdivision": "VT",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.18568,
+      44.49144
+    ]
+  }
+}

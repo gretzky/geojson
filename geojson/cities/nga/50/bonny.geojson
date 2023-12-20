@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bonny",
+    "country": "NG",
+    "subdivision": "50",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.17074,
+      4.4516
+    ]
+  }
+}

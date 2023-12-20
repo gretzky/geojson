@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Collombey",
+    "country": "CH",
+    "subdivision": "VS",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.94789,
+      46.27385
+    ]
+  }
+}

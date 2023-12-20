@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Republic",
+    "country": "US",
+    "subdivision": "WA",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.73781,
+      48.64822
+    ]
+  }
+}

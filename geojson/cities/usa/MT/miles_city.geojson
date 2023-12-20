@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Miles City",
+    "country": "US",
+    "subdivision": "MT",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.84056,
+      46.40834
+    ]
+  }
+}

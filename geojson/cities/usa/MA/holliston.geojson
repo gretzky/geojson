@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Holliston",
+    "country": "US",
+    "subdivision": "MA",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.4245,
+      42.2001
+    ]
+  }
+}

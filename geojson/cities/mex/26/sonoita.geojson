@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sonoita",
+    "country": "MX",
+    "subdivision": "26",
+    "timezone": "America/Hermosillo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.85129,
+      31.86165
+    ]
+  }
+}

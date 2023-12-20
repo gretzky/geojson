@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mira",
+    "country": "PT",
+    "subdivision": "13",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.71505,
+      39.54315
+    ]
+  }
+}

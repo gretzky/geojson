@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Darling Downs",
+    "country": "AU",
+    "subdivision": "08",
+    "timezone": "Australia/Perth"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.99187,
+      -32.19442
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tavazzano",
+    "country": "IT",
+    "subdivision": "09",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.40473,
+      45.32783
+    ]
+  }
+}

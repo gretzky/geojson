@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mjölby",
+    "country": "SE",
+    "subdivision": "16",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.12365,
+      58.32595
+    ]
+  }
+}

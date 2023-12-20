@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fleury",
+    "country": "FR",
+    "subdivision": "76",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.13745,
+      43.23095
+    ]
+  }
+}

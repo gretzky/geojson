@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aveiro",
+    "country": "PT",
+    "subdivision": "02",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.64554,
+      40.64427
+    ]
+  }
+}

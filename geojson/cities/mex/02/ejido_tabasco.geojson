@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ejido Tabasco",
+    "country": "MX",
+    "subdivision": "02",
+    "timezone": "America/Tijuana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.92659,
+      32.56187
+    ]
+  }
+}

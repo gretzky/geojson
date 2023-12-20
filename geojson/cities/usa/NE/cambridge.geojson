@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cambridge",
+    "country": "US",
+    "subdivision": "NE",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.16569,
+      40.28195
+    ]
+  }
+}

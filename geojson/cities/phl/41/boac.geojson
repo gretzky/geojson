@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boac",
+    "country": "PH",
+    "subdivision": "41",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.84,
+      13.4463
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Camp Verde",
+    "country": "US",
+    "subdivision": "AZ",
+    "timezone": "America/Phoenix"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.85432,
+      34.56364
+    ]
+  }
+}

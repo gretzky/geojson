@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad Cortés",
+    "country": "CR",
+    "subdivision": "07",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.52381,
+      8.95988
+    ]
+  }
+}

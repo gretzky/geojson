@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chichibu",
+    "country": "JP",
+    "subdivision": "34",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.07639,
+      35.99028
+    ]
+  }
+}

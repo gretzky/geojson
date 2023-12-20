@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ulundi",
+    "country": "ZA",
+    "subdivision": "02",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.41617,
+      -28.33523
+    ]
+  }
+}

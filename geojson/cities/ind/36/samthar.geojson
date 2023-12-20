@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Samthar",
+    "country": "IN",
+    "subdivision": "36",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.90683,
+      25.84348
+    ]
+  }
+}

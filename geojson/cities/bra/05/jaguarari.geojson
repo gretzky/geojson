@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jaguarari",
+    "country": "BR",
+    "subdivision": "05",
+    "timezone": "America/Bahia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -40.19583,
+      -10.26389
+    ]
+  }
+}

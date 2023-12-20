@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mussoorie",
+    "country": "IN",
+    "subdivision": "39",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.07068,
+      30.45498
+    ]
+  }
+}

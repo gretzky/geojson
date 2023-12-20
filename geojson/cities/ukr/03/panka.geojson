@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Panka",
+    "country": "UA",
+    "subdivision": "03",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.64795,
+      48.17435
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nuevo Vigía",
+    "country": "PA",
+    "subdivision": "04",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.60873,
+      9.2442
+    ]
+  }
+}

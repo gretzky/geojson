@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dumpay",
+    "country": "PH",
+    "subdivision": "01",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.38899,
+      15.88295
+    ]
+  }
+}

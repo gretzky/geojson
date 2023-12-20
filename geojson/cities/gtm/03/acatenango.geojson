@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Acatenango",
+    "country": "GT",
+    "subdivision": "03",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.94368,
+      14.55451
+    ]
+  }
+}

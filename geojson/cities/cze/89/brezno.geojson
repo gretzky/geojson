@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Březno",
+    "country": "CZ",
+    "subdivision": "89",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.42118,
+      50.40185
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Seoul",
+    "country": "KR",
+    "subdivision": "11",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.9784,
+      37.566
+    ]
+  }
+}

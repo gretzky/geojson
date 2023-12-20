@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Călăraşi",
+    "country": "RO",
+    "subdivision": "17",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.05,
+      43.8
+    ]
+  }
+}

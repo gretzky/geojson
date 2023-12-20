@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zlynka",
+    "country": "RU",
+    "subdivision": "10",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.7378,
+      52.4267
+    ]
+  }
+}

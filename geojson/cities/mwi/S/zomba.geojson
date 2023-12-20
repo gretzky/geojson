@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zomba",
+    "country": "MW",
+    "subdivision": "S",
+    "timezone": "Africa/Blantyre"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3188,
+      -15.38596
+    ]
+  }
+}

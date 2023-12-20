@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Olanchito",
+    "country": "HN",
+    "subdivision": "18",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.57415,
+      15.48131
+    ]
+  }
+}

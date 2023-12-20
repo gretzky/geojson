@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stoholm",
+    "country": "DK",
+    "subdivision": "18",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.14617,
+      56.48454
+    ]
+  }
+}

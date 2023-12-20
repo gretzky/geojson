@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kumru",
+    "country": "TR",
+    "subdivision": "52",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.26389,
+      40.87444
+    ]
+  }
+}

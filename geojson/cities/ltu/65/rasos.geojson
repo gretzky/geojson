@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rasos",
+    "country": "LT",
+    "subdivision": "65",
+    "timezone": "Europe/Vilnius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.31173,
+      54.67877
+    ]
+  }
+}

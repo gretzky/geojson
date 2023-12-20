@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Michendorf",
+    "country": "DE",
+    "subdivision": "11",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.02996,
+      52.31352
+    ]
+  }
+}

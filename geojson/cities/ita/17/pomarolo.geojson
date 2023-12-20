@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pomarolo",
+    "country": "IT",
+    "subdivision": "17",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.04308,
+      45.9281
+    ]
+  }
+}

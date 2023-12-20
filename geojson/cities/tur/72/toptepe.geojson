@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Toptepe",
+    "country": "TR",
+    "subdivision": "72",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.24948,
+      37.26113
+    ]
+  }
+}

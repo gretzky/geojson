@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Panara",
+    "country": "IN",
+    "subdivision": "35",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.55093,
+      22.20568
+    ]
+  }
+}

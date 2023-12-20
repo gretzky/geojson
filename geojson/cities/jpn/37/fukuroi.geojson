@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fukuroi",
+    "country": "JP",
+    "subdivision": "37",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.91667,
+      34.75
+    ]
+  }
+}

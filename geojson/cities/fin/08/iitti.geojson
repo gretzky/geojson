@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Iitti",
+    "country": "FI",
+    "subdivision": "08",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.33869,
+      60.89488
+    ]
+  }
+}

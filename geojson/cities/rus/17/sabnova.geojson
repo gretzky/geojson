@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sabnova",
+    "country": "RU",
+    "subdivision": "17",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.25326,
+      42.06316
+    ]
+  }
+}

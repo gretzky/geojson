@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saltykovka",
+    "country": "RU",
+    "subdivision": "47",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.93533,
+      55.76679
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Managua",
+    "country": "NI",
+    "subdivision": "10",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.2504,
+      12.13282
+    ]
+  }
+}

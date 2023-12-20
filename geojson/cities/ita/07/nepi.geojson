@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nepi",
+    "country": "IT",
+    "subdivision": "07",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.34355,
+      42.24221
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Komatsu",
+    "country": "JP",
+    "subdivision": "15",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.45088,
+      36.40263
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Curaçá",
+    "country": "BR",
+    "subdivision": "05",
+    "timezone": "America/Bahia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -39.90944,
+      -8.99028
+    ]
+  }
+}

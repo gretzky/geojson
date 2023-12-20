@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Grafhorst",
+    "country": "NL",
+    "subdivision": "15",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.93333,
+      52.5825
+    ]
+  }
+}

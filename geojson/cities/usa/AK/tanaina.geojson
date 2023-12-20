@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tanaina",
+    "country": "US",
+    "subdivision": "AK",
+    "timezone": "America/Anchorage"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.42806,
+      61.62694
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zadonsk",
+    "country": "RU",
+    "subdivision": "43",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.9261,
+      52.3904
+    ]
+  }
+}

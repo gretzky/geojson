@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yablochnyy",
+    "country": "RU",
+    "subdivision": "64",
+    "timezone": "Asia/Sakhalin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      142.05678,
+      47.152
+    ]
+  }
+}

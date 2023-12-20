@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Terra Alta",
+    "country": "US",
+    "subdivision": "WV",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.54644,
+      39.44565
+    ]
+  }
+}

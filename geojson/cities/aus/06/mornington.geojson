@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mornington",
+    "country": "AU",
+    "subdivision": "06",
+    "timezone": "Australia/Hobart"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.39819,
+      -42.86267
+    ]
+  }
+}

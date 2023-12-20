@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Montelera",
+    "country": "IT",
+    "subdivision": "12",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4429,
+      45.15429
+    ]
+  }
+}

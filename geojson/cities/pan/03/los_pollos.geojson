@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Pollos",
+    "country": "PA",
+    "subdivision": "03",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.15715,
+      8.40698
+    ]
+  }
+}

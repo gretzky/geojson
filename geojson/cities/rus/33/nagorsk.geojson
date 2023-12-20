@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nagorsk",
+    "country": "RU",
+    "subdivision": "33",
+    "timezone": "Europe/Kirov"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      50.80778,
+      59.31722
+    ]
+  }
+}

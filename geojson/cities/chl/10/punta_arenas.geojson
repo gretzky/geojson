@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Punta Arenas",
+    "country": "CL",
+    "subdivision": "10",
+    "timezone": "America/Punta_Arenas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.91129,
+      -53.15483
+    ]
+  }
+}

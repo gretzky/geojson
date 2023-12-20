@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Blankenburg",
+    "country": "DE",
+    "subdivision": "16",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.45516,
+      52.59293
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Burtonsville",
+    "country": "US",
+    "subdivision": "MD",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.93248,
+      39.11122
+    ]
+  }
+}

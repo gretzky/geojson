@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cornea",
+    "country": "RO",
+    "subdivision": "12",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.31667,
+      45.03333
+    ]
+  }
+}

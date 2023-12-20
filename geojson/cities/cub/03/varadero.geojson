@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Varadero",
+    "country": "CU",
+    "subdivision": "03",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.24441,
+      23.15678
+    ]
+  }
+}

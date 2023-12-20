@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zwingenberg",
+    "country": "DE",
+    "subdivision": "05",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.61084,
+      49.72389
+    ]
+  }
+}

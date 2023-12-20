@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "College",
+    "country": "US",
+    "subdivision": "AK",
+    "timezone": "America/Anchorage"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -147.80278,
+      64.85694
+    ]
+  }
+}

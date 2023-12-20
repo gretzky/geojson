@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Naryn",
+    "country": "KG",
+    "subdivision": "04",
+    "timezone": "Asia/Bishkek"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.99111,
+      41.42866
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Point of Rocks",
+    "country": "US",
+    "subdivision": "MD",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.53915,
+      39.27594
+    ]
+  }
+}

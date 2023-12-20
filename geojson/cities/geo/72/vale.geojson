@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vale",
+    "country": "GE",
+    "subdivision": "72",
+    "timezone": "Asia/Tbilisi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.88112,
+      41.61608
+    ]
+  }
+}

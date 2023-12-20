@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oranienburg",
+    "country": "DE",
+    "subdivision": "11",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.24197,
+      52.75577
+    ]
+  }
+}

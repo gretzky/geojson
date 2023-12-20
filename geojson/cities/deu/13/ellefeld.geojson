@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ellefeld",
+    "country": "DE",
+    "subdivision": "13",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.3888,
+      50.48367
+    ]
+  }
+}

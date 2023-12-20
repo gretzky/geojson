@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rouge",
+    "country": "CA",
+    "subdivision": "08",
+    "timezone": "America/Toronto"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.16571,
+      43.80406
+    ]
+  }
+}

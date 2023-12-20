@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Malinta",
+    "country": "PH",
+    "subdivision": "05",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.55811,
+      12.30144
+    ]
+  }
+}

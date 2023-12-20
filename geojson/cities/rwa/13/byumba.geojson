@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Byumba",
+    "country": "RW",
+    "subdivision": "13",
+    "timezone": "Africa/Kigali"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.0675,
+      -1.5763
+    ]
+  }
+}

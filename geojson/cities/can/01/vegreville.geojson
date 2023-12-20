@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vegreville",
+    "country": "CA",
+    "subdivision": "01",
+    "timezone": "America/Edmonton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.05182,
+      53.50015
+    ]
+  }
+}

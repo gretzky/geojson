@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Posadas",
+    "country": "AR",
+    "subdivision": "14",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.89608,
+      -27.36708
+    ]
+  }
+}

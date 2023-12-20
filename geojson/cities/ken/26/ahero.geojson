@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ahero",
+    "country": "KE",
+    "subdivision": "26",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.9189,
+      -0.17359
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Borrentin",
+    "country": "DE",
+    "subdivision": "12",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.96718,
+      53.80968
+    ]
+  }
+}

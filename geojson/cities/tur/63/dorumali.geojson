@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dorumali",
+    "country": "TR",
+    "subdivision": "63",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.85306,
+      36.805
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Angad",
+    "country": "PH",
+    "subdivision": "15",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.6257,
+      17.5849
+    ]
+  }
+}

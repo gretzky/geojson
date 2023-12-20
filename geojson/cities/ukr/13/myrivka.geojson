@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Myrivka",
+    "country": "UA",
+    "subdivision": "13",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.62215,
+      49.92974
+    ]
+  }
+}

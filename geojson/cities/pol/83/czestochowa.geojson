@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Częstochowa",
+    "country": "PL",
+    "subdivision": "83",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.12409,
+      50.79646
+    ]
+  }
+}

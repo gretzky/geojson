@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Izvoarele",
+    "country": "RO",
+    "subdivision": "16",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.26667,
+      45.03333
+    ]
+  }
+}

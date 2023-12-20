@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nakhon Luang",
+    "country": "TH",
+    "subdivision": "36",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.60832,
+      14.46281
+    ]
+  }
+}

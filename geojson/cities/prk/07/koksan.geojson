@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Koksan",
+    "country": "KP",
+    "subdivision": "07",
+    "timezone": "Asia/Pyongyang"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.66639,
+      38.78194
+    ]
+  }
+}

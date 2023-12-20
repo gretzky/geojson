@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Orland",
+    "country": "US",
+    "subdivision": "ME",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.73586,
+      44.57035
+    ]
+  }
+}

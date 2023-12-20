@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aqaba",
+    "country": "JO",
+    "subdivision": "21",
+    "timezone": "Asia/Amman"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.00778,
+      29.52667
+    ]
+  }
+}

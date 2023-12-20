@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tung Chung",
+    "country": "HK",
+    "subdivision": "NIS",
+    "timezone": "Asia/Hong_Kong"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.94243,
+      22.28783
+    ]
+  }
+}

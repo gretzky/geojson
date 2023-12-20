@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kızılağaç",
+    "country": "TR",
+    "subdivision": "07",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.53517,
+      36.73055
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "José María Morelos",
+    "country": "MX",
+    "subdivision": "32",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.01444,
+      23.32278
+    ]
+  }
+}

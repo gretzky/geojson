@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Quellendorf",
+    "country": "DE",
+    "subdivision": "14",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.12796,
+      51.74916
+    ]
+  }
+}

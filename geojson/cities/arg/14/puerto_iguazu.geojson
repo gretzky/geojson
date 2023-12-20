@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Iguazú",
+    "country": "AR",
+    "subdivision": "14",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.57355,
+      -25.59912
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lichtenberg",
+    "country": "NL",
+    "subdivision": "05",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.02523,
+      50.9022
+    ]
+  }
+}

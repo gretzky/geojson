@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rivne",
+    "country": "UA",
+    "subdivision": "10",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.75845,
+      48.24098
+    ]
+  }
+}

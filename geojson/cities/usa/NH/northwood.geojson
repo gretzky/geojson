@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Northwood",
+    "country": "US",
+    "subdivision": "NH",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.1509,
+      43.19425
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mandaue City",
+    "country": "PH",
+    "subdivision": "07",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.92222,
+      10.32361
+    ]
+  }
+}

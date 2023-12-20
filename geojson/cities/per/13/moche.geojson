@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moche",
+    "country": "PE",
+    "subdivision": "13",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.00917,
+      -8.17111
+    ]
+  }
+}

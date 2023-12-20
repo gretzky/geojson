@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kharan",
+    "country": "PK",
+    "subdivision": "02",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      65.41501,
+      28.58459
+    ]
+  }
+}

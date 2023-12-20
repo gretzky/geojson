@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sukhothai",
+    "country": "TH",
+    "subdivision": "09",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.823,
+      17.00778
+    ]
+  }
+}

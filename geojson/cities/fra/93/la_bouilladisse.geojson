@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Bouilladisse",
+    "country": "FR",
+    "subdivision": "93",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.59307,
+      43.39619
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bua",
+    "country": "SE",
+    "subdivision": "06",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.12187,
+      57.2378
+    ]
+  }
+}

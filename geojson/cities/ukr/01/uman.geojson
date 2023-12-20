@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Uman",
+    "country": "UA",
+    "subdivision": "01",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.21944,
+      48.7501
+    ]
+  }
+}

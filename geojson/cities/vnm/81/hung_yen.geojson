@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hưng Yên",
+    "country": "VN",
+    "subdivision": "81",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.05112,
+      20.64637
+    ]
+  }
+}

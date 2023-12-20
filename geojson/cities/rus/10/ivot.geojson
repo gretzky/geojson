@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ivot",
+    "country": "RU",
+    "subdivision": "10",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.1893,
+      53.67452
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cabo San Lucas",
+    "country": "MX",
+    "subdivision": "03",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.91238,
+      22.89088
+    ]
+  }
+}

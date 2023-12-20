@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coromandel",
+    "country": "NZ",
+    "subdivision": "G1",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      175.49634,
+      -36.7611
+    ]
+  }
+}

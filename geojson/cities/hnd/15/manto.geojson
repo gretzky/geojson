@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Manto",
+    "country": "HN",
+    "subdivision": "15",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.38333,
+      14.91667
+    ]
+  }
+}

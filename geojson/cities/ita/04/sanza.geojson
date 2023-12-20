@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sanza",
+    "country": "IT",
+    "subdivision": "04",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.55416,
+      40.24389
+    ]
+  }
+}

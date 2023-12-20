@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Roscoff",
+    "country": "FR",
+    "subdivision": "53",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.98709,
+      48.72381
+    ]
+  }
+}

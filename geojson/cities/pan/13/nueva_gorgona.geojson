@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nueva Gorgona",
+    "country": "PA",
+    "subdivision": "13",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.87427,
+      8.55479
+    ]
+  }
+}

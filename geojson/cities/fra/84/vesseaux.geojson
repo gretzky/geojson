@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vesseaux",
+    "country": "FR",
+    "subdivision": "84",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.44025,
+      44.65152
+    ]
+  }
+}

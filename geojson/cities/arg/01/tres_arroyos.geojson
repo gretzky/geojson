@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tres Arroyos",
+    "country": "AR",
+    "subdivision": "01",
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.27978,
+      -38.37394
+    ]
+  }
+}

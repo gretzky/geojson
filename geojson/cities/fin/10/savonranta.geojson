@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Savonranta",
+    "country": "FI",
+    "subdivision": "10",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.2,
+      62.18333
+    ]
+  }
+}

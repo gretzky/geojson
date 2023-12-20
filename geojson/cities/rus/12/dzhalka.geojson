@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dzhalka",
+    "country": "RU",
+    "subdivision": "12",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.98787,
+      43.3186
+    ]
+  }
+}

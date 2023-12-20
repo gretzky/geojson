@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Koktal",
+    "country": "KZ",
+    "subdivision": "12",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.51667,
+      49.65
+    ]
+  }
+}

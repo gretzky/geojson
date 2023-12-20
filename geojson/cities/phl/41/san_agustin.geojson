@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Agustin",
+    "country": "PH",
+    "subdivision": "41",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.30482,
+      13.27729
+    ]
+  }
+}

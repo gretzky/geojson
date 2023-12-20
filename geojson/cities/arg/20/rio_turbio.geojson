@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Río Turbio",
+    "country": "AR",
+    "subdivision": "20",
+    "timezone": "America/Argentina/Rio_Gallegos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.33673,
+      -51.53587
+    ]
+  }
+}

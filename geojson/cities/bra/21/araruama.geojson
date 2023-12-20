@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Araruama",
+    "country": "BR",
+    "subdivision": "21",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -42.34306,
+      -22.87278
+    ]
+  }
+}

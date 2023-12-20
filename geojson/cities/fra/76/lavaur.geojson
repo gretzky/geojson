@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lavaur",
+    "country": "FR",
+    "subdivision": "76",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.81211,
+      43.69886
+    ]
+  }
+}

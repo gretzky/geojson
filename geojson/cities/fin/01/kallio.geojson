@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kallio",
+    "country": "FI",
+    "subdivision": "01",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.95034,
+      60.18427
+    ]
+  }
+}

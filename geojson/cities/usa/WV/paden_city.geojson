@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Paden City",
+    "country": "US",
+    "subdivision": "WV",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.93677,
+      39.60285
+    ]
+  }
+}

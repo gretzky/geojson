@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Anchor Point",
+    "country": "US",
+    "subdivision": "AK",
+    "timezone": "America/Anchorage"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.83139,
+      59.77667
+    ]
+  }
+}

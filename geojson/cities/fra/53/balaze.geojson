@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Balazé",
+    "country": "FR",
+    "subdivision": "53",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.1924,
+      48.16923
+    ]
+  }
+}

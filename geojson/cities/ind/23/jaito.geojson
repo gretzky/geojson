@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jaito",
+    "country": "IN",
+    "subdivision": "23",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.89189,
+      30.45126
+    ]
+  }
+}

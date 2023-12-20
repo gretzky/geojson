@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gweru",
+    "country": "ZW",
+    "subdivision": "02",
+    "timezone": "Africa/Harare"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.81667,
+      -19.45
+    ]
+  }
+}

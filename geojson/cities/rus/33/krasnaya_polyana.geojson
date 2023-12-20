@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krasnaya Polyana",
+    "country": "RU",
+    "subdivision": "33",
+    "timezone": "Europe/Kirov"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.14425,
+      56.24204
+    ]
+  }
+}

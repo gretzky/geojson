@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zastron",
+    "country": "ZA",
+    "subdivision": "03",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.08395,
+      -30.30225
+    ]
+  }
+}

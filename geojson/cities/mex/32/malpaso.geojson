@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Malpaso",
+    "country": "MX",
+    "subdivision": "32",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.76194,
+      22.62627
+    ]
+  }
+}

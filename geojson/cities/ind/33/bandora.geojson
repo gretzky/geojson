@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bandora",
+    "country": "IN",
+    "subdivision": "33",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.98129,
+      15.40823
+    ]
+  }
+}

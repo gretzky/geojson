@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karjalohja",
+    "country": "FI",
+    "subdivision": "01",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.71789,
+      60.24015
+    ]
+  }
+}

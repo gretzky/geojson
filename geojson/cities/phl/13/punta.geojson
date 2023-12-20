@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Punta",
+    "country": "PH",
+    "subdivision": "13",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.34,
+      8.98972
+    ]
+  }
+}

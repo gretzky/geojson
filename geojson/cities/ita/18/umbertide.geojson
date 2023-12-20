@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Umbertide",
+    "country": "IT",
+    "subdivision": "18",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.33749,
+      43.30341
+    ]
+  }
+}

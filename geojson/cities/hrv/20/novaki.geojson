@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novaki",
+    "country": "HR",
+    "subdivision": "20",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.80126,
+      45.7959
+    ]
+  }
+}

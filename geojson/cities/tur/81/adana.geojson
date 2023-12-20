@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Adana",
+    "country": "TR",
+    "subdivision": "81",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.32531,
+      36.98615
+    ]
+  }
+}

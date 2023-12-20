@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hammamet",
+    "country": "DZ",
+    "subdivision": "33",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.95184,
+      35.44862
+    ]
+  }
+}

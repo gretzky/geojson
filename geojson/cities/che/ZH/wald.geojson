@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wald",
+    "country": "CH",
+    "subdivision": "ZH",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.91405,
+      47.27595
+    ]
+  }
+}

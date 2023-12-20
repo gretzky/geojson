@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hornslet",
+    "country": "DK",
+    "subdivision": "18",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.32041,
+      56.3155
+    ]
+  }
+}

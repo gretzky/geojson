@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zetea",
+    "country": "RO",
+    "subdivision": "20",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.36667,
+      46.38333
+    ]
+  }
+}

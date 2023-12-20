@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Houlme",
+    "country": "FR",
+    "subdivision": "28",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.03537,
+      49.50972
+    ]
+  }
+}

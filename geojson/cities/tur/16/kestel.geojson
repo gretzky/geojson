@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kestel",
+    "country": "TR",
+    "subdivision": "16",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.21237,
+      40.19828
+    ]
+  }
+}

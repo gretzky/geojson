@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Strunga",
+    "country": "RO",
+    "subdivision": "23",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.98333,
+      47.16667
+    ]
+  }
+}

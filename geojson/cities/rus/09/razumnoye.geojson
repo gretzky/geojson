@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Razumnoye",
+    "country": "RU",
+    "subdivision": "09",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.68462,
+      50.53439
+    ]
+  }
+}

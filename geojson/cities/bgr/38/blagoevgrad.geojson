@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Blagoevgrad",
+    "country": "BG",
+    "subdivision": "38",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.1,
+      42.01667
+    ]
+  }
+}

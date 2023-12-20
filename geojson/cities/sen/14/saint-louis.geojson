@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saint-Louis",
+    "country": "SN",
+    "subdivision": "14",
+    "timezone": "Africa/Dakar"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.48962,
+      16.01793
+    ]
+  }
+}

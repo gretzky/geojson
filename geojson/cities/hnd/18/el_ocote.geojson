@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Ocote",
+    "country": "HN",
+    "subdivision": "18",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.56667,
+      15.41667
+    ]
+  }
+}

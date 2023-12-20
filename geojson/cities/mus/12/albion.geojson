@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Albion",
+    "country": "MU",
+    "subdivision": "12",
+    "timezone": "Indian/Mauritius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.40766,
+      -20.20814
+    ]
+  }
+}

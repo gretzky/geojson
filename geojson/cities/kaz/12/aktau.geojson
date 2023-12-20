@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aktau",
+    "country": "KZ",
+    "subdivision": "12",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.06662,
+      50.23466
+    ]
+  }
+}

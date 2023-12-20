@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Christies Beach",
+    "country": "AU",
+    "subdivision": "05",
+    "timezone": "Australia/Adelaide"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.47232,
+      -35.13876
+    ]
+  }
+}

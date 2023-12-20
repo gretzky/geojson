@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Estación Pescaderos",
+    "country": "MX",
+    "subdivision": "02",
+    "timezone": "America/Tijuana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.13823,
+      32.31196
+    ]
+  }
+}

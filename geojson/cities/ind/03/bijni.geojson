@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bijni",
+    "country": "IN",
+    "subdivision": "03",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      90.70298,
+      26.49588
+    ]
+  }
+}

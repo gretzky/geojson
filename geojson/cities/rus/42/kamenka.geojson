@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kamenka",
+    "country": "RU",
+    "subdivision": "42",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.0829,
+      60.44639
+    ]
+  }
+}

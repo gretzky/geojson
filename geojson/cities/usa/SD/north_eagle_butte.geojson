@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "North Eagle Butte",
+    "country": "US",
+    "subdivision": "SD",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -101.23376,
+      45.00415
+    ]
+  }
+}

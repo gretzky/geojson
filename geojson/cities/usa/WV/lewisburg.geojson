@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lewisburg",
+    "country": "US",
+    "subdivision": "WV",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.44563,
+      37.80179
+    ]
+  }
+}

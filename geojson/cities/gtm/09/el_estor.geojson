@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Estor",
+    "country": "GT",
+    "subdivision": "09",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.33111,
+      15.53221
+    ]
+  }
+}

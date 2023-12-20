@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Méaudre",
+    "country": "FR",
+    "subdivision": "84",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.52853,
+      45.1302
+    ]
+  }
+}

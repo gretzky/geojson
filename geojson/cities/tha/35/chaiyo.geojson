@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chaiyo",
+    "country": "TH",
+    "subdivision": "35",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.46861,
+      14.67639
+    ]
+  }
+}

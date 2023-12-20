@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Salvador Cuauhtenco",
+    "country": "MX",
+    "subdivision": "09",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.08983,
+      19.19276
+    ]
+  }
+}

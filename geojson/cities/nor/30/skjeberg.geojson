@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Skjeberg",
+    "country": "NO",
+    "subdivision": "30",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.19025,
+      59.21148
+    ]
+  }
+}

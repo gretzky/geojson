@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Madrid",
+    "country": "ES",
+    "subdivision": "29",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.70256,
+      40.4165
+    ]
+  }
+}

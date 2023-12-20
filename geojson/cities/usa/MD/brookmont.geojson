@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brookmont",
+    "country": "US",
+    "subdivision": "MD",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.12026,
+      38.94206
+    ]
+  }
+}

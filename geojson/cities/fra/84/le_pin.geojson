@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Pin",
+    "country": "FR",
+    "subdivision": "84",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.50497,
+      45.45582
+    ]
+  }
+}

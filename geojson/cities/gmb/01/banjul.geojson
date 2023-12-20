@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Banjul",
+    "country": "GM",
+    "subdivision": "01",
+    "timezone": "Africa/Banjul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.57803,
+      13.45274
+    ]
+  }
+}

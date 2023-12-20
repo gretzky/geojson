@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porano",
+    "country": "IT",
+    "subdivision": "18",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.10331,
+      42.68099
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "São João",
+    "country": "PT",
+    "subdivision": "02",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.60672,
+      40.86802
+    ]
+  }
+}

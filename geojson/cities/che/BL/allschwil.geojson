@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Allschwil",
+    "country": "CH",
+    "subdivision": "BL",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.53599,
+      47.55074
+    ]
+  }
+}

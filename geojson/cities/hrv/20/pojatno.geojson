@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pojatno",
+    "country": "HR",
+    "subdivision": "20",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.80056,
+      45.905
+    ]
+  }
+}

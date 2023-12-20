@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nolby",
+    "country": "SE",
+    "subdivision": "24",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.36917,
+      62.2875
+    ]
+  }
+}

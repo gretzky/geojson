@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Doksy",
+    "country": "CZ",
+    "subdivision": "88",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.04782,
+      50.119
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Donk",
+    "country": "NL",
+    "subdivision": "06",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.62914,
+      51.53843
+    ]
+  }
+}

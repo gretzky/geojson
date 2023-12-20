@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sinan",
+    "country": "KR",
+    "subdivision": "16",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.10863,
+      34.8262
+    ]
+  }
+}

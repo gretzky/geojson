@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bautzen",
+    "country": "DE",
+    "subdivision": "13",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.43494,
+      51.18035
+    ]
+  }
+}

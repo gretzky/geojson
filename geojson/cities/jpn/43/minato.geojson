@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Minato",
+    "country": "JP",
+    "subdivision": "43",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.1501,
+      34.2152
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Caruaru",
+    "country": "BR",
+    "subdivision": "30",
+    "timezone": "America/Recife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -35.97611,
+      -8.28333
+    ]
+  }
+}

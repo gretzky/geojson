@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Vieux-Marché",
+    "country": "FR",
+    "subdivision": "53",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.45,
+      48.6
+    ]
+  }
+}

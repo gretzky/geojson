@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sânnicolau Român",
+    "country": "RO",
+    "subdivision": "05",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.71466,
+      46.96101
+    ]
+  }
+}

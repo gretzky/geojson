@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Uci",
+    "country": "MX",
+    "subdivision": "31",
+    "timezone": "America/Merida"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.26827,
+      21.12682
+    ]
+  }
+}

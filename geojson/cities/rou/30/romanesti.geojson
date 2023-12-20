@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Românești",
+    "country": "RO",
+    "subdivision": "30",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.06667,
+      44.86667
+    ]
+  }
+}

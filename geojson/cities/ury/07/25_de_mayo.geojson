@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "25 de Mayo",
+    "country": "UY",
+    "subdivision": "07",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.33944,
+      -34.18917
+    ]
+  }
+}

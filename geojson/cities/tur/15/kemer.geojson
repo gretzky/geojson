@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kemer",
+    "country": "TR",
+    "subdivision": "15",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.06306,
+      37.35222
+    ]
+  }
+}

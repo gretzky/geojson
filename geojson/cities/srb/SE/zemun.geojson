@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zemun",
+    "country": "RS",
+    "subdivision": "SE",
+    "timezone": "Europe/Belgrade"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.40116,
+      44.8458
+    ]
+  }
+}

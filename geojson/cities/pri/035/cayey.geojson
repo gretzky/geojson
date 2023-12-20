@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cayey",
+    "country": "PR",
+    "subdivision": "035",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.166,
+      18.11191
+    ]
+  }
+}

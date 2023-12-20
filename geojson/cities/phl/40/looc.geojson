@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Looc",
+    "country": "PH",
+    "subdivision": "40",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.6293,
+      14.1648
+    ]
+  }
+}

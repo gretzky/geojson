@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carmo",
+    "country": "BR",
+    "subdivision": "21",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -42.60861,
+      -21.93361
+    ]
+  }
+}

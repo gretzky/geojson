@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lebanon Junction",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.7319,
+      37.83451
+    ]
+  }
+}

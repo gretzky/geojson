@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kuortane",
+    "country": "FI",
+    "subdivision": "14",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5,
+      62.8
+    ]
+  }
+}

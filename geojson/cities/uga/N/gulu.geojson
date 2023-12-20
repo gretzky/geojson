@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gulu",
+    "country": "UG",
+    "subdivision": "N",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.29899,
+      2.77457
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pernik",
+    "country": "BG",
+    "subdivision": "49",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.03333,
+      42.6
+    ]
+  }
+}

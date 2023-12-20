@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Canoa",
+    "country": "DO",
+    "subdivision": "03",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.15851,
+      18.35499
+    ]
+  }
+}

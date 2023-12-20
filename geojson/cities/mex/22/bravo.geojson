@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bravo",
+    "country": "MX",
+    "subdivision": "22",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.42423,
+      20.39977
+    ]
+  }
+}

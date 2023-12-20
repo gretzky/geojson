@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chivolo",
+    "country": "CO",
+    "subdivision": "38",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.62279,
+      10.02502
+    ]
+  }
+}

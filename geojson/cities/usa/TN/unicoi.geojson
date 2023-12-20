@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Unicoi",
+    "country": "US",
+    "subdivision": "TN",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.34958,
+      36.19539
+    ]
+  }
+}

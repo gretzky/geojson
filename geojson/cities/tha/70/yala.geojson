@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yala",
+    "country": "TH",
+    "subdivision": "70",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.28128,
+      6.53995
+    ]
+  }
+}

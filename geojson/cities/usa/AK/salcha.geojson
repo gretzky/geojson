@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Salcha",
+    "country": "US",
+    "subdivision": "AK",
+    "timezone": "America/Anchorage"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -146.9021,
+      64.52399
+    ]
+  }
+}

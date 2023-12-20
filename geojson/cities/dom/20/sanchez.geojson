@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sánchez",
+    "country": "DO",
+    "subdivision": "20",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.6137,
+      19.2281
+    ]
+  }
+}

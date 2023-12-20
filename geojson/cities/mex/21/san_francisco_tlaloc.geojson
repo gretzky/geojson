@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Francisco Tláloc",
+    "country": "MX",
+    "subdivision": "21",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.47722,
+      19.36972
+    ]
+  }
+}

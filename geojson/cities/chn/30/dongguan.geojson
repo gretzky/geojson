@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dongguan",
+    "country": "CN",
+    "subdivision": "30",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.74866,
+      23.01797
+    ]
+  }
+}

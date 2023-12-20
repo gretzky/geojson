@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Irkutsk",
+    "country": "RU",
+    "subdivision": "20",
+    "timezone": "Asia/Irkutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.29639,
+      52.29778
+    ]
+  }
+}

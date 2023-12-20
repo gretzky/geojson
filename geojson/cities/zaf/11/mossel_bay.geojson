@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mossel Bay",
+    "country": "ZA",
+    "subdivision": "11",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.14605,
+      -34.18307
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Banga",
+    "country": "IN",
+    "subdivision": "23",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.99495,
+      31.18874
+    ]
+  }
+}

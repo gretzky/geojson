@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Unión",
+    "country": "CL",
+    "subdivision": "17",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.08167,
+      -40.29313
+    ]
+  }
+}

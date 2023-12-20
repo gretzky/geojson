@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rain",
+    "country": "AT",
+    "subdivision": "02",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.38611,
+      46.60528
+    ]
+  }
+}

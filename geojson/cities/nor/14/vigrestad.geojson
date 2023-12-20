@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vigrestad",
+    "country": "NO",
+    "subdivision": "14",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.68182,
+      58.57103
+    ]
+  }
+}

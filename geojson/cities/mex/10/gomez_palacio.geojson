@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gómez Palacio",
+    "country": "MX",
+    "subdivision": "10",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.49588,
+      25.56985
+    ]
+  }
+}

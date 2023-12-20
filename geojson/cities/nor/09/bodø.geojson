@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bodø",
+    "country": "NO",
+    "subdivision": "09",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.40501,
+      67.28
+    ]
+  }
+}

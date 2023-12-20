@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guiyang",
+    "country": "CN",
+    "subdivision": "18",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.71667,
+      26.58333
+    ]
+  }
+}

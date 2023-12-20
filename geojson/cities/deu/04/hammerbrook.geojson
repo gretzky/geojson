@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hammerbrook",
+    "country": "DE",
+    "subdivision": "04",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.03042,
+      53.54527
+    ]
+  }
+}

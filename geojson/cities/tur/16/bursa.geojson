@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bursa",
+    "country": "TR",
+    "subdivision": "16",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.06013,
+      40.19559
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bulls",
+    "country": "NZ",
+    "subdivision": "F3",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      175.38463,
+      -40.17487
+    ]
+  }
+}

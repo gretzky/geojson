@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Young",
+    "country": "UY",
+    "subdivision": "12",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.62693,
+      -32.69844
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Corrientes",
+    "country": "AR",
+    "subdivision": "06",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.8344,
+      -27.46784
+    ]
+  }
+}

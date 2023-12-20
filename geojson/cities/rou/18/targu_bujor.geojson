@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Târgu Bujor",
+    "country": "RO",
+    "subdivision": "18",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.9,
+      45.86667
+    ]
+  }
+}

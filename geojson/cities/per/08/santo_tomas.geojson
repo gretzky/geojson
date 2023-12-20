@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santo Tomas",
+    "country": "PE",
+    "subdivision": "08",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.08417,
+      -14.44556
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Queenstown",
+    "country": "NZ",
+    "subdivision": "F7",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      168.66271,
+      -45.03023
+    ]
+  }
+}

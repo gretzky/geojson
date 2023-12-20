@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pines",
+    "country": "PH",
+    "subdivision": "10",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.8075,
+      8.45222
+    ]
+  }
+}

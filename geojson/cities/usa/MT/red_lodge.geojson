@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Red Lodge",
+    "country": "US",
+    "subdivision": "MT",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.24682,
+      45.18578
+    ]
+  }
+}

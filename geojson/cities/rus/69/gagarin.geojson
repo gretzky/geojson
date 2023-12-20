@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gagarin",
+    "country": "RU",
+    "subdivision": "69",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.99684,
+      55.55329
+    ]
+  }
+}

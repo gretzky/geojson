@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Glod",
+    "country": "RO",
+    "subdivision": "16",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.44994,
+      45.24163
+    ]
+  }
+}

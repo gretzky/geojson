@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tuturano",
+    "country": "IT",
+    "subdivision": "13",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.94754,
+      40.54474
+    ]
+  }
+}

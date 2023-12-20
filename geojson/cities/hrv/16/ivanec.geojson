@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ivanec",
+    "country": "HR",
+    "subdivision": "16",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.12,
+      46.22306
+    ]
+  }
+}

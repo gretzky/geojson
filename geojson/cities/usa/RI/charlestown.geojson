@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Charlestown",
+    "country": "US",
+    "subdivision": "RI",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.64173,
+      41.38316
+    ]
+  }
+}

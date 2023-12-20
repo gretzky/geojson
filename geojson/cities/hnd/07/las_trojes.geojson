@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Trojes",
+    "country": "HN",
+    "subdivision": "07",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.98333,
+      14.06667
+    ]
+  }
+}

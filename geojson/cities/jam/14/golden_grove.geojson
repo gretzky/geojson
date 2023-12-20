@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Golden Grove",
+    "country": "JM",
+    "subdivision": "14",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.27254,
+      17.93361
+    ]
+  }
+}

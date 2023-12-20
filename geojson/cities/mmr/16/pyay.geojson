@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pyay",
+    "country": "MM",
+    "subdivision": "16",
+    "timezone": "Asia/Yangon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.22216,
+      18.82464
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Atocha",
+    "country": "BO",
+    "subdivision": "07",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.22139,
+      -20.93515
+    ]
+  }
+}

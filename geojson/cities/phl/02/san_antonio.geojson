@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Antonio",
+    "country": "PH",
+    "subdivision": "02",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.79121,
+      17.27329
+    ]
+  }
+}

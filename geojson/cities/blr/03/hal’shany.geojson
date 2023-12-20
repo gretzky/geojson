@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hal’shany",
+    "country": "BY",
+    "subdivision": "03",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.0144,
+      54.2585
+    ]
+  }
+}

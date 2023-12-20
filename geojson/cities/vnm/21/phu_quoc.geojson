@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Phú Quốc",
+    "country": "VN",
+    "subdivision": "21",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.01047,
+      10.28715
+    ]
+  }
+}

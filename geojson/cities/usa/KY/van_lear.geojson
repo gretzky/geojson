@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Van Lear",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.75794,
+      37.77121
+    ]
+  }
+}

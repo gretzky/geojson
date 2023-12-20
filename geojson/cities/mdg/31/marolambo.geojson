@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Marolambo",
+    "country": "MG",
+    "subdivision": "31",
+    "timezone": "Indian/Antananarivo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.11667,
+      -20.05
+    ]
+  }
+}

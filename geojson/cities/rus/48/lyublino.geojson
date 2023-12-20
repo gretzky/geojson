@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lyublino",
+    "country": "RU",
+    "subdivision": "48",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.76005,
+      55.67738
+    ]
+  }
+}

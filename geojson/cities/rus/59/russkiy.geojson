@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Russkiy",
+    "country": "RU",
+    "subdivision": "59",
+    "timezone": "Asia/Vladivostok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.8601,
+      43.0224
+    ]
+  }
+}

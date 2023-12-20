@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sagard",
+    "country": "DE",
+    "subdivision": "12",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.55387,
+      54.52556
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Acres Green",
+    "country": "US",
+    "subdivision": "CO",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.89609,
+      39.55666
+    ]
+  }
+}

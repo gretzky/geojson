@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Juan Adrián",
+    "country": "DO",
+    "subdivision": "31",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.33732,
+      18.76365
+    ]
+  }
+}

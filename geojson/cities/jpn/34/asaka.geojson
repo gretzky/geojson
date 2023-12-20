@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Asaka",
+    "country": "JP",
+    "subdivision": "34",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.60194,
+      35.80472
+    ]
+  }
+}

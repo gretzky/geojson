@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Morro do Chapéu",
+    "country": "BR",
+    "subdivision": "05",
+    "timezone": "America/Bahia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -41.15804,
+      -11.54852
+    ]
+  }
+}

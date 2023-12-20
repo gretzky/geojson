@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ivanava",
+    "country": "BY",
+    "subdivision": "01",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.5365,
+      52.1451
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Talavera",
+    "country": "PE",
+    "subdivision": "03",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.42917,
+      -13.65306
+    ]
+  }
+}

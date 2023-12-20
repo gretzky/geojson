@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Frogner",
+    "country": "NO",
+    "subdivision": "30",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.10284,
+      60.02463
+    ]
+  }
+}

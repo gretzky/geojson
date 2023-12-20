@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yandyki",
+    "country": "RU",
+    "subdivision": "07",
+    "timezone": "Europe/Astrakhan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.12577,
+      45.76913
+    ]
+  }
+}

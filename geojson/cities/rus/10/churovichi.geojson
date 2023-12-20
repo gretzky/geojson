@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Churovichi",
+    "country": "RU",
+    "subdivision": "10",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.9926,
+      52.1693
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Takahagi",
+    "country": "JP",
+    "subdivision": "14",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.71667,
+      36.71667
+    ]
+  }
+}

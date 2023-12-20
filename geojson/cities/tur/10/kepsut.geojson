@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kepsut",
+    "country": "TR",
+    "subdivision": "10",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.15222,
+      39.68889
+    ]
+  }
+}

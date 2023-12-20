@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Charlestown",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Kentucky/Louisville"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.67024,
+      38.45312
+    ]
+  }
+}

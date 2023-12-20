@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Presidente Juárez",
+    "country": "MX",
+    "subdivision": "23",
+    "timezone": "America/Cancun"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.56164,
+      19.32836
+    ]
+  }
+}

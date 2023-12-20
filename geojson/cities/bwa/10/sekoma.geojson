@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sekoma",
+    "country": "BW",
+    "subdivision": "10",
+    "timezone": "Africa/Gaborone"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.88333,
+      -24.4
+    ]
+  }
+}

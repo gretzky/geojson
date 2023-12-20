@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yala",
+    "country": "KE",
+    "subdivision": "46",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.53602,
+      0.09438
+    ]
+  }
+}

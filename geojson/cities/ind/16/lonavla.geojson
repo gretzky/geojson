@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lonavla",
+    "country": "IN",
+    "subdivision": "16",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.40575,
+      18.75275
+    ]
+  }
+}

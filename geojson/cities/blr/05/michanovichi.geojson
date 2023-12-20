@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Michanovichi",
+    "country": "BY",
+    "subdivision": "05",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.69276,
+      53.73937
+    ]
+  }
+}

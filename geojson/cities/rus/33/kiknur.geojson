@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kiknur",
+    "country": "RU",
+    "subdivision": "33",
+    "timezone": "Europe/Kirov"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.20105,
+      57.30341
+    ]
+  }
+}

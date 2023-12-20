@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sousse",
+    "country": "TN",
+    "subdivision": "23",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.63699,
+      35.82539
+    ]
+  }
+}

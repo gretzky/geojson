@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bakewar",
+    "country": "IN",
+    "subdivision": "36",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.17625,
+      26.66226
+    ]
+  }
+}

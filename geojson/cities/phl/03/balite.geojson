@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Balite",
+    "country": "PH",
+    "subdivision": "03",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.78721,
+      14.89524
+    ]
+  }
+}

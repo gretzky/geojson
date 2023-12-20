@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Veinge",
+    "country": "SE",
+    "subdivision": "06",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.06667,
+      56.55
+    ]
+  }
+}

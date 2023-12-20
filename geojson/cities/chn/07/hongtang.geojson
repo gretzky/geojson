@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hongtang",
+    "country": "CN",
+    "subdivision": "07",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.23083,
+      26.07056
+    ]
+  }
+}

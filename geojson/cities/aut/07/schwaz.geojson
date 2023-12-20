@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Schwaz",
+    "country": "AT",
+    "subdivision": "07",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.71014,
+      47.35169
+    ]
+  }
+}

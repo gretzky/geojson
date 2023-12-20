@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Caiazzo",
+    "country": "IT",
+    "subdivision": "04",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.35946,
+      41.18435
+    ]
+  }
+}

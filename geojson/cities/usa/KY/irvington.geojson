@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Irvington",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.28386,
+      37.88034
+    ]
+  }
+}

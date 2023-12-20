@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Idaho Falls",
+    "country": "US",
+    "subdivision": "ID",
+    "timezone": "America/Boise"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.03414,
+      43.46658
+    ]
+  }
+}

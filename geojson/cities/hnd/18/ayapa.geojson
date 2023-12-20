@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ayapa",
+    "country": "HN",
+    "subdivision": "18",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.17557,
+      15.11174
+    ]
+  }
+}

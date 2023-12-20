@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monte Azul Paulista",
+    "country": "BR",
+    "subdivision": "27",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -48.64139,
+      -20.90722
+    ]
+  }
+}

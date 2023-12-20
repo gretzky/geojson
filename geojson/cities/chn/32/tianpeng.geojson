@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tianpeng",
+    "country": "CN",
+    "subdivision": "32",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.93933,
+      30.98664
+    ]
+  }
+}

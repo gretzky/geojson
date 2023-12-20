@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Graceville",
+    "country": "US",
+    "subdivision": "FL",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.5166,
+      30.95685
+    ]
+  }
+}

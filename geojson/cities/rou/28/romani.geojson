@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Români",
+    "country": "RO",
+    "subdivision": "28",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.68333,
+      46.78333
+    ]
+  }
+}

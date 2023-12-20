@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mahroni",
+    "country": "IN",
+    "subdivision": "36",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.72771,
+      24.58624
+    ]
+  }
+}

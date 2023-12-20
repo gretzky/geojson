@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ostermiething",
+    "country": "AT",
+    "subdivision": "04",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.82937,
+      48.04636
+    ]
+  }
+}

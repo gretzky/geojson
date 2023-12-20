@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Geaca",
+    "country": "RO",
+    "subdivision": "13",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.1,
+      46.86667
+    ]
+  }
+}

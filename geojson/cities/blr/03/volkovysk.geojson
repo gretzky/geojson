@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Volkovysk",
+    "country": "BY",
+    "subdivision": "03",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.4513,
+      53.1561
+    ]
+  }
+}

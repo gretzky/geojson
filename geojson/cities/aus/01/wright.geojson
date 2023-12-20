@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wright",
+    "country": "AU",
+    "subdivision": "01",
+    "timezone": "Australia/Sydney"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.03456,
+      -35.32239
+    ]
+  }
+}

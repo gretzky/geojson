@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cabanatuan City",
+    "country": "PH",
+    "subdivision": "03",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.96648,
+      15.48586
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Daqing",
+    "country": "CN",
+    "subdivision": "08",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125,
+      46.58333
+    ]
+  }
+}

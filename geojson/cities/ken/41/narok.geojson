@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Narok",
+    "country": "KE",
+    "subdivision": "41",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.87111,
+      -1.08083
+    ]
+  }
+}

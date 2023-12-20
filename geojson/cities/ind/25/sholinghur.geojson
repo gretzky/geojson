@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sholinghur",
+    "country": "IN",
+    "subdivision": "25",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.42025,
+      13.1181
+    ]
+  }
+}

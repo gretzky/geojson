@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yenişehir",
+    "country": "TR",
+    "subdivision": "16",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.65306,
+      40.26444
+    ]
+  }
+}

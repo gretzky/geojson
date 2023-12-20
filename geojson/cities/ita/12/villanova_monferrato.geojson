@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villanova Monferrato",
+    "country": "IT",
+    "subdivision": "12",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.47813,
+      45.18111
+    ]
+  }
+}

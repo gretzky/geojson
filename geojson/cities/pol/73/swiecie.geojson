@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Świecie",
+    "country": "PL",
+    "subdivision": "73",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.44742,
+      53.40953
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Niedźwiedź",
+    "country": "PL",
+    "subdivision": "77",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.07794,
+      49.621
+    ]
+  }
+}

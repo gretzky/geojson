@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pembroke Dock",
+    "country": "GB",
+    "subdivision": "WLS",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.94036,
+      51.69161
+    ]
+  }
+}

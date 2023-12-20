@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Újszász",
+    "country": "HU",
+    "subdivision": "20",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.08333,
+      47.3
+    ]
+  }
+}

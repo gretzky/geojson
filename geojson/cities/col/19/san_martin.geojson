@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Martín",
+    "country": "CO",
+    "subdivision": "19",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.69957,
+      3.69637
+    ]
+  }
+}

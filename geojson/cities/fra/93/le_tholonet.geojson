@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Tholonet",
+    "country": "FR",
+    "subdivision": "93",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.51115,
+      43.52176
+    ]
+  }
+}

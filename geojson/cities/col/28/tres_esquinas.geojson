@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tres Esquinas",
+    "country": "CO",
+    "subdivision": "28",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.70906,
+      3.86512
+    ]
+  }
+}

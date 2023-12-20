@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Schaijk",
+    "country": "NL",
+    "subdivision": "06",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.63194,
+      51.74583
+    ]
+  }
+}

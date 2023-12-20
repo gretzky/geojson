@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bad Aussee",
+    "country": "AT",
+    "subdivision": "06",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.78243,
+      47.60998
+    ]
+  }
+}

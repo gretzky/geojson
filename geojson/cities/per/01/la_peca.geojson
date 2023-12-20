@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Peca",
+    "country": "PE",
+    "subdivision": "01",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.435,
+      -5.61111
+    ]
+  }
+}

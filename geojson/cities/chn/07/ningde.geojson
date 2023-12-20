@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ningde",
+    "country": "CN",
+    "subdivision": "07",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.52278,
+      26.66167
+    ]
+  }
+}

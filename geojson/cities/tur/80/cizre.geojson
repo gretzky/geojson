@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cizre",
+    "country": "TR",
+    "subdivision": "80",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.18484,
+      37.33024
+    ]
+  }
+}

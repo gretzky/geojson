@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Papakura",
+    "country": "NZ",
+    "subdivision": "E7",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.94393,
+      -37.06573
+    ]
+  }
+}

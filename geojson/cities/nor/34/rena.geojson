@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rena",
+    "country": "NO",
+    "subdivision": "34",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.37156,
+      61.13222
+    ]
+  }
+}

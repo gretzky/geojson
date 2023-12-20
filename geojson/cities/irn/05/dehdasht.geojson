@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dehdasht",
+    "country": "IR",
+    "subdivision": "05",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      50.56457,
+      30.7949
+    ]
+  }
+}

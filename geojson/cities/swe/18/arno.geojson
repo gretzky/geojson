@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arnö",
+    "country": "SE",
+    "subdivision": "18",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.02322,
+      58.72675
+    ]
+  }
+}

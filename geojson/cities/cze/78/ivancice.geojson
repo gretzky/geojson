@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ivančice",
+    "country": "CZ",
+    "subdivision": "78",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.37752,
+      49.10144
+    ]
+  }
+}

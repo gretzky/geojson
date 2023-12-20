@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Algona",
+    "country": "US",
+    "subdivision": "IA",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.23302,
+      43.06997
+    ]
+  }
+}

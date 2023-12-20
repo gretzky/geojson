@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tainan",
+    "country": "TW",
+    "subdivision": "04",
+    "timezone": "Asia/Taipei"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.21333,
+      22.99083
+    ]
+  }
+}

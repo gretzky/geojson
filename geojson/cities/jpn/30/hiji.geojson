@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hiji",
+    "country": "JP",
+    "subdivision": "30",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.53025,
+      33.37081
+    ]
+  }
+}

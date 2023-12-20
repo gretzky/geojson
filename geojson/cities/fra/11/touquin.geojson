@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Touquin",
+    "country": "FR",
+    "subdivision": "11",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.01222,
+      48.73498
+    ]
+  }
+}

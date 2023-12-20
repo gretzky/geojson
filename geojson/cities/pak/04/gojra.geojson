@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gojra",
+    "country": "PK",
+    "subdivision": "04",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.68323,
+      31.14926
+    ]
+  }
+}

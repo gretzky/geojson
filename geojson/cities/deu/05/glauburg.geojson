@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Glauburg",
+    "country": "DE",
+    "subdivision": "05",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9,
+      50.31667
+    ]
+  }
+}

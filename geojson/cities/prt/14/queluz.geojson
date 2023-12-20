@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Queluz",
+    "country": "PT",
+    "subdivision": "14",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.25451,
+      38.75657
+    ]
+  }
+}

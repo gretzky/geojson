@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mosul",
+    "country": "IQ",
+    "subdivision": "15",
+    "timezone": "Asia/Baghdad"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.11889,
+      36.335
+    ]
+  }
+}

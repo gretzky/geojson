@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gockhausen",
+    "country": "CH",
+    "subdivision": "ZH",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.59978,
+      47.38098
+    ]
+  }
+}

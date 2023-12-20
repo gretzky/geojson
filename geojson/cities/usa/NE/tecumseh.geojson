@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tecumseh",
+    "country": "US",
+    "subdivision": "NE",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -96.19612,
+      40.36667
+    ]
+  }
+}

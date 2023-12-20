@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jeju City",
+    "country": "KR",
+    "subdivision": "01",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.52194,
+      33.50972
+    ]
+  }
+}

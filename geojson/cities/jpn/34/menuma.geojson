@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Menuma",
+    "country": "JP",
+    "subdivision": "34",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.38205,
+      36.22245
+    ]
+  }
+}

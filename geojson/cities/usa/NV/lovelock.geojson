@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lovelock",
+    "country": "US",
+    "subdivision": "NV",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.47348,
+      40.17935
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kasli",
+    "country": "RU",
+    "subdivision": "13",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      60.7616,
+      55.8909
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vojvoda Stepa",
+    "country": "RS",
+    "subdivision": "VO",
+    "timezone": "Europe/Belgrade"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.65536,
+      45.68537
+    ]
+  }
+}

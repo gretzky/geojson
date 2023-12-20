@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kotli",
+    "country": "PK",
+    "subdivision": "06",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.9022,
+      33.51836
+    ]
+  }
+}

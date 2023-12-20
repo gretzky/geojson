@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zayed City",
+    "country": "AE",
+    "subdivision": "01",
+    "timezone": "Asia/Dubai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.70522,
+      23.65416
+    ]
+  }
+}

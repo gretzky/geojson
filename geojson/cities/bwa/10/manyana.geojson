@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Manyana",
+    "country": "BW",
+    "subdivision": "10",
+    "timezone": "Africa/Gaborone"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.59278,
+      -24.77361
+    ]
+  }
+}

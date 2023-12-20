@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Paicol",
+    "country": "CO",
+    "subdivision": "16",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.775,
+      2.44962
+    ]
+  }
+}

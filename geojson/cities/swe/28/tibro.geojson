@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tibro",
+    "country": "SE",
+    "subdivision": "28",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.16162,
+      58.42453
+    ]
+  }
+}

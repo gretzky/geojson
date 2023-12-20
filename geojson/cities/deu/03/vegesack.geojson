@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vegesack",
+    "country": "DE",
+    "subdivision": "03",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.61667,
+      53.16667
+    ]
+  }
+}

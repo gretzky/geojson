@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Távros",
+    "country": "GR",
+    "subdivision": "ESYE31",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.69043,
+      37.97064
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Primorsko",
+    "country": "BG",
+    "subdivision": "39",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.75611,
+      42.26791
+    ]
+  }
+}

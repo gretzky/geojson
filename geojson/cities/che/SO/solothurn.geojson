@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Solothurn",
+    "country": "CH",
+    "subdivision": "SO",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.53714,
+      47.20791
+    ]
+  }
+}

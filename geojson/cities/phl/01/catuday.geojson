@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Catuday",
+    "country": "PH",
+    "subdivision": "01",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.8062,
+      16.2923
+    ]
+  }
+}

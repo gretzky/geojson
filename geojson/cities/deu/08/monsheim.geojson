@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monsheim",
+    "country": "DE",
+    "subdivision": "08",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.21194,
+      49.63722
+    ]
+  }
+}

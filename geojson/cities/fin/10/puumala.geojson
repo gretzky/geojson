@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puumala",
+    "country": "FI",
+    "subdivision": "10",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.17495,
+      61.52728
+    ]
+  }
+}

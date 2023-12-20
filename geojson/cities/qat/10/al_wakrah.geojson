@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Al Wakrah",
+    "country": "QA",
+    "subdivision": "10",
+    "timezone": "Asia/Qatar"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.60337,
+      25.17151
+    ]
+  }
+}

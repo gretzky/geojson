@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karacaköy",
+    "country": "TR",
+    "subdivision": "34",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.38055,
+      41.40338
+    ]
+  }
+}

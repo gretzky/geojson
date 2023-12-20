@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Swift Current",
+    "country": "CA",
+    "subdivision": "11",
+    "timezone": "America/Swift_Current"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.80135,
+      50.28337
+    ]
+  }
+}

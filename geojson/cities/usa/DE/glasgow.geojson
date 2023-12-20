@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Glasgow",
+    "country": "US",
+    "subdivision": "DE",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.74521,
+      39.60483
+    ]
+  }
+}

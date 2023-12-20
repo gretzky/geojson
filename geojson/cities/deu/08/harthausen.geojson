@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Harthausen",
+    "country": "DE",
+    "subdivision": "08",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.345,
+      49.29417
+    ]
+  }
+}

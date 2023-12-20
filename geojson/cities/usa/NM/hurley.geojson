@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hurley",
+    "country": "US",
+    "subdivision": "NM",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.13199,
+      32.69924
+    ]
+  }
+}

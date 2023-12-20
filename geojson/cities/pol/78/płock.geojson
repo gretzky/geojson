@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Płock",
+    "country": "PL",
+    "subdivision": "78",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.70638,
+      52.54682
+    ]
+  }
+}

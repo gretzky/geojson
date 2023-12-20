@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Groznyy",
+    "country": "RU",
+    "subdivision": "12",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.68895,
+      43.31195
+    ]
+  }
+}

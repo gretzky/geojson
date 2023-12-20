@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novara",
+    "country": "IT",
+    "subdivision": "12",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.62118,
+      45.44694
+    ]
+  }
+}

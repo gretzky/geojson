@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Artesia",
+    "country": "US",
+    "subdivision": "NM",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.4033,
+      32.84233
+    ]
+  }
+}

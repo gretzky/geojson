@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dirba",
+    "country": "IN",
+    "subdivision": "23",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.99607,
+      30.07222
+    ]
+  }
+}

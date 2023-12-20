@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Loacan",
+    "country": "PH",
+    "subdivision": "15",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.66667,
+      16.55
+    ]
+  }
+}

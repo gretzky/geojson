@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tacuba Nueva",
+    "country": "MX",
+    "subdivision": "05",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -92.37028,
+      17.09028
+    ]
+  }
+}

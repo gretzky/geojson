@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Campeche",
+    "country": "MX",
+    "subdivision": "04",
+    "timezone": "America/Merida"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.52554,
+      19.84386
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cacao",
+    "country": "PR",
+    "subdivision": "115",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.93712,
+      18.43661
+    ]
+  }
+}

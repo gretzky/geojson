@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Tarra",
+    "country": "CO",
+    "subdivision": "21",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.09489,
+      8.57562
+    ]
+  }
+}

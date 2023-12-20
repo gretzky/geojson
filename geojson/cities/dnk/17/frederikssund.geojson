@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Frederikssund",
+    "country": "DK",
+    "subdivision": "17",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.06896,
+      55.83956
+    ]
+  }
+}

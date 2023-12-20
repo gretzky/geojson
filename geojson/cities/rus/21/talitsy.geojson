@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Talitsy",
+    "country": "RU",
+    "subdivision": "21",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.3323,
+      56.52801
+    ]
+  }
+}

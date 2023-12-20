@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aguas Verdes",
+    "country": "PE",
+    "subdivision": "24",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.245,
+      -3.48139
+    ]
+  }
+}

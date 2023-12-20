@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tigard",
+    "country": "US",
+    "subdivision": "OR",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.77149,
+      45.43123
+    ]
+  }
+}

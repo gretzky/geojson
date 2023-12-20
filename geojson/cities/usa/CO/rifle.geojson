@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rifle",
+    "country": "US",
+    "subdivision": "CO",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.78312,
+      39.5347
+    ]
+  }
+}

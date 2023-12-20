@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yershovo",
+    "country": "RU",
+    "subdivision": "47",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.85929,
+      55.76911
+    ]
+  }
+}

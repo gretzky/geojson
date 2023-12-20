@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Higuerillas",
+    "country": "MX",
+    "subdivision": "28",
+    "timezone": "America/Matamoros"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.43611,
+      25.26222
+    ]
+  }
+}

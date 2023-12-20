@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alberton",
+    "country": "CA",
+    "subdivision": "09",
+    "timezone": "America/Halifax"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.06542,
+      46.81685
+    ]
+  }
+}

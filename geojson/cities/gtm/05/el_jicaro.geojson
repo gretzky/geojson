@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Jícaro",
+    "country": "GT",
+    "subdivision": "05",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.89654,
+      14.91333
+    ]
+  }
+}

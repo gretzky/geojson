@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kirovsk",
+    "country": "RU",
+    "subdivision": "42",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.99507,
+      59.88101
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rüderswil",
+    "country": "CH",
+    "subdivision": "BE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.72167,
+      46.98374
+    ]
+  }
+}

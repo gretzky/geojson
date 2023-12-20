@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dire Dawa",
+    "country": "ET",
+    "subdivision": "48",
+    "timezone": "Africa/Addis_Ababa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.86611,
+      9.59306
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saltair",
+    "country": "CA",
+    "subdivision": "02",
+    "timezone": "America/Vancouver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.76939,
+      48.94963
+    ]
+  }
+}

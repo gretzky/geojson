@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mikulino",
+    "country": "RU",
+    "subdivision": "47",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.60685,
+      56.45188
+    ]
+  }
+}

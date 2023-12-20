@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "De Kieviet",
+    "country": "NL",
+    "subdivision": "11",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.35839,
+      52.12333
+    ]
+  }
+}

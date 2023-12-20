@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Naranjo",
+    "country": "MX",
+    "subdivision": "04",
+    "timezone": "America/Merida"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.12654,
+      18.02193
+    ]
+  }
+}

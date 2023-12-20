@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hurghada",
+    "country": "EG",
+    "subdivision": "02",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.81291,
+      27.25738
+    ]
+  }
+}

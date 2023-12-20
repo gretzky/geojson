@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gaogou",
+    "country": "CN",
+    "subdivision": "04",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.18861,
+      34.0175
+    ]
+  }
+}

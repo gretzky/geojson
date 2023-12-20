@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pike Creek Valley",
+    "country": "US",
+    "subdivision": "DE",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.69827,
+      39.73622
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rio Largo",
+    "country": "BR",
+    "subdivision": "02",
+    "timezone": "America/Maceio"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -35.85333,
+      -9.47833
+    ]
+  }
+}

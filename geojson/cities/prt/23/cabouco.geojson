@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cabouco",
+    "country": "PT",
+    "subdivision": "23",
+    "timezone": "Atlantic/Azores"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -25.56667,
+      37.76667
+    ]
+  }
+}

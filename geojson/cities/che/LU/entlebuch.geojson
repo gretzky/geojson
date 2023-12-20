@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Entlebuch",
+    "country": "CH",
+    "subdivision": "LU",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.06354,
+      46.99559
+    ]
+  }
+}

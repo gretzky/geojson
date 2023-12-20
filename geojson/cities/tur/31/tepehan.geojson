@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tepehan",
+    "country": "TR",
+    "subdivision": "31",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.2286,
+      36.15853
+    ]
+  }
+}

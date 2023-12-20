@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gnarp",
+    "country": "SE",
+    "subdivision": "03",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.25858,
+      62.04874
+    ]
+  }
+}

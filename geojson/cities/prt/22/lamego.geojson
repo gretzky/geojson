@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lamego",
+    "country": "PT",
+    "subdivision": "22",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.80991,
+      41.09741
+    ]
+  }
+}

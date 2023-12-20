@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carlentini",
+    "country": "IT",
+    "subdivision": "15",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0102,
+      37.28071
+    ]
+  }
+}

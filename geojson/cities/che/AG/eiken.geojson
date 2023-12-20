@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eiken",
+    "country": "CH",
+    "subdivision": "AG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.98801,
+      47.53361
+    ]
+  }
+}

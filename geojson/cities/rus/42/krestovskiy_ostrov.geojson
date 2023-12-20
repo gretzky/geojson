@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krestovskiy ostrov",
+    "country": "RU",
+    "subdivision": "42",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.25789,
+      59.97091
+    ]
+  }
+}

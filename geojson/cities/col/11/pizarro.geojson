@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pizarro",
+    "country": "CO",
+    "subdivision": "11",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.36598,
+      4.95334
+    ]
+  }
+}

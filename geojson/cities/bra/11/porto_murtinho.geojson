@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porto Murtinho",
+    "country": "BR",
+    "subdivision": "11",
+    "timezone": "America/Campo_Grande"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.8825,
+      -21.69889
+    ]
+  }
+}

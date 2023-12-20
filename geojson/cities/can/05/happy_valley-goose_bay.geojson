@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Happy Valley-Goose Bay",
+    "country": "CA",
+    "subdivision": "05",
+    "timezone": "America/Goose_Bay"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.32576,
+      53.3038
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kroonstad",
+    "country": "ZA",
+    "subdivision": "03",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.23488,
+      -27.65036
+    ]
+  }
+}

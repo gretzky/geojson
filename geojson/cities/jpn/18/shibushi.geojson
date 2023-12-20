@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shibushi",
+    "country": "JP",
+    "subdivision": "18",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.10114,
+      31.476
+    ]
+  }
+}

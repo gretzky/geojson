@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kuah",
+    "country": "MY",
+    "subdivision": "02",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.8432,
+      6.32649
+    ]
+  }
+}

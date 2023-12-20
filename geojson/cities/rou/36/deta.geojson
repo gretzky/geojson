@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Deta",
+    "country": "RO",
+    "subdivision": "36",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.22444,
+      45.38889
+    ]
+  }
+}

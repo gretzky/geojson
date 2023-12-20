@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Marzahn",
+    "country": "DE",
+    "subdivision": "16",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.56983,
+      52.54525
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tok",
+    "country": "US",
+    "subdivision": "AK",
+    "timezone": "America/Anchorage"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -142.98556,
+      63.33667
+    ]
+  }
+}

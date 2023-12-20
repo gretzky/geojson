@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vargem Grande",
+    "country": "BR",
+    "subdivision": "13",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -43.91583,
+      -3.54306
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kobayashi",
+    "country": "JP",
+    "subdivision": "25",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.98333,
+      31.98333
+    ]
+  }
+}

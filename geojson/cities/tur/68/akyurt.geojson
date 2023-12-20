@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Akyurt",
+    "country": "TR",
+    "subdivision": "68",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.08614,
+      40.13512
+    ]
+  }
+}

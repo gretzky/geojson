@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rääkkylä",
+    "country": "FI",
+    "subdivision": "12",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.61667,
+      62.31667
+    ]
+  }
+}

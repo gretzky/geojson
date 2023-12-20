@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Samaná",
+    "country": "DO",
+    "subdivision": "20",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.33685,
+      19.20561
+    ]
+  }
+}

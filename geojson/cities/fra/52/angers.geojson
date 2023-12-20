@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Angers",
+    "country": "FR",
+    "subdivision": "52",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.55202,
+      47.47156
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dubovka",
+    "country": "RU",
+    "subdivision": "76",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.06276,
+      53.95223
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Movileni",
+    "country": "RO",
+    "subdivision": "18",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.37184,
+      45.76154
+    ]
+  }
+}

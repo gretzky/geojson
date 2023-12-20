@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zhaoyuan",
+    "country": "CN",
+    "subdivision": "08",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.13333,
+      45.5
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tianchang",
+    "country": "CN",
+    "subdivision": "10",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.01556,
+      37.99806
+    ]
+  }
+}

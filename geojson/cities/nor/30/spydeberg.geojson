@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Spydeberg",
+    "country": "NO",
+    "subdivision": "30",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.08559,
+      59.61709
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hirschegg",
+    "country": "AT",
+    "subdivision": "08",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.17137,
+      47.34813
+    ]
+  }
+}

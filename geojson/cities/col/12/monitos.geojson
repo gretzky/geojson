@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moñitos",
+    "country": "CO",
+    "subdivision": "12",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.05,
+      8.25
+    ]
+  }
+}

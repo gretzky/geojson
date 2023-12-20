@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vilovo",
+    "country": "RS",
+    "subdivision": "VO",
+    "timezone": "Europe/Belgrade"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.15521,
+      45.24859
+    ]
+  }
+}

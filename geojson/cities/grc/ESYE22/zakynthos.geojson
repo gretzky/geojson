@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zakynthos",
+    "country": "GR",
+    "subdivision": "ESYE22",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.89555,
+      37.78022
+    ]
+  }
+}

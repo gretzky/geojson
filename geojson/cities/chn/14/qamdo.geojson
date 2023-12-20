@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Qamdo",
+    "country": "CN",
+    "subdivision": "14",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.17982,
+      31.1304
+    ]
+  }
+}

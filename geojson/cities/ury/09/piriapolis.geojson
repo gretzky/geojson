@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Piriápolis",
+    "country": "UY",
+    "subdivision": "09",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.27471,
+      -34.86287
+    ]
+  }
+}

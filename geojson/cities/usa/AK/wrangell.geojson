@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wrangell",
+    "country": "US",
+    "subdivision": "AK",
+    "timezone": "America/Sitka"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -132.37667,
+      56.47083
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kotri",
+    "country": "PK",
+    "subdivision": "05",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      68.30831,
+      25.36566
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tiszaújváros",
+    "country": "HU",
+    "subdivision": "04",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.08333,
+      47.93333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mělník",
+    "country": "CZ",
+    "subdivision": "88",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.47411,
+      50.3505
+    ]
+  }
+}

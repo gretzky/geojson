@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Raduzhnyy",
+    "country": "RU",
+    "subdivision": "33",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.65,
+      59.48333
+    ]
+  }
+}

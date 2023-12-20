@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rai",
+    "country": "FR",
+    "subdivision": "28",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.58167,
+      48.75057
+    ]
+  }
+}

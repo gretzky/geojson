@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colwyn Bay",
+    "country": "GB",
+    "subdivision": "WLS",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.72674,
+      53.29483
+    ]
+  }
+}

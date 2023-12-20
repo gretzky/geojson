@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Svelgen",
+    "country": "NO",
+    "subdivision": "46",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.29544,
+      61.76976
+    ]
+  }
+}

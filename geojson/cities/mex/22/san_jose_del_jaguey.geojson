@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San José del Jagüey",
+    "country": "MX",
+    "subdivision": "22",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.92444,
+      20.73722
+    ]
+  }
+}

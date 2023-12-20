@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rosales",
+    "country": "MX",
+    "subdivision": "06",
+    "timezone": "America/Chihuahua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.55717,
+      28.18753
+    ]
+  }
+}

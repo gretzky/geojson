@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Palmar",
+    "country": "GT",
+    "subdivision": "13",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.578,
+      14.65083
+    ]
+  }
+}

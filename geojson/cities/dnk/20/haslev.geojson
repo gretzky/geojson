@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Haslev",
+    "country": "DK",
+    "subdivision": "20",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.96389,
+      55.32346
+    ]
+  }
+}

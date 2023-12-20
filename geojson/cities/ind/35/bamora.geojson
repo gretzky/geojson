@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bamora",
+    "country": "IN",
+    "subdivision": "35",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.08925,
+      24.05539
+    ]
+  }
+}

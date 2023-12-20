@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Querétaro",
+    "country": "MX",
+    "subdivision": "05",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -92.75774,
+      15.83752
+    ]
+  }
+}

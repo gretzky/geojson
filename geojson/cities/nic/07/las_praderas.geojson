@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Praderas",
+    "country": "NI",
+    "subdivision": "07",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.85,
+      13.17
+    ]
+  }
+}

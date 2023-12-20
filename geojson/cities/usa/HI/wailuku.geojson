@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wailuku",
+    "country": "US",
+    "subdivision": "HI",
+    "timezone": "Pacific/Honolulu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -156.50604,
+      20.89133
+    ]
+  }
+}

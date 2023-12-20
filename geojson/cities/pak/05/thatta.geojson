@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Thatta",
+    "country": "PK",
+    "subdivision": "05",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      67.92353,
+      24.74745
+    ]
+  }
+}

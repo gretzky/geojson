@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Andorra la Vella",
+    "country": "AD",
+    "subdivision": "07",
+    "timezone": "Europe/Andorra"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.52109,
+      42.50779
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maslovka",
+    "country": "RU",
+    "subdivision": "86",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.2447,
+      51.5502
+    ]
+  }
+}

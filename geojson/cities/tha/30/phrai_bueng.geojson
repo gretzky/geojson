@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Phrai Bueng",
+    "country": "TH",
+    "subdivision": "30",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.36261,
+      14.74833
+    ]
+  }
+}

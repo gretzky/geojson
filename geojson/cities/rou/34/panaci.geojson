@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Panaci",
+    "country": "RO",
+    "subdivision": "34",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.38333,
+      47.26667
+    ]
+  }
+}

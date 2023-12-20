@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kyakhta",
+    "country": "RU",
+    "subdivision": "11",
+    "timezone": "Asia/Irkutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.45033,
+      50.35737
+    ]
+  }
+}

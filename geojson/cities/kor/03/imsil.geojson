@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Imsil",
+    "country": "KR",
+    "subdivision": "03",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.27944,
+      35.61306
+    ]
+  }
+}

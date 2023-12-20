@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Broc",
+    "country": "CH",
+    "subdivision": "FR",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.09891,
+      46.60513
+    ]
+  }
+}

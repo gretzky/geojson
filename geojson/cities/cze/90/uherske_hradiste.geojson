@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Uherské Hradiště",
+    "country": "CZ",
+    "subdivision": "90",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.45969,
+      49.06975
+    ]
+  }
+}

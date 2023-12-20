@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monte Alegre",
+    "country": "BR",
+    "subdivision": "16",
+    "timezone": "America/Santarem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.08102,
+      -2.00082
+    ]
+  }
+}

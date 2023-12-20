@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ponta Garça",
+    "country": "PT",
+    "subdivision": "23",
+    "timezone": "Atlantic/Azores"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -25.36667,
+      37.71667
+    ]
+  }
+}

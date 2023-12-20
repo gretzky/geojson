@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sakai",
+    "country": "JP",
+    "subdivision": "14",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.8,
+      36.1
+    ]
+  }
+}

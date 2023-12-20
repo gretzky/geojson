@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Surahammar",
+    "country": "SE",
+    "subdivision": "25",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.22188,
+      59.70725
+    ]
+  }
+}

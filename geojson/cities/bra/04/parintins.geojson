@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Parintins",
+    "country": "BR",
+    "subdivision": "04",
+    "timezone": "America/Manaus"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.73583,
+      -2.62833
+    ]
+  }
+}

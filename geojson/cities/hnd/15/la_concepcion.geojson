@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Concepción",
+    "country": "HN",
+    "subdivision": "15",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.23333,
+      14.7
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Uvarovka",
+    "country": "UA",
+    "subdivision": "11",
+    "timezone": "Europe/Simferopol"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.78812,
+      45.45108
+    ]
+  }
+}

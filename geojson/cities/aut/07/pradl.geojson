@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pradl",
+    "country": "AT",
+    "subdivision": "07",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4152,
+      47.26539
+    ]
+  }
+}

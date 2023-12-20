@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Asensio",
+    "country": "ES",
+    "subdivision": "27",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.75057,
+      42.49677
+    ]
+  }
+}

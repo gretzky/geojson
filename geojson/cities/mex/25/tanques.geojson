@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tanques",
+    "country": "MX",
+    "subdivision": "25",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.0136,
+      24.06349
+    ]
+  }
+}

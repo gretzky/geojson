@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oława",
+    "country": "PL",
+    "subdivision": "72",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.2926,
+      50.9466
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Riversdale",
+    "country": "ZA",
+    "subdivision": "11",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.25725,
+      -34.09345
+    ]
+  }
+}

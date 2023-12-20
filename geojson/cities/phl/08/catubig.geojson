@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Catubig",
+    "country": "PH",
+    "subdivision": "08",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.0548,
+      12.4098
+    ]
+  }
+}

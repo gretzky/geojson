@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Faratsiho",
+    "country": "MG",
+    "subdivision": "12",
+    "timezone": "Indian/Antananarivo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.95,
+      -19.4
+    ]
+  }
+}

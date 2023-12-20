@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Roşiori",
+    "country": "RO",
+    "subdivision": "04",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.08333,
+      46.71667
+    ]
+  }
+}

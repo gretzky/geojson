@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Almaty",
+    "country": "KZ",
+    "subdivision": "02",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.92861,
+      43.25667
+    ]
+  }
+}

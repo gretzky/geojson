@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zirc",
+    "country": "HU",
+    "subdivision": "23",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.87373,
+      47.26362
+    ]
+  }
+}

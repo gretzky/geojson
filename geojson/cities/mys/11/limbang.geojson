@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Limbang",
+    "country": "MY",
+    "subdivision": "11",
+    "timezone": "Asia/Kuching"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115,
+      4.75
+    ]
+  }
+}

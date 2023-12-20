@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Buñuel",
+    "country": "ES",
+    "subdivision": "32",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.44503,
+      41.98009
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Euclides da Cunha",
+    "country": "BR",
+    "subdivision": "05",
+    "timezone": "America/Bahia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -39.01583,
+      -10.5075
+    ]
+  }
+}

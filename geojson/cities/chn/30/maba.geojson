@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maba",
+    "country": "CN",
+    "subdivision": "30",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.59839,
+      24.68413
+    ]
+  }
+}

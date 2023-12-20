@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pio XII",
+    "country": "BR",
+    "subdivision": "13",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -45.1525,
+      -3.8325
+    ]
+  }
+}

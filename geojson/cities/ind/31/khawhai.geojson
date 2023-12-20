@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Khawhai",
+    "country": "IN",
+    "subdivision": "31",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      93.12797,
+      23.37807
+    ]
+  }
+}

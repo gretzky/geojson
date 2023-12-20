@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Harrismith",
+    "country": "ZA",
+    "subdivision": "03",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.12946,
+      -28.27276
+    ]
+  }
+}

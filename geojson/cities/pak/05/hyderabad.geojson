@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hyderabad",
+    "country": "PK",
+    "subdivision": "05",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      68.37366,
+      25.39242
+    ]
+  }
+}

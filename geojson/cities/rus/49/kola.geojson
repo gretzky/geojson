@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kola",
+    "country": "RU",
+    "subdivision": "49",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.01842,
+      68.88062
+    ]
+  }
+}

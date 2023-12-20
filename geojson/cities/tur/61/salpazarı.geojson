@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Şalpazarı",
+    "country": "TR",
+    "subdivision": "61",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.19006,
+      40.93826
+    ]
+  }
+}

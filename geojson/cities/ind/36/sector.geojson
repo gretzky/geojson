@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sector",
+    "country": "IN",
+    "subdivision": "36",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.3261,
+      28.5708
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maturín",
+    "country": "VE",
+    "subdivision": "16",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.18323,
+      9.74569
+    ]
+  }
+}

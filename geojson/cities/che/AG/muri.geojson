@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Muri",
+    "country": "CH",
+    "subdivision": "AG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.33854,
+      47.27428
+    ]
+  }
+}

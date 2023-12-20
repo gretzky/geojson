@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lomas de Vallejos",
+    "country": "AR",
+    "subdivision": "06",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.9185,
+      -27.73501
+    ]
+  }
+}

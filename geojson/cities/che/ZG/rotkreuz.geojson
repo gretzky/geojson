@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rotkreuz",
+    "country": "CH",
+    "subdivision": "ZG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4314,
+      47.14283
+    ]
+  }
+}

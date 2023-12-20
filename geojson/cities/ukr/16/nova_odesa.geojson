@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nova Odesa",
+    "country": "UA",
+    "subdivision": "16",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.76972,
+      47.31268
+    ]
+  }
+}

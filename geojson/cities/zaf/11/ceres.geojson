@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ceres",
+    "country": "ZA",
+    "subdivision": "11",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.31095,
+      -33.36889
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Buga",
+    "country": "NG",
+    "subdivision": "56",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.34139,
+      8.49056
+    ]
+  }
+}

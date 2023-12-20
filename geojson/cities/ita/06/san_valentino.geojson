@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Valentino",
+    "country": "IT",
+    "subdivision": "06",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.41236,
+      45.79039
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "São João do Piauí",
+    "country": "BR",
+    "subdivision": "20",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -42.24667,
+      -8.35806
+    ]
+  }
+}

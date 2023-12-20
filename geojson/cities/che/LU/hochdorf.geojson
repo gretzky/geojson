@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hochdorf",
+    "country": "CH",
+    "subdivision": "LU",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.29179,
+      47.16841
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Otkaznoye",
+    "country": "RU",
+    "subdivision": "70",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.86083,
+      44.32639
+    ]
+  }
+}

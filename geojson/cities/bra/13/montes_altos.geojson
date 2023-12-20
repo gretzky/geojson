@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Montes Altos",
+    "country": "BR",
+    "subdivision": "13",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -47.06667,
+      -5.83333
+    ]
+  }
+}

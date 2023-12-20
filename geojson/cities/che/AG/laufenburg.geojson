@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Laufenburg",
+    "country": "CH",
+    "subdivision": "AG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.06225,
+      47.55985
+    ]
+  }
+}

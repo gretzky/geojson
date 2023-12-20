@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Plan",
+    "country": "HN",
+    "subdivision": "06",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.96667,
+      15.28333
+    ]
+  }
+}

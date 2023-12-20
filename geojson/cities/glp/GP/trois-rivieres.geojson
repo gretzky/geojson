@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Trois-Rivières",
+    "country": "GP",
+    "subdivision": "GP",
+    "timezone": "America/Guadeloupe"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.64492,
+      15.97595
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Buyeo",
+    "country": "KR",
+    "subdivision": "17",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.90906,
+      36.27472
+    ]
+  }
+}

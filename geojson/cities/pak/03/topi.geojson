@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Topi",
+    "country": "PK",
+    "subdivision": "03",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.62147,
+      34.07034
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Plopeni",
+    "country": "RO",
+    "subdivision": "34",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.33913,
+      47.65874
+    ]
+  }
+}

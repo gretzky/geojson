@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mojkovac",
+    "country": "ME",
+    "subdivision": "11",
+    "timezone": "Europe/Podgorica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.5833,
+      42.96044
+    ]
+  }
+}

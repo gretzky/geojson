@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colonia del Sacramento",
+    "country": "UY",
+    "subdivision": "04",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.83976,
+      -34.46262
+    ]
+  }
+}

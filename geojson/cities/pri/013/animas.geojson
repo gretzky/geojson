@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Animas",
+    "country": "PR",
+    "subdivision": "013",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.6349,
+      18.4455
+    ]
+  }
+}

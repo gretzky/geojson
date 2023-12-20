@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bulacan",
+    "country": "PH",
+    "subdivision": "11",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.42111,
+      6.5675
+    ]
+  }
+}

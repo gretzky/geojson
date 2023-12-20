@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Elena",
+    "country": "MX",
+    "subdivision": "31",
+    "timezone": "America/Merida"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.64363,
+      20.3289
+    ]
+  }
+}

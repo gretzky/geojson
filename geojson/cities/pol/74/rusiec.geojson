@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rusiec",
+    "country": "PL",
+    "subdivision": "74",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.98506,
+      51.32444
+    ]
+  }
+}

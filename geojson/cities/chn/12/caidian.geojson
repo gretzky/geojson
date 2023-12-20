@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Caidian",
+    "country": "CN",
+    "subdivision": "12",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.03333,
+      30.58333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Katihar",
+    "country": "IN",
+    "subdivision": "34",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.57044,
+      25.53852
+    ]
+  }
+}

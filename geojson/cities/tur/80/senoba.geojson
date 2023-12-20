@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Şenoba",
+    "country": "TR",
+    "subdivision": "80",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.72248,
+      37.46436
+    ]
+  }
+}

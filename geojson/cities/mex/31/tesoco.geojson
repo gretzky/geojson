@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tesoco",
+    "country": "MX",
+    "subdivision": "31",
+    "timezone": "America/Merida"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.15456,
+      20.72259
+    ]
+  }
+}

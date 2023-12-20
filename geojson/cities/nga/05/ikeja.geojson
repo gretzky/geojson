@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ikeja",
+    "country": "NG",
+    "subdivision": "05",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.34205,
+      6.59651
+    ]
+  }
+}

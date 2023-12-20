@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ndola",
+    "country": "ZM",
+    "subdivision": "08",
+    "timezone": "Africa/Lusaka"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.63659,
+      -12.95867
+    ]
+  }
+}

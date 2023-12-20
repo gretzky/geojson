@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Morón",
+    "country": "VE",
+    "subdivision": "07",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.20078,
+      10.48715
+    ]
+  }
+}

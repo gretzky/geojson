@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kajaani",
+    "country": "FI",
+    "subdivision": "18",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.72846,
+      64.22728
+    ]
+  }
+}

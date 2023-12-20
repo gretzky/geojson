@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Democracia",
+    "country": "GT",
+    "subdivision": "06",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.94806,
+      14.22919
+    ]
+  }
+}

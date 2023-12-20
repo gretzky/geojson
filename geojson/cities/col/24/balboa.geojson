@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Balboa",
+    "country": "CO",
+    "subdivision": "24",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.95826,
+      4.94985
+    ]
+  }
+}

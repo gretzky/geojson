@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eibar",
+    "country": "ES",
+    "subdivision": "59",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.47158,
+      43.18493
+    ]
+  }
+}

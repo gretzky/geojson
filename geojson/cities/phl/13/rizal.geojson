@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rizal",
+    "country": "PH",
+    "subdivision": "13",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.4643,
+      9.7804
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Goya",
+    "country": "AR",
+    "subdivision": "06",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.26343,
+      -29.13995
+    ]
+  }
+}

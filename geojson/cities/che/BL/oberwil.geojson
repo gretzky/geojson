@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oberwil",
+    "country": "CH",
+    "subdivision": "BL",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.55786,
+      47.51407
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Samaniego",
+    "country": "CO",
+    "subdivision": "20",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.5957,
+      1.33849
+    ]
+  }
+}

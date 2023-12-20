@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bay St. George South",
+    "country": "CA",
+    "subdivision": "05",
+    "timezone": "America/St_Johns"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.84162,
+      48.22781
+    ]
+  }
+}

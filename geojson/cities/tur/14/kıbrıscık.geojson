@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kıbrıscık",
+    "country": "TR",
+    "subdivision": "14",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.85194,
+      40.40778
+    ]
+  }
+}

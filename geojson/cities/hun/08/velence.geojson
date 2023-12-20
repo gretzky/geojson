@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Velence",
+    "country": "HU",
+    "subdivision": "08",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.65484,
+      47.23855
+    ]
+  }
+}

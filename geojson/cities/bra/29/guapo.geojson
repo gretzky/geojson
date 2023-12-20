@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guapó",
+    "country": "BR",
+    "subdivision": "29",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -49.53194,
+      -16.83056
+    ]
+  }
+}

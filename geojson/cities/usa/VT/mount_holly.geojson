@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mount Holly",
+    "country": "US",
+    "subdivision": "VT",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.82482,
+      43.45229
+    ]
+  }
+}

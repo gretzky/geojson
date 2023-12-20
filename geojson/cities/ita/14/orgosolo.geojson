@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Orgosolo",
+    "country": "IT",
+    "subdivision": "14",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.35445,
+      40.2053
+    ]
+  }
+}

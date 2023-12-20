@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Antonio Aguas Calientes",
+    "country": "GT",
+    "subdivision": "16",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.78054,
+      14.54676
+    ]
+  }
+}

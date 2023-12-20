@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zminjak",
+    "country": "RS",
+    "subdivision": "SE",
+    "timezone": "Europe/Belgrade"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.4707,
+      44.75711
+    ]
+  }
+}

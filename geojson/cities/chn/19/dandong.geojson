@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dandong",
+    "country": "CN",
+    "subdivision": "19",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.39472,
+      40.12917
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tabuelan",
+    "country": "PH",
+    "subdivision": "07",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.8689,
+      10.8209
+    ]
+  }
+}

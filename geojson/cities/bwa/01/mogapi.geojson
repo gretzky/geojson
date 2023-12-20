@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mogapi",
+    "country": "BW",
+    "subdivision": "01",
+    "timezone": "Africa/Gaborone"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.83492,
+      -22.32301
+    ]
+  }
+}

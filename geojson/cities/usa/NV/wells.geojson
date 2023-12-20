@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wells",
+    "country": "US",
+    "subdivision": "NV",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.96449,
+      41.11159
+    ]
+  }
+}

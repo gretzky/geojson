@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Tepames",
+    "country": "MX",
+    "subdivision": "08",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.6225,
+      19.09389
+    ]
+  }
+}

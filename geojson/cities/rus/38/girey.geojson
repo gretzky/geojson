@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Girey",
+    "country": "RU",
+    "subdivision": "38",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.6587,
+      45.4012
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kivertsi",
+    "country": "UA",
+    "subdivision": "24",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.45821,
+      50.83425
+    ]
+  }
+}

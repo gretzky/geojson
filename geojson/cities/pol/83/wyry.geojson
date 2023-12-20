@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wyry",
+    "country": "PL",
+    "subdivision": "83",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.90052,
+      50.13296
+    ]
+  }
+}

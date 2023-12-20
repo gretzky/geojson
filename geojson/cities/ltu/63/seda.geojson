@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Seda",
+    "country": "LT",
+    "subdivision": "63",
+    "timezone": "Europe/Vilnius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.09071,
+      56.16854
+    ]
+  }
+}

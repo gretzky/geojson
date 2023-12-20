@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Bourget",
+    "country": "FR",
+    "subdivision": "11",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.43584,
+      48.93405
+    ]
+  }
+}

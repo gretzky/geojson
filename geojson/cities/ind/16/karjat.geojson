@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karjat",
+    "country": "IN",
+    "subdivision": "16",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.32354,
+      18.9107
+    ]
+  }
+}

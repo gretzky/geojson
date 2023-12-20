@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vybor",
+    "country": "RU",
+    "subdivision": "60",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.1663,
+      57.22716
+    ]
+  }
+}

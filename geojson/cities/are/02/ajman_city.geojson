@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ajman City",
+    "country": "AE",
+    "subdivision": "02",
+    "timezone": "Asia/Dubai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.47878,
+      25.40177
+    ]
+  }
+}

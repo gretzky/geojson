@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Busing",
+    "country": "PH",
+    "subdivision": "05",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.97139,
+      13.15139
+    ]
+  }
+}

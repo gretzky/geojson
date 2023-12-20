@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lakeside",
+    "country": "US",
+    "subdivision": "MT",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.22457,
+      48.01939
+    ]
+  }
+}

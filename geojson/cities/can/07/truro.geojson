@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Truro",
+    "country": "CA",
+    "subdivision": "07",
+    "timezone": "America/Halifax"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.26538,
+      45.36685
+    ]
+  }
+}

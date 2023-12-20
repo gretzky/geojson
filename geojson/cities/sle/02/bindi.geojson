@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bindi",
+    "country": "SL",
+    "subdivision": "02",
+    "timezone": "Africa/Freetown"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.44669,
+      9.91376
+    ]
+  }
+}

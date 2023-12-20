@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Amasya",
+    "country": "TR",
+    "subdivision": "05",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.83306,
+      40.65333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Leningradskaya",
+    "country": "RU",
+    "subdivision": "38",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.3877,
+      46.3214
+    ]
+  }
+}

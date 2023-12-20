@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Thái Nguyên",
+    "country": "VN",
+    "subdivision": "85",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      105.84817,
+      21.59422
+    ]
+  }
+}

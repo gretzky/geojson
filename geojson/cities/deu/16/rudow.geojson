@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rudow",
+    "country": "DE",
+    "subdivision": "16",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.48529,
+      52.42407
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bar",
+    "country": "ME",
+    "subdivision": "02",
+    "timezone": "Europe/Podgorica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.09841,
+      42.0937
+    ]
+  }
+}

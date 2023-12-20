@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Neyland",
+    "country": "GB",
+    "subdivision": "WLS",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.95155,
+      51.71014
+    ]
+  }
+}

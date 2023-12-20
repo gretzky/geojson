@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Placetas",
+    "country": "CU",
+    "subdivision": "16",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.6544,
+      22.31184
+    ]
+  }
+}

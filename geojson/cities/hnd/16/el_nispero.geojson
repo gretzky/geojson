@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Níspero",
+    "country": "HN",
+    "subdivision": "16",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.33333,
+      14.76667
+    ]
+  }
+}

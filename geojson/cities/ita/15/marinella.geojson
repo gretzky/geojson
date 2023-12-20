@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Marinella",
+    "country": "IT",
+    "subdivision": "15",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.84434,
+      37.59475
+    ]
+  }
+}

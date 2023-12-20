@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kannavam",
+    "country": "IN",
+    "subdivision": "13",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.66266,
+      11.8445
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Río Sereno",
+    "country": "PA",
+    "subdivision": "02",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.86044,
+      8.81952
+    ]
+  }
+}

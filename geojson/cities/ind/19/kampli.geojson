@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kampli",
+    "country": "IN",
+    "subdivision": "19",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.60013,
+      15.40626
+    ]
+  }
+}

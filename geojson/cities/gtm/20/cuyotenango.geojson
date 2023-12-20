@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cuyotenango",
+    "country": "GT",
+    "subdivision": "20",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.57179,
+      14.54006
+    ]
+  }
+}

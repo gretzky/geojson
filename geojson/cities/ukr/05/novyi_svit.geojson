@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novyi Svit",
+    "country": "UA",
+    "subdivision": "05",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.02112,
+      47.80591
+    ]
+  }
+}

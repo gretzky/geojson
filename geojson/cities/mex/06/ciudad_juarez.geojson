@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad Juárez",
+    "country": "MX",
+    "subdivision": "06",
+    "timezone": "America/Ojinaga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.46084,
+      31.72024
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Planeta Rica",
+    "country": "CO",
+    "subdivision": "12",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.58508,
+      8.4115
+    ]
+  }
+}

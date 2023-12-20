@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bahía Tortugas",
+    "country": "MX",
+    "subdivision": "03",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.8966,
+      27.69056
+    ]
+  }
+}

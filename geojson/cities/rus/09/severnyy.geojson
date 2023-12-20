@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Severnyy",
+    "country": "RU",
+    "subdivision": "09",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.55324,
+      50.677
+    ]
+  }
+}

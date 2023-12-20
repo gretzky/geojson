@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Den Chai",
+    "country": "TH",
+    "subdivision": "07",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.05217,
+      17.98372
+    ]
+  }
+}

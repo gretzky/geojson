@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Turija",
+    "country": "RS",
+    "subdivision": "SE",
+    "timezone": "Europe/Belgrade"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.63945,
+      44.52273
+    ]
+  }
+}

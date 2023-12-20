@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hancheng",
+    "country": "CN",
+    "subdivision": "09",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.35222,
+      32.51861
+    ]
+  }
+}

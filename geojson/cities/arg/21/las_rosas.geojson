@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Rosas",
+    "country": "AR",
+    "subdivision": "21",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.58041,
+      -32.47661
+    ]
+  }
+}

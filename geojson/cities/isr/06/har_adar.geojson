@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Har Adar",
+    "country": "IL",
+    "subdivision": "06",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.13093,
+      31.82754
+    ]
+  }
+}

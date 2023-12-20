@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coober Pedy",
+    "country": "AU",
+    "subdivision": "05",
+    "timezone": "Australia/Adelaide"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.75495,
+      -29.01415
+    ]
+  }
+}

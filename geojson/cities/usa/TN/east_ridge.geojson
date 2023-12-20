@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "East Ridge",
+    "country": "US",
+    "subdivision": "TN",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.2519,
+      35.01424
+    ]
+  }
+}

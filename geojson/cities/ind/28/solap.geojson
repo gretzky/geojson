@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Solap",
+    "country": "IN",
+    "subdivision": "28",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      88.15861,
+      22.12778
+    ]
+  }
+}

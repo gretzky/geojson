@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jounieh",
+    "country": "LB",
+    "subdivision": "05",
+    "timezone": "Asia/Beirut"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.61778,
+      33.98083
+    ]
+  }
+}

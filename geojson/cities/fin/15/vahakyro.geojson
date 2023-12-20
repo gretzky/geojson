@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vähäkyrö",
+    "country": "FI",
+    "subdivision": "15",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.10584,
+      63.05635
+    ]
+  }
+}

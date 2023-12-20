@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dvortsy",
+    "country": "RU",
+    "subdivision": "25",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9974,
+      54.61677
+    ]
+  }
+}

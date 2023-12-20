@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Thal",
+    "country": "PK",
+    "subdivision": "03",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.24383,
+      35.47836
+    ]
+  }
+}

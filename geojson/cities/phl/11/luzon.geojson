@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Luzon",
+    "country": "PH",
+    "subdivision": "11",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.09408,
+      6.51904
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ezhou",
+    "country": "CN",
+    "subdivision": "12",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.83333,
+      30.4
+    ]
+  }
+}

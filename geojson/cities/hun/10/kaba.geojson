@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kaba",
+    "country": "HU",
+    "subdivision": "10",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.28333,
+      47.35
+    ]
+  }
+}

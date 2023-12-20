@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rivett",
+    "country": "AU",
+    "subdivision": "01",
+    "timezone": "Australia/Sydney"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.0379,
+      -35.34709
+    ]
+  }
+}

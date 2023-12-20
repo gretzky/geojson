@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Scottburgh",
+    "country": "ZA",
+    "subdivision": "02",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.75316,
+      -30.28666
+    ]
+  }
+}

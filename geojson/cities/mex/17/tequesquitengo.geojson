@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tequesquitengo",
+    "country": "MX",
+    "subdivision": "17",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.26025,
+      18.61096
+    ]
+  }
+}

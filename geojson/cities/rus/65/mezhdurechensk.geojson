@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mezhdurechensk",
+    "country": "RU",
+    "subdivision": "65",
+    "timezone": "Europe/Samara"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.1116,
+      53.2665
+    ]
+  }
+}

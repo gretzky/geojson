@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pushkar",
+    "country": "IN",
+    "subdivision": "24",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.55211,
+      26.49022
+    ]
+  }
+}

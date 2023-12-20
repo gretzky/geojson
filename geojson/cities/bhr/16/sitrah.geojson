@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sitrah",
+    "country": "BH",
+    "subdivision": "16",
+    "timezone": "Asia/Bahrain"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      50.62056,
+      26.15472
+    ]
+  }
+}

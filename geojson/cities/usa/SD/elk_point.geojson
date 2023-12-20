@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Elk Point",
+    "country": "US",
+    "subdivision": "SD",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -96.68365,
+      42.68333
+    ]
+  }
+}

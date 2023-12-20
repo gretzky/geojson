@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Billingsfors",
+    "country": "SE",
+    "subdivision": "28",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.25,
+      58.98333
+    ]
+  }
+}

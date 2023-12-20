@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dien Bien Phu",
+    "country": "VN",
+    "subdivision": "92",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.02301,
+      21.38602
+    ]
+  }
+}

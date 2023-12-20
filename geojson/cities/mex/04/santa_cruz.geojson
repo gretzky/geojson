@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Cruz",
+    "country": "MX",
+    "subdivision": "04",
+    "timezone": "America/Merida"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.11771,
+      20.20339
+    ]
+  }
+}

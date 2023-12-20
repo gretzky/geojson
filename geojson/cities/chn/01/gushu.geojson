@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gushu",
+    "country": "CN",
+    "subdivision": "01",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      118.48147,
+      31.56055
+    ]
+  }
+}

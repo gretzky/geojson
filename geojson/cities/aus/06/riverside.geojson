@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Riverside",
+    "country": "AU",
+    "subdivision": "06",
+    "timezone": "Australia/Hobart"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.05086,
+      -41.42105
+    ]
+  }
+}

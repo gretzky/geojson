@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tuding",
+    "country": "PH",
+    "subdivision": "15",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.6422,
+      16.41085
+    ]
+  }
+}

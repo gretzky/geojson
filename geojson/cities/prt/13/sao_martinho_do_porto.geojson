@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "São Martinho do Porto",
+    "country": "PT",
+    "subdivision": "13",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.13111,
+      39.51444
+    ]
+  }
+}

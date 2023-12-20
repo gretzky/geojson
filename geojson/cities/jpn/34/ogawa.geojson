@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ogawa",
+    "country": "JP",
+    "subdivision": "34",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.26612,
+      36.05342
+    ]
+  }
+}

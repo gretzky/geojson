@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kulim",
+    "country": "MY",
+    "subdivision": "02",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.56177,
+      5.36499
+    ]
+  }
+}

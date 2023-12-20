@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pechucalco",
+    "country": "MX",
+    "subdivision": "27",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.16611,
+      18.09361
+    ]
+  }
+}

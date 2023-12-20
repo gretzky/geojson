@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aursmoen",
+    "country": "NO",
+    "subdivision": "30",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.44275,
+      59.92763
+    ]
+  }
+}

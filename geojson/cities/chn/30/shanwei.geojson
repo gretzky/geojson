@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shanwei",
+    "country": "CN",
+    "subdivision": "30",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.3475,
+      22.78199
+    ]
+  }
+}

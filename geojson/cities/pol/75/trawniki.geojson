@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Trawniki",
+    "country": "PL",
+    "subdivision": "75",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.99816,
+      51.13633
+    ]
+  }
+}

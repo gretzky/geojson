@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rio Mau",
+    "country": "PT",
+    "subdivision": "17",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.67994,
+      41.40422
+    ]
+  }
+}

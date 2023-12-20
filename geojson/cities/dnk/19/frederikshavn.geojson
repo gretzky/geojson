@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Frederikshavn",
+    "country": "DK",
+    "subdivision": "19",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.53661,
+      57.44073
+    ]
+  }
+}

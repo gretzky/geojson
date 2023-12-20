@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Jose del Monte",
+    "country": "PH",
+    "subdivision": "03",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.04528,
+      14.81389
+    ]
+  }
+}

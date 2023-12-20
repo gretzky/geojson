@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ursynów",
+    "country": "PL",
+    "subdivision": "78",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.05041,
+      52.15051
+    ]
+  }
+}

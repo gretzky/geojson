@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Modelu",
+    "country": "RO",
+    "subdivision": "41",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.3872,
+      44.19574
+    ]
+  }
+}

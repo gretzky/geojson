@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Roata de Jos",
+    "country": "RO",
+    "subdivision": "42",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.54333,
+      44.41083
+    ]
+  }
+}

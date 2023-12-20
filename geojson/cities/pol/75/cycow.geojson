@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cyców",
+    "country": "PL",
+    "subdivision": "75",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.14124,
+      51.29928
+    ]
+  }
+}

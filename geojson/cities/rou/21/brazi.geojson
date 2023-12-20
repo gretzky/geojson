@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brazi",
+    "country": "RO",
+    "subdivision": "21",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.8404,
+      45.48716
+    ]
+  }
+}

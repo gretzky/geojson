@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Minamata",
+    "country": "JP",
+    "subdivision": "21",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.4,
+      32.21667
+    ]
+  }
+}

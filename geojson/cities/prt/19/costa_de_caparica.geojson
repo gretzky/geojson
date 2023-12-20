@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Costa de Caparica",
+    "country": "PT",
+    "subdivision": "19",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.23556,
+      38.64458
+    ]
+  }
+}

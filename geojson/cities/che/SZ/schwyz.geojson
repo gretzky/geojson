@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Schwyz",
+    "country": "CH",
+    "subdivision": "SZ",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.65414,
+      47.02076
+    ]
+  }
+}

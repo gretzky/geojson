@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dungarvan",
+    "country": "IE",
+    "subdivision": "M",
+    "timezone": "Europe/Dublin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.62528,
+      52.08806
+    ]
+  }
+}

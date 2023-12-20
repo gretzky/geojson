@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novyy",
+    "country": "RU",
+    "subdivision": "59",
+    "timezone": "Asia/Vladivostok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      132.02109,
+      43.36438
+    ]
+  }
+}

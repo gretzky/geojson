@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Goodland",
+    "country": "US",
+    "subdivision": "KS",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -101.71017,
+      39.35083
+    ]
+  }
+}

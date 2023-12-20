@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sergach",
+    "country": "RU",
+    "subdivision": "51",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.46611,
+      55.53079
+    ]
+  }
+}

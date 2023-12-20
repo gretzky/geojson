@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Modimolle",
+    "country": "ZA",
+    "subdivision": "09",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.4,
+      -24.7
+    ]
+  }
+}

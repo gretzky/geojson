@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San José de Colinas",
+    "country": "HN",
+    "subdivision": "16",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.3,
+      15.03333
+    ]
+  }
+}

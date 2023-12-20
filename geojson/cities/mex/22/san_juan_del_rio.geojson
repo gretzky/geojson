@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan del Río",
+    "country": "MX",
+    "subdivision": "22",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.99577,
+      20.38886
+    ]
+  }
+}

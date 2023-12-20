@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mogendorf",
+    "country": "DE",
+    "subdivision": "08",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.75972,
+      50.49444
+    ]
+  }
+}

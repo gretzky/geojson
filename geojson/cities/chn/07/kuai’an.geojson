@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kuai’an",
+    "country": "CN",
+    "subdivision": "07",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.41639,
+      26.03417
+    ]
+  }
+}

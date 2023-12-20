@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palkovice",
+    "country": "CZ",
+    "subdivision": "85",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.31508,
+      49.63467
+    ]
+  }
+}

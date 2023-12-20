@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Uzunu",
+    "country": "RO",
+    "subdivision": "42",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.96719,
+      44.14716
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pativilca",
+    "country": "PE",
+    "subdivision": "15",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.78333,
+      -10.7
+    ]
+  }
+}

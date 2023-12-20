@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matsue",
+    "country": "JP",
+    "subdivision": "36",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      133.05,
+      35.48333
+    ]
+  }
+}

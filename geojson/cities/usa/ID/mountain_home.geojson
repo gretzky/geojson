@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mountain Home",
+    "country": "US",
+    "subdivision": "ID",
+    "timezone": "America/Boise"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.6912,
+      43.13295
+    ]
+  }
+}

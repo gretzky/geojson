@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Capistrello",
+    "country": "IT",
+    "subdivision": "01",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.39616,
+      41.97223
+    ]
+  }
+}

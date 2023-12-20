@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lemi",
+    "country": "FI",
+    "subdivision": "09",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.80571,
+      61.06244
+    ]
+  }
+}

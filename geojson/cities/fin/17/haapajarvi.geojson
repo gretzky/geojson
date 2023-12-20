@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Haapajärvi",
+    "country": "FI",
+    "subdivision": "17",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.33333,
+      63.75
+    ]
+  }
+}

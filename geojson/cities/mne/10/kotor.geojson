@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kotor",
+    "country": "ME",
+    "subdivision": "10",
+    "timezone": "Europe/Podgorica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.76825,
+      42.42067
+    ]
+  }
+}

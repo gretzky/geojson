@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "A Rúa",
+    "country": "ES",
+    "subdivision": "58",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.10268,
+      42.40048
+    ]
+  }
+}

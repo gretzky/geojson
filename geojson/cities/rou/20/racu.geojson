@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Racu",
+    "country": "RO",
+    "subdivision": "20",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.7606,
+      46.45178
+    ]
+  }
+}

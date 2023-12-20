@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Macapá",
+    "country": "BR",
+    "subdivision": "03",
+    "timezone": "America/Belem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -51.06639,
+      0.03889
+    ]
+  }
+}

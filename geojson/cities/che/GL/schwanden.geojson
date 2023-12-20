@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Schwanden",
+    "country": "CH",
+    "subdivision": "GL",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0701,
+      46.99541
+    ]
+  }
+}

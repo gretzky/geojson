@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lambari",
+    "country": "BR",
+    "subdivision": "15",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -45.35028,
+      -21.97556
+    ]
+  }
+}

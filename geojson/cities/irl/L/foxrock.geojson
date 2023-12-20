@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Foxrock",
+    "country": "IE",
+    "subdivision": "L",
+    "timezone": "Europe/Dublin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.17417,
+      53.26667
+    ]
+  }
+}

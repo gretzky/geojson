@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Úrsula",
+    "country": "ES",
+    "subdivision": "53",
+    "timezone": "Atlantic/Canary"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.48876,
+      28.42613
+    ]
+  }
+}

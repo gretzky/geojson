@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tervakoski",
+    "country": "FI",
+    "subdivision": "05",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.62594,
+      60.81412
+    ]
+  }
+}

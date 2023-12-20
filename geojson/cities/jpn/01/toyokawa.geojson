@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Toyokawa",
+    "country": "JP",
+    "subdivision": "01",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.4,
+      34.81667
+    ]
+  }
+}

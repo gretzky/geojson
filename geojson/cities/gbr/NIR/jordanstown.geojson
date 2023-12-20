@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jordanstown",
+    "country": "GB",
+    "subdivision": "NIR",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.9,
+      54.68333
+    ]
+  }
+}

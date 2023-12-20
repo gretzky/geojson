@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Les Corts",
+    "country": "ES",
+    "subdivision": "56",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.13007,
+      41.38712
+    ]
+  }
+}

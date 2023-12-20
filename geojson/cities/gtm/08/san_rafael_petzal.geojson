@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Rafael Petzal",
+    "country": "GT",
+    "subdivision": "08",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.66451,
+      15.40487
+    ]
+  }
+}

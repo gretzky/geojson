@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lebu",
+    "country": "CL",
+    "subdivision": "06",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.65356,
+      -37.60825
+    ]
+  }
+}

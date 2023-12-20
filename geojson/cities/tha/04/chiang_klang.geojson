@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chiang Klang",
+    "country": "TH",
+    "subdivision": "04",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.86169,
+      19.29378
+    ]
+  }
+}

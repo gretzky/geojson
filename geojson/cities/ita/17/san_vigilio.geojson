@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Vigilio",
+    "country": "IT",
+    "subdivision": "17",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.93104,
+      46.69884
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rautjärvi",
+    "country": "FI",
+    "subdivision": "09",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.35,
+      61.43333
+    ]
+  }
+}

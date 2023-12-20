@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Brea",
+    "country": "HN",
+    "subdivision": "03",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.96667,
+      15.8
+    ]
+  }
+}

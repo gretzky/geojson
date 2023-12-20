@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Suchá Loz",
+    "country": "CZ",
+    "subdivision": "90",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.71379,
+      48.97001
+    ]
+  }
+}

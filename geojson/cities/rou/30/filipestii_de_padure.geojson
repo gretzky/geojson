@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Filipeştii de Pădure",
+    "country": "RO",
+    "subdivision": "30",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.75,
+      45
+    ]
+  }
+}

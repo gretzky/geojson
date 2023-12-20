@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bahçecik",
+    "country": "TR",
+    "subdivision": "41",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.91478,
+      40.6681
+    ]
+  }
+}

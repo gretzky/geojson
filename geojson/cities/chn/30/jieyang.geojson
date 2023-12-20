@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jieyang",
+    "country": "CN",
+    "subdivision": "30",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.36581,
+      23.5418
+    ]
+  }
+}

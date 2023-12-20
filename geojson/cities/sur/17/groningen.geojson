@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Groningen",
+    "country": "SR",
+    "subdivision": "17",
+    "timezone": "America/Paramaribo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.46667,
+      5.8
+    ]
+  }
+}

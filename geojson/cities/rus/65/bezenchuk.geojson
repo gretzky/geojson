@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bezenchuk",
+    "country": "RU",
+    "subdivision": "65",
+    "timezone": "Europe/Samara"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.4333,
+      52.982
+    ]
+  }
+}

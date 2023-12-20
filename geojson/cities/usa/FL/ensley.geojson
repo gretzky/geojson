@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ensley",
+    "country": "US",
+    "subdivision": "FL",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.27275,
+      30.51881
+    ]
+  }
+}

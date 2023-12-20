@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oxford",
+    "country": "CA",
+    "subdivision": "07",
+    "timezone": "America/Halifax"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.86542,
+      45.73345
+    ]
+  }
+}

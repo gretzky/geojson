@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kajiki",
+    "country": "JP",
+    "subdivision": "18",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.66667,
+      31.73333
+    ]
+  }
+}

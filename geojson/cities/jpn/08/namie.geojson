@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Namie",
+    "country": "JP",
+    "subdivision": "08",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141,
+      37.48333
+    ]
+  }
+}

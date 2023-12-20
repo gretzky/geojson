@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guandu",
+    "country": "CN",
+    "subdivision": "18",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.10255,
+      28.56833
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Castlerock",
+    "country": "GB",
+    "subdivision": "NIR",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.78333,
+      55.15
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kiamba",
+    "country": "PH",
+    "subdivision": "12",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.62417,
+      5.98944
+    ]
+  }
+}

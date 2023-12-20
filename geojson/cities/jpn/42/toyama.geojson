@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Toyama",
+    "country": "JP",
+    "subdivision": "42",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.21667,
+      36.7
+    ]
+  }
+}

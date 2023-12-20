@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hägglingen",
+    "country": "CH",
+    "subdivision": "AG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.25285,
+      47.38851
+    ]
+  }
+}

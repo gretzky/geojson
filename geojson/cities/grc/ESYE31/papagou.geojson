@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Papágou",
+    "country": "GR",
+    "subdivision": "ESYE31",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.79347,
+      37.98642
+    ]
+  }
+}

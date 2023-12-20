@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Enshi",
+    "country": "CN",
+    "subdivision": "12",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      109.48333,
+      30.3
+    ]
+  }
+}

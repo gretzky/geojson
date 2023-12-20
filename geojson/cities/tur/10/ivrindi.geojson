@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "İvrindi",
+    "country": "TR",
+    "subdivision": "10",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.48639,
+      39.58389
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nome",
+    "country": "US",
+    "subdivision": "AK",
+    "timezone": "America/Nome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -165.40639,
+      64.50111
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Utsjoki",
+    "country": "FI",
+    "subdivision": "19",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.02843,
+      69.90864
+    ]
+  }
+}

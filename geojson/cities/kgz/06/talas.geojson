@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Talas",
+    "country": "KG",
+    "subdivision": "06",
+    "timezone": "Asia/Bishkek"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.24274,
+      42.52277
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carolina",
+    "country": "BR",
+    "subdivision": "13",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -47.46218,
+      -7.33561
+    ]
+  }
+}

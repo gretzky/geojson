@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Surovikino",
+    "country": "RU",
+    "subdivision": "84",
+    "timezone": "Europe/Volgograd"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.84621,
+      48.60734
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Minas de Oro",
+    "country": "HN",
+    "subdivision": "04",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.35,
+      14.8
+    ]
+  }
+}

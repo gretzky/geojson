@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Laranjeiras do Sul",
+    "country": "BR",
+    "subdivision": "18",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -52.41611,
+      -25.40778
+    ]
+  }
+}

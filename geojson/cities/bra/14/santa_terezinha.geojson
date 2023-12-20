@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Terezinha",
+    "country": "BR",
+    "subdivision": "14",
+    "timezone": "America/Cuiaba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -50.51359,
+      -10.47059
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beringen",
+    "country": "CH",
+    "subdivision": "SH",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.57431,
+      47.69763
+    ]
+  }
+}

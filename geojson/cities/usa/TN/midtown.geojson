@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Midtown",
+    "country": "US",
+    "subdivision": "TN",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.5641,
+      35.87952
+    ]
+  }
+}

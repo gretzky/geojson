@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colomi",
+    "country": "BO",
+    "subdivision": "02",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.86667,
+      -17.35
+    ]
+  }
+}

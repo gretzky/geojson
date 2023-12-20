@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Somerset East",
+    "country": "ZA",
+    "subdivision": "05",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.58804,
+      -32.72173
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Naroda",
+    "country": "IN",
+    "subdivision": "09",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.65702,
+      23.07041
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vysokaya Gora",
+    "country": "RU",
+    "subdivision": "73",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.30167,
+      55.91278
+    ]
+  }
+}

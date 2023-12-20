@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Río Verde",
+    "country": "MX",
+    "subdivision": "19",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.54345,
+      24.90081
+    ]
+  }
+}

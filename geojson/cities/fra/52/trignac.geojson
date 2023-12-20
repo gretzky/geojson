@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Trignac",
+    "country": "FR",
+    "subdivision": "52",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.18918,
+      47.31779
+    ]
+  }
+}

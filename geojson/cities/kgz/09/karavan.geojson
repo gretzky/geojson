@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karavan",
+    "country": "KG",
+    "subdivision": "09",
+    "timezone": "Asia/Bishkek"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.18627,
+      40.29513
+    ]
+  }
+}

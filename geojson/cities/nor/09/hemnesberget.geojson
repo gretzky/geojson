@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hemnesberget",
+    "country": "NO",
+    "subdivision": "09",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.61643,
+      66.22489
+    ]
+  }
+}

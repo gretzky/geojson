@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guaca",
+    "country": "CO",
+    "subdivision": "26",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.85594,
+      6.87621
+    ]
+  }
+}

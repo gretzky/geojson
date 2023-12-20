@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kampot",
+    "country": "KH",
+    "subdivision": "21",
+    "timezone": "Asia/Phnom_Penh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.18145,
+      10.61041
+    ]
+  }
+}

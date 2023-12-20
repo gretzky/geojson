@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arbon",
+    "country": "CH",
+    "subdivision": "TG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.43333,
+      47.51667
+    ]
+  }
+}

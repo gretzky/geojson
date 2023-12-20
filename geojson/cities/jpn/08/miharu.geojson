@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Miharu",
+    "country": "JP",
+    "subdivision": "08",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.48333,
+      37.43333
+    ]
+  }
+}

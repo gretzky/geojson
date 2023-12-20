@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vinsady",
+    "country": "RU",
+    "subdivision": "70",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.96528,
+      44.08083
+    ]
+  }
+}

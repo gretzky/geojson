@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cabezón",
+    "country": "ES",
+    "subdivision": "55",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.6451,
+      41.73369
+    ]
+  }
+}

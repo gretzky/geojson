@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vanino",
+    "country": "RU",
+    "subdivision": "30",
+    "timezone": "Asia/Vladivostok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.25313,
+      49.09848
+    ]
+  }
+}

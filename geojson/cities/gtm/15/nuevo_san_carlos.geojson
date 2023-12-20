@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nuevo San Carlos",
+    "country": "GT",
+    "subdivision": "15",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.6939,
+      14.593
+    ]
+  }
+}

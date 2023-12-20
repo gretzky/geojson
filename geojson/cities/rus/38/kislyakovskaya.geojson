@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kislyakovskaya",
+    "country": "RU",
+    "subdivision": "38",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.675,
+      46.4417
+    ]
+  }
+}

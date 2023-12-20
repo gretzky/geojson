@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ljungby",
+    "country": "SE",
+    "subdivision": "12",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.94082,
+      56.83324
+    ]
+  }
+}

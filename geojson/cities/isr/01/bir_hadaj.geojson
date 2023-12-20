@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bir Hadaj",
+    "country": "IL",
+    "subdivision": "01",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.70857,
+      31.02416
+    ]
+  }
+}

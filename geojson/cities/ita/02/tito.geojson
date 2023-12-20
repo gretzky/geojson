@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tito",
+    "country": "IT",
+    "subdivision": "02",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.67621,
+      40.5837
+    ]
+  }
+}

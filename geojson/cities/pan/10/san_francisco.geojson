@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Francisco",
+    "country": "PA",
+    "subdivision": "10",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.97368,
+      8.24541
+    ]
+  }
+}

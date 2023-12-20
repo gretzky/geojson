@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Horodło",
+    "country": "PL",
+    "subdivision": "75",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.03723,
+      50.89459
+    ]
+  }
+}

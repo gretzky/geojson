@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boyang",
+    "country": "CN",
+    "subdivision": "11",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      109.52056,
+      26.21167
+    ]
+  }
+}

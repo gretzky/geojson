@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ersmark",
+    "country": "SE",
+    "subdivision": "23",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.31667,
+      63.88333
+    ]
+  }
+}

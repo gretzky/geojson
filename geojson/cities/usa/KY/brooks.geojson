@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brooks",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.70968,
+      38.06118
+    ]
+  }
+}

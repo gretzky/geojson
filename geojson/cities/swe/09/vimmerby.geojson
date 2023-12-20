@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vimmerby",
+    "country": "SE",
+    "subdivision": "09",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.85515,
+      57.66588
+    ]
+  }
+}

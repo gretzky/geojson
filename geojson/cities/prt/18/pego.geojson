@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pego",
+    "country": "PT",
+    "subdivision": "18",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.14955,
+      39.46146
+    ]
+  }
+}

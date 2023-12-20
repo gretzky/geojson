@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Roccaraso",
+    "country": "IT",
+    "subdivision": "01",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.07846,
+      41.84872
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kibale",
+    "country": "UG",
+    "subdivision": "W",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.06667,
+      0.8
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Harrison Brook",
+    "country": "CA",
+    "subdivision": "04",
+    "timezone": "America/Moncton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.92847,
+      47.21304
+    ]
+  }
+}

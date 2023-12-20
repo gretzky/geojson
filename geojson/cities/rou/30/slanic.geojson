@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Slănic",
+    "country": "RO",
+    "subdivision": "30",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.93333,
+      45.25
+    ]
+  }
+}

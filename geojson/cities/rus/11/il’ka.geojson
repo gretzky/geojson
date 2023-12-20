@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Il’ka",
+    "country": "RU",
+    "subdivision": "11",
+    "timezone": "Asia/Irkutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      108.52169,
+      51.72114
+    ]
+  }
+}

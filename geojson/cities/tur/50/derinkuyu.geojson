@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Derinkuyu",
+    "country": "TR",
+    "subdivision": "50",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.73419,
+      38.3751
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Antonio Oeste",
+    "country": "AR",
+    "subdivision": "16",
+    "timezone": "America/Argentina/Salta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.94769,
+      -40.73193
+    ]
+  }
+}

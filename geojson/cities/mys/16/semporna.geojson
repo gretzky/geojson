@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Semporna",
+    "country": "MY",
+    "subdivision": "16",
+    "timezone": "Asia/Kuching"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      118.61119,
+      4.48178
+    ]
+  }
+}

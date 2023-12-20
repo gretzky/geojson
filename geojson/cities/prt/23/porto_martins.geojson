@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porto Martins",
+    "country": "PT",
+    "subdivision": "23",
+    "timezone": "Atlantic/Azores"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -27.05835,
+      38.68146
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Leibnitz",
+    "country": "AT",
+    "subdivision": "06",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.53836,
+      46.78161
+    ]
+  }
+}

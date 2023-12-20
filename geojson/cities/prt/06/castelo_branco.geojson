@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Castelo Branco",
+    "country": "PT",
+    "subdivision": "06",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.49087,
+      39.82219
+    ]
+  }
+}

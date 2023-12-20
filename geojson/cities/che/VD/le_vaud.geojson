@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Vaud",
+    "country": "CH",
+    "subdivision": "VD",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.23603,
+      46.47753
+    ]
+  }
+}

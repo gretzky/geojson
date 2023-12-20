@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Reitz",
+    "country": "ZA",
+    "subdivision": "03",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.42726,
+      -27.80138
+    ]
+  }
+}

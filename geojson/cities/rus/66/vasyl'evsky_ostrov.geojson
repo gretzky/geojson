@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vasyl'evsky Ostrov",
+    "country": "RU",
+    "subdivision": "66",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.25377,
+      59.94091
+    ]
+  }
+}

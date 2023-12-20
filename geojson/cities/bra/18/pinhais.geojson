@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pinhais",
+    "country": "BR",
+    "subdivision": "18",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -49.1925,
+      -25.44472
+    ]
+  }
+}

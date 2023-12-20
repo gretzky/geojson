@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Montoro",
+    "country": "MX",
+    "subdivision": "01",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.30219,
+      21.75603
+    ]
+  }
+}

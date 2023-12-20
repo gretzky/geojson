@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barajas de Madrid",
+    "country": "ES",
+    "subdivision": "29",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.57777,
+      40.47366
+    ]
+  }
+}

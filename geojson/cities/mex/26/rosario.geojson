@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rosario",
+    "country": "MX",
+    "subdivision": "26",
+    "timezone": "America/Hermosillo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.36806,
+      27.84111
+    ]
+  }
+}

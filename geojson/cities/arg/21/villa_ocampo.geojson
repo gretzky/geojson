@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Ocampo",
+    "country": "AR",
+    "subdivision": "21",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.35515,
+      -28.48752
+    ]
+  }
+}

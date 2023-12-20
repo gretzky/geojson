@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Capilla",
+    "country": "CO",
+    "subdivision": "36",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.47527,
+      5.70493
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Bartolo",
+    "country": "GT",
+    "subdivision": "21",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.45606,
+      15.08438
+    ]
+  }
+}

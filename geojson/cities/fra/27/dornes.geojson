@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dornes",
+    "country": "FR",
+    "subdivision": "27",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.35343,
+      46.716
+    ]
+  }
+}

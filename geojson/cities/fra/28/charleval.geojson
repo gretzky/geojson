@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Charleval",
+    "country": "FR",
+    "subdivision": "28",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.38369,
+      49.3729
+    ]
+  }
+}

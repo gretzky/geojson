@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Rondón",
+    "country": "CO",
+    "subdivision": "03",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.1,
+      6.28048
+    ]
+  }
+}

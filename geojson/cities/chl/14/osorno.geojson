@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Osorno",
+    "country": "CL",
+    "subdivision": "14",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.13348,
+      -40.57395
+    ]
+  }
+}

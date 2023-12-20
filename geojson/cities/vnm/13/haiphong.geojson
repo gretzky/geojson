@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Haiphong",
+    "country": "VN",
+    "subdivision": "13",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.68345,
+      20.86481
+    ]
+  }
+}

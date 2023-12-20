@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nazaré",
+    "country": "PT",
+    "subdivision": "13",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.06836,
+      39.60289
+    ]
+  }
+}

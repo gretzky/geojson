@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Springfield",
+    "country": "US",
+    "subdivision": "VT",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.48231,
+      43.29841
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maków Mazowiecki",
+    "country": "PL",
+    "subdivision": "78",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.10053,
+      52.86493
+    ]
+  }
+}

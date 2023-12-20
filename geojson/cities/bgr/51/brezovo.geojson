@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brezovo",
+    "country": "BG",
+    "subdivision": "51",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.08333,
+      42.35
+    ]
+  }
+}

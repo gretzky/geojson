@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wairoa",
+    "country": "NZ",
+    "subdivision": "F2",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      177.36667,
+      -39.03333
+    ]
+  }
+}

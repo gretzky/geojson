@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sloboda",
+    "country": "RU",
+    "subdivision": "86",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.3021,
+      51.1421
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pago Pago",
+    "country": "AS",
+    "subdivision": "010",
+    "timezone": "Pacific/Pago_Pago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -170.7025,
+      -14.27806
+    ]
+  }
+}

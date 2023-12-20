@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Holstebro",
+    "country": "DK",
+    "subdivision": "18",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.61607,
+      56.36009
+    ]
+  }
+}

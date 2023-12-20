@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Antropovo",
+    "country": "RU",
+    "subdivision": "37",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.00659,
+      58.39876
+    ]
+  }
+}

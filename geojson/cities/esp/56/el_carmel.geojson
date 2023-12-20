@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Carmel",
+    "country": "ES",
+    "subdivision": "56",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.15914,
+      41.41758
+    ]
+  }
+}

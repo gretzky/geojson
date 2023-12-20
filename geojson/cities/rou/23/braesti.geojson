@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brăeşti",
+    "country": "RO",
+    "subdivision": "23",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.1,
+      47.15
+    ]
+  }
+}

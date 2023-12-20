@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Luumäki",
+    "country": "FI",
+    "subdivision": "09",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.58135,
+      60.92618
+    ]
+  }
+}

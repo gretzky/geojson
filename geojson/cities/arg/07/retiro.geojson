@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Retiro",
+    "country": "AR",
+    "subdivision": "07",
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.38333,
+      -34.58333
+    ]
+  }
+}

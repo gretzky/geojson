@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sultanbeyli",
+    "country": "TR",
+    "subdivision": "34",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.27067,
+      40.96072
+    ]
+  }
+}

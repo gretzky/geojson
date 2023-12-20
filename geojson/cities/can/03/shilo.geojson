@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shilo",
+    "country": "CA",
+    "subdivision": "03",
+    "timezone": "America/Winnipeg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.64634,
+      49.80551
+    ]
+  }
+}

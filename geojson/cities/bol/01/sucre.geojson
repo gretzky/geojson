@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sucre",
+    "country": "BO",
+    "subdivision": "01",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.26274,
+      -19.03332
+    ]
+  }
+}

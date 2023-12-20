@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Orhaneli",
+    "country": "TR",
+    "subdivision": "16",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.99056,
+      39.90333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Haikou",
+    "country": "CN",
+    "subdivision": "31",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      110.34167,
+      20.04583
+    ]
+  }
+}

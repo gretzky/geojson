@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tawau",
+    "country": "MY",
+    "subdivision": "16",
+    "timezone": "Asia/Kuching"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.89115,
+      4.24482
+    ]
+  }
+}

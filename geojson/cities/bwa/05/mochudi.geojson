@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mochudi",
+    "country": "BW",
+    "subdivision": "05",
+    "timezone": "Africa/Gaborone"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.15,
+      -24.41667
+    ]
+  }
+}

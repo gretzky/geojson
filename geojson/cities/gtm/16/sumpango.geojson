@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sumpango",
+    "country": "GT",
+    "subdivision": "16",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.73427,
+      14.64623
+    ]
+  }
+}

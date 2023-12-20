@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boise",
+    "country": "US",
+    "subdivision": "ID",
+    "timezone": "America/Boise"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.20345,
+      43.6135
+    ]
+  }
+}

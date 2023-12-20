@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Viby",
+    "country": "DK",
+    "subdivision": "20",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.02391,
+      55.54872
+    ]
+  }
+}

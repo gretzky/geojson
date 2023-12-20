@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Canto del Llano",
+    "country": "PA",
+    "subdivision": "10",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.96422,
+      8.12307
+    ]
+  }
+}

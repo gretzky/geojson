@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alor Setar",
+    "country": "MY",
+    "subdivision": "02",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.36014,
+      6.12104
+    ]
+  }
+}

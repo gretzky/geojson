@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Corgo",
+    "country": "ES",
+    "subdivision": "58",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.4314,
+      42.94434
+    ]
+  }
+}

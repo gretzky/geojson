@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gregory",
+    "country": "US",
+    "subdivision": "SD",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.43038,
+      43.23222
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Grängesberg",
+    "country": "SE",
+    "subdivision": "10",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.00784,
+      60.07465
+    ]
+  }
+}

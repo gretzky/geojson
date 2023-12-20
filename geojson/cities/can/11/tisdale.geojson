@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tisdale",
+    "country": "CA",
+    "subdivision": "11",
+    "timezone": "America/Regina"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.05096,
+      52.85002
+    ]
+  }
+}

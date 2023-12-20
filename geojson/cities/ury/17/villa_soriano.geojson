@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Soriano",
+    "country": "UY",
+    "subdivision": "17",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.32177,
+      -33.39811
+    ]
+  }
+}

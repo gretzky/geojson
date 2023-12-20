@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Culmore",
+    "country": "GB",
+    "subdivision": "NIR",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.26667,
+      55.05
+    ]
+  }
+}

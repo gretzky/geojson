@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tianfu",
+    "country": "CN",
+    "subdivision": "25",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.05228,
+      37.26366
+    ]
+  }
+}

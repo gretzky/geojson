@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "New Durham",
+    "country": "US",
+    "subdivision": "NH",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.17229,
+      43.43675
+    ]
+  }
+}

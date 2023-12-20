@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arteixo",
+    "country": "ES",
+    "subdivision": "58",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.50749,
+      43.30482
+    ]
+  }
+}

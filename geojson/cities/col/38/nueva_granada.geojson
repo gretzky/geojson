@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nueva Granada",
+    "country": "CO",
+    "subdivision": "38",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.39304,
+      9.80168
+    ]
+  }
+}

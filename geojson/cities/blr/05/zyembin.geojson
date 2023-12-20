@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zyembin",
+    "country": "BY",
+    "subdivision": "05",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.2207,
+      54.3579
+    ]
+  }
+}

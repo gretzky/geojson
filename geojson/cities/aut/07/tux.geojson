@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tux",
+    "country": "AT",
+    "subdivision": "07",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.72872,
+      47.15559
+    ]
+  }
+}

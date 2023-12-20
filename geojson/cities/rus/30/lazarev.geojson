@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lazarev",
+    "country": "RU",
+    "subdivision": "30",
+    "timezone": "Asia/Vladivostok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.51265,
+      52.22307
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stropkov",
+    "country": "SK",
+    "subdivision": "05",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.65216,
+      49.20211
+    ]
+  }
+}

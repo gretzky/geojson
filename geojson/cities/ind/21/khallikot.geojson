@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Khallikot",
+    "country": "IN",
+    "subdivision": "21",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.08609,
+      19.60908
+    ]
+  }
+}

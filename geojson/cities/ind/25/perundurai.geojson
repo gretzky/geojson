@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Perundurai",
+    "country": "IN",
+    "subdivision": "25",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.58794,
+      11.27564
+    ]
+  }
+}

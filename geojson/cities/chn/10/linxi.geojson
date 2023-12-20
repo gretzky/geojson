@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Linxi",
+    "country": "CN",
+    "subdivision": "10",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      118.44954,
+      39.71183
+    ]
+  }
+}

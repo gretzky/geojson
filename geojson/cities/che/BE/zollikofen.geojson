@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zollikofen",
+    "country": "CH",
+    "subdivision": "BE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.45809,
+      46.99905
+    ]
+  }
+}

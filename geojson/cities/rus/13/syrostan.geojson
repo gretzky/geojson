@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Syrostan",
+    "country": "RU",
+    "subdivision": "13",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      59.9002,
+      55.0634
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Baalbek",
+    "country": "LB",
+    "subdivision": "11",
+    "timezone": "Asia/Beirut"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.21806,
+      34.00583
+    ]
+  }
+}

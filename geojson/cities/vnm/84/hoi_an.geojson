@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hoi An",
+    "country": "VN",
+    "subdivision": "84",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      108.335,
+      15.87944
+    ]
+  }
+}

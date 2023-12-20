@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zamishevo",
+    "country": "RU",
+    "subdivision": "10",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.0129,
+      52.5395
+    ]
+  }
+}

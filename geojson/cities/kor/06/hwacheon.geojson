@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hwacheon",
+    "country": "KR",
+    "subdivision": "06",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.70632,
+      38.10705
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novaya Zaimka",
+    "country": "RU",
+    "subdivision": "78",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      66.92413,
+      56.48571
+    ]
+  }
+}

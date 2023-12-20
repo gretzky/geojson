@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kusŏng",
+    "country": "KP",
+    "subdivision": "11",
+    "timezone": "Asia/Pyongyang"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.24472,
+      39.98111
+    ]
+  }
+}

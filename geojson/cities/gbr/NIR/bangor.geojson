@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bangor",
+    "country": "GB",
+    "subdivision": "NIR",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.66802,
+      54.66079
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wulagi",
+    "country": "AU",
+    "subdivision": "03",
+    "timezone": "Australia/Darwin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.89543,
+      -12.38345
+    ]
+  }
+}

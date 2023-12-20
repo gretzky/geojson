@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tago",
+    "country": "PH",
+    "subdivision": "13",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.23167,
+      9.02111
+    ]
+  }
+}

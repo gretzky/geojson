@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ligornetto",
+    "country": "CH",
+    "subdivision": "TI",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.95166,
+      45.86161
+    ]
+  }
+}

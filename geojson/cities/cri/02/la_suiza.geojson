@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Suiza",
+    "country": "CR",
+    "subdivision": "02",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.6169,
+      9.85065
+    ]
+  }
+}

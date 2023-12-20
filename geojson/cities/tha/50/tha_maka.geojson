@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tha Maka",
+    "country": "TH",
+    "subdivision": "50",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.76667,
+      13.9
+    ]
+  }
+}

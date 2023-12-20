@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lucero",
+    "country": "PH",
+    "subdivision": "01",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.9124,
+      16.4051
+    ]
+  }
+}

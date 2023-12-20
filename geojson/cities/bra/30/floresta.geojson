@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Floresta",
+    "country": "BR",
+    "subdivision": "30",
+    "timezone": "America/Recife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -38.56861,
+      -8.60111
+    ]
+  }
+}

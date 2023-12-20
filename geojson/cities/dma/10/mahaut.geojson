@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mahaut",
+    "country": "DM",
+    "subdivision": "10",
+    "timezone": "America/Dominica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.39701,
+      15.36357
+    ]
+  }
+}

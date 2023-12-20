@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cristóbal Colón",
+    "country": "MX",
+    "subdivision": "05",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.62917,
+      17.19194
+    ]
+  }
+}

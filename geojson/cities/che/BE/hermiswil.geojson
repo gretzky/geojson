@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hermiswil",
+    "country": "CH",
+    "subdivision": "BE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.47775,
+      46.83125
+    ]
+  }
+}

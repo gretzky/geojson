@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Farrar",
+    "country": "AU",
+    "subdivision": "03",
+    "timezone": "Australia/Darwin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.9982,
+      -12.48028
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aurora",
+    "country": "BR",
+    "subdivision": "06",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -38.9675,
+      -6.9425
+    ]
+  }
+}

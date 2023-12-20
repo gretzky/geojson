@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Changyŏn",
+    "country": "KP",
+    "subdivision": "06",
+    "timezone": "Asia/Pyongyang"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.09611,
+      38.25083
+    ]
+  }
+}

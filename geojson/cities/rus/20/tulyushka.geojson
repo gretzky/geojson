@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tulyushka",
+    "country": "RU",
+    "subdivision": "20",
+    "timezone": "Asia/Irkutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.17054,
+      54.45851
+    ]
+  }
+}

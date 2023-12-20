@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jinan",
+    "country": "CN",
+    "subdivision": "25",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.99722,
+      36.66833
+    ]
+  }
+}

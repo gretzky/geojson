@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Caloocan City",
+    "country": "PH",
+    "subdivision": "NCR",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.96788,
+      14.64953
+    ]
+  }
+}

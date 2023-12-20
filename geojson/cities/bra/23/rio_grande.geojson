@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rio Grande",
+    "country": "BR",
+    "subdivision": "23",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -52.09861,
+      -32.035
+    ]
+  }
+}

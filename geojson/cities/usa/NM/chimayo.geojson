@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chimayo",
+    "country": "US",
+    "subdivision": "NM",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.94697,
+      36.00391
+    ]
+  }
+}

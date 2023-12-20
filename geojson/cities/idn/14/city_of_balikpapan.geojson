@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "City of Balikpapan",
+    "country": "ID",
+    "subdivision": "14",
+    "timezone": "Asia/Makassar"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.89419,
+      -1.24204
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Silkeborg",
+    "country": "DK",
+    "subdivision": "18",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.54508,
+      56.1697
+    ]
+  }
+}

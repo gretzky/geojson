@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ştefan cel Mare",
+    "country": "RO",
+    "subdivision": "03",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.24418,
+      44.49283
+    ]
+  }
+}

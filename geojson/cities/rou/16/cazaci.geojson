@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cazaci",
+    "country": "RO",
+    "subdivision": "16",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.55405,
+      44.80152
+    ]
+  }
+}

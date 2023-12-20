@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Miguel",
+    "country": "SV",
+    "subdivision": "09",
+    "timezone": "America/El_Salvador"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.18333,
+      13.48333
+    ]
+  }
+}

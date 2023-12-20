@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Satu Nou",
+    "country": "RO",
+    "subdivision": "04",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.65343,
+      46.24447
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gero",
+    "country": "JP",
+    "subdivision": "09",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.23333,
+      35.8
+    ]
+  }
+}

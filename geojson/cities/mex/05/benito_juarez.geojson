@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Benito Juárez",
+    "country": "MX",
+    "subdivision": "05",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.32188,
+      16.42751
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Islaz",
+    "country": "RO",
+    "subdivision": "43",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.38724,
+      44.46117
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Madrid",
+    "country": "PH",
+    "subdivision": "13",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.96437,
+      9.26211
+    ]
+  }
+}

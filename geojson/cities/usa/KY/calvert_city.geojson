@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Calvert City",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.35004,
+      37.03339
+    ]
+  }
+}

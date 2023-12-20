@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karlstetten",
+    "country": "AT",
+    "subdivision": "03",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.56544,
+      48.2592
+    ]
+  }
+}

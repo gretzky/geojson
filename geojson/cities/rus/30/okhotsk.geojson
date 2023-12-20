@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Okhotsk",
+    "country": "RU",
+    "subdivision": "30",
+    "timezone": "Asia/Vladivostok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      143.21468,
+      59.362
+    ]
+  }
+}

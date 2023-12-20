@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Talisayan",
+    "country": "PH",
+    "subdivision": "09",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.92722,
+      6.98722
+    ]
+  }
+}

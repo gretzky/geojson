@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pupri",
+    "country": "IN",
+    "subdivision": "34",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.70311,
+      26.47079
+    ]
+  }
+}

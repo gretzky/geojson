@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taurano",
+    "country": "IT",
+    "subdivision": "04",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.63427,
+      40.88444
+    ]
+  }
+}

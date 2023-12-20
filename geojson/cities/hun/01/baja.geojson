@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Baja",
+    "country": "HU",
+    "subdivision": "01",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.95307,
+      46.18299
+    ]
+  }
+}

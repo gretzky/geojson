@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barcelona",
+    "country": "VE",
+    "subdivision": "02",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.68618,
+      10.13625
+    ]
+  }
+}

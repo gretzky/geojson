@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Polska Cerekiew",
+    "country": "PL",
+    "subdivision": "79",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.12675,
+      50.22827
+    ]
+  }
+}

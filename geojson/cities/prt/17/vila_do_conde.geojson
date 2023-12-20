@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vila do Conde",
+    "country": "PT",
+    "subdivision": "17",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.74516,
+      41.35326
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mucur",
+    "country": "TR",
+    "subdivision": "40",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.38286,
+      39.06147
+    ]
+  }
+}

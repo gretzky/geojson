@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brislach",
+    "country": "CH",
+    "subdivision": "BL",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5434,
+      47.41763
+    ]
+  }
+}

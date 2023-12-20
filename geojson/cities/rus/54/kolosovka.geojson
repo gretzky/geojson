@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kolosovka",
+    "country": "RU",
+    "subdivision": "54",
+    "timezone": "Asia/Omsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.61096,
+      56.46779
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Klobuky",
+    "country": "CZ",
+    "subdivision": "88",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.98748,
+      50.29401
+    ]
+  }
+}

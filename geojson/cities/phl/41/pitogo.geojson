@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pitogo",
+    "country": "PH",
+    "subdivision": "41",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.09041,
+      12.50744
+    ]
+  }
+}

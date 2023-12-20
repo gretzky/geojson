@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sulak",
+    "country": "RU",
+    "subdivision": "17",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.51463,
+      43.27342
+    ]
+  }
+}

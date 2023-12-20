@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "dunaújváros",
+    "country": "HU",
+    "subdivision": "08",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.93288,
+      46.96737
+    ]
+  }
+}

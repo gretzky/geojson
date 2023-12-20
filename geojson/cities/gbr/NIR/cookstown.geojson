@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cookstown",
+    "country": "GB",
+    "subdivision": "NIR",
+    "timezone": "Europe/London"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.74595,
+      54.64305
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mohr",
+    "country": "IR",
+    "subdivision": "07",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.8836,
+      27.5552
+    ]
+  }
+}

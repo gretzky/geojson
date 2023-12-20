@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yinchuan",
+    "country": "CN",
+    "subdivision": "21",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.27306,
+      38.46806
+    ]
+  }
+}

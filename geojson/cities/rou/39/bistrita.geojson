@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bistrița",
+    "country": "RO",
+    "subdivision": "39",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.0401,
+      45.18612
+    ]
+  }
+}

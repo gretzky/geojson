@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Huaibei",
+    "country": "CN",
+    "subdivision": "01",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.79167,
+      33.97444
+    ]
+  }
+}

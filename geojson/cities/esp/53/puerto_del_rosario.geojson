@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto del Rosario",
+    "country": "ES",
+    "subdivision": "53",
+    "timezone": "Atlantic/Canary"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.86272,
+      28.50038
+    ]
+  }
+}

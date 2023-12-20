@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gettysburg",
+    "country": "US",
+    "subdivision": "SD",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.95567,
+      45.01165
+    ]
+  }
+}

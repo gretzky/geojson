@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Surrey",
+    "country": "CA",
+    "subdivision": "02",
+    "timezone": "America/Vancouver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.82509,
+      49.10635
+    ]
+  }
+}

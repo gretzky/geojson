@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chaykovskaya",
+    "country": "RU",
+    "subdivision": "90",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.5352,
+      58.1288
+    ]
+  }
+}

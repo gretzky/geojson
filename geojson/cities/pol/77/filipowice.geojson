@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Filipowice",
+    "country": "PL",
+    "subdivision": "77",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.56579,
+      50.15573
+    ]
+  }
+}

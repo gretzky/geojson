@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Corneşti",
+    "country": "RO",
+    "subdivision": "16",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.86667,
+      44.78333
+    ]
+  }
+}

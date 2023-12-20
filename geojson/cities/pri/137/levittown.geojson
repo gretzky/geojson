@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Levittown",
+    "country": "PR",
+    "subdivision": "137",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.18156,
+      18.44995
+    ]
+  }
+}

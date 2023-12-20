@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sirok",
+    "country": "HU",
+    "subdivision": "11",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.2,
+      47.93333
+    ]
+  }
+}

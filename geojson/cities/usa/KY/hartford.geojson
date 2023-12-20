@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hartford",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.90916,
+      37.45116
+    ]
+  }
+}

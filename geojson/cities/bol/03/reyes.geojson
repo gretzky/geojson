@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Reyes",
+    "country": "BO",
+    "subdivision": "03",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.33624,
+      -14.2952
+    ]
+  }
+}

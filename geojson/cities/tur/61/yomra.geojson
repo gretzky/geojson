@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yomra",
+    "country": "TR",
+    "subdivision": "61",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.85546,
+      40.95326
+    ]
+  }
+}

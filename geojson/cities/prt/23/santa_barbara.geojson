@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Bárbara",
+    "country": "PT",
+    "subdivision": "23",
+    "timezone": "Atlantic/Azores"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -27.33907,
+      38.69608
+    ]
+  }
+}

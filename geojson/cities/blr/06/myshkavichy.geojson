@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Myshkavichy",
+    "country": "BY",
+    "subdivision": "06",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.512,
+      53.2172
+    ]
+  }
+}

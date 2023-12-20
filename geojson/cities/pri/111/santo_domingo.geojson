@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santo Domingo",
+    "country": "PR",
+    "subdivision": "111",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.7524,
+      18.0633
+    ]
+  }
+}

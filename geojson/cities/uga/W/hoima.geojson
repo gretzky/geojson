@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hoima",
+    "country": "UG",
+    "subdivision": "W",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.35241,
+      1.43314
+    ]
+  }
+}

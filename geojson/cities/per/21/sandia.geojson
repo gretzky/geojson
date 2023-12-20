@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sandia",
+    "country": "PE",
+    "subdivision": "21",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.4654,
+      -14.32141
+    ]
+  }
+}

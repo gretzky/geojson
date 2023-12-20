@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dno",
+    "country": "RU",
+    "subdivision": "60",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.96368,
+      57.82772
+    ]
+  }
+}

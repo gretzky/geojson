@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mengyin",
+    "country": "CN",
+    "subdivision": "25",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.92639,
+      35.70694
+    ]
+  }
+}

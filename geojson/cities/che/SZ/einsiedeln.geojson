@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Einsiedeln",
+    "country": "CH",
+    "subdivision": "SZ",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.74735,
+      47.12849
+    ]
+  }
+}

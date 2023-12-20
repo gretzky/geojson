@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ashburton",
+    "country": "NZ",
+    "subdivision": "E9",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      171.73011,
+      -43.89834
+    ]
+  }
+}

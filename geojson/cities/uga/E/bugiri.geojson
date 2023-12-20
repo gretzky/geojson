@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bugiri",
+    "country": "UG",
+    "subdivision": "E",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.74167,
+      0.57139
+    ]
+  }
+}

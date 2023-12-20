@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Anchorage",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/Kentucky/Louisville"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.53302,
+      38.26674
+    ]
+  }
+}

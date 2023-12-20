@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boca de Yuma",
+    "country": "DO",
+    "subdivision": "10",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.609,
+      18.37825
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Coco",
+    "country": "PA",
+    "subdivision": "13",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.80806,
+      8.87692
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Grahamstown",
+    "country": "ZA",
+    "subdivision": "05",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.53276,
+      -33.30422
+    ]
+  }
+}

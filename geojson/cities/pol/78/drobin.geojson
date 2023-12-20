@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Drobin",
+    "country": "PL",
+    "subdivision": "78",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.98928,
+      52.73775
+    ]
+  }
+}

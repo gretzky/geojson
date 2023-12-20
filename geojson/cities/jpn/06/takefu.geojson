@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Takefu",
+    "country": "JP",
+    "subdivision": "06",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.16687,
+      35.90393
+    ]
+  }
+}

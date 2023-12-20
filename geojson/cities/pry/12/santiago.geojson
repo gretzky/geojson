@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santiago",
+    "country": "PY",
+    "subdivision": "12",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.76803,
+      -27.1431
+    ]
+  }
+}

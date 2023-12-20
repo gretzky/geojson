@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jablah",
+    "country": "SY",
+    "subdivision": "02",
+    "timezone": "Asia/Damascus"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.92759,
+      35.36211
+    ]
+  }
+}

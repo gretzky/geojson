@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "León",
+    "country": "ES",
+    "subdivision": "55",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.57032,
+      42.60003
+    ]
+  }
+}

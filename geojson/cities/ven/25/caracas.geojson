@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Caracas",
+    "country": "VE",
+    "subdivision": "25",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.87919,
+      10.48801
+    ]
+  }
+}

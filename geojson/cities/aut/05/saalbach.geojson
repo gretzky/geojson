@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saalbach",
+    "country": "AT",
+    "subdivision": "05",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.63642,
+      47.39138
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monaco",
+    "country": "MC",
+    "subdivision": "00",
+    "timezone": "Europe/Monaco"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.41667,
+      43.73333
+    ]
+  }
+}

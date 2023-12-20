@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monash",
+    "country": "AU",
+    "subdivision": "05",
+    "timezone": "Australia/Adelaide"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.56131,
+      -34.2384
+    ]
+  }
+}

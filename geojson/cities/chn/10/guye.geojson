@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guye",
+    "country": "CN",
+    "subdivision": "10",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      118.44085,
+      39.73054
+    ]
+  }
+}

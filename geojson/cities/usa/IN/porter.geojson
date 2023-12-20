@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porter",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.0742,
+      41.61559
+    ]
+  }
+}

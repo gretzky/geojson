@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mojimán",
+    "country": "HN",
+    "subdivision": "18",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.6,
+      15.26667
+    ]
+  }
+}

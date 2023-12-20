@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "General Pico",
+    "country": "AR",
+    "subdivision": "11",
+    "timezone": "America/Argentina/Salta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.75682,
+      -35.65662
+    ]
+  }
+}

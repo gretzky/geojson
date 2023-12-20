@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karanpur",
+    "country": "IN",
+    "subdivision": "24",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.45519,
+      29.84042
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bilje",
+    "country": "SI",
+    "subdivision": "J5",
+    "timezone": "Europe/Ljubljana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.63222,
+      45.89444
+    ]
+  }
+}

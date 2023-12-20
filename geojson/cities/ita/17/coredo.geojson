@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coredo",
+    "country": "IT",
+    "subdivision": "17",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.09001,
+      46.34906
+    ]
+  }
+}

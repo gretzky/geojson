@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Monica",
+    "country": "BR",
+    "subdivision": "26",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -48.50756,
+      -27.59137
+    ]
+  }
+}

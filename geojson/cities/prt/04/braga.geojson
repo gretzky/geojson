@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Braga",
+    "country": "PT",
+    "subdivision": "04",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.42005,
+      41.55032
+    ]
+  }
+}

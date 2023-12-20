@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kinzan",
+    "country": "KR",
+    "subdivision": "17",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.48889,
+      36.10306
+    ]
+  }
+}

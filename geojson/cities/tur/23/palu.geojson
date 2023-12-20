@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palu",
+    "country": "TR",
+    "subdivision": "23",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.91984,
+      38.69135
+    ]
+  }
+}

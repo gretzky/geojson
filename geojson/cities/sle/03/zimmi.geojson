@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zimmi",
+    "country": "SL",
+    "subdivision": "03",
+    "timezone": "Africa/Freetown"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.30818,
+      7.31356
+    ]
+  }
+}

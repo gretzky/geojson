@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Paloma",
+    "country": "UY",
+    "subdivision": "14",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.16452,
+      -34.66268
+    ]
+  }
+}

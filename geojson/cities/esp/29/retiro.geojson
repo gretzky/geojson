@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Retiro",
+    "country": "ES",
+    "subdivision": "29",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.68307,
+      40.41317
+    ]
+  }
+}

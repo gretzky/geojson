@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ferizli",
+    "country": "TR",
+    "subdivision": "54",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.48583,
+      40.94082
+    ]
+  }
+}

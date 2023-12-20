@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Windy Hills",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/Kentucky/Louisville"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.63441,
+      38.27396
+    ]
+  }
+}

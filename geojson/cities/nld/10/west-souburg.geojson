@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "West-Souburg",
+    "country": "NL",
+    "subdivision": "10",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.59167,
+      51.46417
+    ]
+  }
+}

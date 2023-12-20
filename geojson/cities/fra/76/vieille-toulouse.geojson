@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vieille-Toulouse",
+    "country": "FR",
+    "subdivision": "76",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.4423,
+      43.52366
+    ]
+  }
+}

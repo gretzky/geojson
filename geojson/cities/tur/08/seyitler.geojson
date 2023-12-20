@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Seyitler",
+    "country": "TR",
+    "subdivision": "08",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.83799,
+      41.19556
+    ]
+  }
+}

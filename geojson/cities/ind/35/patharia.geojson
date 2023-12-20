@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Patharia",
+    "country": "IN",
+    "subdivision": "35",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.19393,
+      23.89921
+    ]
+  }
+}

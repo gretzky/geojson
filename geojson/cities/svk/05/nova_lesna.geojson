@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nová Lesná",
+    "country": "SK",
+    "subdivision": "05",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.26737,
+      49.12253
+    ]
+  }
+}

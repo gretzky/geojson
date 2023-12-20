@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kalinovskoye",
+    "country": "RU",
+    "subdivision": "70",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.9622,
+      44.8635
+    ]
+  }
+}

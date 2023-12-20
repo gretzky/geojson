@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nakhon Pathom",
+    "country": "TH",
+    "subdivision": "53",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.04427,
+      13.8196
+    ]
+  }
+}

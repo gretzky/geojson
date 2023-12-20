@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Petrivka",
+    "country": "UA",
+    "subdivision": "17",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.72167,
+      46.9108
+    ]
+  }
+}

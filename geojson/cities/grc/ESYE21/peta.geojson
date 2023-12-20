@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Péta",
+    "country": "GR",
+    "subdivision": "ESYE21",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.03472,
+      39.16667
+    ]
+  }
+}

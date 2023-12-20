@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Les Breuleux",
+    "country": "CH",
+    "subdivision": "JU",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.00792,
+      47.21099
+    ]
+  }
+}

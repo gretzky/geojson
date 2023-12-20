@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oslo",
+    "country": "NO",
+    "subdivision": "12",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.74609,
+      59.91273
+    ]
+  }
+}

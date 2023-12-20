@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Masica",
+    "country": "HN",
+    "subdivision": "01",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.11667,
+      15.61667
+    ]
+  }
+}

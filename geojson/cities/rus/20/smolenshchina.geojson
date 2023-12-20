@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Smolenshchina",
+    "country": "RU",
+    "subdivision": "20",
+    "timezone": "Asia/Irkutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.123,
+      52.2563
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Frankenburg",
+    "country": "AT",
+    "subdivision": "04",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.49065,
+      48.06844
+    ]
+  }
+}

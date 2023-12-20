@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novoukrayinka",
+    "country": "UA",
+    "subdivision": "10",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.52355,
+      48.31661
+    ]
+  }
+}

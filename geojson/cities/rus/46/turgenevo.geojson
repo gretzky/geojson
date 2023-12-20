@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Turgenevo",
+    "country": "RU",
+    "subdivision": "46",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.32968,
+      54.84555
+    ]
+  }
+}

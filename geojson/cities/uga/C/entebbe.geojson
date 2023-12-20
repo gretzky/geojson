@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Entebbe",
+    "country": "UG",
+    "subdivision": "C",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.47949,
+      0.05621
+    ]
+  }
+}

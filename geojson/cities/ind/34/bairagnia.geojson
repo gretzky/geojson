@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bairāgnia",
+    "country": "IN",
+    "subdivision": "34",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.27323,
+      26.74063
+    ]
+  }
+}

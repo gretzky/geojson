@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Piteå",
+    "country": "SE",
+    "subdivision": "14",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.47944,
+      65.31717
+    ]
+  }
+}

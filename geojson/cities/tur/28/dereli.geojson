@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dereli",
+    "country": "TR",
+    "subdivision": "28",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.44337,
+      40.7389
+    ]
+  }
+}

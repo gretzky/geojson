@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stajićevo",
+    "country": "RS",
+    "subdivision": "VO",
+    "timezone": "Europe/Belgrade"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.45845,
+      45.29489
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Montelíbano",
+    "country": "CO",
+    "subdivision": "12",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.4202,
+      7.97917
+    ]
+  }
+}

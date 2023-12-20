@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tha Yang",
+    "country": "TH",
+    "subdivision": "56",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.90555,
+      12.95772
+    ]
+  }
+}

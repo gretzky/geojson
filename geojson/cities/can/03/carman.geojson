@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carman",
+    "country": "CA",
+    "subdivision": "03",
+    "timezone": "America/Winnipeg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.00156,
+      49.4992
+    ]
+  }
+}

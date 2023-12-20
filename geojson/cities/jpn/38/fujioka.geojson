@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fujioka",
+    "country": "JP",
+    "subdivision": "38",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.65,
+      36.25
+    ]
+  }
+}

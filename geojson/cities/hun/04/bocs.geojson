@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bőcs",
+    "country": "HU",
+    "subdivision": "04",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.96667,
+      48.05
+    ]
+  }
+}

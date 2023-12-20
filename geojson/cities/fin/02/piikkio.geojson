@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Piikkiö",
+    "country": "FI",
+    "subdivision": "02",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.51601,
+      60.42481
+    ]
+  }
+}

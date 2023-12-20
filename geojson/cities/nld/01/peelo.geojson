@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Peelo",
+    "country": "NL",
+    "subdivision": "01",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.56208,
+      53.01719
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Negril",
+    "country": "JM",
+    "subdivision": "16",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.3481,
+      18.26844
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Znamenka",
+    "country": "RU",
+    "subdivision": "56",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.97703,
+      52.89789
+    ]
+  }
+}

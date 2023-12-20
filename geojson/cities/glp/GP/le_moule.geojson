@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Moule",
+    "country": "GP",
+    "subdivision": "GP",
+    "timezone": "America/Guadeloupe"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.34656,
+      16.33164
+    ]
+  }
+}

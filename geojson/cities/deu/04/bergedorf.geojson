@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bergedorf",
+    "country": "DE",
+    "subdivision": "04",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.22904,
+      53.48462
+    ]
+  }
+}

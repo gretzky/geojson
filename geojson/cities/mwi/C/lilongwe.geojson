@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lilongwe",
+    "country": "MW",
+    "subdivision": "C",
+    "timezone": "Africa/Blantyre"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.78725,
+      -13.96692
+    ]
+  }
+}

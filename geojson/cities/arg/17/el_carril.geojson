@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Carril",
+    "country": "AR",
+    "subdivision": "17",
+    "timezone": "America/Argentina/Salta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.49174,
+      -25.0741
+    ]
+  }
+}

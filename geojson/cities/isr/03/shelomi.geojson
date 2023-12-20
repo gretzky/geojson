@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shelomi",
+    "country": "IL",
+    "subdivision": "03",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.14452,
+      33.07216
+    ]
+  }
+}

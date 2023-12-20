@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maceió",
+    "country": "BR",
+    "subdivision": "02",
+    "timezone": "America/Maceio"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -35.73528,
+      -9.66583
+    ]
+  }
+}

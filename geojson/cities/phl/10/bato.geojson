@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bato",
+    "country": "PH",
+    "subdivision": "10",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.6449,
+      8.6027
+    ]
+  }
+}

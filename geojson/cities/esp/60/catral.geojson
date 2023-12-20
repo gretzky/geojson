@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Catral",
+    "country": "ES",
+    "subdivision": "60",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.80209,
+      38.16061
+    ]
+  }
+}

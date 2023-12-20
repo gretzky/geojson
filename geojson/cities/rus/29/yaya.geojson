@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yaya",
+    "country": "RU",
+    "subdivision": "29",
+    "timezone": "Asia/Novokuznetsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.44,
+      56.206
+    ]
+  }
+}

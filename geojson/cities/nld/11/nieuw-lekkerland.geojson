@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nieuw-Lekkerland",
+    "country": "NL",
+    "subdivision": "11",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.68653,
+      51.88915
+    ]
+  }
+}

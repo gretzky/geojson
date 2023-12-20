@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Altamira",
+    "country": "BR",
+    "subdivision": "16",
+    "timezone": "America/Santarem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -52.20639,
+      -3.20333
+    ]
+  }
+}

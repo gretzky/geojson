@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kantemirovka",
+    "country": "RU",
+    "subdivision": "86",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.85922,
+      49.70887
+    ]
+  }
+}

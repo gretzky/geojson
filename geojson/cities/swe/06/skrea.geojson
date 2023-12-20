@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Skrea",
+    "country": "SE",
+    "subdivision": "06",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.56667,
+      56.88333
+    ]
+  }
+}

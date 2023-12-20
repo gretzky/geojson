@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sadovoye",
+    "country": "RU",
+    "subdivision": "86",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.50194,
+      51.53111
+    ]
+  }
+}

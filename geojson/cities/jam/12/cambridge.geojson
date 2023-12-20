@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cambridge",
+    "country": "JM",
+    "subdivision": "12",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.90252,
+      18.31326
+    ]
+  }
+}

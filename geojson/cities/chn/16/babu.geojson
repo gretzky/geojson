@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Babu",
+    "country": "CN",
+    "subdivision": "16",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      111.51667,
+      24.41667
+    ]
+  }
+}

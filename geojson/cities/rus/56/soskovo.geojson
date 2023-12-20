@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Soskovo",
+    "country": "RU",
+    "subdivision": "56",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.38277,
+      52.74752
+    ]
+  }
+}

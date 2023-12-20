@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Olsztyn",
+    "country": "PL",
+    "subdivision": "85",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.49416,
+      53.77995
+    ]
+  }
+}

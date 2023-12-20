@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Meis",
+    "country": "ES",
+    "subdivision": "58",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.75,
+      42.5
+    ]
+  }
+}

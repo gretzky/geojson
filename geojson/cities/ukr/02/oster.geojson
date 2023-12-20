@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oster",
+    "country": "UA",
+    "subdivision": "02",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.88229,
+      50.9506
+    ]
+  }
+}

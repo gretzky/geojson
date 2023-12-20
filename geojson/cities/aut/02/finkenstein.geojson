@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Finkenstein",
+    "country": "AT",
+    "subdivision": "02",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.87086,
+      46.56155
+    ]
+  }
+}

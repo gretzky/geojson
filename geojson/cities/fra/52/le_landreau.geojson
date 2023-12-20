@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Landreau",
+    "country": "FR",
+    "subdivision": "52",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.30546,
+      47.20443
+    ]
+  }
+}

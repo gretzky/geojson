@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nacka",
+    "country": "SE",
+    "subdivision": "26",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.16372,
+      59.31053
+    ]
+  }
+}

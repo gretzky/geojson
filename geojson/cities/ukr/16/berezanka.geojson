@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Berezanka",
+    "country": "UA",
+    "subdivision": "16",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.38532,
+      46.85159
+    ]
+  }
+}

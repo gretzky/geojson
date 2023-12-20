@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pleasant Point",
+    "country": "NZ",
+    "subdivision": "E9",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      171.13333,
+      -44.26667
+    ]
+  }
+}

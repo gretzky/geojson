@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krasnoye",
+    "country": "RU",
+    "subdivision": "43",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.79353,
+      52.86449
+    ]
+  }
+}

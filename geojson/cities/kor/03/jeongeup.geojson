@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jeongeup",
+    "country": "KR",
+    "subdivision": "03",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.91699,
+      35.60004
+    ]
+  }
+}

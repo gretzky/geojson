@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stubbekøbing",
+    "country": "DK",
+    "subdivision": "20",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.04102,
+      54.88875
+    ]
+  }
+}

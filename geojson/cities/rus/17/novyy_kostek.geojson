@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novyy Kostek",
+    "country": "RU",
+    "subdivision": "17",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.82466,
+      43.3353
+    ]
+  }
+}

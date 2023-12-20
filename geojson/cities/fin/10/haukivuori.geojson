@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Haukivuori",
+    "country": "FI",
+    "subdivision": "10",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.21906,
+      62.01753
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yamaranguila",
+    "country": "HN",
+    "subdivision": "10",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.25,
+      14.28333
+    ]
+  }
+}

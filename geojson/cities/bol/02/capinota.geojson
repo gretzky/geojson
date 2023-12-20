@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Capinota",
+    "country": "BO",
+    "subdivision": "02",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.26082,
+      -17.71113
+    ]
+  }
+}

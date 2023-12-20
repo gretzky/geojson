@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Potchefstroom",
+    "country": "ZA",
+    "subdivision": "10",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.1,
+      -26.71667
+    ]
+  }
+}

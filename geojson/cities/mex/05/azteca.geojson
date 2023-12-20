@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Azteca",
+    "country": "MX",
+    "subdivision": "05",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.94557,
+      16.21775
+    ]
+  }
+}

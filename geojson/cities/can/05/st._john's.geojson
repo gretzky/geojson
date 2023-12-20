@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "St. John's",
+    "country": "CA",
+    "subdivision": "05",
+    "timezone": "America/St_Johns"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -52.70931,
+      47.56494
+    ]
+  }
+}

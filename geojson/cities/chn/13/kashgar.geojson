@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kashgar",
+    "country": "CN",
+    "subdivision": "13",
+    "timezone": "Asia/Urumqi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.98951,
+      39.47066
+    ]
+  }
+}

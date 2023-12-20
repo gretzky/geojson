@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Llata",
+    "country": "PE",
+    "subdivision": "10",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.78333,
+      -9.41667
+    ]
+  }
+}

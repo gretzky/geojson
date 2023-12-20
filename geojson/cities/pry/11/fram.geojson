@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fram",
+    "country": "PY",
+    "subdivision": "11",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.88333,
+      -26.98333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Calama",
+    "country": "CL",
+    "subdivision": "03",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.92371,
+      -22.45667
+    ]
+  }
+}

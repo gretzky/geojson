@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Nava de Santiago",
+    "country": "ES",
+    "subdivision": "57",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.50525,
+      39.06328
+    ]
+  }
+}

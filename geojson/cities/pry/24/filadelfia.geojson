@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Filadelfia",
+    "country": "PY",
+    "subdivision": "24",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.03157,
+      -22.33936
+    ]
+  }
+}

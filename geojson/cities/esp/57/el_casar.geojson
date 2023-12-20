@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Casar",
+    "country": "ES",
+    "subdivision": "57",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.92513,
+      38.53089
+    ]
+  }
+}

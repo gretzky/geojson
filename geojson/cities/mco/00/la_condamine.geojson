@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Condamine",
+    "country": "MC",
+    "subdivision": "00",
+    "timezone": "Europe/Monaco"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.42024,
+      43.73439
+    ]
+  }
+}

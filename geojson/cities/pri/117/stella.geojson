@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stella",
+    "country": "PR",
+    "subdivision": "117",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.24685,
+      18.32189
+    ]
+  }
+}

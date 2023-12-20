@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lappeenranta",
+    "country": "FI",
+    "subdivision": "09",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.18871,
+      61.05871
+    ]
+  }
+}

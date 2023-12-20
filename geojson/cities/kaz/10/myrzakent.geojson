@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Myrzakent",
+    "country": "KZ",
+    "subdivision": "10",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      68.5451,
+      40.66338
+    ]
+  }
+}

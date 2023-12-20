@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "London Village",
+    "country": "KI",
+    "subdivision": "02",
+    "timezone": "Pacific/Kiritimati"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -157.47502,
+      1.98487
+    ]
+  }
+}

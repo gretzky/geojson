@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Srinagar",
+    "country": "IN",
+    "subdivision": "12",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.80555,
+      34.08565
+    ]
+  }
+}

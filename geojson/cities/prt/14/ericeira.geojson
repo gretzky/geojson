@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ericeira",
+    "country": "PT",
+    "subdivision": "14",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.41563,
+      38.96275
+    ]
+  }
+}

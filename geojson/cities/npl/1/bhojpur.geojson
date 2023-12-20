@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bhojpur",
+    "country": "NP",
+    "subdivision": "1",
+    "timezone": "Asia/Kathmandu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.04607,
+      27.1715
+    ]
+  }
+}

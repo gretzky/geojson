@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Solana",
+    "country": "PH",
+    "subdivision": "10",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.77056,
+      8.62306
+    ]
+  }
+}

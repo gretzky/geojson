@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kenderes",
+    "country": "HU",
+    "subdivision": "20",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.68333,
+      47.25
+    ]
+  }
+}

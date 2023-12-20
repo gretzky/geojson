@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Gabriel",
+    "country": "EC",
+    "subdivision": "05",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.83078,
+      0.59318
+    ]
+  }
+}

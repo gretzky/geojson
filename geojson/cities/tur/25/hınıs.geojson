@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hınıs",
+    "country": "TR",
+    "subdivision": "25",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.69253,
+      39.35766
+    ]
+  }
+}

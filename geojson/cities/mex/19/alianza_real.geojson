@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alianza Real",
+    "country": "MX",
+    "subdivision": "19",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.38278,
+      25.85139
+    ]
+  }
+}

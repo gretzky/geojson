@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mary",
+    "country": "TM",
+    "subdivision": "05",
+    "timezone": "Asia/Ashgabat"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      61.83031,
+      37.59378
+    ]
+  }
+}

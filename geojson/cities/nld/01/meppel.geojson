@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Meppel",
+    "country": "NL",
+    "subdivision": "01",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.19444,
+      52.69583
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Emiliano Zapata",
+    "country": "MX",
+    "subdivision": "31",
+    "timezone": "America/Merida"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.46813,
+      20.22605
+    ]
+  }
+}

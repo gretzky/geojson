@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lahad Datu",
+    "country": "MY",
+    "subdivision": "16",
+    "timezone": "Asia/Kuching"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      118.32897,
+      5.02298
+    ]
+  }
+}

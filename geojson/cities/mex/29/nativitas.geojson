@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Natívitas",
+    "country": "MX",
+    "subdivision": "29",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.31472,
+      19.23333
+    ]
+  }
+}

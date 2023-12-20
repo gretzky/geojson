@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Walchwil",
+    "country": "CH",
+    "subdivision": "ZG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.51693,
+      47.10169
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Plata",
+    "country": "AR",
+    "subdivision": "01",
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.95453,
+      -34.92145
+    ]
+  }
+}

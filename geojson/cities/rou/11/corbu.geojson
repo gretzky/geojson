@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Corbu",
+    "country": "RO",
+    "subdivision": "11",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.24936,
+      45.32108
+    ]
+  }
+}

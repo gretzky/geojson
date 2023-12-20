@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Singapore",
+    "country": "SG",
+    "subdivision": "01",
+    "timezone": "Asia/Singapore"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.85007,
+      1.28967
+    ]
+  }
+}

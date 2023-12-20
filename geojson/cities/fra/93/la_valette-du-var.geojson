@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Valette-du-Var",
+    "country": "FR",
+    "subdivision": "93",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.98317,
+      43.13763
+    ]
+  }
+}

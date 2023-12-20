@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Büron",
+    "country": "CH",
+    "subdivision": "LU",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0942,
+      47.21192
+    ]
+  }
+}

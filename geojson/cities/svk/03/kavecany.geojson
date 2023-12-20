@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kavečany",
+    "country": "SK",
+    "subdivision": "03",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.20587,
+      48.77592
+    ]
+  }
+}

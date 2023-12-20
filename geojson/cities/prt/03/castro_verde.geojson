@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Castro Verde",
+    "country": "PT",
+    "subdivision": "03",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.08581,
+      37.69828
+    ]
+  }
+}

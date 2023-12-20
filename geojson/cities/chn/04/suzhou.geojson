@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Suzhou",
+    "country": "CN",
+    "subdivision": "04",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.59538,
+      31.30408
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ozerki",
+    "country": "RU",
+    "subdivision": "66",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.31128,
+      60.03947
+    ]
+  }
+}

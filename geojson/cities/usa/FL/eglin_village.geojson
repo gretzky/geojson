@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eglin Village",
+    "country": "US",
+    "subdivision": "FL",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.5394,
+      30.46298
+    ]
+  }
+}

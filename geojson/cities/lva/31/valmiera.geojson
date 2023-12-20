@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Valmiera",
+    "country": "LV",
+    "subdivision": "31",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.42751,
+      57.54108
+    ]
+  }
+}

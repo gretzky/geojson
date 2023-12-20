@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gmünd",
+    "country": "AT",
+    "subdivision": "02",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.52944,
+      46.90722
+    ]
+  }
+}

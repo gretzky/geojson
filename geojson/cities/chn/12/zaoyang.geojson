@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zaoyang",
+    "country": "CN",
+    "subdivision": "12",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.75417,
+      32.12722
+    ]
+  }
+}

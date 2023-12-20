@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fredensborg",
+    "country": "DK",
+    "subdivision": "17",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.40314,
+      55.97558
+    ]
+  }
+}

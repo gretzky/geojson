@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tanuma",
+    "country": "JP",
+    "subdivision": "38",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.58333,
+      36.36667
+    ]
+  }
+}

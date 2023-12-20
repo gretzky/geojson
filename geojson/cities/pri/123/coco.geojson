@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coco",
+    "country": "PR",
+    "subdivision": "123",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.25933,
+      18.00719
+    ]
+  }
+}

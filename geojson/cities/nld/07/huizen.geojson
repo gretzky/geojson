@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Huizen",
+    "country": "NL",
+    "subdivision": "07",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.24167,
+      52.29917
+    ]
+  }
+}

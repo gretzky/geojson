@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lantz",
+    "country": "CA",
+    "subdivision": "07",
+    "timezone": "America/Halifax"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.48199,
+      44.98345
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zhangye",
+    "country": "CN",
+    "subdivision": "15",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.45167,
+      38.93417
+    ]
+  }
+}

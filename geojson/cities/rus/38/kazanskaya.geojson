@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kazanskaya",
+    "country": "RU",
+    "subdivision": "38",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.4361,
+      45.4106
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Itako",
+    "country": "JP",
+    "subdivision": "14",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.55,
+      35.93333
+    ]
+  }
+}

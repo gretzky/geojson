@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Egna",
+    "country": "IT",
+    "subdivision": "17",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.27337,
+      46.31777
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fare",
+    "country": "PF",
+    "subdivision": "02",
+    "timezone": "Pacific/Tahiti"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.03455,
+      -16.71085
+    ]
+  }
+}

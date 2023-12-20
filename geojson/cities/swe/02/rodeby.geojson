@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rödeby",
+    "country": "SE",
+    "subdivision": "02",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.62143,
+      56.26078
+    ]
+  }
+}

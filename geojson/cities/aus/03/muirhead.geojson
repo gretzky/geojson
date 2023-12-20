@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Muirhead",
+    "country": "AU",
+    "subdivision": "03",
+    "timezone": "Australia/Darwin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.89352,
+      -12.35863
+    ]
+  }
+}

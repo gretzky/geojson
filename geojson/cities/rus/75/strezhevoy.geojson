@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Strezhevoy",
+    "country": "RU",
+    "subdivision": "75",
+    "timezone": "Asia/Tomsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.5889,
+      60.7333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Ana Tlacotenco",
+    "country": "MX",
+    "subdivision": "09",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.99788,
+      19.17569
+    ]
+  }
+}

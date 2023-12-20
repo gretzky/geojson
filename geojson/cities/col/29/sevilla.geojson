@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sevilla",
+    "country": "CO",
+    "subdivision": "29",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.93085,
+      4.26425
+    ]
+  }
+}

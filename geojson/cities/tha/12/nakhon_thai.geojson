@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nakhon Thai",
+    "country": "TH",
+    "subdivision": "12",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.83739,
+      17.10056
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hormiguero",
+    "country": "MX",
+    "subdivision": "07",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.34121,
+      25.68386
+    ]
+  }
+}

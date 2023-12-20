@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hosakote",
+    "country": "IN",
+    "subdivision": "19",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.16827,
+      14.27603
+    ]
+  }
+}

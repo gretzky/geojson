@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Crucişor",
+    "country": "RO",
+    "subdivision": "32",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.25,
+      47.68333
+    ]
+  }
+}

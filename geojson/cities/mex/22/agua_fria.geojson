@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Agua Fría",
+    "country": "MX",
+    "subdivision": "22",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.80638,
+      21.15304
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Xihe",
+    "country": "CN",
+    "subdivision": "12",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.46585,
+      31.68635
+    ]
+  }
+}

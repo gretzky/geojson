@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "China",
+    "country": "MX",
+    "subdivision": "19",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.23454,
+      25.69997
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vincey",
+    "country": "FR",
+    "subdivision": "44",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.33134,
+      48.33749
+    ]
+  }
+}

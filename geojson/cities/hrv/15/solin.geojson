@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Solin",
+    "country": "HR",
+    "subdivision": "15",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.49314,
+      43.5432
+    ]
+  }
+}

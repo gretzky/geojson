@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Malabo",
+    "country": "GQ",
+    "subdivision": "04",
+    "timezone": "Africa/Malabo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.78166,
+      3.75578
+    ]
+  }
+}

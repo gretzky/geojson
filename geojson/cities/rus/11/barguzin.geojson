@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barguzin",
+    "country": "RU",
+    "subdivision": "11",
+    "timezone": "Asia/Irkutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      109.63904,
+      53.61875
+    ]
+  }
+}

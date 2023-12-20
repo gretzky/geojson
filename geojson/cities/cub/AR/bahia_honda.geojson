@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bahía Honda",
+    "country": "CU",
+    "subdivision": "AR",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.15994,
+      22.90332
+    ]
+  }
+}

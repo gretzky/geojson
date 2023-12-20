@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Villares",
+    "country": "ES",
+    "subdivision": "51",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.81868,
+      37.69146
+    ]
+  }
+}

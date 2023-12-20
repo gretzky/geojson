@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chaoyang",
+    "country": "CN",
+    "subdivision": "19",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.45861,
+      41.57028
+    ]
+  }
+}

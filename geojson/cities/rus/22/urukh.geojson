@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Urukh",
+    "country": "RU",
+    "subdivision": "22",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.02647,
+      43.29335
+    ]
+  }
+}

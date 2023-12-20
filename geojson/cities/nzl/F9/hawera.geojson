@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hawera",
+    "country": "NZ",
+    "subdivision": "F9",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.28333,
+      -39.59167
+    ]
+  }
+}

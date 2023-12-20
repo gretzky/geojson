@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Baringo",
+    "country": "KE",
+    "subdivision": "10",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.96667,
+      0.46667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sulaco",
+    "country": "HN",
+    "subdivision": "18",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.26667,
+      14.91667
+    ]
+  }
+}

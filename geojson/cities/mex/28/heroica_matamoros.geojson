@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Heroica Matamoros",
+    "country": "MX",
+    "subdivision": "28",
+    "timezone": "America/Matamoros"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.50417,
+      25.87972
+    ]
+  }
+}

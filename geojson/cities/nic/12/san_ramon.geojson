@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Ramón",
+    "country": "NI",
+    "subdivision": "12",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.83898,
+      12.92344
+    ]
+  }
+}

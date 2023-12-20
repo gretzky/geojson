@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karahallı",
+    "country": "TR",
+    "subdivision": "64",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.53028,
+      38.32083
+    ]
+  }
+}

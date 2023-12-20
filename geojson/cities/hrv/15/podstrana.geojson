@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Podstrana",
+    "country": "HR",
+    "subdivision": "15",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.55013,
+      43.48668
+    ]
+  }
+}

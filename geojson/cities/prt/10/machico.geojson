@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Machico",
+    "country": "PT",
+    "subdivision": "10",
+    "timezone": "Atlantic/Madeira"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.76758,
+      32.7162
+    ]
+  }
+}

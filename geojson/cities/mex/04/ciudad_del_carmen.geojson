@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad del Carmen",
+    "country": "MX",
+    "subdivision": "04",
+    "timezone": "America/Merida"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.82991,
+      18.64592
+    ]
+  }
+}

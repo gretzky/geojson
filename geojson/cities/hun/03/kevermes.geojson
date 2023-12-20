@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kevermes",
+    "country": "HU",
+    "subdivision": "03",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.18333,
+      46.41667
+    ]
+  }
+}

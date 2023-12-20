@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matsushima",
+    "country": "JP",
+    "subdivision": "24",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.06105,
+      38.37357
+    ]
+  }
+}

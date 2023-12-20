@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rovinj",
+    "country": "HR",
+    "subdivision": "04",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.63457,
+      45.08268
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tirana",
+    "country": "AL",
+    "subdivision": "50",
+    "timezone": "Europe/Tirane"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.81889,
+      41.3275
+    ]
+  }
+}

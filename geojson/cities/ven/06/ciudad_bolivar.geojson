@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad Bolívar",
+    "country": "VE",
+    "subdivision": "06",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.54086,
+      8.12923
+    ]
+  }
+}

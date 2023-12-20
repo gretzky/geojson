@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bass Lake",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Knox"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.60196,
+      41.20726
+    ]
+  }
+}

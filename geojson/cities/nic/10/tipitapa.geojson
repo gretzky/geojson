@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tipitapa",
+    "country": "NI",
+    "subdivision": "10",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.09706,
+      12.19732
+    ]
+  }
+}

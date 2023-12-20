@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "İzmit",
+    "country": "TR",
+    "subdivision": "41",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.92928,
+      40.76499
+    ]
+  }
+}

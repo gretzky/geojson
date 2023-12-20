@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ma’an",
+    "country": "CN",
+    "subdivision": "11",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      110.72111,
+      26.9775
+    ]
+  }
+}

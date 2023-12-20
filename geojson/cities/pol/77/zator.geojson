@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zator",
+    "country": "PL",
+    "subdivision": "77",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.43799,
+      49.99604
+    ]
+  }
+}

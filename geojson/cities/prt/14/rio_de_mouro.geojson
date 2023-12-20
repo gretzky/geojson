@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rio de Mouro",
+    "country": "PT",
+    "subdivision": "14",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.32804,
+      38.76613
+    ]
+  }
+}

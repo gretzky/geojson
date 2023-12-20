@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bom Despacho",
+    "country": "BR",
+    "subdivision": "15",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -45.25222,
+      -19.73639
+    ]
+  }
+}

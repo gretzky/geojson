@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gali",
+    "country": "GE",
+    "subdivision": "02",
+    "timezone": "Asia/Tbilisi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.73808,
+      42.62655
+    ]
+  }
+}

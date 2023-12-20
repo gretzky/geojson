@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chyorny Yar",
+    "country": "RU",
+    "subdivision": "07",
+    "timezone": "Europe/Astrakhan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.10911,
+      48.06242
+    ]
+  }
+}

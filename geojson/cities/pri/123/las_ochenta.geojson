@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Ochenta",
+    "country": "PR",
+    "subdivision": "123",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.31795,
+      17.98469
+    ]
+  }
+}

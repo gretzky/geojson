@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Urla",
+    "country": "TR",
+    "subdivision": "35",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.76403,
+      38.32292
+    ]
+  }
+}

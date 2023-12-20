@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Watson Lake",
+    "country": "CA",
+    "subdivision": "12",
+    "timezone": "America/Whitehorse"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -128.70893,
+      60.06349
+    ]
+  }
+}

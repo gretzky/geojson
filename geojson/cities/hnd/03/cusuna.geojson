@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cusuna",
+    "country": "HN",
+    "subdivision": "03",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.23333,
+      15.85
+    ]
+  }
+}

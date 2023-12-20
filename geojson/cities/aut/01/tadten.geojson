@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tadten",
+    "country": "AT",
+    "subdivision": "01",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.9865,
+      47.7642
+    ]
+  }
+}

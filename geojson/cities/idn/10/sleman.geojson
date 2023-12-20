@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sleman",
+    "country": "ID",
+    "subdivision": "10",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      110.35556,
+      -7.71556
+    ]
+  }
+}

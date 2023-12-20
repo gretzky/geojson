@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Banbalah",
+    "country": "TN",
+    "subdivision": "16",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8,
+      35.7
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kapchorwa",
+    "country": "UG",
+    "subdivision": "E",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.45038,
+      1.40096
+    ]
+  }
+}

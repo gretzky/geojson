@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beni Mester",
+    "country": "DZ",
+    "subdivision": "15",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.42319,
+      34.87045
+    ]
+  }
+}

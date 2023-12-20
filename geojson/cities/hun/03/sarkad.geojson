@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sarkad",
+    "country": "HU",
+    "subdivision": "03",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.38333,
+      46.75
+    ]
+  }
+}

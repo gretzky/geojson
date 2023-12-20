@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gostinari",
+    "country": "RO",
+    "subdivision": "42",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.22807,
+      44.18624
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Szamosszeg",
+    "country": "HU",
+    "subdivision": "18",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.36582,
+      48.04561
+    ]
+  }
+}

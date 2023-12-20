@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Xuanzhou",
+    "country": "CN",
+    "subdivision": "01",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      118.75528,
+      30.9525
+    ]
+  }
+}

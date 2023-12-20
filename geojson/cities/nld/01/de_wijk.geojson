@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "De Wijk",
+    "country": "NL",
+    "subdivision": "01",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.29028,
+      52.67333
+    ]
+  }
+}

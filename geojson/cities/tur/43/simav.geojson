@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Simav",
+    "country": "TR",
+    "subdivision": "43",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.97767,
+      39.0882
+    ]
+  }
+}

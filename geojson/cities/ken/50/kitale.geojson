@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kitale",
+    "country": "KE",
+    "subdivision": "50",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.00622,
+      1.01572
+    ]
+  }
+}

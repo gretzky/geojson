@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Alta",
+    "country": "MX",
+    "subdivision": "29",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.4011,
+      19.29263
+    ]
+  }
+}

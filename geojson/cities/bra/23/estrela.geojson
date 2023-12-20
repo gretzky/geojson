@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Estrela",
+    "country": "BR",
+    "subdivision": "23",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -50.93833,
+      -28.06111
+    ]
+  }
+}

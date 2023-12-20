@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ermelo",
+    "country": "NL",
+    "subdivision": "03",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.62222,
+      52.29833
+    ]
+  }
+}

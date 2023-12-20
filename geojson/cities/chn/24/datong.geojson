@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Datong",
+    "country": "CN",
+    "subdivision": "24",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.29139,
+      40.09361
+    ]
+  }
+}

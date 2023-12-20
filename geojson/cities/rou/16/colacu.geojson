@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colacu",
+    "country": "RO",
+    "subdivision": "16",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.75881,
+      44.66895
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beegden",
+    "country": "NL",
+    "subdivision": "05",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.91944,
+      51.18917
+    ]
+  }
+}

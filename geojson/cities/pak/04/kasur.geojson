@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kasur",
+    "country": "PK",
+    "subdivision": "04",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.45025,
+      31.11866
+    ]
+  }
+}

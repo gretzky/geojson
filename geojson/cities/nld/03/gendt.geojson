@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gendt",
+    "country": "NL",
+    "subdivision": "03",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.97083,
+      51.8775
+    ]
+  }
+}

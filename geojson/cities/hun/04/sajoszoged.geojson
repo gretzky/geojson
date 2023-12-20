@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sajószöged",
+    "country": "HU",
+    "subdivision": "04",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21,
+      47.95
+    ]
+  }
+}

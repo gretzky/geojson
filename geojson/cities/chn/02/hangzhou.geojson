@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hangzhou",
+    "country": "CN",
+    "subdivision": "02",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.16142,
+      30.29365
+    ]
+  }
+}

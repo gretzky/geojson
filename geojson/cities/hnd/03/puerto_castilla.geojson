@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Castilla",
+    "country": "HN",
+    "subdivision": "03",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.96667,
+      16.01667
+    ]
+  }
+}

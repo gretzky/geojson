@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Molėtai",
+    "country": "LT",
+    "subdivision": "64",
+    "timezone": "Europe/Vilnius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.41688,
+      55.22469
+    ]
+  }
+}

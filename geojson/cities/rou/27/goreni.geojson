@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Goreni",
+    "country": "RO",
+    "subdivision": "27",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.65569,
+      46.85474
+    ]
+  }
+}

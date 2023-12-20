@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Miraflores",
+    "country": "CO",
+    "subdivision": "36",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.14504,
+      5.19608
+    ]
+  }
+}

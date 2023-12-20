@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matayaya",
+    "country": "DO",
+    "subdivision": "23",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.59459,
+      18.89036
+    ]
+  }
+}

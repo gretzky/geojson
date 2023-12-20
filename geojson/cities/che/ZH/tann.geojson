@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tann",
+    "country": "CH",
+    "subdivision": "ZH",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.85024,
+      47.26898
+    ]
+  }
+}

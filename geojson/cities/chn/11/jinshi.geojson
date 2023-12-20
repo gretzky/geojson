@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jinshi",
+    "country": "CN",
+    "subdivision": "11",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      111.87012,
+      29.60487
+    ]
+  }
+}

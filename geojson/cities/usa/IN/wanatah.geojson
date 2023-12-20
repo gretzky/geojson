@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wanatah",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.89836,
+      41.4306
+    ]
+  }
+}

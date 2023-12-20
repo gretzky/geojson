@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rayón",
+    "country": "MX",
+    "subdivision": "26",
+    "timezone": "America/Hermosillo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.56749,
+      29.71195
+    ]
+  }
+}

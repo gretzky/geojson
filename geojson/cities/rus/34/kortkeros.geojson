@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kortkeros",
+    "country": "RU",
+    "subdivision": "34",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.58056,
+      61.81056
+    ]
+  }
+}

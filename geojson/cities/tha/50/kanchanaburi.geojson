@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kanchanaburi",
+    "country": "TH",
+    "subdivision": "50",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.54832,
+      14.00412
+    ]
+  }
+}

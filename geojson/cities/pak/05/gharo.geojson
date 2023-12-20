@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gharo",
+    "country": "PK",
+    "subdivision": "05",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      67.58534,
+      24.74182
+    ]
+  }
+}

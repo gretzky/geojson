@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Manda",
+    "country": "TZ",
+    "subdivision": "30",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.58333,
+      -10.46667
+    ]
+  }
+}

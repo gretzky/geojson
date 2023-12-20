@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oviedo",
+    "country": "DO",
+    "subdivision": "16",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.401,
+      17.80136
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Padre Las Casas",
+    "country": "DO",
+    "subdivision": "01",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.93917,
+      18.73172
+    ]
+  }
+}

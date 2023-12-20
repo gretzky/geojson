@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guwahati",
+    "country": "IN",
+    "subdivision": "03",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      91.7458,
+      26.1844
+    ]
+  }
+}

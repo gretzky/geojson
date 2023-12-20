@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dzhambul",
+    "country": "KZ",
+    "subdivision": "12",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.39496,
+      47.20618
+    ]
+  }
+}

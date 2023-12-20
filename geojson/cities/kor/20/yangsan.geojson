@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yangsan",
+    "country": "KR",
+    "subdivision": "20",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      129.03358,
+      35.34199
+    ]
+  }
+}

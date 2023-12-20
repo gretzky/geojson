@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kondratovo",
+    "country": "RU",
+    "subdivision": "90",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      56.1066,
+      57.9804
+    ]
+  }
+}

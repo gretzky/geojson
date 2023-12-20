@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kinshasa",
+    "country": "CD",
+    "subdivision": "06",
+    "timezone": "Africa/Kinshasa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.31357,
+      -4.32758
+    ]
+  }
+}

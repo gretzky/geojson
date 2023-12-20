@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aratoca",
+    "country": "CO",
+    "subdivision": "26",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.01868,
+      6.69432
+    ]
+  }
+}

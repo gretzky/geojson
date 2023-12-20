@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Quetame",
+    "country": "CO",
+    "subdivision": "33",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.86141,
+      4.33234
+    ]
+  }
+}

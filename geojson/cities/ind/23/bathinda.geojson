@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bathinda",
+    "country": "IN",
+    "subdivision": "23",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.93893,
+      30.20747
+    ]
+  }
+}

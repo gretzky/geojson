@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kohtla-Nõmme",
+    "country": "EE",
+    "subdivision": "03",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.175,
+      59.35167
+    ]
+  }
+}

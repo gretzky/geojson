@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tatarsk",
+    "country": "RU",
+    "subdivision": "53",
+    "timezone": "Asia/Novosibirsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.98283,
+      55.21903
+    ]
+  }
+}

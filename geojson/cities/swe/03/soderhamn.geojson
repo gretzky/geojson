@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Söderhamn",
+    "country": "SE",
+    "subdivision": "03",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.05921,
+      61.30373
+    ]
+  }
+}

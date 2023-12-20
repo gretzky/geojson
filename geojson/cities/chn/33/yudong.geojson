@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yudong",
+    "country": "CN",
+    "subdivision": "33",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.51944,
+      29.385
+    ]
+  }
+}

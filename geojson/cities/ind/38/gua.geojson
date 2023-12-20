@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gua",
+    "country": "IN",
+    "subdivision": "38",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.38774,
+      22.21361
+    ]
+  }
+}

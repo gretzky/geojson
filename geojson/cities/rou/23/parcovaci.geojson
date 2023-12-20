@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pârcovaci",
+    "country": "RO",
+    "subdivision": "23",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.85075,
+      47.43586
+    ]
+  }
+}

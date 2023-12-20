@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sæby",
+    "country": "DK",
+    "subdivision": "19",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.52251,
+      57.33188
+    ]
+  }
+}

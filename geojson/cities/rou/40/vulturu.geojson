@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vulturu",
+    "country": "RO",
+    "subdivision": "40",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.41667,
+      45.61667
+    ]
+  }
+}

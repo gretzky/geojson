@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Borgfelde",
+    "country": "DE",
+    "subdivision": "04",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.03447,
+      53.55475
+    ]
+  }
+}

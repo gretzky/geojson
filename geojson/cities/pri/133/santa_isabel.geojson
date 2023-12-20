@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Isabel",
+    "country": "PR",
+    "subdivision": "133",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.40489,
+      17.96608
+    ]
+  }
+}

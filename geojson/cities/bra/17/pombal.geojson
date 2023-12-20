@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pombal",
+    "country": "BR",
+    "subdivision": "17",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -37.80167,
+      -6.77028
+    ]
+  }
+}

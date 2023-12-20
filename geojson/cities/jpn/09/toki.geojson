@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Toki",
+    "country": "JP",
+    "subdivision": "09",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.18333,
+      35.35
+    ]
+  }
+}

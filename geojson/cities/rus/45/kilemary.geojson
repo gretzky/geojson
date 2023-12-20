@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kilemary",
+    "country": "RU",
+    "subdivision": "45",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.86594,
+      56.77825
+    ]
+  }
+}

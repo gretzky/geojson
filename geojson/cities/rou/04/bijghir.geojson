@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bijghir",
+    "country": "RO",
+    "subdivision": "04",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.01859,
+      46.60185
+    ]
+  }
+}

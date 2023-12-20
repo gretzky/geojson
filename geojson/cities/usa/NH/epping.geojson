@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Epping",
+    "country": "US",
+    "subdivision": "NH",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07423,
+      43.03342
+    ]
+  }
+}

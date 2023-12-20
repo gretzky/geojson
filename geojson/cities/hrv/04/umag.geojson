@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Umag",
+    "country": "HR",
+    "subdivision": "04",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.52389,
+      45.43139
+    ]
+  }
+}

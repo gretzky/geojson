@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Santos",
+    "country": "PA",
+    "subdivision": "07",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.41218,
+      7.93445
+    ]
+  }
+}

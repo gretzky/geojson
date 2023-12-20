@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nova Lima",
+    "country": "BR",
+    "subdivision": "15",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -43.84667,
+      -19.98556
+    ]
+  }
+}

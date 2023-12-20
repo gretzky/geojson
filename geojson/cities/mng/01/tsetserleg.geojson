@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tsetserleg",
+    "country": "MN",
+    "subdivision": "01",
+    "timezone": "Asia/Ulaanbaatar"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.45417,
+      47.475
+    ]
+  }
+}

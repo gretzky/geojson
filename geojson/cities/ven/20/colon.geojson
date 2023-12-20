@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colón",
+    "country": "VE",
+    "subdivision": "20",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.26053,
+      8.03125
+    ]
+  }
+}

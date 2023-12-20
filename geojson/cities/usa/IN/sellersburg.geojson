@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sellersburg",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Kentucky/Louisville"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.75496,
+      38.39812
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maraial",
+    "country": "BR",
+    "subdivision": "30",
+    "timezone": "America/Recife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -35.80889,
+      -8.7825
+    ]
+  }
+}

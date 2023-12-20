@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porto Cervo",
+    "country": "IT",
+    "subdivision": "14",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.53267,
+      41.14063
+    ]
+  }
+}

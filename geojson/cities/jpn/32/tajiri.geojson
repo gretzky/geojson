@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tajiri",
+    "country": "JP",
+    "subdivision": "32",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.24552,
+      34.42695
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Munkebo",
+    "country": "DK",
+    "subdivision": "21",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.55433,
+      55.45553
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Poschiavo",
+    "country": "CH",
+    "subdivision": "GR",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.05823,
+      46.32441
+    ]
+  }
+}

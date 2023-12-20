@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pushkino",
+    "country": "RU",
+    "subdivision": "67",
+    "timezone": "Europe/Saratov"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.97417,
+      51.235
+    ]
+  }
+}

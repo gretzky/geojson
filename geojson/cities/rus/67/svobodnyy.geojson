@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Svobodnyy",
+    "country": "RU",
+    "subdivision": "67",
+    "timezone": "Europe/Saratov"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.37122,
+      52.33039
+    ]
+  }
+}

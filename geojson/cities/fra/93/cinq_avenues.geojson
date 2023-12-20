@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cinq Avenues",
+    "country": "FR",
+    "subdivision": "93",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.39761,
+      43.30375
+    ]
+  }
+}

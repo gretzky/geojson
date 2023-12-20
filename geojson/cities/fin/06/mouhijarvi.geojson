@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mouhijärvi",
+    "country": "FI",
+    "subdivision": "06",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.01667,
+      61.5
+    ]
+  }
+}

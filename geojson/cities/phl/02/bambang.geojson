@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bambang",
+    "country": "PH",
+    "subdivision": "02",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.1066,
+      16.3865
+    ]
+  }
+}

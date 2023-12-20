@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Bonillo",
+    "country": "ES",
+    "subdivision": "54",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.54048,
+      38.95048
+    ]
+  }
+}

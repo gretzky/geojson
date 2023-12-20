@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wiri",
+    "country": "NZ",
+    "subdivision": "E7",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.86019,
+      -36.9982
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Une",
+    "country": "CO",
+    "subdivision": "33",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.02528,
+      4.40306
+    ]
+  }
+}

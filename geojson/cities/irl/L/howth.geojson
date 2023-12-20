@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Howth",
+    "country": "IE",
+    "subdivision": "L",
+    "timezone": "Europe/Dublin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.06528,
+      53.38778
+    ]
+  }
+}

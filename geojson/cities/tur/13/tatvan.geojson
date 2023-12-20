@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tatvan",
+    "country": "TR",
+    "subdivision": "13",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.28269,
+      38.49221
+    ]
+  }
+}

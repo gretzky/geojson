@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kırıkhan",
+    "country": "TR",
+    "subdivision": "31",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.35755,
+      36.49939
+    ]
+  }
+}

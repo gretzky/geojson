@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coari",
+    "country": "BR",
+    "subdivision": "04",
+    "timezone": "America/Manaus"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.14139,
+      -4.085
+    ]
+  }
+}

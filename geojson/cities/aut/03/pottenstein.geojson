@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pottenstein",
+    "country": "AT",
+    "subdivision": "03",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.0948,
+      47.9582
+    ]
+  }
+}

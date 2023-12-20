@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nushki",
+    "country": "PK",
+    "subdivision": "02",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      66.02288,
+      29.55218
+    ]
+  }
+}

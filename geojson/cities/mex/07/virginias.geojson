@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Virginias",
+    "country": "MX",
+    "subdivision": "07",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.27235,
+      25.80083
+    ]
+  }
+}

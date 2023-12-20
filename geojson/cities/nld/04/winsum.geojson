@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Winsum",
+    "country": "NL",
+    "subdivision": "04",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.52083,
+      53.33
+    ]
+  }
+}

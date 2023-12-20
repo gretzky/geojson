@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Rosario",
+    "country": "PA",
+    "subdivision": "13",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.87547,
+      8.77379
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kulachi",
+    "country": "PK",
+    "subdivision": "03",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      70.45959,
+      31.93058
+    ]
+  }
+}

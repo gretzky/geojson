@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Baga",
+    "country": "IN",
+    "subdivision": "33",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.75517,
+      15.56517
+    ]
+  }
+}

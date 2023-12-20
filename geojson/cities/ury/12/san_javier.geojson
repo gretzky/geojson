@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Javier",
+    "country": "UY",
+    "subdivision": "12",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.1332,
+      -32.66523
+    ]
+  }
+}

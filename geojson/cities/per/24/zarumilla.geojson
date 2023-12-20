@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zarumilla",
+    "country": "PE",
+    "subdivision": "24",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.27306,
+      -3.50306
+    ]
+  }
+}

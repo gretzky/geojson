@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vidče",
+    "country": "CZ",
+    "subdivision": "90",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.09473,
+      49.44151
+    ]
+  }
+}

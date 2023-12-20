@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guia",
+    "country": "PT",
+    "subdivision": "09",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.29963,
+      37.12959
+    ]
+  }
+}

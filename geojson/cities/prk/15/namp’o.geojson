@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Namp’o",
+    "country": "KP",
+    "subdivision": "15",
+    "timezone": "Asia/Pyongyang"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.40778,
+      38.7375
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tréon",
+    "country": "FR",
+    "subdivision": "24",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.32668,
+      48.67709
+    ]
+  }
+}

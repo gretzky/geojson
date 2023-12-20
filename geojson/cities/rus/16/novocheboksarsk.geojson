@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novocheboksarsk",
+    "country": "RU",
+    "subdivision": "16",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.47755,
+      56.11095
+    ]
+  }
+}

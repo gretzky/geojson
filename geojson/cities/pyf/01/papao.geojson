@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Papao",
+    "country": "PF",
+    "subdivision": "01",
+    "timezone": "Pacific/Tahiti"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.55,
+      -17.75
+    ]
+  }
+}

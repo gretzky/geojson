@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Spitz",
+    "country": "AT",
+    "subdivision": "03",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.41416,
+      48.3656
+    ]
+  }
+}

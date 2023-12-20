@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gstaad",
+    "country": "CH",
+    "subdivision": "BE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.28685,
+      46.47215
+    ]
+  }
+}

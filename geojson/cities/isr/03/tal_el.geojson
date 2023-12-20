@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tal El",
+    "country": "IL",
+    "subdivision": "03",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.18128,
+      32.92825
+    ]
+  }
+}

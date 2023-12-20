@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kentland",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.4453,
+      40.77032
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Trimmis",
+    "country": "CH",
+    "subdivision": "GR",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5612,
+      46.90075
+    ]
+  }
+}

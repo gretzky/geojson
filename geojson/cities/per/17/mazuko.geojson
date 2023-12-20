@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mazuko",
+    "country": "PE",
+    "subdivision": "17",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.36736,
+      -13.10012
+    ]
+  }
+}

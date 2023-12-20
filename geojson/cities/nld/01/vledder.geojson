@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vledder",
+    "country": "NL",
+    "subdivision": "01",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.20833,
+      52.85583
+    ]
+  }
+}

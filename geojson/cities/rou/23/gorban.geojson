@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gorban",
+    "country": "RO",
+    "subdivision": "23",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.07889,
+      46.87611
+    ]
+  }
+}

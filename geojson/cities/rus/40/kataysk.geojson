@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kataysk",
+    "country": "RU",
+    "subdivision": "40",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      62.5841,
+      56.289
+    ]
+  }
+}

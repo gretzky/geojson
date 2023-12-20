@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lucas",
+    "country": "BR",
+    "subdivision": "14",
+    "timezone": "America/Cuiaba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.93333,
+      -16.33333
+    ]
+  }
+}

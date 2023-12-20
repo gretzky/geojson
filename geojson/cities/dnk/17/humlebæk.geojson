@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Humlebæk",
+    "country": "DK",
+    "subdivision": "17",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.5341,
+      55.9618
+    ]
+  }
+}

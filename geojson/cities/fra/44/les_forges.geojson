@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Les Forges",
+    "country": "FR",
+    "subdivision": "44",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.38846,
+      48.17747
+    ]
+  }
+}

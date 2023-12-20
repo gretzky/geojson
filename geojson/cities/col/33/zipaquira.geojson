@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zipaquirá",
+    "country": "CO",
+    "subdivision": "33",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.00481,
+      5.02208
+    ]
+  }
+}

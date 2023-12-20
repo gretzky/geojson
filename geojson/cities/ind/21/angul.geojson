@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Angul",
+    "country": "IN",
+    "subdivision": "21",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.10192,
+      20.84089
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pernem",
+    "country": "IN",
+    "subdivision": "33",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.79511,
+      15.723
+    ]
+  }
+}

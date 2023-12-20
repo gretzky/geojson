@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Navotas",
+    "country": "PH",
+    "subdivision": "NCR",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.95,
+      14.66667
+    ]
+  }
+}

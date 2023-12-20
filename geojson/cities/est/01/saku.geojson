@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saku",
+    "country": "EE",
+    "subdivision": "01",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.66382,
+      59.30354
+    ]
+  }
+}

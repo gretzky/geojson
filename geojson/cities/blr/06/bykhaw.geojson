@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bykhaw",
+    "country": "BY",
+    "subdivision": "06",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.2454,
+      53.521
+    ]
+  }
+}

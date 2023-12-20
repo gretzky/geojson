@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sencha",
+    "country": "UA",
+    "subdivision": "18",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.34602,
+      50.25482
+    ]
+  }
+}

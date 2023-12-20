@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pueblo Nuevo",
+    "country": "PE",
+    "subdivision": "13",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.51528,
+      -7.18806
+    ]
+  }
+}

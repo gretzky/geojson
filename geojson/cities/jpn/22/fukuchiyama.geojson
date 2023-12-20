@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fukuchiyama",
+    "country": "JP",
+    "subdivision": "22",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.11667,
+      35.3
+    ]
+  }
+}

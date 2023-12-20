@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Basse-Nendaz",
+    "country": "CH",
+    "subdivision": "VS",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.31209,
+      46.18993
+    ]
+  }
+}

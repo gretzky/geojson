@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cepari",
+    "country": "RO",
+    "subdivision": "29",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.17122,
+      44.49733
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kadoma",
+    "country": "JP",
+    "subdivision": "32",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.57442,
+      34.7381
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nieuw-Beijerland",
+    "country": "NL",
+    "subdivision": "11",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.34306,
+      51.8125
+    ]
+  }
+}

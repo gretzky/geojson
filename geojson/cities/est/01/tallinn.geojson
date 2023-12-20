@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tallinn",
+    "country": "EE",
+    "subdivision": "01",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.75353,
+      59.43696
+    ]
+  }
+}

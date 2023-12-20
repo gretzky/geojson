@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lindesberg",
+    "country": "SE",
+    "subdivision": "15",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2304,
+      59.59202
+    ]
+  }
+}

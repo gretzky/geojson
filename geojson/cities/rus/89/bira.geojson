@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bira",
+    "country": "RU",
+    "subdivision": "89",
+    "timezone": "Asia/Vladivostok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      132.46826,
+      49.00135
+    ]
+  }
+}

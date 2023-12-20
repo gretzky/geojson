@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pájaros",
+    "country": "PR",
+    "subdivision": "135",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.21683,
+      18.36856
+    ]
+  }
+}

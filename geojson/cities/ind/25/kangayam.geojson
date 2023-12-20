@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kangayam",
+    "country": "IN",
+    "subdivision": "25",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.5609,
+      11.00599
+    ]
+  }
+}

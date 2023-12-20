@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Si Chiang Mai",
+    "country": "TH",
+    "subdivision": "17",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.58667,
+      17.95639
+    ]
+  }
+}

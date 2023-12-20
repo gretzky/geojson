@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Emmen",
+    "country": "NL",
+    "subdivision": "01",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.90694,
+      52.77917
+    ]
+  }
+}

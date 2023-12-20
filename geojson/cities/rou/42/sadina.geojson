@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sadina",
+    "country": "RO",
+    "subdivision": "42",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.52953,
+      44.41143
+    ]
+  }
+}

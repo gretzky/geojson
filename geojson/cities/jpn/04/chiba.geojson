@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chiba",
+    "country": "JP",
+    "subdivision": "04",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.11667,
+      35.6
+    ]
+  }
+}

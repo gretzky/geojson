@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boo",
+    "country": "SE",
+    "subdivision": "26",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.28333,
+      59.33333
+    ]
+  }
+}

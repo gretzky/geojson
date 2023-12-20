@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Argos Orestiko",
+    "country": "GR",
+    "subdivision": "ESYE13",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.25889,
+      40.45354
+    ]
+  }
+}

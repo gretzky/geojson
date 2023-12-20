@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hofstetten",
+    "country": "CH",
+    "subdivision": "ZH",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.50646,
+      47.47778
+    ]
+  }
+}

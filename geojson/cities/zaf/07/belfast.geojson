@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Belfast",
+    "country": "ZA",
+    "subdivision": "07",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.03504,
+      -25.68991
+    ]
+  }
+}

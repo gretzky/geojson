@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Neijiang",
+    "country": "CN",
+    "subdivision": "32",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      105.06216,
+      29.58354
+    ]
+  }
+}

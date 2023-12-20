@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Florencia",
+    "country": "CU",
+    "subdivision": "07",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.97328,
+      22.1461
+    ]
+  }
+}

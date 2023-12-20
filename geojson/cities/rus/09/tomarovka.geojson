@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tomarovka",
+    "country": "RU",
+    "subdivision": "09",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.23309,
+      50.68338
+    ]
+  }
+}

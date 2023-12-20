@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novyy Buh",
+    "country": "UA",
+    "subdivision": "16",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.51214,
+      47.69057
+    ]
+  }
+}

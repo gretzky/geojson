@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kawanishi",
+    "country": "JP",
+    "subdivision": "13",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.41667,
+      34.81667
+    ]
+  }
+}

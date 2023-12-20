@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bogorodsk",
+    "country": "RU",
+    "subdivision": "51",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.51294,
+      56.10513
+    ]
+  }
+}

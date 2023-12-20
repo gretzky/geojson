@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Innbygda",
+    "country": "NO",
+    "subdivision": "34",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.26374,
+      61.31484
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Otaru",
+    "country": "JP",
+    "subdivision": "12",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.00222,
+      43.18944
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Olomouc",
+    "country": "CZ",
+    "subdivision": "84",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.25175,
+      49.59552
+    ]
+  }
+}

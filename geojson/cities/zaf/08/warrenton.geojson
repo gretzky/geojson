@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Warrenton",
+    "country": "ZA",
+    "subdivision": "08",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.84753,
+      -28.11396
+    ]
+  }
+}

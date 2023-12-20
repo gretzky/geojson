@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kashima",
+    "country": "JP",
+    "subdivision": "33",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.09056,
+      33.10611
+    ]
+  }
+}

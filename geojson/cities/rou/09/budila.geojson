@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Budila",
+    "country": "RO",
+    "subdivision": "09",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.8,
+      45.66667
+    ]
+  }
+}

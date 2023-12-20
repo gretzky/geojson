@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kavadarci",
+    "country": "MK",
+    "subdivision": "D6",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.01194,
+      41.43306
+    ]
+  }
+}

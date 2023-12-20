@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hommelvik",
+    "country": "NO",
+    "subdivision": "21",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.79424,
+      63.41083
+    ]
+  }
+}

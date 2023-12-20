@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bat Yam",
+    "country": "IL",
+    "subdivision": "05",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.75185,
+      32.02379
+    ]
+  }
+}

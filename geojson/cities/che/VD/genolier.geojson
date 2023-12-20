@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Genolier",
+    "country": "CH",
+    "subdivision": "VD",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.21809,
+      46.43537
+    ]
+  }
+}

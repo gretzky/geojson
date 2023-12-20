@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jüri",
+    "country": "EE",
+    "subdivision": "01",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.92099,
+      59.35974
+    ]
+  }
+}

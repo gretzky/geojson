@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eldorado",
+    "country": "BR",
+    "subdivision": "11",
+    "timezone": "America/Campo_Grande"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.28361,
+      -23.78694
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gävle",
+    "country": "SE",
+    "subdivision": "03",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.14174,
+      60.67452
+    ]
+  }
+}

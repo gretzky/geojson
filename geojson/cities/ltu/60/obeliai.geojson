@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Obeliai",
+    "country": "LT",
+    "subdivision": "60",
+    "timezone": "Europe/Vilnius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.15648,
+      55.96895
+    ]
+  }
+}

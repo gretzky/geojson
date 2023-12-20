@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Canoas",
+    "country": "CR",
+    "subdivision": "07",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.83844,
+      8.53305
+    ]
+  }
+}

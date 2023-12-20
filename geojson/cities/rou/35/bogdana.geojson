@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bogdana",
+    "country": "RO",
+    "subdivision": "35",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.08333,
+      43.93333
+    ]
+  }
+}

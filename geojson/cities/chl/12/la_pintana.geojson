@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Pintana",
+    "country": "CL",
+    "subdivision": "12",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.63419,
+      -33.58331
+    ]
+  }
+}

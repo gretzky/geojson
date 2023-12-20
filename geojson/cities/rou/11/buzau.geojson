@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Buzău",
+    "country": "RO",
+    "subdivision": "11",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.83333,
+      45.15
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krasnyy Yar",
+    "country": "RU",
+    "subdivision": "54",
+    "timezone": "Asia/Omsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.92635,
+      55.24242
+    ]
+  }
+}

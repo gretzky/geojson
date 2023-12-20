@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shahecheng",
+    "country": "CN",
+    "subdivision": "10",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.50583,
+      36.93833
+    ]
+  }
+}

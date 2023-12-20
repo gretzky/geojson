@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Attur",
+    "country": "IN",
+    "subdivision": "25",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.60143,
+      11.59414
+    ]
+  }
+}

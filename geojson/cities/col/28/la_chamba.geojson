@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Chamba",
+    "country": "CO",
+    "subdivision": "28",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.86844,
+      4.02649
+    ]
+  }
+}

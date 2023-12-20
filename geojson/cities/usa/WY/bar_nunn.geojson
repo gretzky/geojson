@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bar Nunn",
+    "country": "US",
+    "subdivision": "WY",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.34336,
+      42.91358
+    ]
+  }
+}

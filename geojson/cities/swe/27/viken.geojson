@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Viken",
+    "country": "SE",
+    "subdivision": "27",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.57429,
+      56.15063
+    ]
+  }
+}

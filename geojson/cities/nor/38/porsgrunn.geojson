@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porsgrunn",
+    "country": "NO",
+    "subdivision": "38",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6561,
+      59.14054
+    ]
+  }
+}

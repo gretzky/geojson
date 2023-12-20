@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Portobello",
+    "country": "NZ",
+    "subdivision": "F7",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      170.65,
+      -45.85
+    ]
+  }
+}

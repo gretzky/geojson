@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gimry",
+    "country": "RU",
+    "subdivision": "17",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.83959,
+      42.75974
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chiang Khong",
+    "country": "TH",
+    "subdivision": "03",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.40461,
+      20.26125
+    ]
+  }
+}

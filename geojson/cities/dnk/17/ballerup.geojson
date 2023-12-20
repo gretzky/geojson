@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ballerup",
+    "country": "DK",
+    "subdivision": "17",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.36328,
+      55.73165
+    ]
+  }
+}

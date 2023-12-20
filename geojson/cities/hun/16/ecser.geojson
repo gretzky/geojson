@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ecser",
+    "country": "HU",
+    "subdivision": "16",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.3245,
+      47.44389
+    ]
+  }
+}

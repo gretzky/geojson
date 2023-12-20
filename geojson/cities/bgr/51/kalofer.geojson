@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kalofer",
+    "country": "BG",
+    "subdivision": "51",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.98333,
+      42.61667
+    ]
+  }
+}

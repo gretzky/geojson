@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nakhon Sawan",
+    "country": "TH",
+    "subdivision": "16",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.13717,
+      15.70472
+    ]
+  }
+}

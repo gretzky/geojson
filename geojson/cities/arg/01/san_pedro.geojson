@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pedro",
+    "country": "AR",
+    "subdivision": "01",
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.66633,
+      -33.67918
+    ]
+  }
+}

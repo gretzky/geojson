@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beuca",
+    "country": "RO",
+    "subdivision": "35",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.96637,
+      44.252
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gappal",
+    "country": "PH",
+    "subdivision": "02",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.82184,
+      16.83646
+    ]
+  }
+}

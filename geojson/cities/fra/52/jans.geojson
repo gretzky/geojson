@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jans",
+    "country": "FR",
+    "subdivision": "52",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.61443,
+      47.62116
+    ]
+  }
+}

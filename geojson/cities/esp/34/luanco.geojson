@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Luanco",
+    "country": "ES",
+    "subdivision": "34",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.79344,
+      43.61517
+    ]
+  }
+}

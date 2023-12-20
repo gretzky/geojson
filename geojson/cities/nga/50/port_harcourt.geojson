@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Port Harcourt",
+    "country": "NG",
+    "subdivision": "50",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0134,
+      4.77742
+    ]
+  }
+}

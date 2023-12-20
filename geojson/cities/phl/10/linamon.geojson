@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Linamon",
+    "country": "PH",
+    "subdivision": "10",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.16276,
+      8.18603
+    ]
+  }
+}

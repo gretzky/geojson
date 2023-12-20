@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barranco",
+    "country": "PA",
+    "subdivision": "01",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.70424,
+      9.51984
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Heřmanův Městec",
+    "country": "CZ",
+    "subdivision": "86",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.66492,
+      49.94707
+    ]
+  }
+}

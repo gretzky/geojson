@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pakur",
+    "country": "IN",
+    "subdivision": "38",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.84239,
+      24.63925
+    ]
+  }
+}

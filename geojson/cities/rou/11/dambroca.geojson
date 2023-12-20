@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dâmbroca",
+    "country": "RO",
+    "subdivision": "11",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.95578,
+      45.12328
+    ]
+  }
+}

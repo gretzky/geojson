@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oulainen",
+    "country": "FI",
+    "subdivision": "17",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.8,
+      64.26667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dongtai",
+    "country": "CN",
+    "subdivision": "04",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.30947,
+      32.85231
+    ]
+  }
+}

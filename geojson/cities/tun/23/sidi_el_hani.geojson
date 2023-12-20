@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sidi el Hani",
+    "country": "TN",
+    "subdivision": "23",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.31583,
+      35.67139
+    ]
+  }
+}

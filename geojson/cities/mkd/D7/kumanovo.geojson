@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kumanovo",
+    "country": "MK",
+    "subdivision": "D7",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.71444,
+      42.13222
+    ]
+  }
+}

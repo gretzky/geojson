@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Naarden",
+    "country": "NL",
+    "subdivision": "07",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.1625,
+      52.29583
+    ]
+  }
+}

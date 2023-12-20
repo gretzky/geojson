@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ain Ebel",
+    "country": "LB",
+    "subdivision": "07",
+    "timezone": "Asia/Beirut"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.40251,
+      33.11023
+    ]
+  }
+}

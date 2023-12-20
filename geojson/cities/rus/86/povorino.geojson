@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Povorino",
+    "country": "RU",
+    "subdivision": "86",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.2457,
+      51.1945
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bizovac",
+    "country": "HR",
+    "subdivision": "10",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.45889,
+      45.59278
+    ]
+  }
+}

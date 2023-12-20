@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pernitz",
+    "country": "AT",
+    "subdivision": "03",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.96022,
+      47.89759
+    ]
+  }
+}

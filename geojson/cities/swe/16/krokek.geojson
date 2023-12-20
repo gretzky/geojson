@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krokek",
+    "country": "SE",
+    "subdivision": "16",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.36741,
+      58.67231
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Louis Trichardt",
+    "country": "ZA",
+    "subdivision": "09",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.90319,
+      -23.04385
+    ]
+  }
+}

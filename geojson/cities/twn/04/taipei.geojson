@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taipei",
+    "country": "TW",
+    "subdivision": "04",
+    "timezone": "Asia/Taipei"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.53185,
+      25.04776
+    ]
+  }
+}

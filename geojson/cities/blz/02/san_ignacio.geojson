@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Ignacio",
+    "country": "BZ",
+    "subdivision": "02",
+    "timezone": "America/Belize"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.0696,
+      17.1588
+    ]
+  }
+}

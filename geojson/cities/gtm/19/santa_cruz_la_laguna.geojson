@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Cruz La Laguna",
+    "country": "GT",
+    "subdivision": "19",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.20716,
+      14.74421
+    ]
+  }
+}

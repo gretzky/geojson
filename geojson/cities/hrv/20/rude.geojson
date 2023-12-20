@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rude",
+    "country": "HR",
+    "subdivision": "20",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.66667,
+      45.76667
+    ]
+  }
+}

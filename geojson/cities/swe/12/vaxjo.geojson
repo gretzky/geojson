@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Växjö",
+    "country": "SE",
+    "subdivision": "12",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.80906,
+      56.87767
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Peña",
+    "country": "PA",
+    "subdivision": "10",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.02821,
+      8.13413
+    ]
+  }
+}

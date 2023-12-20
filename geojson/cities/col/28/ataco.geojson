@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ataco",
+    "country": "CO",
+    "subdivision": "28",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.38178,
+      3.59147
+    ]
+  }
+}

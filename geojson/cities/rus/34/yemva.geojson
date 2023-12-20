@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yemva",
+    "country": "RU",
+    "subdivision": "34",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      50.85939,
+      62.58999
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Doğanca",
+    "country": "TR",
+    "subdivision": "74",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.33099,
+      37.79955
+    ]
+  }
+}

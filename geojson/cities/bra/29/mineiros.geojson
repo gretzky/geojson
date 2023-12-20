@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mineiros",
+    "country": "BR",
+    "subdivision": "29",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -52.55111,
+      -17.56944
+    ]
+  }
+}

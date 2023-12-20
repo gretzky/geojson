@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Sierpe",
+    "country": "CU",
+    "subdivision": "14",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.26832,
+      21.77241
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Mont-sur-Lausanne",
+    "country": "CH",
+    "subdivision": "VD",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.63145,
+      46.55815
+    ]
+  }
+}

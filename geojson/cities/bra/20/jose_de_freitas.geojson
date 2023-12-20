@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "José de Freitas",
+    "country": "BR",
+    "subdivision": "20",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -42.57556,
+      -4.75639
+    ]
+  }
+}

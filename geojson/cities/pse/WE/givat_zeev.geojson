@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Givat Zeev",
+    "country": "PS",
+    "subdivision": "WE",
+    "timezone": "Asia/Hebron"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.16861,
+      31.86145
+    ]
+  }
+}

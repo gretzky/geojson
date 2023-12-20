@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Otra Banda",
+    "country": "DO",
+    "subdivision": "10",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.66281,
+      18.65017
+    ]
+  }
+}

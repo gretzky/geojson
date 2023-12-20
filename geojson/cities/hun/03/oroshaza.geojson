@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Orosháza",
+    "country": "HU",
+    "subdivision": "03",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.66667,
+      46.56667
+    ]
+  }
+}

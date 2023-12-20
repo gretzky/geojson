@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Wilches",
+    "country": "CO",
+    "subdivision": "26",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.89601,
+      7.34828
+    ]
+  }
+}

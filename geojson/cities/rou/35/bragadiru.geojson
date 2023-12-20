@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bragadiru",
+    "country": "RO",
+    "subdivision": "35",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.51667,
+      43.76667
+    ]
+  }
+}

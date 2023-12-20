@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Miryang",
+    "country": "KR",
+    "subdivision": "20",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.74889,
+      35.49333
+    ]
+  }
+}

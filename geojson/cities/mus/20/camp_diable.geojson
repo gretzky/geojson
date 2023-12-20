@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Camp Diable",
+    "country": "MU",
+    "subdivision": "20",
+    "timezone": "Indian/Mauritius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.57889,
+      -20.46278
+    ]
+  }
+}

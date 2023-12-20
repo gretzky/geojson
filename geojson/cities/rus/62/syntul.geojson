@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Syntul",
+    "country": "RU",
+    "subdivision": "62",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.29711,
+      55.00327
+    ]
+  }
+}

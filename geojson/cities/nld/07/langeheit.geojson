@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Langeheit",
+    "country": "NL",
+    "subdivision": "07",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.75849,
+      52.492
+    ]
+  }
+}

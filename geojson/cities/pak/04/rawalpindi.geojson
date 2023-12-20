@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rawalpindi",
+    "country": "PK",
+    "subdivision": "04",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.0479,
+      33.59733
+    ]
+  }
+}

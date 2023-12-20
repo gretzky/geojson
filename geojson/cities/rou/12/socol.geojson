@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Socol",
+    "country": "RO",
+    "subdivision": "12",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.37028,
+      44.86083
+    ]
+  }
+}

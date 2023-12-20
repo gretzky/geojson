@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wuyang",
+    "country": "CN",
+    "subdivision": "01",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.24722,
+      31.9925
+    ]
+  }
+}

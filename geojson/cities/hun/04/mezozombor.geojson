@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mezőzombor",
+    "country": "HU",
+    "subdivision": "04",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.26667,
+      48.15
+    ]
+  }
+}

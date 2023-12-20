@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gualaco",
+    "country": "HN",
+    "subdivision": "15",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.07076,
+      15.02521
+    ]
+  }
+}

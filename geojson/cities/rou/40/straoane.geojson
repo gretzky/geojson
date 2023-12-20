@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Străoane",
+    "country": "RO",
+    "subdivision": "40",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.05,
+      45.93333
+    ]
+  }
+}

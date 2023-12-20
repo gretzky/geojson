@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alençon",
+    "country": "FR",
+    "subdivision": "28",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.09311,
+      48.43476
+    ]
+  }
+}

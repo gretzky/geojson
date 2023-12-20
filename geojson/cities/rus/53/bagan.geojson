@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bagan",
+    "country": "RU",
+    "subdivision": "53",
+    "timezone": "Asia/Novosibirsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.66462,
+      54.10014
+    ]
+  }
+}

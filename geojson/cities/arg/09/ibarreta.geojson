@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ibarreta",
+    "country": "AR",
+    "subdivision": "09",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.85851,
+      -25.21438
+    ]
+  }
+}

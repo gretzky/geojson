@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vorotynsk",
+    "country": "RU",
+    "subdivision": "25",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.04646,
+      54.42828
+    ]
+  }
+}

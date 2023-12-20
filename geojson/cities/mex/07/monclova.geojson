@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monclova",
+    "country": "MX",
+    "subdivision": "07",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -101.42056,
+      26.90687
+    ]
+  }
+}

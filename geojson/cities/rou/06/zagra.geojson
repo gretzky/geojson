@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zagra",
+    "country": "RO",
+    "subdivision": "06",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.28333,
+      47.33333
+    ]
+  }
+}

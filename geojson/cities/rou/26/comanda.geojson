@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Comanda",
+    "country": "RO",
+    "subdivision": "26",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.16413,
+      44.64863
+    ]
+  }
+}

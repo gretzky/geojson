@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "De Wijert",
+    "country": "NL",
+    "subdivision": "04",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.57117,
+      53.1945
+    ]
+  }
+}

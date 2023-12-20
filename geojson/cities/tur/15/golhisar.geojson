@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gölhisar",
+    "country": "TR",
+    "subdivision": "15",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.50876,
+      37.1459
+    ]
+  }
+}

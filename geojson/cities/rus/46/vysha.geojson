@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vysha",
+    "country": "RU",
+    "subdivision": "46",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.37766,
+      53.84768
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vila Verde",
+    "country": "PT",
+    "subdivision": "14",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.11512,
+      39.15489
+    ]
+  }
+}

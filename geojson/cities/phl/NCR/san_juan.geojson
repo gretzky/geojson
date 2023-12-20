@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan",
+    "country": "PH",
+    "subdivision": "NCR",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.0333,
+      14.6
+    ]
+  }
+}

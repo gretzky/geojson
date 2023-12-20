@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Melita",
+    "country": "CA",
+    "subdivision": "03",
+    "timezone": "America/Winnipeg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.99669,
+      49.26811
+    ]
+  }
+}

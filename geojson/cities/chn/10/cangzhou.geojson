@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cangzhou",
+    "country": "CN",
+    "subdivision": "10",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.86667,
+      38.31667
+    ]
+  }
+}

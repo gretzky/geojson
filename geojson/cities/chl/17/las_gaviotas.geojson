@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Gaviotas",
+    "country": "CL",
+    "subdivision": "17",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.18834,
+      -39.86653
+    ]
+  }
+}

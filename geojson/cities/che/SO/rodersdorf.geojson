@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rodersdorf",
+    "country": "CH",
+    "subdivision": "SO",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.45767,
+      47.48082
+    ]
+  }
+}

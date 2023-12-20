@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kroměříž",
+    "country": "CZ",
+    "subdivision": "90",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.39312,
+      49.29785
+    ]
+  }
+}

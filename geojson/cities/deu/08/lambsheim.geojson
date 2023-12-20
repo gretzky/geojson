@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lambsheim",
+    "country": "DE",
+    "subdivision": "08",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.28778,
+      49.51361
+    ]
+  }
+}

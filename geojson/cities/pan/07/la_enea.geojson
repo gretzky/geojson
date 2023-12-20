@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Enea",
+    "country": "PA",
+    "subdivision": "07",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.27314,
+      7.83227
+    ]
+  }
+}

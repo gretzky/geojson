@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Giffers",
+    "country": "CH",
+    "subdivision": "FR",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.20845,
+      46.7623
+    ]
+  }
+}

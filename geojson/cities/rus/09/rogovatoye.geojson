@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rogovatoye",
+    "country": "RU",
+    "subdivision": "09",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.3818,
+      51.23
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Voloshka",
+    "country": "RU",
+    "subdivision": "06",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.08583,
+      61.33139
+    ]
+  }
+}

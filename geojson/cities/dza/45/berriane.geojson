@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Berriane",
+    "country": "DZ",
+    "subdivision": "45",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.76689,
+      32.82648
+    ]
+  }
+}

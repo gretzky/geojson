@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Halapitan",
+    "country": "PH",
+    "subdivision": "10",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.33,
+      7.9175
+    ]
+  }
+}

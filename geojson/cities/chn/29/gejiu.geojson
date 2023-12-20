@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gejiu",
+    "country": "CN",
+    "subdivision": "29",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.15372,
+      23.36085
+    ]
+  }
+}

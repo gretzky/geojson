@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bhisho",
+    "country": "ZA",
+    "subdivision": "05",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.44218,
+      -32.84721
+    ]
+  }
+}

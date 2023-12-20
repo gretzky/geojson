@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lipka",
+    "country": "PL",
+    "subdivision": "86",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.25085,
+      53.49601
+    ]
+  }
+}

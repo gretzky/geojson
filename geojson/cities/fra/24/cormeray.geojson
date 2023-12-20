@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cormeray",
+    "country": "FR",
+    "subdivision": "24",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.4061,
+      47.49195
+    ]
+  }
+}

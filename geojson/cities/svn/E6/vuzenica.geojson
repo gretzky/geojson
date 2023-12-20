@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vuzenica",
+    "country": "SI",
+    "subdivision": "E6",
+    "timezone": "Europe/Ljubljana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.16722,
+      46.59639
+    ]
+  }
+}

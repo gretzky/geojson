@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rio Brilhante",
+    "country": "BR",
+    "subdivision": "11",
+    "timezone": "America/Campo_Grande"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.54639,
+      -21.80194
+    ]
+  }
+}

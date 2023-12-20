@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santo André",
+    "country": "PT",
+    "subdivision": "16",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.24414,
+      39.05532
+    ]
+  }
+}

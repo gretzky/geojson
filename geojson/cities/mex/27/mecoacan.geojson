@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mecoacán",
+    "country": "MX",
+    "subdivision": "27",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.08187,
+      18.23855
+    ]
+  }
+}

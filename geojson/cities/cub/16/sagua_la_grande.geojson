@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sagua la Grande",
+    "country": "CU",
+    "subdivision": "16",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.07556,
+      22.80667
+    ]
+  }
+}

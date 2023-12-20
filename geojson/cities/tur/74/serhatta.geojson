@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Serhatta",
+    "country": "TR",
+    "subdivision": "74",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.14064,
+      37.66278
+    ]
+  }
+}

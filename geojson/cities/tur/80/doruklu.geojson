@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Doruklu",
+    "country": "TR",
+    "subdivision": "80",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.33518,
+      37.2555
+    ]
+  }
+}

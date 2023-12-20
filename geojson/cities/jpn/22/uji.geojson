@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Uji",
+    "country": "JP",
+    "subdivision": "22",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.80325,
+      34.89044
+    ]
+  }
+}

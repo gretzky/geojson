@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cetariu",
+    "country": "RO",
+    "subdivision": "05",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.01667,
+      47.13333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matamey",
+    "country": "NE",
+    "subdivision": "07",
+    "timezone": "Africa/Niamey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.47485,
+      13.42309
+    ]
+  }
+}

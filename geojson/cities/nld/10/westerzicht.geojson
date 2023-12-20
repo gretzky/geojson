@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Westerzicht",
+    "country": "NL",
+    "subdivision": "10",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.58687,
+      51.46252
+    ]
+  }
+}

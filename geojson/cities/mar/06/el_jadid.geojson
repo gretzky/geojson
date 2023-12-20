@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Jadid",
+    "country": "MA",
+    "subdivision": "06",
+    "timezone": "Africa/Casablanca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.50882,
+      33.25682
+    ]
+  }
+}

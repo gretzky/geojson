@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ustronie Morskie",
+    "country": "PL",
+    "subdivision": "87",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.75568,
+      54.21517
+    ]
+  }
+}

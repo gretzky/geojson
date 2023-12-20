@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Neman",
+    "country": "RU",
+    "subdivision": "23",
+    "timezone": "Europe/Kaliningrad"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.02639,
+      55.03111
+    ]
+  }
+}

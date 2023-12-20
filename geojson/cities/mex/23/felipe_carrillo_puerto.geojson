@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Felipe Carrillo Puerto",
+    "country": "MX",
+    "subdivision": "23",
+    "timezone": "America/Cancun"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.04529,
+      19.5775
+    ]
+  }
+}

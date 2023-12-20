@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Akhisar",
+    "country": "TR",
+    "subdivision": "45",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.84006,
+      38.91852
+    ]
+  }
+}

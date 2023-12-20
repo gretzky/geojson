@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sokhumi",
+    "country": "GE",
+    "subdivision": "02",
+    "timezone": "Asia/Tbilisi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.9893,
+      43.00697
+    ]
+  }
+}

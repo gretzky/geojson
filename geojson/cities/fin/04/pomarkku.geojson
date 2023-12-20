@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pomarkku",
+    "country": "FI",
+    "subdivision": "04",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.00862,
+      61.69348
+    ]
+  }
+}

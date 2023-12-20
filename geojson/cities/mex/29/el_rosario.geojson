@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Rosario",
+    "country": "MX",
+    "subdivision": "29",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.22892,
+      19.66109
+    ]
+  }
+}

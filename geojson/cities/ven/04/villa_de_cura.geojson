@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa de Cura",
+    "country": "VE",
+    "subdivision": "04",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.48938,
+      10.03863
+    ]
+  }
+}

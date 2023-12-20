@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Madurai",
+    "country": "IN",
+    "subdivision": "25",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.11953,
+      9.919
+    ]
+  }
+}

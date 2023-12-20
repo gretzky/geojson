@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kazaki",
+    "country": "RU",
+    "subdivision": "43",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.26488,
+      52.62484
+    ]
+  }
+}

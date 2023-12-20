@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Syrove",
+    "country": "UA",
+    "subdivision": "16",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.45692,
+      47.89552
+    ]
+  }
+}

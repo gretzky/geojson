@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chitu",
+    "country": "CN",
+    "subdivision": "28",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.40278,
+      39.20333
+    ]
+  }
+}

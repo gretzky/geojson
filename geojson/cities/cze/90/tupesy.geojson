@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tupesy",
+    "country": "CZ",
+    "subdivision": "90",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.36983,
+      49.08427
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Remington",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.15085,
+      40.76087
+    ]
+  }
+}

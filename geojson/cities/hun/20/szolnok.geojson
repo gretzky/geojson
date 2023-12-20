@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Szolnok",
+    "country": "HU",
+    "subdivision": "20",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.2,
+      47.18333
+    ]
+  }
+}

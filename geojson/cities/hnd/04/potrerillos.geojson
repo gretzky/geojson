@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Potrerillos",
+    "country": "HN",
+    "subdivision": "04",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.86667,
+      14.55
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Babruysk",
+    "country": "BY",
+    "subdivision": "06",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.2214,
+      53.1384
+    ]
+  }
+}

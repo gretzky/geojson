@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zhengzhou",
+    "country": "CN",
+    "subdivision": "09",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.64861,
+      34.75778
+    ]
+  }
+}

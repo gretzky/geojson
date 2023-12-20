@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sagua de Tánamo",
+    "country": "CU",
+    "subdivision": "12",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.24116,
+      20.58269
+    ]
+  }
+}

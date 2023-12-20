@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Estanislao",
+    "country": "CO",
+    "subdivision": "35",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.15111,
+      10.39833
+    ]
+  }
+}

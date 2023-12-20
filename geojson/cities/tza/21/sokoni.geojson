@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sokoni",
+    "country": "TZ",
+    "subdivision": "21",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.55,
+      -6.43333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Tiza",
+    "country": "PA",
+    "subdivision": "07",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.28837,
+      7.75284
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hongseong",
+    "country": "KR",
+    "subdivision": "17",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.665,
+      36.6009
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tal’menka",
+    "country": "RU",
+    "subdivision": "04",
+    "timezone": "Asia/Barnaul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.5677,
+      53.8183
+    ]
+  }
+}

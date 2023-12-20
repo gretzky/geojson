@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Busalla",
+    "country": "IT",
+    "subdivision": "08",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.94545,
+      44.5706
+    ]
+  }
+}

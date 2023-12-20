@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Katra",
+    "country": "IN",
+    "subdivision": "12",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.93195,
+      32.99167
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chiang Rai",
+    "country": "TH",
+    "subdivision": "03",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.8325,
+      19.90858
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hollola",
+    "country": "FI",
+    "subdivision": "07",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.43333,
+      61.05
+    ]
+  }
+}

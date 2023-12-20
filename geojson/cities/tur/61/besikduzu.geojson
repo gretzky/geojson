@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beşikdüzü",
+    "country": "TR",
+    "subdivision": "61",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.23294,
+      41.05202
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Antonio de los Ríos",
+    "country": "MX",
+    "subdivision": "01",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.47118,
+      22.16104
+    ]
+  }
+}

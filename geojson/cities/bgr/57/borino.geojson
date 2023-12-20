@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Borino",
+    "country": "BG",
+    "subdivision": "57",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.293,
+      41.68408
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vallada",
+    "country": "ES",
+    "subdivision": "60",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.69104,
+      38.89575
+    ]
+  }
+}

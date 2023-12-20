@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zama",
+    "country": "JP",
+    "subdivision": "19",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.39101,
+      35.4879
+    ]
+  }
+}

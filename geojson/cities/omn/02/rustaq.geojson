@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rustaq",
+    "country": "OM",
+    "subdivision": "02",
+    "timezone": "Asia/Muscat"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.42444,
+      23.39083
+    ]
+  }
+}

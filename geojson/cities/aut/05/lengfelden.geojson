@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lengfelden",
+    "country": "AT",
+    "subdivision": "05",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.05,
+      47.85
+    ]
+  }
+}

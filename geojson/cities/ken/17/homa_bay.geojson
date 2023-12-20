@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Homa Bay",
+    "country": "KE",
+    "subdivision": "17",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.45714,
+      -0.52731
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Helsingborg",
+    "country": "SE",
+    "subdivision": "27",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.69437,
+      56.04673
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stanley",
+    "country": "FK",
+    "subdivision": "00",
+    "timezone": "Atlantic/Stanley"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.85701,
+      -51.69382
+    ]
+  }
+}

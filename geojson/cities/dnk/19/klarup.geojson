@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Klarup",
+    "country": "DK",
+    "subdivision": "19",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.05617,
+      57.01194
+    ]
+  }
+}

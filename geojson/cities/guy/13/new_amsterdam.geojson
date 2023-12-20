@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "New Amsterdam",
+    "country": "GY",
+    "subdivision": "13",
+    "timezone": "America/Guyana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.5171,
+      6.24793
+    ]
+  }
+}

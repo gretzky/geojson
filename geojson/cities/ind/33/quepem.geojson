@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Quepem",
+    "country": "IN",
+    "subdivision": "33",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.0772,
+      15.2128
+    ]
+  }
+}

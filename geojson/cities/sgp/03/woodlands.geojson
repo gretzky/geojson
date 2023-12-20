@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Woodlands",
+    "country": "SG",
+    "subdivision": "03",
+    "timezone": "Asia/Singapore"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.78877,
+      1.43801
+    ]
+  }
+}

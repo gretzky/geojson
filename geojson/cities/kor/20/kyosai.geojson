@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kyosai",
+    "country": "KR",
+    "subdivision": "20",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.58861,
+      34.85028
+    ]
+  }
+}

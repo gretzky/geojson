@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dara",
+    "country": "TR",
+    "subdivision": "72",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.95455,
+      37.17902
+    ]
+  }
+}

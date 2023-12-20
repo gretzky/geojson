@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tres Isletas",
+    "country": "AR",
+    "subdivision": "03",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.43207,
+      -26.34067
+    ]
+  }
+}

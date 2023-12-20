@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Susaki",
+    "country": "JP",
+    "subdivision": "20",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      133.29128,
+      33.39471
+    ]
+  }
+}

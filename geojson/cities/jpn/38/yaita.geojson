@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yaita",
+    "country": "JP",
+    "subdivision": "38",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.93333,
+      36.8
+    ]
+  }
+}

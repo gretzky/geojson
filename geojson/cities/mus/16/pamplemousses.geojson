@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pamplemousses",
+    "country": "MU",
+    "subdivision": "16",
+    "timezone": "Indian/Mauritius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.57028,
+      -20.10389
+    ]
+  }
+}

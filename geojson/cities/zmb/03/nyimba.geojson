@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nyimba",
+    "country": "ZM",
+    "subdivision": "03",
+    "timezone": "Africa/Lusaka"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.8149,
+      -14.55656
+    ]
+  }
+}

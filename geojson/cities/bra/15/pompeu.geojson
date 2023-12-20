@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pompéu",
+    "country": "BR",
+    "subdivision": "15",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -44.93528,
+      -19.22444
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nohar",
+    "country": "IN",
+    "subdivision": "24",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.77064,
+      29.18292
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hagi",
+    "country": "JP",
+    "subdivision": "45",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.41667,
+      34.4
+    ]
+  }
+}

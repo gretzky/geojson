@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kumasi",
+    "country": "GH",
+    "subdivision": "02",
+    "timezone": "Africa/Accra"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.62443,
+      6.68848
+    ]
+  }
+}

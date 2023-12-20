@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palwal",
+    "country": "IN",
+    "subdivision": "10",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.32546,
+      28.14469
+    ]
+  }
+}

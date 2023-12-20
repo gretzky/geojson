@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ilave",
+    "country": "PE",
+    "subdivision": "21",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.66667,
+      -16.08333
+    ]
+  }
+}

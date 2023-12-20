@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mänttä",
+    "country": "FI",
+    "subdivision": "06",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.62791,
+      62.03014
+    ]
+  }
+}

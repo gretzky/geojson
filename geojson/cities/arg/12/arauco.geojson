@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arauco",
+    "country": "AR",
+    "subdivision": "12",
+    "timezone": "America/Argentina/La_Rioja"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.7925,
+      -28.58071
+    ]
+  }
+}

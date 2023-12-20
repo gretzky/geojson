@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kuwait City",
+    "country": "KW",
+    "subdivision": "02",
+    "timezone": "Asia/Kuwait"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.97833,
+      29.36972
+    ]
+  }
+}

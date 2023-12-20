@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rapid City",
+    "country": "US",
+    "subdivision": "SD",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.23101,
+      44.08054
+    ]
+  }
+}

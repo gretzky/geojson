@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Machida",
+    "country": "JP",
+    "subdivision": "40",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.45083,
+      35.54028
+    ]
+  }
+}

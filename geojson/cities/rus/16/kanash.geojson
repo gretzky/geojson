@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kanash",
+    "country": "RU",
+    "subdivision": "16",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.49127,
+      55.50962
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Doncello",
+    "country": "CO",
+    "subdivision": "08",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.28466,
+      1.67817
+    ]
+  }
+}

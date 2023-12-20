@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Herten",
+    "country": "NL",
+    "subdivision": "05",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.9625,
+      51.18083
+    ]
+  }
+}

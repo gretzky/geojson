@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Årup",
+    "country": "DK",
+    "subdivision": "21",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.04131,
+      55.37315
+    ]
+  }
+}

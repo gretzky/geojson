@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guajará",
+    "country": "BR",
+    "subdivision": "04",
+    "timezone": "America/Manaus"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.66667,
+      -2.96667
+    ]
+  }
+}

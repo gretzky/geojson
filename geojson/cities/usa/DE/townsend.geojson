@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Townsend",
+    "country": "US",
+    "subdivision": "DE",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.6916,
+      39.39511
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Takasaki",
+    "country": "JP",
+    "subdivision": "10",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.01667,
+      36.33333
+    ]
+  }
+}

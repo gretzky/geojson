@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kars",
+    "country": "TR",
+    "subdivision": "84",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.08548,
+      40.59825
+    ]
+  }
+}

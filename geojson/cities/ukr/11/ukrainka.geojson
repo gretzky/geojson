@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ukrainka",
+    "country": "UA",
+    "subdivision": "11",
+    "timezone": "Europe/Simferopol"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.1407,
+      44.8865
+    ]
+  }
+}

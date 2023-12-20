@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lubraniec",
+    "country": "PL",
+    "subdivision": "73",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.83254,
+      52.54178
+    ]
+  }
+}

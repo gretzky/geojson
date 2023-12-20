@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Timbiquí",
+    "country": "CO",
+    "subdivision": "09",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.66536,
+      2.7717
+    ]
+  }
+}

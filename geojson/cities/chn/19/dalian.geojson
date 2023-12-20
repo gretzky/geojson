@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dalian",
+    "country": "CN",
+    "subdivision": "19",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.60222,
+      38.91222
+    ]
+  }
+}

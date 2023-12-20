@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Biaokou",
+    "country": "CN",
+    "subdivision": "28",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.55378,
+      39.32527
+    ]
+  }
+}

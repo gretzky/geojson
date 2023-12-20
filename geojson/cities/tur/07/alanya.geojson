@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alanya",
+    "country": "TR",
+    "subdivision": "07",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.99982,
+      36.54375
+    ]
+  }
+}

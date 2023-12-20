@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novorzhev",
+    "country": "RU",
+    "subdivision": "60",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.33378,
+      57.02942
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Borgholm",
+    "country": "SE",
+    "subdivision": "09",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.65634,
+      56.8793
+    ]
+  }
+}

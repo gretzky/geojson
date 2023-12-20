@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Takahashi",
+    "country": "JP",
+    "subdivision": "31",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      133.61667,
+      34.78333
+    ]
+  }
+}

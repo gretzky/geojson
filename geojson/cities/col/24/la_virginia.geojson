@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Virginia",
+    "country": "CO",
+    "subdivision": "24",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.8825,
+      4.89972
+    ]
+  }
+}

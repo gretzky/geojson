@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stuart Park",
+    "country": "AU",
+    "subdivision": "03",
+    "timezone": "Australia/Darwin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.84249,
+      -12.4486
+    ]
+  }
+}

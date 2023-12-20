@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pedro Juan Caballero",
+    "country": "PY",
+    "subdivision": "02",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.73333,
+      -22.54722
+    ]
+  }
+}

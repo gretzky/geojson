@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pilar",
+    "country": "PY",
+    "subdivision": "13",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.30639,
+      -26.85874
+    ]
+  }
+}

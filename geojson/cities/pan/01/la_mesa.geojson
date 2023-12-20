@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Mesa",
+    "country": "PA",
+    "subdivision": "01",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.67534,
+      9.49587
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Camp de Mar",
+    "country": "ES",
+    "subdivision": "07",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.42386,
+      39.53827
+    ]
+  }
+}

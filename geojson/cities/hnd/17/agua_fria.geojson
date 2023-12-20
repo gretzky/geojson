@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Agua Fría",
+    "country": "HN",
+    "subdivision": "17",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.55111,
+      13.46889
+    ]
+  }
+}

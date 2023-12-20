@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Lomas",
+    "country": "PE",
+    "subdivision": "20",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.24667,
+      -4.65333
+    ]
+  }
+}

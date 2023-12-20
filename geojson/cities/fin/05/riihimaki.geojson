@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Riihimäki",
+    "country": "FI",
+    "subdivision": "05",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.77726,
+      60.73769
+    ]
+  }
+}

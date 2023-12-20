@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jindřichův Hradec",
+    "country": "CZ",
+    "subdivision": "79",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.00301,
+      49.14404
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Canelas",
+    "country": "PT",
+    "subdivision": "17",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.6,
+      41.08333
+    ]
+  }
+}

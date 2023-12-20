@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stenlille",
+    "country": "DK",
+    "subdivision": "20",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5912,
+      55.53888
+    ]
+  }
+}

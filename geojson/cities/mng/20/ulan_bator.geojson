@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ulan Bator",
+    "country": "MN",
+    "subdivision": "20",
+    "timezone": "Asia/Ulaanbaatar"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.88324,
+      47.90771
+    ]
+  }
+}

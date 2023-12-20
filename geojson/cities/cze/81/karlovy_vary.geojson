@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karlovy Vary",
+    "country": "CZ",
+    "subdivision": "81",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.87117,
+      50.23271
+    ]
+  }
+}

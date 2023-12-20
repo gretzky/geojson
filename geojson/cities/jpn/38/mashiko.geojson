@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mashiko",
+    "country": "JP",
+    "subdivision": "38",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.1,
+      36.46667
+    ]
+  }
+}

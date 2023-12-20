@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sokcho",
+    "country": "KR",
+    "subdivision": "06",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.59181,
+      38.20701
+    ]
+  }
+}

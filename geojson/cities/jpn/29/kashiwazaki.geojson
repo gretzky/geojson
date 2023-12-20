@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kashiwazaki",
+    "country": "JP",
+    "subdivision": "29",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.55,
+      37.36667
+    ]
+  }
+}

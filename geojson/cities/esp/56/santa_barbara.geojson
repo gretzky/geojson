@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Bárbara",
+    "country": "ES",
+    "subdivision": "56",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.49292,
+      40.71542
+    ]
+  }
+}

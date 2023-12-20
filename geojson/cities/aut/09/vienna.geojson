@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vienna",
+    "country": "AT",
+    "subdivision": "09",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.37208,
+      48.20849
+    ]
+  }
+}

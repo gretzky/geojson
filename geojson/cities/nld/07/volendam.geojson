@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Volendam",
+    "country": "NL",
+    "subdivision": "07",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.07083,
+      52.495
+    ]
+  }
+}

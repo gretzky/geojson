@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Centralniy",
+    "country": "RU",
+    "subdivision": "66",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.36072,
+      59.93111
+    ]
+  }
+}

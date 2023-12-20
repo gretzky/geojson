@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bujoru",
+    "country": "RO",
+    "subdivision": "35",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.56667,
+      43.71667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Khonsa",
+    "country": "IN",
+    "subdivision": "30",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.56667,
+      27.01667
+    ]
+  }
+}

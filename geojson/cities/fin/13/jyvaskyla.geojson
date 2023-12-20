@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jyväskylä",
+    "country": "FI",
+    "subdivision": "13",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.72088,
+      62.24147
+    ]
+  }
+}

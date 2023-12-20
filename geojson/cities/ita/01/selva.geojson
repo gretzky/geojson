@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Selva",
+    "country": "IT",
+    "subdivision": "01",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.34425,
+      42.11442
+    ]
+  }
+}

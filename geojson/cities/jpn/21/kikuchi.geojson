@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kikuchi",
+    "country": "JP",
+    "subdivision": "21",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.81667,
+      32.98333
+    ]
+  }
+}

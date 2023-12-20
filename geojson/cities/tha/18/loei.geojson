@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Loei",
+    "country": "TH",
+    "subdivision": "18",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.72749,
+      17.49052
+    ]
+  }
+}

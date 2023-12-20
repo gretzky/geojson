@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Poço Branco",
+    "country": "BR",
+    "subdivision": "22",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -35.66278,
+      -5.62278
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Panzos",
+    "country": "GT",
+    "subdivision": "01",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.64147,
+      15.39862
+    ]
+  }
+}

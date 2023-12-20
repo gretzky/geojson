@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tarki",
+    "country": "RU",
+    "subdivision": "17",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.49527,
+      42.94423
+    ]
+  }
+}

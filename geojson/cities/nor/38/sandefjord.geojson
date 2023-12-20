@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sandefjord",
+    "country": "NO",
+    "subdivision": "38",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.21665,
+      59.13118
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pedro Chimay",
+    "country": "MX",
+    "subdivision": "31",
+    "timezone": "America/Merida"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.5796,
+      20.86465
+    ]
+  }
+}

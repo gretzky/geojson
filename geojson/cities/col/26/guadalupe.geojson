@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guadalupe",
+    "country": "CO",
+    "subdivision": "26",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.41833,
+      6.2464
+    ]
+  }
+}

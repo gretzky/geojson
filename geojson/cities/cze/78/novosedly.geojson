@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novosedly",
+    "country": "CZ",
+    "subdivision": "78",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.49273,
+      48.83704
+    ]
+  }
+}

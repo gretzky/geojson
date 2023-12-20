@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Anuradhapura",
+    "country": "LK",
+    "subdivision": "30",
+    "timezone": "Asia/Colombo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.41306,
+      8.31223
+    ]
+  }
+}

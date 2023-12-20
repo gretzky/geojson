@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Viana do Castelo",
+    "country": "PT",
+    "subdivision": "20",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.83287,
+      41.69323
+    ]
+  }
+}

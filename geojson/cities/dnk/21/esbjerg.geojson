@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Esbjerg",
+    "country": "DK",
+    "subdivision": "21",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.45187,
+      55.47028
+    ]
+  }
+}

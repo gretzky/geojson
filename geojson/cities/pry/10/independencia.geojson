@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Independencia",
+    "country": "PY",
+    "subdivision": "10",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.26781,
+      -25.691
+    ]
+  }
+}

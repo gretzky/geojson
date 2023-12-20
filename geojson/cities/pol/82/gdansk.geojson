@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gdańsk",
+    "country": "PL",
+    "subdivision": "82",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.64912,
+      54.35227
+    ]
+  }
+}

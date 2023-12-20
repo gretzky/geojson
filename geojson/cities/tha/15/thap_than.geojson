@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Thap Than",
+    "country": "TH",
+    "subdivision": "15",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.89166,
+      15.46063
+    ]
+  }
+}

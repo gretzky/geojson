@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Evjen",
+    "country": "NO",
+    "subdivision": "09",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.73333,
+      68.26667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kotlas",
+    "country": "RU",
+    "subdivision": "06",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.64963,
+      61.25745
+    ]
+  }
+}

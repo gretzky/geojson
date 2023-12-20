@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Holbav",
+    "country": "RO",
+    "subdivision": "09",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.38744,
+      45.65922
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Marly",
+    "country": "CH",
+    "subdivision": "FR",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.16459,
+      46.77611
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Antonio del Coyote",
+    "country": "MX",
+    "subdivision": "07",
+    "timezone": "America/Monterrey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.28556,
+      25.69444
+    ]
+  }
+}

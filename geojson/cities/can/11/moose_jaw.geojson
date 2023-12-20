@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moose Jaw",
+    "country": "CA",
+    "subdivision": "11",
+    "timezone": "America/Regina"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.53445,
+      50.40005
+    ]
+  }
+}

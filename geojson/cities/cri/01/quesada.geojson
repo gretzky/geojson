@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Quesada",
+    "country": "CR",
+    "subdivision": "01",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.42714,
+      10.32381
+    ]
+  }
+}

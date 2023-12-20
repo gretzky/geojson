@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kefar Yona",
+    "country": "IL",
+    "subdivision": "02",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.93507,
+      32.31669
+    ]
+  }
+}

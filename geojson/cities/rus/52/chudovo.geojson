@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chudovo",
+    "country": "RU",
+    "subdivision": "52",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.68333,
+      59.11667
+    ]
+  }
+}

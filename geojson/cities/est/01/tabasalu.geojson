@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tabasalu",
+    "country": "EE",
+    "subdivision": "01",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.5533,
+      59.42607
+    ]
+  }
+}

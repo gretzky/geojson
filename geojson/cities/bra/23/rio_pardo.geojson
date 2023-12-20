@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rio Pardo",
+    "country": "BR",
+    "subdivision": "23",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -52.37806,
+      -29.98972
+    ]
+  }
+}

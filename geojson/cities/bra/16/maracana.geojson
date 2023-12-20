@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maracanã",
+    "country": "BR",
+    "subdivision": "16",
+    "timezone": "America/Belem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -47.45371,
+      -0.76614
+    ]
+  }
+}

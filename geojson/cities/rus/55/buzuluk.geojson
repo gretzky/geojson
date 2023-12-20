@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Buzuluk",
+    "country": "RU",
+    "subdivision": "55",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.2635,
+      52.7807
+    ]
+  }
+}

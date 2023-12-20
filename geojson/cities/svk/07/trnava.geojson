@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Trnava",
+    "country": "SK",
+    "subdivision": "07",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.58723,
+      48.37741
+    ]
+  }
+}

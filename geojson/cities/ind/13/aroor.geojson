@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aroor",
+    "country": "IN",
+    "subdivision": "13",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.30498,
+      9.8694
+    ]
+  }
+}

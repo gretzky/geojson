@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Noria Nueva",
+    "country": "MX",
+    "subdivision": "22",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.12502,
+      20.55671
+    ]
+  }
+}

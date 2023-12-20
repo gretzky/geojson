@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Abay",
+    "country": "KZ",
+    "subdivision": "12",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.86164,
+      49.63575
+    ]
+  }
+}

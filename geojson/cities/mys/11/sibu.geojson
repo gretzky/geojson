@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sibu",
+    "country": "MY",
+    "subdivision": "11",
+    "timezone": "Asia/Kuching"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      111.81667,
+      2.3
+    ]
+  }
+}

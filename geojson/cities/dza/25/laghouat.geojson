@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Laghouat",
+    "country": "DZ",
+    "subdivision": "25",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.86514,
+      33.8
+    ]
+  }
+}

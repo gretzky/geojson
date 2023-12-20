@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mawu",
+    "country": "CN",
+    "subdivision": "15",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.91472,
+      34.42639
+    ]
+  }
+}

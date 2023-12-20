@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chechat",
+    "country": "IN",
+    "subdivision": "24",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.88333,
+      24.76667
+    ]
+  }
+}

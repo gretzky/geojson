@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Darong",
+    "country": "CN",
+    "subdivision": "18",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      108.864,
+      25.785
+    ]
+  }
+}

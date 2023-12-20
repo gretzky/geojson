@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maria de la Salut",
+    "country": "ES",
+    "subdivision": "07",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.073,
+      39.66306
+    ]
+  }
+}

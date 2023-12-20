@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pital",
+    "country": "CO",
+    "subdivision": "16",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.80442,
+      2.2665
+    ]
+  }
+}

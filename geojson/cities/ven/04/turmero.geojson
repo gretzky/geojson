@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Turmero",
+    "country": "VE",
+    "subdivision": "04",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.47421,
+      10.22856
+    ]
+  }
+}

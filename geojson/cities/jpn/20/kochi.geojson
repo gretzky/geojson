@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kochi",
+    "country": "JP",
+    "subdivision": "20",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      133.53333,
+      33.55
+    ]
+  }
+}

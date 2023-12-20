@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vydrino",
+    "country": "RU",
+    "subdivision": "11",
+    "timezone": "Asia/Irkutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.6425,
+      51.463
+    ]
+  }
+}

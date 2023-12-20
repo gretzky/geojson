@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krupka",
+    "country": "CZ",
+    "subdivision": "89",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.85815,
+      50.68449
+    ]
+  }
+}

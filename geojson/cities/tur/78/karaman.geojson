@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karaman",
+    "country": "TR",
+    "subdivision": "78",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.215,
+      37.18111
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pontresina",
+    "country": "CH",
+    "subdivision": "GR",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.90126,
+      46.4955
+    ]
+  }
+}

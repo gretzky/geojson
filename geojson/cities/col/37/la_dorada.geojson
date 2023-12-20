@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Dorada",
+    "country": "CO",
+    "subdivision": "37",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.66311,
+      5.44783
+    ]
+  }
+}

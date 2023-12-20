@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lunino",
+    "country": "RU",
+    "subdivision": "57",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.22709,
+      53.59176
+    ]
+  }
+}

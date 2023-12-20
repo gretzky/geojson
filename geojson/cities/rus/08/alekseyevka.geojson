@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alekseyevka",
+    "country": "RU",
+    "subdivision": "08",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.23333,
+      54.85
+    ]
+  }
+}

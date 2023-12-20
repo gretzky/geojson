@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saratovskaya",
+    "country": "RU",
+    "subdivision": "38",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.22156,
+      44.70752
+    ]
+  }
+}

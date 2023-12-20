@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kiraz",
+    "country": "TR",
+    "subdivision": "35",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.20444,
+      38.23056
+    ]
+  }
+}

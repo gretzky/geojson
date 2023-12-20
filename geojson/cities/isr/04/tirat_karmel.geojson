@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tirat Karmel",
+    "country": "IL",
+    "subdivision": "04",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.97183,
+      32.76021
+    ]
+  }
+}

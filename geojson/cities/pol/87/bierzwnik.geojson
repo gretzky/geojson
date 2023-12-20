@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bierzwnik",
+    "country": "PL",
+    "subdivision": "87",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.665,
+      53.03567
+    ]
+  }
+}

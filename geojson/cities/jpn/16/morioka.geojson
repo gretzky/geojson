@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Morioka",
+    "country": "JP",
+    "subdivision": "16",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.15,
+      39.7
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Erdek",
+    "country": "TR",
+    "subdivision": "10",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.79348,
+      40.3996
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Popeşti",
+    "country": "RO",
+    "subdivision": "03",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.06667,
+      44.76667
+    ]
+  }
+}

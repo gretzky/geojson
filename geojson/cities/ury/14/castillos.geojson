@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Castillos",
+    "country": "UY",
+    "subdivision": "14",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -53.85919,
+      -34.19871
+    ]
+  }
+}

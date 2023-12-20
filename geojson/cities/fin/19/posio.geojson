@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Posio",
+    "country": "FI",
+    "subdivision": "19",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.17186,
+      66.10856
+    ]
+  }
+}

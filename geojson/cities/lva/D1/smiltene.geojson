@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Smiltene",
+    "country": "LV",
+    "subdivision": "D1",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.90164,
+      57.42444
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ramon Magsaysay",
+    "country": "PH",
+    "subdivision": "09",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.50944,
+      8.00194
+    ]
+  }
+}

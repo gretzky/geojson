@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mendes",
+    "country": "BR",
+    "subdivision": "21",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -43.73278,
+      -22.52667
+    ]
+  }
+}

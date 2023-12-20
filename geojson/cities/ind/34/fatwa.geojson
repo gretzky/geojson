@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fatwa",
+    "country": "IN",
+    "subdivision": "34",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.30504,
+      25.50958
+    ]
+  }
+}

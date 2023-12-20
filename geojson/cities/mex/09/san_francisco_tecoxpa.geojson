@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Francisco Tecoxpa",
+    "country": "MX",
+    "subdivision": "09",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.00639,
+      19.19167
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Don Juan",
+    "country": "DO",
+    "subdivision": "32",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.94629,
+      18.82774
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Torbalı",
+    "country": "TR",
+    "subdivision": "35",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.36223,
+      38.1519
+    ]
+  }
+}

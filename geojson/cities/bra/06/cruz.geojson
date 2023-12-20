@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cruz",
+    "country": "BR",
+    "subdivision": "06",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -40.17589,
+      -2.9211
+    ]
+  }
+}

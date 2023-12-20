@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Losal",
+    "country": "IN",
+    "subdivision": "24",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.91667,
+      27.4
+    ]
+  }
+}

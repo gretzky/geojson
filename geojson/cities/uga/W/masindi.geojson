@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Masindi",
+    "country": "UG",
+    "subdivision": "W",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.715,
+      1.67444
+    ]
+  }
+}

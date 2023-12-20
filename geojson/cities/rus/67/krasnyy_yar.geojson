@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krasnyy Yar",
+    "country": "RU",
+    "subdivision": "67",
+    "timezone": "Europe/Saratov"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.42167,
+      51.62917
+    ]
+  }
+}

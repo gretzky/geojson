@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sarichioi",
+    "country": "RO",
+    "subdivision": "37",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.85,
+      44.95
+    ]
+  }
+}

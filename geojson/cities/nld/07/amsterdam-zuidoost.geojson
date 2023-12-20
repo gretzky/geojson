@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Amsterdam-Zuidoost",
+    "country": "NL",
+    "subdivision": "07",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.97222,
+      52.3075
+    ]
+  }
+}

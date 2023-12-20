@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Altos",
+    "country": "BR",
+    "subdivision": "20",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -42.46,
+      -5.03806
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Queimados",
+    "country": "BR",
+    "subdivision": "21",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -43.55528,
+      -22.71611
+    ]
+  }
+}

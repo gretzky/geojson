@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Argentona",
+    "country": "ES",
+    "subdivision": "56",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.40114,
+      41.55336
+    ]
+  }
+}

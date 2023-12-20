@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porto Alegre",
+    "country": "BR",
+    "subdivision": "23",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -51.23019,
+      -30.03283
+    ]
+  }
+}

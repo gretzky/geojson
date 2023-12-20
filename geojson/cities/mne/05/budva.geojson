@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Budva",
+    "country": "ME",
+    "subdivision": "05",
+    "timezone": "Europe/Podgorica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.84,
+      42.28639
+    ]
+  }
+}

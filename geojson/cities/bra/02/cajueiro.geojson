@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cajueiro",
+    "country": "BR",
+    "subdivision": "02",
+    "timezone": "America/Maceio"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -36.45,
+      -9.71667
+    ]
+  }
+}

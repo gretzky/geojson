@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ísafjörður",
+    "country": "IS",
+    "subdivision": "44",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -23.13498,
+      66.07475
+    ]
+  }
+}

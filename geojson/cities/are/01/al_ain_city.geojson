@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Al Ain City",
+    "country": "AE",
+    "subdivision": "01",
+    "timezone": "Asia/Dubai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.76056,
+      24.19167
+    ]
+  }
+}

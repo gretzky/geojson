@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ivanovo",
+    "country": "RU",
+    "subdivision": "21",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.97139,
+      56.99719
+    ]
+  }
+}

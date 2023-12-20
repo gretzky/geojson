@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mombetsu",
+    "country": "JP",
+    "subdivision": "12",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      143.3525,
+      44.3525
+    ]
+  }
+}

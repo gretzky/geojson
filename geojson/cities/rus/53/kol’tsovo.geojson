@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kol’tsovo",
+    "country": "RU",
+    "subdivision": "53",
+    "timezone": "Asia/Novosibirsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.1825,
+      54.9376
+    ]
+  }
+}

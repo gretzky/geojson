@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Borod",
+    "country": "RO",
+    "subdivision": "05",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.63333,
+      46.98333
+    ]
+  }
+}

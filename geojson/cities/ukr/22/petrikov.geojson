@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Petrikov",
+    "country": "UA",
+    "subdivision": "22",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.57901,
+      49.53122
+    ]
+  }
+}

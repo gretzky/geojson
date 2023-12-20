@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ylihärmä",
+    "country": "FI",
+    "subdivision": "14",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.78333,
+      63.15
+    ]
+  }
+}

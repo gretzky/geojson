@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dakota Dunes",
+    "country": "US",
+    "subdivision": "SD",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -96.48642,
+      42.48749
+    ]
+  }
+}

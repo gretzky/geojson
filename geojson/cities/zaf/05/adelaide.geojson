@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Adelaide",
+    "country": "ZA",
+    "subdivision": "05",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.29564,
+      -32.70747
+    ]
+  }
+}

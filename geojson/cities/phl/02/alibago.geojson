@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alibago",
+    "country": "PH",
+    "subdivision": "02",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.86667,
+      17.11667
+    ]
+  }
+}

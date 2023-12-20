@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ampang",
+    "country": "MY",
+    "subdivision": "14",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.76667,
+      3.15
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Petkovci",
+    "country": "BA",
+    "subdivision": "02",
+    "timezone": "Europe/Sarajevo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.07466,
+      44.46849
+    ]
+  }
+}

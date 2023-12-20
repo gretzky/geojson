@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sanchazi",
+    "country": "CN",
+    "subdivision": "05",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.60028,
+      42.08167
+    ]
+  }
+}

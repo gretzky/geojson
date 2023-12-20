@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nykarleby",
+    "country": "FI",
+    "subdivision": "15",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.53073,
+      63.52277
+    ]
+  }
+}

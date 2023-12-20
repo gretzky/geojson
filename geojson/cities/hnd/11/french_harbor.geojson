@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "French Harbor",
+    "country": "HN",
+    "subdivision": "11",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.43333,
+      16.35
+    ]
+  }
+}

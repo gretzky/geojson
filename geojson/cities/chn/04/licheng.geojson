@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Licheng",
+    "country": "CN",
+    "subdivision": "04",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.48353,
+      31.42813
+    ]
+  }
+}

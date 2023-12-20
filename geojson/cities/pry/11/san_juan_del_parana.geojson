@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan del Paraná",
+    "country": "PY",
+    "subdivision": "11",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.96387,
+      -27.30264
+    ]
+  }
+}

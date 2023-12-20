@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hammar",
+    "country": "SE",
+    "subdivision": "27",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.21667,
+      56.01667
+    ]
+  }
+}

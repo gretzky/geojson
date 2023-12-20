@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Timişoara",
+    "country": "RO",
+    "subdivision": "36",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.22571,
+      45.75372
+    ]
+  }
+}

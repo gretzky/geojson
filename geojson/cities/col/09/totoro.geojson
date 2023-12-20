@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Totoró",
+    "country": "CO",
+    "subdivision": "09",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.40178,
+      2.51111
+    ]
+  }
+}

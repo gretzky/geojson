@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stari Grad",
+    "country": "HR",
+    "subdivision": "15",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.59528,
+      43.18472
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ognevka",
+    "country": "KZ",
+    "subdivision": "15",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.01674,
+      49.68351
+    ]
+  }
+}

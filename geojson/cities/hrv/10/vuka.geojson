@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vuka",
+    "country": "HR",
+    "subdivision": "10",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.505,
+      45.43389
+    ]
+  }
+}

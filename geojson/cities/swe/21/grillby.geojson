@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Grillby",
+    "country": "SE",
+    "subdivision": "21",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.25787,
+      59.62603
+    ]
+  }
+}

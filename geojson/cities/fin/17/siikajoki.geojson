@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Siikajoki",
+    "country": "FI",
+    "subdivision": "17",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.75924,
+      64.81455
+    ]
+  }
+}

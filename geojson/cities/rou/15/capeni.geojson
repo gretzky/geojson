@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Căpeni",
+    "country": "RO",
+    "subdivision": "15",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.57858,
+      46.04111
+    ]
+  }
+}

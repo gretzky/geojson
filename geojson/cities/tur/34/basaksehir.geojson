@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Başakşehir",
+    "country": "TR",
+    "subdivision": "34",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.80203,
+      41.09307
+    ]
+  }
+}

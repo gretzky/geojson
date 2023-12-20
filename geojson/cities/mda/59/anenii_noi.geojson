@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Anenii Noi",
+    "country": "MD",
+    "subdivision": "59",
+    "timezone": "Europe/Chisinau"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.23483,
+      46.87839
+    ]
+  }
+}

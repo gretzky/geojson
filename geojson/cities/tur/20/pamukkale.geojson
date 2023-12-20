@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pamukkale",
+    "country": "TR",
+    "subdivision": "20",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.11729,
+      37.91644
+    ]
+  }
+}

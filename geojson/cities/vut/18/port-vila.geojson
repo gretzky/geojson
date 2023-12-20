@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Port-Vila",
+    "country": "VU",
+    "subdivision": "18",
+    "timezone": "Pacific/Efate"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      168.31366,
+      -17.73648
+    ]
+  }
+}

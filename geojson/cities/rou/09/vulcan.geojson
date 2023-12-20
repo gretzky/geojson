@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vulcan",
+    "country": "RO",
+    "subdivision": "09",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.41667,
+      45.63333
+    ]
+  }
+}

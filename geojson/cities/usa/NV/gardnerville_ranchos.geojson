@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gardnerville Ranchos",
+    "country": "US",
+    "subdivision": "NV",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.74129,
+      38.88824
+    ]
+  }
+}

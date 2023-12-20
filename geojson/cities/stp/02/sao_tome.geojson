@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "São Tomé",
+    "country": "ST",
+    "subdivision": "02",
+    "timezone": "Africa/Sao_Tome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.72732,
+      0.33654
+    ]
+  }
+}

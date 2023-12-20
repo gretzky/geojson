@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ayvalık",
+    "country": "TR",
+    "subdivision": "10",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.69341,
+      39.31927
+    ]
+  }
+}

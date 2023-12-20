@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Qandax",
+    "country": "AZ",
+    "subdivision": "70",
+    "timezone": "Asia/Baku"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.54128,
+      41.47546
+    ]
+  }
+}

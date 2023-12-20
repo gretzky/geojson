@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Indian Head",
+    "country": "CA",
+    "subdivision": "11",
+    "timezone": "America/Regina"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.66775,
+      50.53336
+    ]
+  }
+}

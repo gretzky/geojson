@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rupea",
+    "country": "RO",
+    "subdivision": "09",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.21667,
+      46.03333
+    ]
+  }
+}

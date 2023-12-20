@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gelnica",
+    "country": "SK",
+    "subdivision": "03",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.93713,
+      48.85584
+    ]
+  }
+}

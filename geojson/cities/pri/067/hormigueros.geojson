@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hormigueros",
+    "country": "PR",
+    "subdivision": "067",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.1274,
+      18.13968
+    ]
+  }
+}

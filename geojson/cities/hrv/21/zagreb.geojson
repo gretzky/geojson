@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zagreb",
+    "country": "HR",
+    "subdivision": "21",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.97798,
+      45.81444
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kabarnet",
+    "country": "KE",
+    "subdivision": "10",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.74303,
+      0.49194
+    ]
+  }
+}

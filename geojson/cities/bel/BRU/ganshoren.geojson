@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ganshoren",
+    "country": "BE",
+    "subdivision": "BRU",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.31531,
+      50.87065
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tiger Point",
+    "country": "US",
+    "subdivision": "FL",
+    "timezone": "America/Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.05552,
+      30.37853
+    ]
+  }
+}

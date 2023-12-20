@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Koontz Lake",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Knox"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.48585,
+      41.4181
+    ]
+  }
+}

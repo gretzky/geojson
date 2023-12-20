@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Altınova",
+    "country": "TR",
+    "subdivision": "92",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.50986,
+      40.69495
+    ]
+  }
+}

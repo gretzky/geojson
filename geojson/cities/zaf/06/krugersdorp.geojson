@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krugersdorp",
+    "country": "ZA",
+    "subdivision": "06",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.77515,
+      -26.08577
+    ]
+  }
+}

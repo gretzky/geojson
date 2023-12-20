@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kitahama",
+    "country": "JP",
+    "subdivision": "35",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.91667,
+      35.16667
+    ]
+  }
+}

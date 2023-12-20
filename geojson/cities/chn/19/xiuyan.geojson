@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Xiuyan",
+    "country": "CN",
+    "subdivision": "19",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.27444,
+      40.29278
+    ]
+  }
+}

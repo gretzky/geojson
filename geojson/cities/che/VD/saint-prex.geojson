@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saint-Prex",
+    "country": "CH",
+    "subdivision": "VD",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.45992,
+      46.47963
+    ]
+  }
+}

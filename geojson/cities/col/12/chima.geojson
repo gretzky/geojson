@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chimá",
+    "country": "CO",
+    "subdivision": "12",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.62841,
+      9.14893
+    ]
+  }
+}

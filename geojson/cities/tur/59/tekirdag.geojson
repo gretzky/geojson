@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tekirdağ",
+    "country": "TR",
+    "subdivision": "59",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.51101,
+      40.9781
+    ]
+  }
+}

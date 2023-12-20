@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Odon",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Vincennes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.9914,
+      38.84283
+    ]
+  }
+}

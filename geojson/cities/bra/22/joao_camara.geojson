@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "João Câmara",
+    "country": "BR",
+    "subdivision": "22",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -35.81972,
+      -5.5375
+    ]
+  }
+}

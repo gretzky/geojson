@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matai",
+    "country": "TZ",
+    "subdivision": "24",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.51667,
+      -8.3
+    ]
+  }
+}

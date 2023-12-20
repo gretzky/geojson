@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bamako",
+    "country": "ML",
+    "subdivision": "01",
+    "timezone": "Africa/Bamako"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8,
+      12.65
+    ]
+  }
+}

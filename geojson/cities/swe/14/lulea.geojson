@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Luleå",
+    "country": "SE",
+    "subdivision": "14",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.15465,
+      65.58415
+    ]
+  }
+}

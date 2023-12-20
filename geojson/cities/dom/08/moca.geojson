@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moca",
+    "country": "DO",
+    "subdivision": "08",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.52598,
+      19.39352
+    ]
+  }
+}

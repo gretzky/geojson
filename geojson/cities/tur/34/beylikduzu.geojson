@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beylikdüzü",
+    "country": "TR",
+    "subdivision": "34",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.6399,
+      40.982
+    ]
+  }
+}

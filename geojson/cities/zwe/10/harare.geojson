@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Harare",
+    "country": "ZW",
+    "subdivision": "10",
+    "timezone": "Africa/Harare"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.05337,
+      -17.82772
+    ]
+  }
+}

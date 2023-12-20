@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Orosí",
+    "country": "CR",
+    "subdivision": "02",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.85383,
+      9.79617
+    ]
+  }
+}

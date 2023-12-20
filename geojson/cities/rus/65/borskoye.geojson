@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Borskoye",
+    "country": "RU",
+    "subdivision": "65",
+    "timezone": "Europe/Samara"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.71667,
+      53.03333
+    ]
+  }
+}

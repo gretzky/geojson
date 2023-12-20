@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Port-Louis",
+    "country": "GP",
+    "subdivision": "GP",
+    "timezone": "America/Guadeloupe"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.53045,
+      16.41749
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fernie",
+    "country": "CA",
+    "subdivision": "02",
+    "timezone": "America/Edmonton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.06871,
+      49.49996
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chulym",
+    "country": "RU",
+    "subdivision": "53",
+    "timezone": "Asia/Novosibirsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.95722,
+      55.09972
+    ]
+  }
+}

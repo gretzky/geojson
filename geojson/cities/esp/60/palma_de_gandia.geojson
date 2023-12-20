@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palma de Gandía",
+    "country": "ES",
+    "subdivision": "60",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.22028,
+      38.92672
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Atemar",
+    "country": "RU",
+    "subdivision": "46",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.40909,
+      54.18097
+    ]
+  }
+}

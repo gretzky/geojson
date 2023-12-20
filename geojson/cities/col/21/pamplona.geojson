@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pamplona",
+    "country": "CO",
+    "subdivision": "21",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.64795,
+      7.37565
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rosetta",
+    "country": "EG",
+    "subdivision": "03",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.41718,
+      31.39951
+    ]
+  }
+}

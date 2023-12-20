@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Miguel",
+    "country": "AR",
+    "subdivision": "01",
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.71229,
+      -34.54335
+    ]
+  }
+}

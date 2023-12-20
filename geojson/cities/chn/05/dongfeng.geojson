@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dongfeng",
+    "country": "CN",
+    "subdivision": "05",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.51176,
+      42.64031
+    ]
+  }
+}

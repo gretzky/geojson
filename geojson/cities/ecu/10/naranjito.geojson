@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Naranjito",
+    "country": "EC",
+    "subdivision": "10",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.4654,
+      -2.16671
+    ]
+  }
+}

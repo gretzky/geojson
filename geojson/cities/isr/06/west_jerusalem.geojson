@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "West Jerusalem",
+    "country": "IL",
+    "subdivision": "06",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.21961,
+      31.78199
+    ]
+  }
+}

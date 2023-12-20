@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yonezawa",
+    "country": "JP",
+    "subdivision": "44",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.11667,
+      37.91
+    ]
+  }
+}

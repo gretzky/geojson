@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Soma",
+    "country": "TR",
+    "subdivision": "45",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.60945,
+      39.18554
+    ]
+  }
+}

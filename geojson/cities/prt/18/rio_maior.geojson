@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rio Maior",
+    "country": "PT",
+    "subdivision": "18",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.93906,
+      39.33732
+    ]
+  }
+}

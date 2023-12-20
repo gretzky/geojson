@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cadiz",
+    "country": "ES",
+    "subdivision": "51",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.2891,
+      36.52672
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Corpus",
+    "country": "HN",
+    "subdivision": "05",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.91667,
+      14.7
+    ]
+  }
+}

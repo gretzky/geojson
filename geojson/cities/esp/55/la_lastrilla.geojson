@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Lastrilla",
+    "country": "ES",
+    "subdivision": "55",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.10468,
+      40.96817
+    ]
+  }
+}

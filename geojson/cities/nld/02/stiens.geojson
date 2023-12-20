@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stiens",
+    "country": "NL",
+    "subdivision": "02",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.75769,
+      53.26234
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Gloria",
+    "country": "CO",
+    "subdivision": "10",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.80265,
+      8.61868
+    ]
+  }
+}

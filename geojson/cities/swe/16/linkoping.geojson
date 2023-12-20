@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Linköping",
+    "country": "SE",
+    "subdivision": "16",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.62157,
+      58.41086
+    ]
+  }
+}

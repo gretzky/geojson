@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pankovka",
+    "country": "RU",
+    "subdivision": "52",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.1999,
+      58.50004
+    ]
+  }
+}

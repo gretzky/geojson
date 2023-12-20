@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moyo",
+    "country": "UG",
+    "subdivision": "N",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.72474,
+      3.66088
+    ]
+  }
+}

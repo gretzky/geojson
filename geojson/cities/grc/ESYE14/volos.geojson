@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Volos",
+    "country": "GR",
+    "subdivision": "ESYE14",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.94248,
+      39.36103
+    ]
+  }
+}

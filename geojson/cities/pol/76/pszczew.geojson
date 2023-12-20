@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pszczew",
+    "country": "PL",
+    "subdivision": "76",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.7816,
+      52.47724
+    ]
+  }
+}

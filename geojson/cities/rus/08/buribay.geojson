@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Buribay",
+    "country": "RU",
+    "subdivision": "08",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      58.15917,
+      51.96167
+    ]
+  }
+}

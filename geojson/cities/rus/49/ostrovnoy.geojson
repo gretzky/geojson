@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ostrovnoy",
+    "country": "RU",
+    "subdivision": "49",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.51213,
+      68.05445
+    ]
+  }
+}

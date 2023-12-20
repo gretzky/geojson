@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Comalapa",
+    "country": "NI",
+    "subdivision": "04",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.51081,
+      12.28345
+    ]
+  }
+}

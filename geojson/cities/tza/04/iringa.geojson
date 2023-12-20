@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Iringa",
+    "country": "TZ",
+    "subdivision": "04",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.7,
+      -7.76667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Snezhinsk",
+    "country": "RU",
+    "subdivision": "13",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      60.73139,
+      56.085
+    ]
+  }
+}

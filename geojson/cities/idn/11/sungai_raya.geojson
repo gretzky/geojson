@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sungai Raya",
+    "country": "ID",
+    "subdivision": "11",
+    "timezone": "Asia/Pontianak"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      108.9,
+      0.7
+    ]
+  }
+}

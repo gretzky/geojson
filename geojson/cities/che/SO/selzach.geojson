@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Selzach",
+    "country": "CH",
+    "subdivision": "SO",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.45521,
+      47.20531
+    ]
+  }
+}

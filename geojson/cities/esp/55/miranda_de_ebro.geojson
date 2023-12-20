@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Miranda de Ebro",
+    "country": "ES",
+    "subdivision": "55",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.94695,
+      42.6865
+    ]
+  }
+}

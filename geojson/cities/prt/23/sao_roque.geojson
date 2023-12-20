@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "São Roque",
+    "country": "PT",
+    "subdivision": "23",
+    "timezone": "Atlantic/Azores"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -25.64127,
+      37.75418
+    ]
+  }
+}

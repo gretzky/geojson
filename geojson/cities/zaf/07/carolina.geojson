@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carolina",
+    "country": "ZA",
+    "subdivision": "07",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.11489,
+      -26.06927
+    ]
+  }
+}

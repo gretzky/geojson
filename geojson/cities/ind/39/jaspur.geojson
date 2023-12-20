@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jaspur",
+    "country": "IN",
+    "subdivision": "39",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.82798,
+      29.27919
+    ]
+  }
+}

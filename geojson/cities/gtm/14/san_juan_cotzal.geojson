@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan Cotzal",
+    "country": "GT",
+    "subdivision": "14",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.03481,
+      15.43368
+    ]
+  }
+}

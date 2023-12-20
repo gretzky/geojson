@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mills",
+    "country": "US",
+    "subdivision": "WY",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.36586,
+      42.84052
+    ]
+  }
+}

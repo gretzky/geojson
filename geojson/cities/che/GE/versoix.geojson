@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Versoix",
+    "country": "CH",
+    "subdivision": "GE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.16214,
+      46.28382
+    ]
+  }
+}

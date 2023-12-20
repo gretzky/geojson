@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oostburg",
+    "country": "NL",
+    "subdivision": "10",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.4875,
+      51.32583
+    ]
+  }
+}

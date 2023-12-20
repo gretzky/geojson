@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Libertad",
+    "country": "PH",
+    "subdivision": "11",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.64722,
+      7.48028
+    ]
+  }
+}

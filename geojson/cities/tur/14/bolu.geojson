@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bolu",
+    "country": "TR",
+    "subdivision": "14",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.60611,
+      40.73583
+    ]
+  }
+}

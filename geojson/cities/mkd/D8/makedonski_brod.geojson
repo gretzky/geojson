@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Makedonski Brod",
+    "country": "MK",
+    "subdivision": "D8",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.21528,
+      41.51361
+    ]
+  }
+}

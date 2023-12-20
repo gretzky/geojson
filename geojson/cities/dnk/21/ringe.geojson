@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ringe",
+    "country": "DK",
+    "subdivision": "21",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4786,
+      55.23828
+    ]
+  }
+}

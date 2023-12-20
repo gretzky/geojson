@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kunwi",
+    "country": "KR",
+    "subdivision": "14",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.57278,
+      36.23472
+    ]
+  }
+}

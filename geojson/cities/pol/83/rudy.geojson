@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rudy",
+    "country": "PL",
+    "subdivision": "83",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.45334,
+      50.19003
+    ]
+  }
+}

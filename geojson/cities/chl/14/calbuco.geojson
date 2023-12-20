@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Calbuco",
+    "country": "CL",
+    "subdivision": "14",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.13049,
+      -41.77338
+    ]
+  }
+}

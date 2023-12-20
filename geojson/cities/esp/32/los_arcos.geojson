@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Arcos",
+    "country": "ES",
+    "subdivision": "32",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.19275,
+      42.57076
+    ]
+  }
+}

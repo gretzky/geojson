@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Adampur",
+    "country": "IN",
+    "subdivision": "23",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.71484,
+      31.43224
+    ]
+  }
+}

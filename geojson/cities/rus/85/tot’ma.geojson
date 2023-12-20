@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tot’ma",
+    "country": "RU",
+    "subdivision": "85",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.76487,
+      59.97375
+    ]
+  }
+}

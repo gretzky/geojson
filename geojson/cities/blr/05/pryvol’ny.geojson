@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pryvol’ny",
+    "country": "BY",
+    "subdivision": "05",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.7967,
+      53.7969
+    ]
+  }
+}

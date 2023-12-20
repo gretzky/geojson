@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Salvan",
+    "country": "CH",
+    "subdivision": "VS",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.02078,
+      46.1189
+    ]
+  }
+}

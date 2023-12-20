@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Lajas",
+    "country": "PA",
+    "subdivision": "13",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.93315,
+      8.55267
+    ]
+  }
+}

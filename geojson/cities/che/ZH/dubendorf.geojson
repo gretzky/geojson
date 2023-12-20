@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dübendorf",
+    "country": "CH",
+    "subdivision": "ZH",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.61872,
+      47.39724
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beaufort",
+    "country": "MY",
+    "subdivision": "16",
+    "timezone": "Asia/Kuching"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.7455,
+      5.3473
+    ]
+  }
+}

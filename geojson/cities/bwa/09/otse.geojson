@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Otse",
+    "country": "BW",
+    "subdivision": "09",
+    "timezone": "Africa/Gaborone"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.73333,
+      -25.01667
+    ]
+  }
+}

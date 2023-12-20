@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Heinävesi",
+    "country": "FI",
+    "subdivision": "10",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.6,
+      62.43333
+    ]
+  }
+}

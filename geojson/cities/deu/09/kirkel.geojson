@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kirkel",
+    "country": "DE",
+    "subdivision": "09",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.23333,
+      49.28333
+    ]
+  }
+}

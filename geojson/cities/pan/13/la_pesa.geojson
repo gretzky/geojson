@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Pesa",
+    "country": "PA",
+    "subdivision": "13",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.82462,
+      8.85371
+    ]
+  }
+}

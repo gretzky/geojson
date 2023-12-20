@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rosignol",
+    "country": "GY",
+    "subdivision": "15",
+    "timezone": "America/Guyana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.53697,
+      6.27095
+    ]
+  }
+}

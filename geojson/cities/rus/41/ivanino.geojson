@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ivanino",
+    "country": "RU",
+    "subdivision": "41",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.5769,
+      51.6434
+    ]
+  }
+}

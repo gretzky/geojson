@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan Bautista",
+    "country": "PY",
+    "subdivision": "12",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.14583,
+      -26.66944
+    ]
+  }
+}

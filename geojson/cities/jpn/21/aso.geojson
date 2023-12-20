@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aso",
+    "country": "JP",
+    "subdivision": "21",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.08008,
+      32.93726
+    ]
+  }
+}

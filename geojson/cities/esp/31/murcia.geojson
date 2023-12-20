@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Murcia",
+    "country": "ES",
+    "subdivision": "31",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.13004,
+      37.98704
+    ]
+  }
+}

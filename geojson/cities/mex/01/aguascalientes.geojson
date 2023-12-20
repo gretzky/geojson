@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aguascalientes",
+    "country": "MX",
+    "subdivision": "01",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.28259,
+      21.88234
+    ]
+  }
+}

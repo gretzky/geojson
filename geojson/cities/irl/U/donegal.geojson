@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Donegal",
+    "country": "IE",
+    "subdivision": "U",
+    "timezone": "Europe/Dublin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.11134,
+      54.65378
+    ]
+  }
+}

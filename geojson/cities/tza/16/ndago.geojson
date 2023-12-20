@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ndago",
+    "country": "TZ",
+    "subdivision": "16",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.35,
+      -4.6
+    ]
+  }
+}

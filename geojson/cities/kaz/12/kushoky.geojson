@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kushoky",
+    "country": "KZ",
+    "subdivision": "12",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.40146,
+      50.23091
+    ]
+  }
+}

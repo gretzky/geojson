@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Habach",
+    "country": "AT",
+    "subdivision": "05",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.16252,
+      47.81753
+    ]
+  }
+}

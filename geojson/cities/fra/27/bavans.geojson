@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bavans",
+    "country": "FR",
+    "subdivision": "27",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.73324,
+      47.48528
+    ]
+  }
+}

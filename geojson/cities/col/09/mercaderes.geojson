@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mercaderes",
+    "country": "CO",
+    "subdivision": "09",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.17032,
+      1.80175
+    ]
+  }
+}

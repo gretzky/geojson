@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karak City",
+    "country": "JO",
+    "subdivision": "09",
+    "timezone": "Asia/Amman"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.76204,
+      31.16368
+    ]
+  }
+}

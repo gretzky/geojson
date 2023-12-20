@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kipini",
+    "country": "KE",
+    "subdivision": "48",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.5262,
+      -2.52565
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Peñón",
+    "country": "CO",
+    "subdivision": "35",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.94697,
+      8.98691
+    ]
+  }
+}

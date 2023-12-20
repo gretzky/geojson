@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chippis",
+    "country": "CH",
+    "subdivision": "VS",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.53962,
+      46.2802
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Urmary",
+    "country": "RU",
+    "subdivision": "16",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.94396,
+      55.67894
+    ]
+  }
+}

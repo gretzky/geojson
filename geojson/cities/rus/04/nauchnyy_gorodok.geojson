@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nauchnyy Gorodok",
+    "country": "RU",
+    "subdivision": "04",
+    "timezone": "Asia/Barnaul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.521,
+      53.4203
+    ]
+  }
+}

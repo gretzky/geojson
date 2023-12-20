@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Grodziec",
+    "country": "PL",
+    "subdivision": "86",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.05972,
+      52.03855
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Romana",
+    "country": "DO",
+    "subdivision": "12",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.97285,
+      18.42733
+    ]
+  }
+}

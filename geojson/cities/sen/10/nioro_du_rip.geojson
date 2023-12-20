@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nioro du Rip",
+    "country": "SN",
+    "subdivision": "10",
+    "timezone": "Africa/Dakar"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -15.8,
+      13.75
+    ]
+  }
+}

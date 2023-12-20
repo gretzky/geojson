@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Varpaisjärvi",
+    "country": "FI",
+    "subdivision": "11",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.75506,
+      63.35932
+    ]
+  }
+}

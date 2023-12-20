@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Treinta y Tres",
+    "country": "UY",
+    "subdivision": "19",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.38333,
+      -33.23333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Fernando",
+    "country": "HN",
+    "subdivision": "14",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.11667,
+      14.68333
+    ]
+  }
+}

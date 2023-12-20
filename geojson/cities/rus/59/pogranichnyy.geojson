@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pogranichnyy",
+    "country": "RU",
+    "subdivision": "59",
+    "timezone": "Asia/Vladivostok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.3778,
+      44.4097
+    ]
+  }
+}

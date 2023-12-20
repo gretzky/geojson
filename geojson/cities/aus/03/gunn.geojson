@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gunn",
+    "country": "AU",
+    "subdivision": "03",
+    "timezone": "Australia/Darwin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.99322,
+      -12.48765
+    ]
+  }
+}

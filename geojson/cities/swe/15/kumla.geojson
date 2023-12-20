@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kumla",
+    "country": "SE",
+    "subdivision": "15",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.14341,
+      59.1277
+    ]
+  }
+}

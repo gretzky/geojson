@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bhatgaon",
+    "country": "IN",
+    "subdivision": "37",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.7,
+      21.15
+    ]
+  }
+}

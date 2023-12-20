@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "McMurdo Station",
+    "country": "AQ",
+    "subdivision": "",
+    "timezone": "Antarctica/McMurdo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      166.676,
+      -77.846
+    ]
+  }
+}

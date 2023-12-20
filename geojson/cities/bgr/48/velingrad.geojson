@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Velingrad",
+    "country": "BG",
+    "subdivision": "48",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.99155,
+      42.02754
+    ]
+  }
+}

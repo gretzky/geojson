@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gubbio",
+    "country": "IT",
+    "subdivision": "18",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.57309,
+      43.34996
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Recife",
+    "country": "BR",
+    "subdivision": "30",
+    "timezone": "America/Recife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -34.88111,
+      -8.05389
+    ]
+  }
+}

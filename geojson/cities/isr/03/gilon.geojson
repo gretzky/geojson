@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gilon",
+    "country": "IL",
+    "subdivision": "03",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.23452,
+      32.90261
+    ]
+  }
+}

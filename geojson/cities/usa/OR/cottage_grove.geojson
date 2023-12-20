@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cottage Grove",
+    "country": "US",
+    "subdivision": "OR",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.05952,
+      43.79762
+    ]
+  }
+}

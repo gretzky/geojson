@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tamana",
+    "country": "JP",
+    "subdivision": "21",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.57446,
+      32.94716
+    ]
+  }
+}

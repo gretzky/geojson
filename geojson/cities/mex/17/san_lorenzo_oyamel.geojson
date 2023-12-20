@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Lorenzo Oyamel",
+    "country": "MX",
+    "subdivision": "17",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.57761,
+      19.43355
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Melfort",
+    "country": "CA",
+    "subdivision": "11",
+    "timezone": "America/Regina"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.61768,
+      52.86673
+    ]
+  }
+}

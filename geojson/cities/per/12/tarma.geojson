@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tarma",
+    "country": "PE",
+    "subdivision": "12",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.68992,
+      -11.41899
+    ]
+  }
+}

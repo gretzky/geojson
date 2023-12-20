@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kutná Hora",
+    "country": "CZ",
+    "subdivision": "88",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.26816,
+      49.94839
+    ]
+  }
+}

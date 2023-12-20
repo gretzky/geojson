@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yalta",
+    "country": "UA",
+    "subdivision": "05",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.27446,
+      46.96098
+    ]
+  }
+}

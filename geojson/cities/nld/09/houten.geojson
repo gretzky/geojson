@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Houten",
+    "country": "NL",
+    "subdivision": "09",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.16806,
+      52.02833
+    ]
+  }
+}

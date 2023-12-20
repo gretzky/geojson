@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wapi Pathum",
+    "country": "TH",
+    "subdivision": "24",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.37678,
+      15.84523
+    ]
+  }
+}

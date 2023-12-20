@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zeya",
+    "country": "RU",
+    "subdivision": "05",
+    "timezone": "Asia/Yakutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.257,
+      53.73601
+    ]
+  }
+}

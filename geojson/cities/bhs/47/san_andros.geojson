@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Andros",
+    "country": "BS",
+    "subdivision": "47",
+    "timezone": "America/Nassau"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.05,
+      25.06667
+    ]
+  }
+}

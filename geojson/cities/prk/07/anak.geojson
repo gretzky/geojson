@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Anak",
+    "country": "KP",
+    "subdivision": "07",
+    "timezone": "Asia/Pyongyang"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.49417,
+      38.51083
+    ]
+  }
+}

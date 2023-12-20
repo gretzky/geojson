@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "São Miguel",
+    "country": "BR",
+    "subdivision": "22",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -35.36667,
+      -5.46667
+    ]
+  }
+}

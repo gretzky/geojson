@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Togur",
+    "country": "RU",
+    "subdivision": "75",
+    "timezone": "Asia/Tomsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      82.8265,
+      58.3631
+    ]
+  }
+}

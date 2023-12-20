@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mitake",
+    "country": "JP",
+    "subdivision": "09",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.13333,
+      35.41667
+    ]
+  }
+}

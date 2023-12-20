@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Baicheng",
+    "country": "CN",
+    "subdivision": "05",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.82076,
+      45.60746
+    ]
+  }
+}

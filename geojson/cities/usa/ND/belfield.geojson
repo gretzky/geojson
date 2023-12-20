@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Belfield",
+    "country": "US",
+    "subdivision": "ND",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.19962,
+      46.88529
+    ]
+  }
+}

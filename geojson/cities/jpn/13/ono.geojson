@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ono",
+    "country": "JP",
+    "subdivision": "13",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.93333,
+      34.85
+    ]
+  }
+}

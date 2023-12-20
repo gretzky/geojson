@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bilecik",
+    "country": "TR",
+    "subdivision": "11",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.97932,
+      40.14192
+    ]
+  }
+}

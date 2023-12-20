@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aalburg",
+    "country": "NL",
+    "subdivision": "06",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.13156,
+      51.75482
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Homburg",
+    "country": "CH",
+    "subdivision": "TG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.00756,
+      47.63469
+    ]
+  }
+}

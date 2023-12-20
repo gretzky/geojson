@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Noli",
+    "country": "IT",
+    "subdivision": "08",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.41458,
+      44.20608
+    ]
+  }
+}

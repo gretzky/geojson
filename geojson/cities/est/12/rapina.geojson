@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Räpina",
+    "country": "EE",
+    "subdivision": "12",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.46361,
+      58.09806
+    ]
+  }
+}

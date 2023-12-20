@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Marevo",
+    "country": "RU",
+    "subdivision": "52",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.08045,
+      57.31461
+    ]
+  }
+}

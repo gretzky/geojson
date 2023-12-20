@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eindhoven",
+    "country": "NL",
+    "subdivision": "06",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.47778,
+      51.44083
+    ]
+  }
+}

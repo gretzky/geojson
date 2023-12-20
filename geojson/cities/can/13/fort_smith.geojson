@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fort Smith",
+    "country": "CA",
+    "subdivision": "13",
+    "timezone": "America/Yellowknife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.88871,
+      60.00439
+    ]
+  }
+}

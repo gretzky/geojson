@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Klimavichy",
+    "country": "BY",
+    "subdivision": "06",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.9586,
+      53.6079
+    ]
+  }
+}

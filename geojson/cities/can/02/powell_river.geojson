@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Powell River",
+    "country": "CA",
+    "subdivision": "02",
+    "timezone": "America/Vancouver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -124.52368,
+      49.83278
+    ]
+  }
+}

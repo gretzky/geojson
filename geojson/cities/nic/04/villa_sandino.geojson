@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Sandino",
+    "country": "NI",
+    "subdivision": "04",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.99362,
+      12.0483
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vestnes",
+    "country": "NO",
+    "subdivision": "08",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.08696,
+      62.62544
+    ]
+  }
+}

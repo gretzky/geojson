@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "High Rock",
+    "country": "BS",
+    "subdivision": "41",
+    "timezone": "America/Nassau"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.27863,
+      26.60999
+    ]
+  }
+}

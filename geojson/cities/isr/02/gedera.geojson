@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gedera",
+    "country": "IL",
+    "subdivision": "02",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.77998,
+      31.81456
+    ]
+  }
+}

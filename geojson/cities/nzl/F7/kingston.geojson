@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kingston",
+    "country": "NZ",
+    "subdivision": "F7",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      168.71476,
+      -45.33288
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Secuieni",
+    "country": "RO",
+    "subdivision": "04",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.1,
+      46.65
+    ]
+  }
+}

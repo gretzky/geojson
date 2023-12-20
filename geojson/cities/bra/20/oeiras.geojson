@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oeiras",
+    "country": "BR",
+    "subdivision": "20",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -42.13111,
+      -7.02528
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Belmopan",
+    "country": "BZ",
+    "subdivision": "02",
+    "timezone": "America/Belize"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.76667,
+      17.25
+    ]
+  }
+}

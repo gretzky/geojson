@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tuk",
+    "country": "NL",
+    "subdivision": "15",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.09444,
+      52.79667
+    ]
+  }
+}

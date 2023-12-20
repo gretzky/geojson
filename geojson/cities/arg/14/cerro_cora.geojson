@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cerro Corá",
+    "country": "AR",
+    "subdivision": "14",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.60896,
+      -27.5131
+    ]
+  }
+}

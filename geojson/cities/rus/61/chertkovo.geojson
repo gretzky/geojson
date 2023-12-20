@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chertkovo",
+    "country": "RU",
+    "subdivision": "61",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.14723,
+      49.38451
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Telavi",
+    "country": "GE",
+    "subdivision": "67",
+    "timezone": "Asia/Tbilisi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.47315,
+      41.91978
+    ]
+  }
+}

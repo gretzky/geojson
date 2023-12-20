@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Liman",
+    "country": "RU",
+    "subdivision": "07",
+    "timezone": "Europe/Astrakhan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.22405,
+      45.78457
+    ]
+  }
+}

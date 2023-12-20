@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palmaner",
+    "country": "IN",
+    "subdivision": "02",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.74725,
+      13.2
+    ]
+  }
+}

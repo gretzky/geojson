@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guanare",
+    "country": "VE",
+    "subdivision": "18",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.74206,
+      9.04183
+    ]
+  }
+}

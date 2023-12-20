@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carmelo",
+    "country": "UY",
+    "subdivision": "04",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.28402,
+      -34.00023
+    ]
+  }
+}

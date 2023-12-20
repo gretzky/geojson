@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Rastrojos",
+    "country": "VE",
+    "subdivision": "13",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.24166,
+      10.02588
+    ]
+  }
+}

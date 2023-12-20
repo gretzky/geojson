@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yenipazar",
+    "country": "TR",
+    "subdivision": "09",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.19573,
+      37.82332
+    ]
+  }
+}

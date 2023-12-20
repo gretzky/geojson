@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Spittal an der Drau",
+    "country": "AT",
+    "subdivision": "02",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5,
+      46.8
+    ]
+  }
+}

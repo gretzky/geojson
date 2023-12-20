@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Salto",
+    "country": "UY",
+    "subdivision": "15",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.96667,
+      -31.38333
+    ]
+  }
+}

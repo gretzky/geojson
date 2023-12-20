@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zaïo",
+    "country": "MA",
+    "subdivision": "02",
+    "timezone": "Africa/Casablanca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.7329,
+      34.94282
+    ]
+  }
+}

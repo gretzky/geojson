@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Scheemda",
+    "country": "NL",
+    "subdivision": "04",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.97222,
+      53.17333
+    ]
+  }
+}

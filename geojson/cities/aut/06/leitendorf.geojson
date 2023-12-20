@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Leitendorf",
+    "country": "AT",
+    "subdivision": "06",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.08333,
+      47.36667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Venëv",
+    "country": "RU",
+    "subdivision": "76",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.26843,
+      54.35533
+    ]
+  }
+}

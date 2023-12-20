@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gōdo",
+    "country": "JP",
+    "subdivision": "09",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.6,
+      35.41667
+    ]
+  }
+}

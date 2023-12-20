@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Frasin",
+    "country": "RO",
+    "subdivision": "34",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.8,
+      47.53333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Caney",
+    "country": "CU",
+    "subdivision": "05",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.48333,
+      21.3
+    ]
+  }
+}

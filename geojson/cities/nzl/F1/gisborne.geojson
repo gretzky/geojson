@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gisborne",
+    "country": "NZ",
+    "subdivision": "F1",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      178.00417,
+      -38.65333
+    ]
+  }
+}

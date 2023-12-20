@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Upper Island Cove",
+    "country": "CA",
+    "subdivision": "05",
+    "timezone": "America/St_Johns"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -53.21478,
+      47.64989
+    ]
+  }
+}

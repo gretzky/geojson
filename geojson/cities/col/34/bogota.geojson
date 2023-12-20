@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bogotá",
+    "country": "CO",
+    "subdivision": "34",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.08175,
+      4.60971
+    ]
+  }
+}

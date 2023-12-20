@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Paopao",
+    "country": "PF",
+    "subdivision": "01",
+    "timezone": "Pacific/Tahiti"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.82193,
+      -17.51863
+    ]
+  }
+}

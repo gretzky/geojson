@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ayacucho",
+    "country": "PE",
+    "subdivision": "05",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.22321,
+      -13.15878
+    ]
+  }
+}

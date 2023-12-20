@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Burgeo",
+    "country": "CA",
+    "subdivision": "05",
+    "timezone": "America/St_Johns"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.61516,
+      47.61668
+    ]
+  }
+}

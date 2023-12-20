@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Clara",
+    "country": "PH",
+    "subdivision": "14",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.06,
+      6.6782
+    ]
+  }
+}

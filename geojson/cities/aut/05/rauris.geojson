@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rauris",
+    "country": "AT",
+    "subdivision": "05",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.99459,
+      47.22656
+    ]
+  }
+}

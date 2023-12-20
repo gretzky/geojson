@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alaçatı",
+    "country": "TR",
+    "subdivision": "35",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.37459,
+      38.28246
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dagami",
+    "country": "PH",
+    "subdivision": "08",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.90278,
+      11.06083
+    ]
+  }
+}

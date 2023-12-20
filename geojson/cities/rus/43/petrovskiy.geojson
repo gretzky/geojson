@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Petrovskiy",
+    "country": "RU",
+    "subdivision": "43",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.64976,
+      52.24159
+    ]
+  }
+}

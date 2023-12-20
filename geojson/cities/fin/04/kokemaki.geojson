@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kokemäki",
+    "country": "FI",
+    "subdivision": "04",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.35643,
+      61.25647
+    ]
+  }
+}

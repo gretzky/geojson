@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pilane",
+    "country": "BW",
+    "subdivision": "05",
+    "timezone": "Africa/Gaborone"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.13333,
+      -24.45
+    ]
+  }
+}

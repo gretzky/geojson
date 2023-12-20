@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Catacocha",
+    "country": "EC",
+    "subdivision": "12",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.64944,
+      -4.04974
+    ]
+  }
+}

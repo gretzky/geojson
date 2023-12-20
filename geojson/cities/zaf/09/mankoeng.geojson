@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mankoeng",
+    "country": "ZA",
+    "subdivision": "09",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.81667,
+      -23.9
+    ]
+  }
+}

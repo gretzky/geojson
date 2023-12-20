@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Faaborg",
+    "country": "DK",
+    "subdivision": "21",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.24226,
+      55.0951
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hino",
+    "country": "JP",
+    "subdivision": "40",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.40028,
+      35.67306
+    ]
+  }
+}

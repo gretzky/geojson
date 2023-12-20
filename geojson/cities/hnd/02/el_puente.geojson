@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Puente",
+    "country": "HN",
+    "subdivision": "02",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.11667,
+      13.28333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rohatec",
+    "country": "CZ",
+    "subdivision": "78",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.1833,
+      48.8804
+    ]
+  }
+}

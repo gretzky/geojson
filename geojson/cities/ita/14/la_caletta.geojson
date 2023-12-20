@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Caletta",
+    "country": "IT",
+    "subdivision": "14",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.75062,
+      40.60988
+    ]
+  }
+}

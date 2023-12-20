@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Åby",
+    "country": "SE",
+    "subdivision": "16",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.18333,
+      58.66667
+    ]
+  }
+}

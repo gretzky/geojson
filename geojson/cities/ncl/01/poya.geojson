@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Poya",
+    "country": "NC",
+    "subdivision": "01",
+    "timezone": "Pacific/Noumea"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      165.15,
+      -21.35
+    ]
+  }
+}

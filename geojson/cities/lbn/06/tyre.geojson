@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tyre",
+    "country": "LB",
+    "subdivision": "06",
+    "timezone": "Asia/Beirut"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.19389,
+      33.27333
+    ]
+  }
+}

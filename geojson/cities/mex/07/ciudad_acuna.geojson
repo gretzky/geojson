@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad Acuña",
+    "country": "MX",
+    "subdivision": "07",
+    "timezone": "America/Matamoros"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.95217,
+      29.32322
+    ]
+  }
+}

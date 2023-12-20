@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ngong Ping",
+    "country": "HK",
+    "subdivision": "NIS",
+    "timezone": "Asia/Hong_Kong"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.90391,
+      22.25556
+    ]
+  }
+}

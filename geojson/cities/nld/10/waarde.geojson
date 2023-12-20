@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Waarde",
+    "country": "NL",
+    "subdivision": "10",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.06806,
+      51.4175
+    ]
+  }
+}

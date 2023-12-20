@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lavagna",
+    "country": "IT",
+    "subdivision": "08",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.35383,
+      44.3062
+    ]
+  }
+}

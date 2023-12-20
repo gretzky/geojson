@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Malm",
+    "country": "NO",
+    "subdivision": "21",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.22398,
+      64.07534
+    ]
+  }
+}

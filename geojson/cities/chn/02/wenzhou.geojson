@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wenzhou",
+    "country": "CN",
+    "subdivision": "02",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.66682,
+      27.99942
+    ]
+  }
+}

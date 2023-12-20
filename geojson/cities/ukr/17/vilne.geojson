@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vilne",
+    "country": "UA",
+    "subdivision": "17",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.04914,
+      45.98339
+    ]
+  }
+}

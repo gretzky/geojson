@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Murmansk",
+    "country": "RU",
+    "subdivision": "49",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.09251,
+      68.97917
+    ]
+  }
+}

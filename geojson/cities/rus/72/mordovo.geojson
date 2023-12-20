@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mordovo",
+    "country": "RU",
+    "subdivision": "72",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.77,
+      52.0834
+    ]
+  }
+}

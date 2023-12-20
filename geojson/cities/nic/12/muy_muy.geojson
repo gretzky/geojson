@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Muy Muy",
+    "country": "NI",
+    "subdivision": "12",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.62915,
+      12.76224
+    ]
+  }
+}

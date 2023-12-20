@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moshny",
+    "country": "UA",
+    "subdivision": "01",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.73708,
+      49.52754
+    ]
+  }
+}

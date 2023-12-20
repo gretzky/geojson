@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "McMinnville",
+    "country": "US",
+    "subdivision": "OR",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.19872,
+      45.21012
+    ]
+  }
+}

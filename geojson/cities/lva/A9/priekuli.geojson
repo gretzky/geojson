@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Priekuļi",
+    "country": "LV",
+    "subdivision": "A9",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.36147,
+      57.315
+    ]
+  }
+}

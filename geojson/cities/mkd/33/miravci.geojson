@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Miravci",
+    "country": "MK",
+    "subdivision": "33",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.43641,
+      41.30925
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Akdere",
+    "country": "TR",
+    "subdivision": "32",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.75041,
+      36.24083
+    ]
+  }
+}

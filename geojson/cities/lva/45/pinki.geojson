@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Piņķi",
+    "country": "LV",
+    "subdivision": "45",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.91365,
+      56.94189
+    ]
+  }
+}

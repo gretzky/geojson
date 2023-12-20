@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Miguel Topilejo",
+    "country": "MX",
+    "subdivision": "09",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.14193,
+      19.20264
+    ]
+  }
+}

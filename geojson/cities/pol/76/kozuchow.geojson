@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kożuchów",
+    "country": "PL",
+    "subdivision": "76",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.59492,
+      51.74558
+    ]
+  }
+}

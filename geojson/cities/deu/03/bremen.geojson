@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bremen",
+    "country": "DE",
+    "subdivision": "03",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.80717,
+      53.07582
+    ]
+  }
+}

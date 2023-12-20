@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jämjö",
+    "country": "SE",
+    "subdivision": "02",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.84115,
+      56.19187
+    ]
+  }
+}

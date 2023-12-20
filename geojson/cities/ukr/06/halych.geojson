@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Halych",
+    "country": "UA",
+    "subdivision": "06",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.72748,
+      49.12374
+    ]
+  }
+}

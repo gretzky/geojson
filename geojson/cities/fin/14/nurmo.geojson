@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nurmo",
+    "country": "FI",
+    "subdivision": "14",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.9099,
+      62.8287
+    ]
+  }
+}

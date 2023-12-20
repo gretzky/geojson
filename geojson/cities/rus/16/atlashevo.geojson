@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Atlashevo",
+    "country": "RU",
+    "subdivision": "16",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.55615,
+      56.01235
+    ]
+  }
+}

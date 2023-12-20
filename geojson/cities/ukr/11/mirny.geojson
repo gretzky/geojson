@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mirny",
+    "country": "UA",
+    "subdivision": "11",
+    "timezone": "Europe/Simferopol"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.03501,
+      45.30788
+    ]
+  }
+}

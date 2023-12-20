@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ucluelet",
+    "country": "CA",
+    "subdivision": "02",
+    "timezone": "America/Vancouver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -125.54635,
+      48.94153
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto La Cruz",
+    "country": "VE",
+    "subdivision": "02",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.6328,
+      10.21382
+    ]
+  }
+}

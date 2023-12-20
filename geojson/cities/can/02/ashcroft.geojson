@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ashcroft",
+    "country": "CA",
+    "subdivision": "02",
+    "timezone": "America/Vancouver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.28207,
+      50.72372
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dongyang",
+    "country": "CN",
+    "subdivision": "02",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.22528,
+      29.26778
+    ]
+  }
+}

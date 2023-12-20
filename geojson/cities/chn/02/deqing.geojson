@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Deqing",
+    "country": "CN",
+    "subdivision": "02",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.9599,
+      30.54485
+    ]
+  }
+}

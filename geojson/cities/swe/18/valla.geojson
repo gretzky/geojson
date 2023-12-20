@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Valla",
+    "country": "SE",
+    "subdivision": "18",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.38333,
+      59.01667
+    ]
+  }
+}

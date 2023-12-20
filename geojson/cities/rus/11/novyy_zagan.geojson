@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novyy Zagan",
+    "country": "RU",
+    "subdivision": "11",
+    "timezone": "Asia/Irkutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.76376,
+      51.02858
+    ]
+  }
+}

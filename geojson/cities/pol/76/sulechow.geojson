@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sulechów",
+    "country": "PL",
+    "subdivision": "76",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.62513,
+      52.08362
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Takeo",
+    "country": "JP",
+    "subdivision": "33",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.02084,
+      33.19009
+    ]
+  }
+}

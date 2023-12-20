@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kingston",
+    "country": "JM",
+    "subdivision": "17",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.79358,
+      17.99702
+    ]
+  }
+}

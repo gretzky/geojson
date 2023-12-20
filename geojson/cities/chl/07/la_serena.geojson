@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Serena",
+    "country": "CL",
+    "subdivision": "07",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.24894,
+      -29.90453
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moreshet",
+    "country": "IL",
+    "subdivision": "03",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.23466,
+      32.82859
+    ]
+  }
+}

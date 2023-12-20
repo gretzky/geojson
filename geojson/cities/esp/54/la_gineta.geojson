@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Gineta",
+    "country": "ES",
+    "subdivision": "54",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.99603,
+      39.11452
+    ]
+  }
+}

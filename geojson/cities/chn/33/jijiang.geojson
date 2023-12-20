@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jijiang",
+    "country": "CN",
+    "subdivision": "33",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.25001,
+      29.28993
+    ]
+  }
+}

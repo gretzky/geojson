@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Plainfeld",
+    "country": "AT",
+    "subdivision": "05",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.18333,
+      47.83333
+    ]
+  }
+}

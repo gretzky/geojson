@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Viiratsi",
+    "country": "EE",
+    "subdivision": "20",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.63722,
+      58.36
+    ]
+  }
+}

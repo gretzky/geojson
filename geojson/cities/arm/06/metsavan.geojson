@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Metsavan",
+    "country": "AM",
+    "subdivision": "06",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.22877,
+      41.20156
+    ]
+  }
+}

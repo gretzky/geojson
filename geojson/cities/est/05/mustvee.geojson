@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mustvee",
+    "country": "EE",
+    "subdivision": "05",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.93972,
+      58.84861
+    ]
+  }
+}

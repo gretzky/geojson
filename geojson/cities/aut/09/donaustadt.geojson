@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Donaustadt",
+    "country": "AT",
+    "subdivision": "09",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.46002,
+      48.2333
+    ]
+  }
+}

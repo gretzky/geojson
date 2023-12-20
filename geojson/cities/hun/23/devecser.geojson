@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Devecser",
+    "country": "HU",
+    "subdivision": "23",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.43802,
+      47.10316
+    ]
+  }
+}

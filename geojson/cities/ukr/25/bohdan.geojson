@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bohdan",
+    "country": "UA",
+    "subdivision": "25",
+    "timezone": "Europe/Uzhgorod"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.33956,
+      48.04262
+    ]
+  }
+}

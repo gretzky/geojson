@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pavlovka",
+    "country": "RU",
+    "subdivision": "08",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      56.55426,
+      55.42094
+    ]
+  }
+}

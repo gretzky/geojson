@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Isehara",
+    "country": "JP",
+    "subdivision": "19",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.31019,
+      35.39932
+    ]
+  }
+}

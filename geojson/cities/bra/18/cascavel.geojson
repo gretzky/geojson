@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cascavel",
+    "country": "BR",
+    "subdivision": "18",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -53.45528,
+      -24.95583
+    ]
+  }
+}

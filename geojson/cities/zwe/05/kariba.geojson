@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kariba",
+    "country": "ZW",
+    "subdivision": "05",
+    "timezone": "Africa/Harare"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.8,
+      -16.51667
+    ]
+  }
+}

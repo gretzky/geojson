@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sovetskoye",
+    "country": "RU",
+    "subdivision": "04",
+    "timezone": "Asia/Barnaul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.41424,
+      52.28556
+    ]
+  }
+}

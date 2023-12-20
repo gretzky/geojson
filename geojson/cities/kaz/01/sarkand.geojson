@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sarkand",
+    "country": "KZ",
+    "subdivision": "01",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.91713,
+      45.41322
+    ]
+  }
+}

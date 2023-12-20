@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alexandria",
+    "country": "JM",
+    "subdivision": "09",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.35335,
+      18.30768
+    ]
+  }
+}

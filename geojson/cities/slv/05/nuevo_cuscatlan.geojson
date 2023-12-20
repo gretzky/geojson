@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nuevo Cuscatlán",
+    "country": "SV",
+    "subdivision": "05",
+    "timezone": "America/El_Salvador"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.26528,
+      13.64861
+    ]
+  }
+}

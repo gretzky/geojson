@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Belo Jardim",
+    "country": "BR",
+    "subdivision": "30",
+    "timezone": "America/Recife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -36.42417,
+      -8.33556
+    ]
+  }
+}

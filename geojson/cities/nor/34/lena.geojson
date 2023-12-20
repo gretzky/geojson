@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lena",
+    "country": "NO",
+    "subdivision": "34",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.81317,
+      60.67391
+    ]
+  }
+}

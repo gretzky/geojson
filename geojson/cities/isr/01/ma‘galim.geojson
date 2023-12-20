@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ma‘galim",
+    "country": "IL",
+    "subdivision": "01",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.5995,
+      31.39688
+    ]
+  }
+}

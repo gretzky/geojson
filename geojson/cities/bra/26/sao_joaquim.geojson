@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "São Joaquim",
+    "country": "BR",
+    "subdivision": "26",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -49.93167,
+      -28.29389
+    ]
+  }
+}

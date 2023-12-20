@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shpola",
+    "country": "UA",
+    "subdivision": "01",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.3926,
+      49.01291
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bajura",
+    "country": "RO",
+    "subdivision": "07",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.53987,
+      48.20119
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Slovenska Bistrica",
+    "country": "SI",
+    "subdivision": "L8",
+    "timezone": "Europe/Ljubljana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.57444,
+      46.39278
+    ]
+  }
+}

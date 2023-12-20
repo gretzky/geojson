@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Sebastián",
+    "country": "GT",
+    "subdivision": "15",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.64865,
+      14.56177
+    ]
+  }
+}

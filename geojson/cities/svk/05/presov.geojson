@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Prešov",
+    "country": "SK",
+    "subdivision": "05",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.23393,
+      48.99839
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Toyohama",
+    "country": "JP",
+    "subdivision": "01",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.93425,
+      34.70933
+    ]
+  }
+}

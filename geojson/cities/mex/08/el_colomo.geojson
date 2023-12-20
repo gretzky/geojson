@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Colomo",
+    "country": "MX",
+    "subdivision": "08",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.25853,
+      19.06101
+    ]
+  }
+}

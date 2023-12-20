@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Papeete",
+    "country": "PF",
+    "subdivision": "01",
+    "timezone": "Pacific/Tahiti"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.5665,
+      -17.53733
+    ]
+  }
+}

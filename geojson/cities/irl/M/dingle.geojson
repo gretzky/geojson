@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dingle",
+    "country": "IE",
+    "subdivision": "M",
+    "timezone": "Europe/Dublin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.26889,
+      52.14083
+    ]
+  }
+}

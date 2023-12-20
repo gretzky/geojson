@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aya",
+    "country": "RU",
+    "subdivision": "04",
+    "timezone": "Asia/Barnaul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.80168,
+      51.94532
+    ]
+  }
+}

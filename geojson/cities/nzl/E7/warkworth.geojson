@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Warkworth",
+    "country": "NZ",
+    "subdivision": "E7",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.66667,
+      -36.4
+    ]
+  }
+}

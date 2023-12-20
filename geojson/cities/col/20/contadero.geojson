@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Contadero",
+    "country": "CO",
+    "subdivision": "20",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.5477,
+      0.90841
+    ]
+  }
+}

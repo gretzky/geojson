@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cabra",
+    "country": "ES",
+    "subdivision": "51",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.44206,
+      37.47249
+    ]
+  }
+}

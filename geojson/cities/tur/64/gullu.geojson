@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Güllü",
+    "country": "TR",
+    "subdivision": "64",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.10451,
+      38.27114
+    ]
+  }
+}

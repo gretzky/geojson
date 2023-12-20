@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stříbro",
+    "country": "CZ",
+    "subdivision": "87",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.997,
+      49.75565
+    ]
+  }
+}

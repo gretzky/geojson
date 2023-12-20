@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "São Bento",
+    "country": "BR",
+    "subdivision": "17",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -37.75,
+      -6.28333
+    ]
+  }
+}

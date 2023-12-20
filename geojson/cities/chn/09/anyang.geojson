@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Anyang",
+    "country": "CN",
+    "subdivision": "09",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.38278,
+      36.096
+    ]
+  }
+}

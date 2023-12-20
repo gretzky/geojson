@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nizhnekamsk",
+    "country": "RU",
+    "subdivision": "73",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.82447,
+      55.63657
+    ]
+  }
+}

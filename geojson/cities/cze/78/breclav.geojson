@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Břeclav",
+    "country": "CZ",
+    "subdivision": "78",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.88203,
+      48.75897
+    ]
+  }
+}

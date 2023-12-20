@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kazan",
+    "country": "TR",
+    "subdivision": "68",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.68389,
+      40.23167
+    ]
+  }
+}

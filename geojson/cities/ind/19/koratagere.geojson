@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Koratagere",
+    "country": "IN",
+    "subdivision": "19",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.2373,
+      13.522
+    ]
+  }
+}

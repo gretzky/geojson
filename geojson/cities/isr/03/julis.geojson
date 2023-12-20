@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jūlis",
+    "country": "IL",
+    "subdivision": "03",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.18278,
+      32.94267
+    ]
+  }
+}

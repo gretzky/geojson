@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oradea",
+    "country": "RO",
+    "subdivision": "05",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.91833,
+      47.0458
+    ]
+  }
+}

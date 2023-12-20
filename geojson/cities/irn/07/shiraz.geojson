@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shiraz",
+    "country": "IR",
+    "subdivision": "07",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.53113,
+      29.61031
+    ]
+  }
+}

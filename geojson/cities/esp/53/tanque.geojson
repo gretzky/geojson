@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tanque",
+    "country": "ES",
+    "subdivision": "53",
+    "timezone": "Atlantic/Canary"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.83333,
+      28.36667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Molalla",
+    "country": "US",
+    "subdivision": "OR",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.57703,
+      45.14734
+    ]
+  }
+}

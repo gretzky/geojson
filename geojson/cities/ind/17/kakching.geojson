@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kakching",
+    "country": "IN",
+    "subdivision": "17",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      93.98126,
+      24.4982
+    ]
+  }
+}

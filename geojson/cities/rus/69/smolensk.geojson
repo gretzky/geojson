@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Smolensk",
+    "country": "RU",
+    "subdivision": "69",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.0401,
+      54.7818
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad Vieja",
+    "country": "GT",
+    "subdivision": "16",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.76308,
+      14.52396
+    ]
+  }
+}

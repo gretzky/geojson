@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bozyazı",
+    "country": "TR",
+    "subdivision": "32",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.96113,
+      36.1082
+    ]
+  }
+}

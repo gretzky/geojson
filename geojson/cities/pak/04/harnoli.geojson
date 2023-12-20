@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Harnoli",
+    "country": "PK",
+    "subdivision": "04",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.55429,
+      32.27871
+    ]
+  }
+}

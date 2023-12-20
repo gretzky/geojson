@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sauce",
+    "country": "UY",
+    "subdivision": "02",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.06431,
+      -34.65191
+    ]
+  }
+}

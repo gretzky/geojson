@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Baia",
+    "country": "RO",
+    "subdivision": "37",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.66667,
+      44.71667
+    ]
+  }
+}

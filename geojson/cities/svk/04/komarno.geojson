@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Komárno",
+    "country": "SK",
+    "subdivision": "04",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.12263,
+      47.76356
+    ]
+  }
+}

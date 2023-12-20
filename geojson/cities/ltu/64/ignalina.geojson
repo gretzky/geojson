@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ignalina",
+    "country": "LT",
+    "subdivision": "64",
+    "timezone": "Europe/Vilnius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.16049,
+      55.34063
+    ]
+  }
+}

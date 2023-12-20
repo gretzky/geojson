@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kasese",
+    "country": "UG",
+    "subdivision": "W",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.08333,
+      0.18333
+    ]
+  }
+}

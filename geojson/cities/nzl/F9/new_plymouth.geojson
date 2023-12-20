@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "New Plymouth",
+    "country": "NZ",
+    "subdivision": "F9",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.08333,
+      -39.06667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kurakhovo",
+    "country": "UA",
+    "subdivision": "05",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.2821,
+      47.98522
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Oued",
+    "country": "DZ",
+    "subdivision": "43",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.86319,
+      33.35608
+    ]
+  }
+}

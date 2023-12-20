@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yono",
+    "country": "JP",
+    "subdivision": "34",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.63333,
+      35.88333
+    ]
+  }
+}

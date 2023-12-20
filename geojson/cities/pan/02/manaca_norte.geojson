@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Manaca Norte",
+    "country": "PA",
+    "subdivision": "02",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.80862,
+      8.33976
+    ]
+  }
+}

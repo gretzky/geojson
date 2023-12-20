@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chiriquí",
+    "country": "PA",
+    "subdivision": "02",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.32162,
+      8.39707
+    ]
+  }
+}

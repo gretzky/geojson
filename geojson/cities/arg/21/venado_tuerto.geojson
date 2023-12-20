@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Venado Tuerto",
+    "country": "AR",
+    "subdivision": "21",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.96885,
+      -33.74556
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Neya",
+    "country": "RU",
+    "subdivision": "37",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.86808,
+      58.29719
+    ]
+  }
+}

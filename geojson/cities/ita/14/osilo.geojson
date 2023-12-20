@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Osilo",
+    "country": "IT",
+    "subdivision": "14",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.67113,
+      40.74349
+    ]
+  }
+}

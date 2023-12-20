@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cherkasy",
+    "country": "UA",
+    "subdivision": "01",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.05738,
+      49.44452
+    ]
+  }
+}

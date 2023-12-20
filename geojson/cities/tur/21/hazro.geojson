@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hazro",
+    "country": "TR",
+    "subdivision": "21",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.77129,
+      38.24903
+    ]
+  }
+}

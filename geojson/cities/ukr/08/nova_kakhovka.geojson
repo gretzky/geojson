@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nova Kakhovka",
+    "country": "UA",
+    "subdivision": "08",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.35591,
+      46.75966
+    ]
+  }
+}

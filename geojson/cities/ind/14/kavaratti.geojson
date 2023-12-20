@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kavaratti",
+    "country": "IN",
+    "subdivision": "14",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.64203,
+      10.56688
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hacienda La Calera",
+    "country": "CL",
+    "subdivision": "01",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.21667,
+      -32.78333
+    ]
+  }
+}

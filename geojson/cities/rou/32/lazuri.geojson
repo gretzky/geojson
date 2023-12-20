@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lazuri",
+    "country": "RO",
+    "subdivision": "32",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.86667,
+      47.85
+    ]
+  }
+}

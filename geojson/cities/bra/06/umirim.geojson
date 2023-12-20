@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Umirim",
+    "country": "BR",
+    "subdivision": "06",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -39.35028,
+      -3.67722
+    ]
+  }
+}

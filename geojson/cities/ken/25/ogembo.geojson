@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ogembo",
+    "country": "KE",
+    "subdivision": "25",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.72579,
+      -0.80116
+    ]
+  }
+}

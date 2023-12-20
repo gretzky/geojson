@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Požega",
+    "country": "HR",
+    "subdivision": "11",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.68528,
+      45.34028
+    ]
+  }
+}

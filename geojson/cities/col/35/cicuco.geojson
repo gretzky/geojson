@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cicuco",
+    "country": "CO",
+    "subdivision": "35",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.64312,
+      9.27756
+    ]
+  }
+}

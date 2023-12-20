@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Simod",
+    "country": "PH",
+    "subdivision": "11",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.34083,
+      7.47583
+    ]
+  }
+}

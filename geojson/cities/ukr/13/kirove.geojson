@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kirove",
+    "country": "UA",
+    "subdivision": "13",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.12066,
+      50.3689
+    ]
+  }
+}

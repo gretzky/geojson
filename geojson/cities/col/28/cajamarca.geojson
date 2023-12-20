@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cajamarca",
+    "country": "CO",
+    "subdivision": "28",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.42874,
+      4.44234
+    ]
+  }
+}

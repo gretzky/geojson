@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pueblo Nuevo",
+    "country": "NI",
+    "subdivision": "05",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.48075,
+      13.37984
+    ]
+  }
+}

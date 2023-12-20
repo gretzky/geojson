@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Maria",
+    "country": "CV",
+    "subdivision": "08",
+    "timezone": "Atlantic/Cape_Verde"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -22.90509,
+      16.59796
+    ]
+  }
+}

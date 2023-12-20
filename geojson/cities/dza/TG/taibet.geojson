@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taïbet",
+    "country": "DZ",
+    "subdivision": "TG",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.3891,
+      33.08515
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Rosa de Sacco",
+    "country": "PE",
+    "subdivision": "12",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.94255,
+      -11.55067
+    ]
+  }
+}

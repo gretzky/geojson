@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coracora",
+    "country": "PE",
+    "subdivision": "05",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.78333,
+      -15.03333
+    ]
+  }
+}

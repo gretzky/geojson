@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Graus",
+    "country": "ES",
+    "subdivision": "52",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.33749,
+      42.18885
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Khoni",
+    "country": "GE",
+    "subdivision": "66",
+    "timezone": "Asia/Tbilisi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.42379,
+      42.32698
+    ]
+  }
+}

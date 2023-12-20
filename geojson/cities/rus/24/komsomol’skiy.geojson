@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Komsomol’skiy",
+    "country": "RU",
+    "subdivision": "24",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.0428,
+      45.33
+    ]
+  }
+}

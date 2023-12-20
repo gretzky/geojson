@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tezpur",
+    "country": "IN",
+    "subdivision": "03",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      92.8,
+      26.63333
+    ]
+  }
+}

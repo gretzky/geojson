@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Västerås",
+    "country": "SE",
+    "subdivision": "25",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.55276,
+      59.61617
+    ]
+  }
+}

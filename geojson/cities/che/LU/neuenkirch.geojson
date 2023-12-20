@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Neuenkirch",
+    "country": "CH",
+    "subdivision": "LU",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.20416,
+      47.09989
+    ]
+  }
+}

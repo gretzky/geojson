@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Skierniewice",
+    "country": "PL",
+    "subdivision": "74",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.15837,
+      51.95485
+    ]
+  }
+}

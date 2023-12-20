@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wiesen",
+    "country": "AT",
+    "subdivision": "01",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.33798,
+      47.73776
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Vilelas",
+    "country": "AR",
+    "subdivision": "03",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.93906,
+      -27.51414
+    ]
+  }
+}

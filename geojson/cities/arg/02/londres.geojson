@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Londres",
+    "country": "AR",
+    "subdivision": "02",
+    "timezone": "America/Argentina/Catamarca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.13349,
+      -27.71439
+    ]
+  }
+}

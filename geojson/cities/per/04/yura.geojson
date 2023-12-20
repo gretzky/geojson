@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yura",
+    "country": "PE",
+    "subdivision": "04",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.67969,
+      -16.25223
+    ]
+  }
+}

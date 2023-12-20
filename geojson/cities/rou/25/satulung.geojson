@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Satulung",
+    "country": "RO",
+    "subdivision": "25",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.43333,
+      47.56667
+    ]
+  }
+}

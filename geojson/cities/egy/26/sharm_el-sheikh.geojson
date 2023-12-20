@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sharm el-Sheikh",
+    "country": "EG",
+    "subdivision": "26",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.32995,
+      27.91582
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Paine",
+    "country": "CL",
+    "subdivision": "12",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.74109,
+      -33.80796
+    ]
+  }
+}

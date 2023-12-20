@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Satigny",
+    "country": "CH",
+    "subdivision": "GE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.03553,
+      46.21462
+    ]
+  }
+}

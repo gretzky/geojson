@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Høng",
+    "country": "DK",
+    "subdivision": "20",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.28873,
+      55.50736
+    ]
+  }
+}

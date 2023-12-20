@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Ligua",
+    "country": "CL",
+    "subdivision": "01",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.23106,
+      -32.45242
+    ]
+  }
+}

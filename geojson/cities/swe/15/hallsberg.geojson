@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hallsberg",
+    "country": "SE",
+    "subdivision": "15",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.10993,
+      59.06463
+    ]
+  }
+}

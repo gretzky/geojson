@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Russkiy Kameshkir",
+    "country": "RU",
+    "subdivision": "57",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.08861,
+      52.85955
+    ]
+  }
+}

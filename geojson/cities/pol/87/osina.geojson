@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Osina",
+    "country": "PL",
+    "subdivision": "87",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0123,
+      53.60473
+    ]
+  }
+}

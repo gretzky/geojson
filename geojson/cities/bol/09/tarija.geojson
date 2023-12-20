@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tarija",
+    "country": "BO",
+    "subdivision": "09",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.72956,
+      -21.53549
+    ]
+  }
+}

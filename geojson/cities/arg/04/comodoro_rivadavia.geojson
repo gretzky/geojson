@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Comodoro Rivadavia",
+    "country": "AR",
+    "subdivision": "04",
+    "timezone": "America/Argentina/Catamarca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.49656,
+      -45.86413
+    ]
+  }
+}

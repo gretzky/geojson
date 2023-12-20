@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Suyatal",
+    "country": "HN",
+    "subdivision": "08",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.21667,
+      14.51667
+    ]
+  }
+}

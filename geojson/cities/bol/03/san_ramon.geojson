@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Ramón",
+    "country": "BO",
+    "subdivision": "03",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.71667,
+      -13.28333
+    ]
+  }
+}

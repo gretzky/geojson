@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palencia",
+    "country": "GT",
+    "subdivision": "07",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.35721,
+      14.66715
+    ]
+  }
+}

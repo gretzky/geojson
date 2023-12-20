@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kamyzyak",
+    "country": "RU",
+    "subdivision": "07",
+    "timezone": "Europe/Astrakhan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.07364,
+      46.10995
+    ]
+  }
+}

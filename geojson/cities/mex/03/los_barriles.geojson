@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Barriles",
+    "country": "MX",
+    "subdivision": "03",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.69953,
+      23.68273
+    ]
+  }
+}

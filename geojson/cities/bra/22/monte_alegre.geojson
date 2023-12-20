@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monte Alegre",
+    "country": "BR",
+    "subdivision": "22",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -36.30139,
+      -5.88972
+    ]
+  }
+}

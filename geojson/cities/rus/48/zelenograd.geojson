@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zelenograd",
+    "country": "RU",
+    "subdivision": "48",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.18139,
+      55.9825
+    ]
+  }
+}

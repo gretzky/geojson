@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dispur",
+    "country": "IN",
+    "subdivision": "03",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      91.80069,
+      26.13564
+    ]
+  }
+}

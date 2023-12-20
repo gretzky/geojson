@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lappi",
+    "country": "FI",
+    "subdivision": "04",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.83333,
+      61.1
+    ]
+  }
+}

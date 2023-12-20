@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gemini",
+    "country": "IT",
+    "subdivision": "13",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.18742,
+      39.91134
+    ]
+  }
+}

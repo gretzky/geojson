@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Smoline",
+    "country": "UA",
+    "subdivision": "10",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.31292,
+      48.60127
+    ]
+  }
+}

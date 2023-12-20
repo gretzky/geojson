@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jobos",
+    "country": "PR",
+    "subdivision": "057",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.16544,
+      17.95524
+    ]
+  }
+}

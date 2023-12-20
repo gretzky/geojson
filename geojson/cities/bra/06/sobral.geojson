@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sobral",
+    "country": "BR",
+    "subdivision": "06",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -40.34972,
+      -3.68611
+    ]
+  }
+}

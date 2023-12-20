@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Balchik",
+    "country": "BG",
+    "subdivision": "40",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.15848,
+      43.42166
+    ]
+  }
+}

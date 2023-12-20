@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Simón",
+    "country": "MX",
+    "subdivision": "27",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.03416,
+      18.23687
+    ]
+  }
+}

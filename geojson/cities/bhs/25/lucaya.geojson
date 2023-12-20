@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lucaya",
+    "country": "BS",
+    "subdivision": "25",
+    "timezone": "America/Nassau"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.66667,
+      26.53333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Thung Song",
+    "country": "TH",
+    "subdivision": "64",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.68039,
+      8.16453
+    ]
+  }
+}

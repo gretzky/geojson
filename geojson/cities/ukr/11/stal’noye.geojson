@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stal’noye",
+    "country": "UA",
+    "subdivision": "11",
+    "timezone": "Europe/Simferopol"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.56238,
+      45.70814
+    ]
+  }
+}

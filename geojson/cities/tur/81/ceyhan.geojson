@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ceyhan",
+    "country": "TR",
+    "subdivision": "81",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8175,
+      37.02472
+    ]
+  }
+}

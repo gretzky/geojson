@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colonia Cuauhtémoc",
+    "country": "MX",
+    "subdivision": "29",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.96487,
+      19.33182
+    ]
+  }
+}

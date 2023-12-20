@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chifeng",
+    "country": "CN",
+    "subdivision": "20",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      118.96361,
+      42.26833
+    ]
+  }
+}

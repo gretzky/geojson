@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Glinka",
+    "country": "RU",
+    "subdivision": "69",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.87811,
+      54.64043
+    ]
+  }
+}

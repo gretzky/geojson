@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Baar",
+    "country": "CH",
+    "subdivision": "ZG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.52954,
+      47.19625
+    ]
+  }
+}

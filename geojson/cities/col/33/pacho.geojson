@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pacho",
+    "country": "CO",
+    "subdivision": "33",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.15977,
+      5.13278
+    ]
+  }
+}

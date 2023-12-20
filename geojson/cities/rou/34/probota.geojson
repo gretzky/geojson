@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Probota",
+    "country": "RO",
+    "subdivision": "34",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.62415,
+      47.37584
+    ]
+  }
+}

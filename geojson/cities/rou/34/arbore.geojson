@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arbore",
+    "country": "RO",
+    "subdivision": "34",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.93333,
+      47.73333
+    ]
+  }
+}

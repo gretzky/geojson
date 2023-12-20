@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kızılkaya",
+    "country": "TR",
+    "subdivision": "15",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.44417,
+      37.30361
+    ]
+  }
+}

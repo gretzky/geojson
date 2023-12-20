@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chakari",
+    "country": "ZW",
+    "subdivision": "05",
+    "timezone": "Africa/Harare"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.89246,
+      -18.06294
+    ]
+  }
+}

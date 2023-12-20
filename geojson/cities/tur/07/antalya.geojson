@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Antalya",
+    "country": "TR",
+    "subdivision": "07",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.69556,
+      36.90812
+    ]
+  }
+}

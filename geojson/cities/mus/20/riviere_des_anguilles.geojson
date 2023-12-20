@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rivière des Anguilles",
+    "country": "MU",
+    "subdivision": "20",
+    "timezone": "Indian/Mauritius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.55083,
+      -20.48528
+    ]
+  }
+}

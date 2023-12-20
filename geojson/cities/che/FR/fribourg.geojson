@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fribourg",
+    "country": "CH",
+    "subdivision": "FR",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.15128,
+      46.80237
+    ]
+  }
+}

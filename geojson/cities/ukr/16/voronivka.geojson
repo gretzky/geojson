@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Voronivka",
+    "country": "UA",
+    "subdivision": "16",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.41348,
+      47.65591
+    ]
+  }
+}

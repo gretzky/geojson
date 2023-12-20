@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Proletariy",
+    "country": "RU",
+    "subdivision": "52",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.70462,
+      58.43423
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rio Tinto",
+    "country": "BR",
+    "subdivision": "17",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -35.08056,
+      -6.80306
+    ]
+  }
+}

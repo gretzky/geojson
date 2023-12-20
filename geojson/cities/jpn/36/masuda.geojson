@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Masuda",
+    "country": "JP",
+    "subdivision": "36",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.85,
+      34.66667
+    ]
+  }
+}

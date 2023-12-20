@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ospina",
+    "country": "CO",
+    "subdivision": "20",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.56554,
+      1.0595
+    ]
+  }
+}

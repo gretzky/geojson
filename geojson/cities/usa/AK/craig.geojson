@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Craig",
+    "country": "US",
+    "subdivision": "AK",
+    "timezone": "America/Juneau"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -133.14833,
+      55.47639
+    ]
+  }
+}

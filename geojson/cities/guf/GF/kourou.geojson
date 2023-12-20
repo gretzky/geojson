@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kourou",
+    "country": "GF",
+    "subdivision": "GF",
+    "timezone": "America/Cayenne"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -52.64265,
+      5.16281
+    ]
+  }
+}

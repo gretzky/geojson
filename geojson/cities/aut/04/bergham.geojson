@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bergham",
+    "country": "AT",
+    "subdivision": "04",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.23141,
+      48.28182
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Paolo",
+    "country": "IT",
+    "subdivision": "13",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.79258,
+      41.12476
+    ]
+  }
+}

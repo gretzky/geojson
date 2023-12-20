@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Martin",
+    "country": "SK",
+    "subdivision": "08",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.92399,
+      49.06651
+    ]
+  }
+}

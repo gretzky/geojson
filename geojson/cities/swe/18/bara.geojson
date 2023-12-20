@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bara",
+    "country": "SE",
+    "subdivision": "18",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.06667,
+      58.68333
+    ]
+  }
+}

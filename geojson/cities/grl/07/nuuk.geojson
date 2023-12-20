@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nuuk",
+    "country": "GL",
+    "subdivision": "07",
+    "timezone": "America/Godthab"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -51.72157,
+      64.18347
+    ]
+  }
+}

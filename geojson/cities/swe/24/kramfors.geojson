@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kramfors",
+    "country": "SE",
+    "subdivision": "24",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.77646,
+      62.93161
+    ]
+  }
+}

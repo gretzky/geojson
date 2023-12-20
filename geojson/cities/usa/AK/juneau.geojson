@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Juneau",
+    "country": "US",
+    "subdivision": "AK",
+    "timezone": "America/Juneau"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -134.41972,
+      58.30194
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Morrito",
+    "country": "NI",
+    "subdivision": "14",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.08052,
+      11.62118
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lampa",
+    "country": "CL",
+    "subdivision": "12",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.87561,
+      -33.2863
+    ]
+  }
+}

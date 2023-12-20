@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ghiroda",
+    "country": "RO",
+    "subdivision": "36",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.30028,
+      45.76389
+    ]
+  }
+}

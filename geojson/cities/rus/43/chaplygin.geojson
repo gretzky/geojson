@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chaplygin",
+    "country": "RU",
+    "subdivision": "43",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.96288,
+      53.24319
+    ]
+  }
+}

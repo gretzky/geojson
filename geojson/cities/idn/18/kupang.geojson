@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kupang",
+    "country": "ID",
+    "subdivision": "18",
+    "timezone": "Asia/Makassar"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.60694,
+      -10.17083
+    ]
+  }
+}

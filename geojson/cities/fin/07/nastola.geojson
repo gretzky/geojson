@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nastola",
+    "country": "FI",
+    "subdivision": "07",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.93333,
+      60.95
+    ]
+  }
+}

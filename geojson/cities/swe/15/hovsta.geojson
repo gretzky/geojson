@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hovsta",
+    "country": "SE",
+    "subdivision": "15",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.21667,
+      59.35
+    ]
+  }
+}

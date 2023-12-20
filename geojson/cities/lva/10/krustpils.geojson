@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krustpils",
+    "country": "LV",
+    "subdivision": "10",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.86117,
+      56.51068
+    ]
+  }
+}

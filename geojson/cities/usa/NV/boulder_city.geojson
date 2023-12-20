@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boulder City",
+    "country": "US",
+    "subdivision": "NV",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.83249,
+      35.97859
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mooka",
+    "country": "JP",
+    "subdivision": "38",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.01667,
+      36.43333
+    ]
+  }
+}

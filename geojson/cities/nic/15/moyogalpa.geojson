@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moyogalpa",
+    "country": "NI",
+    "subdivision": "15",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.69795,
+      11.54006
+    ]
+  }
+}

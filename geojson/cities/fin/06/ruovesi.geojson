@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ruovesi",
+    "country": "FI",
+    "subdivision": "06",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.05714,
+      61.98575
+    ]
+  }
+}

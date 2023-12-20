@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bethal",
+    "country": "ZA",
+    "subdivision": "07",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.46553,
+      -26.45794
+    ]
+  }
+}

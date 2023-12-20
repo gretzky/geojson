@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tres Capones",
+    "country": "AR",
+    "subdivision": "14",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.60471,
+      -28.00641
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Peñaflor",
+    "country": "CL",
+    "subdivision": "12",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.87649,
+      -33.60627
+    ]
+  }
+}

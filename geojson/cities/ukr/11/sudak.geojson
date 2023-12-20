@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sudak",
+    "country": "UA",
+    "subdivision": "11",
+    "timezone": "Europe/Simferopol"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.97471,
+      44.84924
+    ]
+  }
+}

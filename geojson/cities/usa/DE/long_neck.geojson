@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Long Neck",
+    "country": "US",
+    "subdivision": "DE",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.15074,
+      38.62011
+    ]
+  }
+}

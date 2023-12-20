@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Masterton",
+    "country": "NZ",
+    "subdivision": "G2",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      175.6575,
+      -40.95972
+    ]
+  }
+}

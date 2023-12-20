@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mikuni",
+    "country": "JP",
+    "subdivision": "06",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.15185,
+      36.21706
+    ]
+  }
+}

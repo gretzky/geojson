@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Daejeon",
+    "country": "KR",
+    "subdivision": "19",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.38493,
+      36.34913
+    ]
+  }
+}

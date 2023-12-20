@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Galateo",
+    "country": "PR",
+    "subdivision": "135",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.25878,
+      18.36245
+    ]
+  }
+}

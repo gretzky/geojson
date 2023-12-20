@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fulnek",
+    "country": "CZ",
+    "subdivision": "85",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.90319,
+      49.71238
+    ]
+  }
+}

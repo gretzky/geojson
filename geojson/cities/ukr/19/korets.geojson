@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Korets",
+    "country": "UA",
+    "subdivision": "19",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.16055,
+      50.61655
+    ]
+  }
+}

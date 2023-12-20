@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kyoto",
+    "country": "JP",
+    "subdivision": "22",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.75385,
+      35.02107
+    ]
+  }
+}

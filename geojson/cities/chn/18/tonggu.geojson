@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tonggu",
+    "country": "CN",
+    "subdivision": "18",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      109.30944,
+      26.57222
+    ]
+  }
+}

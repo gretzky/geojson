@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carolina",
+    "country": "PR",
+    "subdivision": "031",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.95739,
+      18.38078
+    ]
+  }
+}

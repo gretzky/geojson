@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Lleras",
+    "country": "CO",
+    "subdivision": "19",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.4044,
+      3.02225
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Split",
+    "country": "HR",
+    "subdivision": "15",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.43915,
+      43.50891
+    ]
+  }
+}

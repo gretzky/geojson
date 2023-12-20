@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nyanga",
+    "country": "ZW",
+    "subdivision": "01",
+    "timezone": "Africa/Harare"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.75,
+      -18.21667
+    ]
+  }
+}

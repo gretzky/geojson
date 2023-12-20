@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bevagna",
+    "country": "IT",
+    "subdivision": "18",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.61488,
+      42.93748
+    ]
+  }
+}

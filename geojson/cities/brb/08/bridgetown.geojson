@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bridgetown",
+    "country": "BB",
+    "subdivision": "08",
+    "timezone": "America/Barbados"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.62021,
+      13.10732
+    ]
+  }
+}

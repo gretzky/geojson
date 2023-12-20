@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mynaral",
+    "country": "KZ",
+    "subdivision": "17",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.68444,
+      45.41611
+    ]
+  }
+}

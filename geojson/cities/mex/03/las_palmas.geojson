@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Palmas",
+    "country": "MX",
+    "subdivision": "03",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.94235,
+      22.93672
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Miguel del Padrón",
+    "country": "CU",
+    "subdivision": "02",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.32669,
+      23.09544
+    ]
+  }
+}

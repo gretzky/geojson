@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yamagata",
+    "country": "JP",
+    "subdivision": "44",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.36667,
+      38.23333
+    ]
+  }
+}

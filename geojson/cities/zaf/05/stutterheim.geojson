@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stutterheim",
+    "country": "ZA",
+    "subdivision": "05",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.42396,
+      -32.57076
+    ]
+  }
+}

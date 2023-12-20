@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yar",
+    "country": "RU",
+    "subdivision": "80",
+    "timezone": "Europe/Samara"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.1054,
+      58.2458
+    ]
+  }
+}

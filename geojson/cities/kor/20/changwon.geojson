@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Changwon",
+    "country": "KR",
+    "subdivision": "20",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.68111,
+      35.22806
+    ]
+  }
+}

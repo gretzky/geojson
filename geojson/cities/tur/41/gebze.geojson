@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gebze",
+    "country": "TR",
+    "subdivision": "41",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.43068,
+      40.80276
+    ]
+  }
+}

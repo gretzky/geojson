@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Marin",
+    "country": "MQ",
+    "subdivision": "MQ",
+    "timezone": "America/Martinique"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.86989,
+      14.47158
+    ]
+  }
+}

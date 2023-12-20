@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tanacu",
+    "country": "RO",
+    "subdivision": "38",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.81667,
+      46.68333
+    ]
+  }
+}

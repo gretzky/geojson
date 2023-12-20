@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ip",
+    "country": "RO",
+    "subdivision": "31",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.65,
+      47.23333
+    ]
+  }
+}

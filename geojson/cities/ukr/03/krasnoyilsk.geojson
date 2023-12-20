@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krasnoyilsk",
+    "country": "UA",
+    "subdivision": "03",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.56004,
+      48.01865
+    ]
+  }
+}

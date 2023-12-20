@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saga",
+    "country": "JP",
+    "subdivision": "33",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.3,
+      33.23333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Harstad",
+    "country": "NO",
+    "subdivision": "54",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.54165,
+      68.79833
+    ]
+  }
+}

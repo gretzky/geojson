@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arth",
+    "country": "CH",
+    "subdivision": "SZ",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.52349,
+      47.06337
+    ]
+  }
+}

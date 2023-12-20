@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gersheim",
+    "country": "DE",
+    "subdivision": "09",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2,
+      49.15
+    ]
+  }
+}

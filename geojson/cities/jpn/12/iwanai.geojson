@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Iwanai",
+    "country": "JP",
+    "subdivision": "12",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.50889,
+      42.97444
+    ]
+  }
+}

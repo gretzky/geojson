@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cueto",
+    "country": "CU",
+    "subdivision": "12",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.92967,
+      20.64855
+    ]
+  }
+}

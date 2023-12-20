@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barranquitas",
+    "country": "PR",
+    "subdivision": "019",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.30628,
+      18.18662
+    ]
+  }
+}

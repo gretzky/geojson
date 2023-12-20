@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Tambo",
+    "country": "CO",
+    "subdivision": "20",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.39218,
+      1.40785
+    ]
+  }
+}

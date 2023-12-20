@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tel Aviv",
+    "country": "IL",
+    "subdivision": "05",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.78057,
+      32.08088
+    ]
+  }
+}

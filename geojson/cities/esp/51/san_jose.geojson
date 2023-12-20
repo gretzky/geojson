@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San José",
+    "country": "ES",
+    "subdivision": "51",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.10912,
+      36.76048
+    ]
+  }
+}

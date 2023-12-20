@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Guancha",
+    "country": "ES",
+    "subdivision": "53",
+    "timezone": "Atlantic/Canary"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.65158,
+      28.3732
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vieques",
+    "country": "PR",
+    "subdivision": "087",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.83294,
+      18.42495
+    ]
+  }
+}

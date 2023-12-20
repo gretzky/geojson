@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Orange Walk",
+    "country": "BZ",
+    "subdivision": "04",
+    "timezone": "America/Belize"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.56328,
+      18.08124
+    ]
+  }
+}

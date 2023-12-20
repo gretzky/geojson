@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kunów",
+    "country": "PL",
+    "subdivision": "84",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.28058,
+      50.96156
+    ]
+  }
+}

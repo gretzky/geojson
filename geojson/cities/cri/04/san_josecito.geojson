@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Josecito",
+    "country": "CR",
+    "subdivision": "04",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.1,
+      10.01667
+    ]
+  }
+}

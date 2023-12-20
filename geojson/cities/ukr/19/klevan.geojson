@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Klevan",
+    "country": "UA",
+    "subdivision": "19",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.97628,
+      50.74305
+    ]
+  }
+}

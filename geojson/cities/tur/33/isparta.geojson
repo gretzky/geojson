@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Isparta",
+    "country": "TR",
+    "subdivision": "33",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.55222,
+      37.76444
+    ]
+  }
+}

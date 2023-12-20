@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Târgu Neamţ",
+    "country": "RO",
+    "subdivision": "28",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.36667,
+      47.2
+    ]
+  }
+}

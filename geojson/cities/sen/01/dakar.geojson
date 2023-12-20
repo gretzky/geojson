@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dakar",
+    "country": "SN",
+    "subdivision": "01",
+    "timezone": "Africa/Dakar"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -17.44406,
+      14.6937
+    ]
+  }
+}

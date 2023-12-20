@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yol",
+    "country": "IN",
+    "subdivision": "11",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.19622,
+      32.16423
+    ]
+  }
+}

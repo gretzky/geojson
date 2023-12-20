@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Adams Morgan",
+    "country": "US",
+    "subdivision": "DC",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.0422,
+      38.9215
+    ]
+  }
+}

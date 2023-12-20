@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yurino",
+    "country": "RU",
+    "subdivision": "45",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.30392,
+      56.29417
+    ]
+  }
+}

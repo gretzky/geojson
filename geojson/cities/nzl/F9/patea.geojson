@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Patea",
+    "country": "NZ",
+    "subdivision": "F9",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.48333,
+      -39.75833
+    ]
+  }
+}

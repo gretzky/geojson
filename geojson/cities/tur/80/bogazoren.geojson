@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boğazören",
+    "country": "TR",
+    "subdivision": "80",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.00778,
+      37.52775
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Koesan",
+    "country": "KR",
+    "subdivision": "05",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.79472,
+      36.81083
+    ]
+  }
+}

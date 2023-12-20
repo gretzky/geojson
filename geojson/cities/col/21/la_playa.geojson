@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Playa",
+    "country": "CO",
+    "subdivision": "21",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.23827,
+      8.21321
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Humele",
+    "country": "RO",
+    "subdivision": "03",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.97714,
+      44.52612
+    ]
+  }
+}

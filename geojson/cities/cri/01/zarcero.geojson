@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zarcero",
+    "country": "CR",
+    "subdivision": "01",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.39076,
+      10.18561
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kırşehir",
+    "country": "TR",
+    "subdivision": "40",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.16389,
+      39.14583
+    ]
+  }
+}

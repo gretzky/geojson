@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saransk",
+    "country": "RU",
+    "subdivision": "46",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.1749,
+      54.1838
+    ]
+  }
+}

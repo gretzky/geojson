@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zarzal",
+    "country": "CO",
+    "subdivision": "29",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.0715,
+      4.39462
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hitachi",
+    "country": "JP",
+    "subdivision": "14",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.65,
+      36.6
+    ]
+  }
+}

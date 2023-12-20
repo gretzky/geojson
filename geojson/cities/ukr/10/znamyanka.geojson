@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Znamyanka",
+    "country": "UA",
+    "subdivision": "10",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.65822,
+      48.72066
+    ]
+  }
+}

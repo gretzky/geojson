@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Winterhude",
+    "country": "DE",
+    "subdivision": "04",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10,
+      53.6
+    ]
+  }
+}

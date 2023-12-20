@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Križevci",
+    "country": "HR",
+    "subdivision": "06",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.5425,
+      46.02194
+    ]
+  }
+}

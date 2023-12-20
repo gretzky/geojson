@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tacadang",
+    "country": "PH",
+    "subdivision": "15",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.6405,
+      16.7264
+    ]
+  }
+}

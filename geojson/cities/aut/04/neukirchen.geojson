@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Neukirchen",
+    "country": "AT",
+    "subdivision": "04",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.71111,
+      47.87502
+    ]
+  }
+}

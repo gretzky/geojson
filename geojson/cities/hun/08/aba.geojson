@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aba",
+    "country": "HU",
+    "subdivision": "08",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.52172,
+      47.02907
+    ]
+  }
+}

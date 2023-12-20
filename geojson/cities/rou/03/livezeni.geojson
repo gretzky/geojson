@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Livezeni",
+    "country": "RO",
+    "subdivision": "03",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.97676,
+      45.03838
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Viimsi",
+    "country": "EE",
+    "subdivision": "01",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.84807,
+      59.50502
+    ]
+  }
+}

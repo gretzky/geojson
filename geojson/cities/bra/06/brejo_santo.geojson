@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brejo Santo",
+    "country": "BR",
+    "subdivision": "06",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -38.98722,
+      -7.49333
+    ]
+  }
+}

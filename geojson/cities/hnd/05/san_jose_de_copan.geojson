@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San José de Copán",
+    "country": "HN",
+    "subdivision": "05",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.71667,
+      14.9
+    ]
+  }
+}

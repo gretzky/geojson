@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bhilai",
+    "country": "IN",
+    "subdivision": "37",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.4285,
+      21.20919
+    ]
+  }
+}

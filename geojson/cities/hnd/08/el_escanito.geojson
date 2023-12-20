@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Escanito",
+    "country": "HN",
+    "subdivision": "08",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.1,
+      14.66667
+    ]
+  }
+}

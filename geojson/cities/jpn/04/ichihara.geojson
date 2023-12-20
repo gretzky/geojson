@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ichihara",
+    "country": "JP",
+    "subdivision": "04",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.08333,
+      35.51667
+    ]
+  }
+}

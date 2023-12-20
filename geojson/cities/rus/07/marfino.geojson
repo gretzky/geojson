@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Marfino",
+    "country": "RU",
+    "subdivision": "07",
+    "timezone": "Europe/Astrakhan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.71398,
+      46.40852
+    ]
+  }
+}

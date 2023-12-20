@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kamo",
+    "country": "JP",
+    "subdivision": "29",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.03502,
+      37.66442
+    ]
+  }
+}

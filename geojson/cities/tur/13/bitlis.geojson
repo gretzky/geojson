@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bitlis",
+    "country": "TR",
+    "subdivision": "13",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.10784,
+      38.40115
+    ]
+  }
+}

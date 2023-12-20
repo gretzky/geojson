@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Toba",
+    "country": "JP",
+    "subdivision": "23",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.84186,
+      34.4833
+    ]
+  }
+}

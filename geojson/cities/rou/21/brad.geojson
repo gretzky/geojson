@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brad",
+    "country": "RO",
+    "subdivision": "21",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.78333,
+      46.13333
+    ]
+  }
+}

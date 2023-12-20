@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mortka",
+    "country": "RU",
+    "subdivision": "32",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      66.02139,
+      59.33222
+    ]
+  }
+}

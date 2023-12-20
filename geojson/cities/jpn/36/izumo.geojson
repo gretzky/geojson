@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Izumo",
+    "country": "JP",
+    "subdivision": "36",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      132.76667,
+      35.36667
+    ]
+  }
+}

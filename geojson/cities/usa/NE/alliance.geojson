@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alliance",
+    "country": "US",
+    "subdivision": "NE",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.87215,
+      42.10163
+    ]
+  }
+}

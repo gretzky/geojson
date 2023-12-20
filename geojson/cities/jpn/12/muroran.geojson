@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Muroran",
+    "country": "JP",
+    "subdivision": "12",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.98806,
+      42.31722
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tsuma",
+    "country": "JP",
+    "subdivision": "25",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.4,
+      32.1
+    ]
+  }
+}

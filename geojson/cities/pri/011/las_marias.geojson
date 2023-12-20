@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Marias",
+    "country": "PR",
+    "subdivision": "011",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.14629,
+      18.29328
+    ]
+  }
+}

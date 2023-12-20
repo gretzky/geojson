@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novhorodka",
+    "country": "UA",
+    "subdivision": "10",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.65469,
+      48.36089
+    ]
+  }
+}

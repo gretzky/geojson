@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vinkovci",
+    "country": "HR",
+    "subdivision": "18",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.80472,
+      45.28833
+    ]
+  }
+}

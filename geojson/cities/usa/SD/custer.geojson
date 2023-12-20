@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Custer",
+    "country": "US",
+    "subdivision": "SD",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.59881,
+      43.76665
+    ]
+  }
+}

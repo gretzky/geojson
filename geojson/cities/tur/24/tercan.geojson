@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tercan",
+    "country": "TR",
+    "subdivision": "24",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.37783,
+      39.77709
+    ]
+  }
+}

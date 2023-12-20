@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Surok",
+    "country": "RU",
+    "subdivision": "45",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.12139,
+      56.44694
+    ]
+  }
+}

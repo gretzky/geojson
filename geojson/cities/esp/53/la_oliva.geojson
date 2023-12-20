@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Oliva",
+    "country": "ES",
+    "subdivision": "53",
+    "timezone": "Atlantic/Canary"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.92912,
+      28.61052
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Koh Tao",
+    "country": "TH",
+    "subdivision": "60",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.83809,
+      10.09808
+    ]
+  }
+}

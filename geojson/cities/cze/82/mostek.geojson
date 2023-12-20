@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mostek",
+    "country": "CZ",
+    "subdivision": "82",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.69622,
+      50.48623
+    ]
+  }
+}

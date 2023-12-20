@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yadrin",
+    "country": "RU",
+    "subdivision": "16",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.20622,
+      55.94052
+    ]
+  }
+}

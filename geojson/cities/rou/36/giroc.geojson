@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Giroc",
+    "country": "RO",
+    "subdivision": "36",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.23583,
+      45.69417
+    ]
+  }
+}

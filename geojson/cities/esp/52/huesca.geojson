@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Huesca",
+    "country": "ES",
+    "subdivision": "52",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.4087,
+      42.13615
+    ]
+  }
+}

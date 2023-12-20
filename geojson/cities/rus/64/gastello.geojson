@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gastello",
+    "country": "RU",
+    "subdivision": "64",
+    "timezone": "Asia/Sakhalin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      142.95917,
+      49.10056
+    ]
+  }
+}

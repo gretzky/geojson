@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maricá",
+    "country": "BR",
+    "subdivision": "21",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -42.81861,
+      -22.91944
+    ]
+  }
+}

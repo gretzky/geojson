@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hämeenkoski",
+    "country": "FI",
+    "subdivision": "07",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.15417,
+      61.02222
+    ]
+  }
+}

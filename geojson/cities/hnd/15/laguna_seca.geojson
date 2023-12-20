@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Laguna Seca",
+    "country": "HN",
+    "subdivision": "15",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.1,
+      14.7
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bicknell",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Vincennes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.30779,
+      38.77421
+    ]
+  }
+}

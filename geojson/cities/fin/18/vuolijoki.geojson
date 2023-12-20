@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vuolijoki",
+    "country": "FI",
+    "subdivision": "18",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.99547,
+      64.18538
+    ]
+  }
+}

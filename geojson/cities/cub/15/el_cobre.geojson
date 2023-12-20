@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Cobre",
+    "country": "CU",
+    "subdivision": "15",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.94579,
+      20.0485
+    ]
+  }
+}

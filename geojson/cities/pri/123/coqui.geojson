@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coquí",
+    "country": "PR",
+    "subdivision": "123",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.22711,
+      17.97413
+    ]
+  }
+}

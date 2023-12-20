@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Goldach",
+    "country": "CH",
+    "subdivision": "SG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.46711,
+      47.47401
+    ]
+  }
+}

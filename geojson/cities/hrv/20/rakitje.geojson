@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rakitje",
+    "country": "HR",
+    "subdivision": "20",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.82222,
+      45.79389
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Anton",
+    "country": "BG",
+    "subdivision": "58",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.28333,
+      42.75
+    ]
+  }
+}

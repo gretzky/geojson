@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fenyi",
+    "country": "CN",
+    "subdivision": "03",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.66805,
+      27.81117
+    ]
+  }
+}

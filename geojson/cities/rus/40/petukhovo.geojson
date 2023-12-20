@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Petukhovo",
+    "country": "RU",
+    "subdivision": "40",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      67.90194,
+      55.06917
+    ]
+  }
+}

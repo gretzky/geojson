@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bolgatanga",
+    "country": "GH",
+    "subdivision": "10",
+    "timezone": "Africa/Accra"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.85139,
+      10.78556
+    ]
+  }
+}

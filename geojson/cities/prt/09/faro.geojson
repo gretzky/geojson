@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Faro",
+    "country": "PT",
+    "subdivision": "09",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.92716,
+      37.01869
+    ]
+  }
+}

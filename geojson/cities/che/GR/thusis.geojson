@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Thusis",
+    "country": "CH",
+    "subdivision": "GR",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.43938,
+      46.69724
+    ]
+  }
+}

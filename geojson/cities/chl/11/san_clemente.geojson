@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Clemente",
+    "country": "CL",
+    "subdivision": "11",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.487,
+      -35.53777
+    ]
+  }
+}

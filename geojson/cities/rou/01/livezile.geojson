@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Livezile",
+    "country": "RO",
+    "subdivision": "01",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.63333,
+      46.35
+    ]
+  }
+}

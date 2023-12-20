@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lamut",
+    "country": "PH",
+    "subdivision": "15",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.22474,
+      16.64907
+    ]
+  }
+}

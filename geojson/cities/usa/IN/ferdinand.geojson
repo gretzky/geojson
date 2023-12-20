@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ferdinand",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Vincennes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.86222,
+      38.22394
+    ]
+  }
+}

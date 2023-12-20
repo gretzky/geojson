@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Estación Porvenir",
+    "country": "UY",
+    "subdivision": "11",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.85371,
+      -32.37085
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sinop",
+    "country": "BR",
+    "subdivision": "14",
+    "timezone": "America/Cuiaba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.5025,
+      -11.86417
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cayenne",
+    "country": "GF",
+    "subdivision": "GF",
+    "timezone": "America/Cayenne"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -52.33333,
+      4.93333
+    ]
+  }
+}

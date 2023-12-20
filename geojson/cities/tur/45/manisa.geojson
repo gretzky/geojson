@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Manisa",
+    "country": "TR",
+    "subdivision": "45",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.42647,
+      38.61202
+    ]
+  }
+}

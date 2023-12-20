@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mhango",
+    "country": "TZ",
+    "subdivision": "15",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.85,
+      -3.28333
+    ]
+  }
+}

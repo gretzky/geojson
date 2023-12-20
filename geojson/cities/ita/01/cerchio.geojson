@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cerchio",
+    "country": "IT",
+    "subdivision": "01",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.60006,
+      42.06357
+    ]
+  }
+}

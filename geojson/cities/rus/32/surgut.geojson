@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Surgut",
+    "country": "RU",
+    "subdivision": "32",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.41667,
+      61.25
+    ]
+  }
+}

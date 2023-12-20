@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dosso",
+    "country": "NE",
+    "subdivision": "03",
+    "timezone": "Africa/Niamey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.1937,
+      13.049
+    ]
+  }
+}

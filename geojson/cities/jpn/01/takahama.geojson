@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Takahama",
+    "country": "JP",
+    "subdivision": "01",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.98333,
+      34.91667
+    ]
+  }
+}

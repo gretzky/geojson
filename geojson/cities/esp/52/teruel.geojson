@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Teruel",
+    "country": "ES",
+    "subdivision": "52",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.10646,
+      40.3456
+    ]
+  }
+}

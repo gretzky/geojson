@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Perugia",
+    "country": "IT",
+    "subdivision": "18",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.38878,
+      43.1122
+    ]
+  }
+}

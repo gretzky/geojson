@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Plato",
+    "country": "CO",
+    "subdivision": "38",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.78244,
+      9.79029
+    ]
+  }
+}

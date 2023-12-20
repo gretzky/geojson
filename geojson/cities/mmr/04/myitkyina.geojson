@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Myitkyina",
+    "country": "MM",
+    "subdivision": "04",
+    "timezone": "Asia/Yangon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.39637,
+      25.38327
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colombo",
+    "country": "LK",
+    "subdivision": "36",
+    "timezone": "Asia/Colombo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.84868,
+      6.93548
+    ]
+  }
+}

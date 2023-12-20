@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kunda",
+    "country": "EE",
+    "subdivision": "08",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.53333,
+      59.48333
+    ]
+  }
+}

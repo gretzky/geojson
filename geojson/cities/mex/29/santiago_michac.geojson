@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santiago Michac",
+    "country": "MX",
+    "subdivision": "29",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.33932,
+      19.21985
+    ]
+  }
+}

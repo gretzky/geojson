@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Polianka",
+    "country": "UA",
+    "subdivision": "27",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.68809,
+      50.25836
+    ]
+  }
+}

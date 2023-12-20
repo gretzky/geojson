@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nangen",
+    "country": "KR",
+    "subdivision": "03",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.38583,
+      35.41
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mateo",
+    "country": "HN",
+    "subdivision": "08",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.31667,
+      14.08333
+    ]
+  }
+}

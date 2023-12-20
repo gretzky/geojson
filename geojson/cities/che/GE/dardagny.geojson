@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dardagny",
+    "country": "CH",
+    "subdivision": "GE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.99497,
+      46.19564
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jihlava",
+    "country": "CZ",
+    "subdivision": "80",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.59124,
+      49.3961
+    ]
+  }
+}

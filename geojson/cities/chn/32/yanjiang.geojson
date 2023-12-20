@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yanjiang",
+    "country": "CN",
+    "subdivision": "32",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.64811,
+      30.12108
+    ]
+  }
+}

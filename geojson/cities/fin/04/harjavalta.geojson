@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Harjavalta",
+    "country": "FI",
+    "subdivision": "04",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.13333,
+      61.31667
+    ]
+  }
+}

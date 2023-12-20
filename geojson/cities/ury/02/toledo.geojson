@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Toledo",
+    "country": "UY",
+    "subdivision": "02",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.09469,
+      -34.73807
+    ]
+  }
+}

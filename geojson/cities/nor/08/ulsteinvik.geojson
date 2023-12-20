@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ulsteinvik",
+    "country": "NO",
+    "subdivision": "08",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.84869,
+      62.34317
+    ]
+  }
+}

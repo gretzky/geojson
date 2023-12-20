@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vagos",
+    "country": "PT",
+    "subdivision": "02",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.68175,
+      40.556
+    ]
+  }
+}

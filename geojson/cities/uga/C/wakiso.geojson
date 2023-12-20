@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wakiso",
+    "country": "UG",
+    "subdivision": "C",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.45944,
+      0.40444
+    ]
+  }
+}

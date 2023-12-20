@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pajas Blancas",
+    "country": "UY",
+    "subdivision": "10",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.33417,
+      -34.80167
+    ]
+  }
+}

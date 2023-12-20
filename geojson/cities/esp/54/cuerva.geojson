@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cuerva",
+    "country": "ES",
+    "subdivision": "54",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.21085,
+      39.66374
+    ]
+  }
+}

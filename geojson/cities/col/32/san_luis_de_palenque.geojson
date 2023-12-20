@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Luis de Palenque",
+    "country": "CO",
+    "subdivision": "32",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.73167,
+      5.42139
+    ]
+  }
+}

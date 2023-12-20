@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Río Bonito",
+    "country": "HN",
+    "subdivision": "04",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.88333,
+      14.76667
+    ]
+  }
+}

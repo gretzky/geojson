@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lammerenburg",
+    "country": "NL",
+    "subdivision": "10",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.55833,
+      51.46667
+    ]
+  }
+}

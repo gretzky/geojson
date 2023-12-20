@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jette",
+    "country": "BE",
+    "subdivision": "BRU",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.33419,
+      50.87309
+    ]
+  }
+}

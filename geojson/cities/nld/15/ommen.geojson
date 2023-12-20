@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ommen",
+    "country": "NL",
+    "subdivision": "15",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.42083,
+      52.52083
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sillamäe",
+    "country": "EE",
+    "subdivision": "03",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.76331,
+      59.39697
+    ]
+  }
+}

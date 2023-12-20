@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vorona",
+    "country": "RO",
+    "subdivision": "07",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.63078,
+      47.57714
+    ]
+  }
+}

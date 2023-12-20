@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Famagusta",
+    "country": "CY",
+    "subdivision": "01",
+    "timezone": "Asia/Famagusta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.94135,
+      35.12489
+    ]
+  }
+}

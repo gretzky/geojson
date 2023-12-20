@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bartolo",
+    "country": "PR",
+    "subdivision": "119",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.8385,
+      18.36134
+    ]
+  }
+}

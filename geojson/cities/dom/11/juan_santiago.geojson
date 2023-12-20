@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Juan Santiago",
+    "country": "DO",
+    "subdivision": "11",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.58971,
+      18.70342
+    ]
+  }
+}

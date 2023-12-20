@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pallasovka",
+    "country": "RU",
+    "subdivision": "84",
+    "timezone": "Europe/Volgograd"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.88333,
+      50.05
+    ]
+  }
+}

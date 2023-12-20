@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nacimiento",
+    "country": "CL",
+    "subdivision": "06",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.67307,
+      -37.50253
+    ]
+  }
+}

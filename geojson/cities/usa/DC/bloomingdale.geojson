@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bloomingdale",
+    "country": "US",
+    "subdivision": "DC",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.01137,
+      38.91678
+    ]
+  }
+}

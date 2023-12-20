@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hartmanice",
+    "country": "CZ",
+    "subdivision": "87",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.45455,
+      49.16948
+    ]
+  }
+}

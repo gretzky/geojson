@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Copiapó",
+    "country": "CL",
+    "subdivision": "05",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.3314,
+      -27.36679
+    ]
+  }
+}

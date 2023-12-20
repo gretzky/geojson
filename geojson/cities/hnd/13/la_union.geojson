@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Unión",
+    "country": "HN",
+    "subdivision": "13",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.4,
+      14.81667
+    ]
+  }
+}

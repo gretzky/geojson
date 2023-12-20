@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Reviga",
+    "country": "RO",
+    "subdivision": "22",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.1,
+      44.71667
+    ]
+  }
+}

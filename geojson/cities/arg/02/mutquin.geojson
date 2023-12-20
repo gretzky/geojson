@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mutquín",
+    "country": "AR",
+    "subdivision": "02",
+    "timezone": "America/Argentina/Catamarca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.14253,
+      -28.32104
+    ]
+  }
+}

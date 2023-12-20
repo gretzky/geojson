@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Trinidad",
+    "country": "HN",
+    "subdivision": "16",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.23333,
+      15.13333
+    ]
+  }
+}

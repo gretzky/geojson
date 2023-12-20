@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Victoria",
+    "country": "PH",
+    "subdivision": "41",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.27806,
+      13.17722
+    ]
+  }
+}

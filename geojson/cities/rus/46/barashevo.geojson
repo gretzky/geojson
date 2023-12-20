@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barashevo",
+    "country": "RU",
+    "subdivision": "46",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.87917,
+      54.5325
+    ]
+  }
+}

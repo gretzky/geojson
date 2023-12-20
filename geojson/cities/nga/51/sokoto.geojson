@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sokoto",
+    "country": "NG",
+    "subdivision": "51",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.24322,
+      13.06269
+    ]
+  }
+}

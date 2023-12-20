@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Miguel Chicaj",
+    "country": "GT",
+    "subdivision": "02",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.39442,
+      15.09472
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coto Laurel",
+    "country": "PR",
+    "subdivision": "113",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.55128,
+      18.04969
+    ]
+  }
+}

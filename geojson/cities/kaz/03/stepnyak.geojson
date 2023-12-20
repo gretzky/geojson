@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stepnyak",
+    "country": "KZ",
+    "subdivision": "03",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      70.78861,
+      52.83489
+    ]
+  }
+}

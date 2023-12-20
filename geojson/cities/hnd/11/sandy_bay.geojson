@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sandy Bay",
+    "country": "HN",
+    "subdivision": "11",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.56446,
+      16.32923
+    ]
+  }
+}

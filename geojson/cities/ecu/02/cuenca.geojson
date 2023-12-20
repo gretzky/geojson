@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cuenca",
+    "country": "EC",
+    "subdivision": "02",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.00453,
+      -2.90055
+    ]
+  }
+}

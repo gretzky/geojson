@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nova Floresta",
+    "country": "BR",
+    "subdivision": "17",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -36.20333,
+      -6.45528
+    ]
+  }
+}

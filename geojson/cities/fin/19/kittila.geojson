@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kittilä",
+    "country": "FI",
+    "subdivision": "19",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.89356,
+      67.66474
+    ]
+  }
+}

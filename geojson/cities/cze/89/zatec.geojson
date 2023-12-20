@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Žatec",
+    "country": "CZ",
+    "subdivision": "89",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.54577,
+      50.32717
+    ]
+  }
+}

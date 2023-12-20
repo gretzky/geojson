@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jeonju",
+    "country": "KR",
+    "subdivision": "03",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.14889,
+      35.82194
+    ]
+  }
+}

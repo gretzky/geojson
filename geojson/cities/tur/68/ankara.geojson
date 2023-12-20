@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ankara",
+    "country": "TR",
+    "subdivision": "68",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.85427,
+      39.91987
+    ]
+  }
+}

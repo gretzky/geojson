@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Myaydo",
+    "country": "MM",
+    "subdivision": "15",
+    "timezone": "Asia/Yangon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.21512,
+      19.36838
+    ]
+  }
+}

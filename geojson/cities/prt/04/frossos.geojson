@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Frossos",
+    "country": "PT",
+    "subdivision": "04",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.45134,
+      41.5659
+    ]
+  }
+}

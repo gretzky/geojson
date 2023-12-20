@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hānsi",
+    "country": "IN",
+    "subdivision": "10",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.96253,
+      29.10239
+    ]
+  }
+}

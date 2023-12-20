@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Logroño",
+    "country": "ES",
+    "subdivision": "27",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.45,
+      42.46667
+    ]
+  }
+}

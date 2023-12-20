@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Avanos",
+    "country": "TR",
+    "subdivision": "50",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.84667,
+      38.715
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kokubunji",
+    "country": "JP",
+    "subdivision": "40",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.47556,
+      35.70222
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mosta",
+    "country": "MT",
+    "subdivision": "35",
+    "timezone": "Europe/Malta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.42556,
+      35.90917
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Teques",
+    "country": "VE",
+    "subdivision": "15",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.04325,
+      10.34447
+    ]
+  }
+}

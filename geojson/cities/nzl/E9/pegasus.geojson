@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pegasus",
+    "country": "NZ",
+    "subdivision": "E9",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      172.69013,
+      -43.30832
+    ]
+  }
+}

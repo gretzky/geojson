@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Georgetown",
+    "country": "GY",
+    "subdivision": "12",
+    "timezone": "America/Guyana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.15527,
+      6.80448
+    ]
+  }
+}

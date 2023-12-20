@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moneague",
+    "country": "JM",
+    "subdivision": "09",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.11177,
+      18.27556
+    ]
+  }
+}

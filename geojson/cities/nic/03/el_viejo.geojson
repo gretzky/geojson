@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Viejo",
+    "country": "NI",
+    "subdivision": "03",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.16663,
+      12.66348
+    ]
+  }
+}

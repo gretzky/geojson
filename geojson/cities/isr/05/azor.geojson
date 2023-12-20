@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Azor",
+    "country": "IL",
+    "subdivision": "05",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.80632,
+      32.0243
+    ]
+  }
+}

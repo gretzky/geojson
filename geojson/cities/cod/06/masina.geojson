@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Masina",
+    "country": "CD",
+    "subdivision": "06",
+    "timezone": "Africa/Kinshasa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.39139,
+      -4.38361
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Tangos",
+    "country": "HN",
+    "subdivision": "05",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.68333,
+      15.15
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bodio",
+    "country": "CH",
+    "subdivision": "TI",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.90991,
+      46.37808
+    ]
+  }
+}

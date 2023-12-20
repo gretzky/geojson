@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Livezi",
+    "country": "RO",
+    "subdivision": "39",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.82505,
+      44.84029
+    ]
+  }
+}

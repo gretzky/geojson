@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tsiolkovskiy",
+    "country": "RU",
+    "subdivision": "05",
+    "timezone": "Asia/Yakutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.11472,
+      51.76694
+    ]
+  }
+}

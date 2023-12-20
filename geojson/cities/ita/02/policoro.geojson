@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Policoro",
+    "country": "IT",
+    "subdivision": "02",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.67795,
+      40.2128
+    ]
+  }
+}

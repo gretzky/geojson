@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Miejska Górka",
+    "country": "PL",
+    "subdivision": "86",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.95826,
+      51.65573
+    ]
+  }
+}

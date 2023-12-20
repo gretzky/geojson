@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fajardo",
+    "country": "PR",
+    "subdivision": "053",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.65238,
+      18.32579
+    ]
+  }
+}

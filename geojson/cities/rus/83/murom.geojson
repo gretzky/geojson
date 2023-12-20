@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Murom",
+    "country": "RU",
+    "subdivision": "83",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.0426,
+      55.575
+    ]
+  }
+}

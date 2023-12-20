@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Roja",
+    "country": "LV",
+    "subdivision": "B4",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.80881,
+      57.50146
+    ]
+  }
+}

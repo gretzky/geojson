@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sokone",
+    "country": "SN",
+    "subdivision": "09",
+    "timezone": "Africa/Dakar"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.36667,
+      13.88333
+    ]
+  }
+}

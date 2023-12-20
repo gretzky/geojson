@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vinces",
+    "country": "EC",
+    "subdivision": "13",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.75191,
+      -1.55611
+    ]
+  }
+}

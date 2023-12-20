@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Escolar",
+    "country": "AR",
+    "subdivision": "09",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.67134,
+      -26.62209
+    ]
+  }
+}

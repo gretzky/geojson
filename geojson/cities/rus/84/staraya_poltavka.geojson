@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Staraya Poltavka",
+    "country": "RU",
+    "subdivision": "84",
+    "timezone": "Europe/Volgograd"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.48144,
+      50.47715
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kramsk",
+    "country": "PL",
+    "subdivision": "86",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.42407,
+      52.26469
+    ]
+  }
+}

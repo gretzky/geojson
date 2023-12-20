@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kuching",
+    "country": "MY",
+    "subdivision": "11",
+    "timezone": "Asia/Kuching"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      110.33333,
+      1.55
+    ]
+  }
+}

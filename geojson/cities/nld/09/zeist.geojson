@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zeist",
+    "country": "NL",
+    "subdivision": "09",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.23333,
+      52.09
+    ]
+  }
+}

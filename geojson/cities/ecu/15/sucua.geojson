@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sucúa",
+    "country": "EC",
+    "subdivision": "15",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.17171,
+      -2.45866
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Babța",
+    "country": "RO",
+    "subdivision": "32",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.94283,
+      47.45778
+    ]
+  }
+}

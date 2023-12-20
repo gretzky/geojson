@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ghatkesar",
+    "country": "IN",
+    "subdivision": "40",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.68366,
+      17.45081
+    ]
+  }
+}

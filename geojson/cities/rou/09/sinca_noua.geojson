@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Șinca Nouă",
+    "country": "RO",
+    "subdivision": "09",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.24348,
+      45.69457
+    ]
+  }
+}

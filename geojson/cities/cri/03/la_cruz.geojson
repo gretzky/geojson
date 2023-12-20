@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Cruz",
+    "country": "CR",
+    "subdivision": "03",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.63272,
+      11.07377
+    ]
+  }
+}

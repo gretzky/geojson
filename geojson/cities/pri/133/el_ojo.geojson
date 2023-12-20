@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Ojo",
+    "country": "PR",
+    "subdivision": "133",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.39156,
+      18.00385
+    ]
+  }
+}

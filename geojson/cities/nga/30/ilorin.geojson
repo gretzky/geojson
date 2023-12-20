@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ilorin",
+    "country": "NG",
+    "subdivision": "30",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.54214,
+      8.49664
+    ]
+  }
+}

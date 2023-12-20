@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chitre",
+    "country": "NP",
+    "subdivision": "4",
+    "timezone": "Asia/Kathmandu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.69076,
+      28.42673
+    ]
+  }
+}

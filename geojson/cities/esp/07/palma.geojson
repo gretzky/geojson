@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palma",
+    "country": "ES",
+    "subdivision": "07",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.65024,
+      39.56939
+    ]
+  }
+}

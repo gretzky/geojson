@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chinácota",
+    "country": "CO",
+    "subdivision": "21",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.60108,
+      7.60731
+    ]
+  }
+}

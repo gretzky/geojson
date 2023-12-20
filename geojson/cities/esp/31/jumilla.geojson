@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jumilla",
+    "country": "ES",
+    "subdivision": "31",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.325,
+      38.47917
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Amates",
+    "country": "GT",
+    "subdivision": "09",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.09723,
+      15.25645
+    ]
+  }
+}

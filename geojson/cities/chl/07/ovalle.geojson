@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ovalle",
+    "country": "CL",
+    "subdivision": "07",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.19901,
+      -30.60106
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Petersburg",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Petersburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.27862,
+      38.49199
+    ]
+  }
+}

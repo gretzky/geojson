@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saint Pierre",
+    "country": "MU",
+    "subdivision": "15",
+    "timezone": "Indian/Mauritius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.53431,
+      -20.2215
+    ]
+  }
+}

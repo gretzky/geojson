@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gagra",
+    "country": "GE",
+    "subdivision": "02",
+    "timezone": "Asia/Tbilisi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.27124,
+      43.27858
+    ]
+  }
+}

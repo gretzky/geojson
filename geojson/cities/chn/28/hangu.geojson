@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hangu",
+    "country": "CN",
+    "subdivision": "28",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.78917,
+      39.24889
+    ]
+  }
+}

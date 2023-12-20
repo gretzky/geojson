@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Padam",
+    "country": "IN",
+    "subdivision": "41",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.88488,
+      33.46659
+    ]
+  }
+}

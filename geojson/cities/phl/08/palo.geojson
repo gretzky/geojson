@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palo",
+    "country": "PH",
+    "subdivision": "08",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.99083,
+      11.1575
+    ]
+  }
+}

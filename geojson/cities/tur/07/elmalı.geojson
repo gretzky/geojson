@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Elmalı",
+    "country": "TR",
+    "subdivision": "07",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.91775,
+      36.73583
+    ]
+  }
+}

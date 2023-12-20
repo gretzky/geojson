@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monte Llano",
+    "country": "DO",
+    "subdivision": "18",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.59915,
+      19.7346
+    ]
+  }
+}

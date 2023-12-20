@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "St. Pauli",
+    "country": "DE",
+    "subdivision": "04",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.964,
+      53.557
+    ]
+  }
+}

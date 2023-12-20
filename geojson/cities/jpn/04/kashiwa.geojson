@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kashiwa",
+    "country": "JP",
+    "subdivision": "04",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.97732,
+      35.86224
+    ]
+  }
+}

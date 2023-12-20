@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gimbi",
+    "country": "ET",
+    "subdivision": "51",
+    "timezone": "Africa/Addis_Ababa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.83491,
+      9.17031
+    ]
+  }
+}

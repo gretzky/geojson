@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Data Kakus",
+    "country": "MY",
+    "subdivision": "11",
+    "timezone": "Asia/Kuching"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.62249,
+      2.65465
+    ]
+  }
+}

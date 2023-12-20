@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Haparanda",
+    "country": "SE",
+    "subdivision": "14",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.13676,
+      65.83549
+    ]
+  }
+}

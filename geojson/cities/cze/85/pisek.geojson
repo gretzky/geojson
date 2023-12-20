@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Písek",
+    "country": "CZ",
+    "subdivision": "85",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.80231,
+      49.55924
+    ]
+  }
+}

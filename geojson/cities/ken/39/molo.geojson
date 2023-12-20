@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Molo",
+    "country": "KE",
+    "subdivision": "39",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.73194,
+      -0.24849
+    ]
+  }
+}

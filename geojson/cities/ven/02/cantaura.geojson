@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cantaura",
+    "country": "VE",
+    "subdivision": "02",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.35841,
+      9.30571
+    ]
+  }
+}

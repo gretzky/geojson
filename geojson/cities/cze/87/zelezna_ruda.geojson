@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Železná Ruda",
+    "country": "CZ",
+    "subdivision": "87",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.2352,
+      49.13743
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Greci",
+    "country": "RO",
+    "subdivision": "29",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.55923,
+      44.33025
+    ]
+  }
+}

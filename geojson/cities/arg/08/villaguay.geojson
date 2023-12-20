@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villaguay",
+    "country": "AR",
+    "subdivision": "08",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.02689,
+      -31.8653
+    ]
+  }
+}

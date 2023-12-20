@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bytów",
+    "country": "PL",
+    "subdivision": "82",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.49187,
+      54.17057
+    ]
+  }
+}

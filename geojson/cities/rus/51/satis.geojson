@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Satis",
+    "country": "RU",
+    "subdivision": "51",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.81543,
+      55.02264
+    ]
+  }
+}

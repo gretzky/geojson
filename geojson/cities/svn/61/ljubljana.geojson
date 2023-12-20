@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ljubljana",
+    "country": "SI",
+    "subdivision": "61",
+    "timezone": "Europe/Ljubljana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.50513,
+      46.05108
+    ]
+  }
+}

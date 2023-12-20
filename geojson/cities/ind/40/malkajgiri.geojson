@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Malkajgiri",
+    "country": "IN",
+    "subdivision": "40",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.52633,
+      17.44781
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cane",
+    "country": "HN",
+    "subdivision": "12",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.66667,
+      14.28333
+    ]
+  }
+}

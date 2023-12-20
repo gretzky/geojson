@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Szamocin",
+    "country": "PL",
+    "subdivision": "86",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.12653,
+      53.02795
+    ]
+  }
+}

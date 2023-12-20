@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pilcomayo",
+    "country": "PE",
+    "subdivision": "12",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.24931,
+      -12.04722
+    ]
+  }
+}

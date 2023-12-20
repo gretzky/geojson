@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Knox",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Knox"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.62501,
+      41.29588
+    ]
+  }
+}

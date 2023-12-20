@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fubao",
+    "country": "CN",
+    "subdivision": "32",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.07667,
+      28.76905
+    ]
+  }
+}

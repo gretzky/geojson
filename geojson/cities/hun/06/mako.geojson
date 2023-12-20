@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Makó",
+    "country": "HU",
+    "subdivision": "06",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.48333,
+      46.21667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chonchi",
+    "country": "CL",
+    "subdivision": "14",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.775,
+      -42.62387
+    ]
+  }
+}

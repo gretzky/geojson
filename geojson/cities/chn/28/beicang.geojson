@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beicang",
+    "country": "CN",
+    "subdivision": "28",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.12262,
+      39.2357
+    ]
+  }
+}

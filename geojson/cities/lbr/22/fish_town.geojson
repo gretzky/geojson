@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fish Town",
+    "country": "LR",
+    "subdivision": "22",
+    "timezone": "Africa/Monrovia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.87579,
+      5.19739
+    ]
+  }
+}

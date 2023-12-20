@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gazli",
+    "country": "UZ",
+    "subdivision": "02",
+    "timezone": "Asia/Samarkand"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      63.45713,
+      40.13111
+    ]
+  }
+}

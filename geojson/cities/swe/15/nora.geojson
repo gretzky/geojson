@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nora",
+    "country": "SE",
+    "subdivision": "15",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.03979,
+      59.51926
+    ]
+  }
+}

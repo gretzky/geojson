@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hikari",
+    "country": "JP",
+    "subdivision": "45",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.95,
+      33.955
+    ]
+  }
+}

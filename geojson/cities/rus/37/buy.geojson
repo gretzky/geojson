@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Buy",
+    "country": "RU",
+    "subdivision": "37",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.53699,
+      58.48067
+    ]
+  }
+}

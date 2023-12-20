@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Göksun",
+    "country": "TR",
+    "subdivision": "46",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4973,
+      38.02096
+    ]
+  }
+}

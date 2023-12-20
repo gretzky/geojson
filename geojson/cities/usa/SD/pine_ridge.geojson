@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pine Ridge",
+    "country": "US",
+    "subdivision": "SD",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.55627,
+      43.02554
+    ]
+  }
+}

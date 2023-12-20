@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pattani",
+    "country": "TH",
+    "subdivision": "69",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.25009,
+      6.86814
+    ]
+  }
+}

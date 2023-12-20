@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bom Jesus",
+    "country": "BR",
+    "subdivision": "20",
+    "timezone": "America/Fortaleza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -44.35861,
+      -9.07444
+    ]
+  }
+}

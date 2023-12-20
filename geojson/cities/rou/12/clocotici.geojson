@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Clocotici",
+    "country": "RO",
+    "subdivision": "12",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.83467,
+      45.24495
+    ]
+  }
+}

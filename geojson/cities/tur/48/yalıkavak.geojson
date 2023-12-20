@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yalıkavak",
+    "country": "TR",
+    "subdivision": "48",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.29722,
+      37.10528
+    ]
+  }
+}

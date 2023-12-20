@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Somondoco",
+    "country": "CO",
+    "subdivision": "36",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.43238,
+      4.98495
+    ]
+  }
+}

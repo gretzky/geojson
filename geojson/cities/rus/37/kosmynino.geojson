@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kosmynino",
+    "country": "RU",
+    "subdivision": "37",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.76434,
+      57.58183
+    ]
+  }
+}

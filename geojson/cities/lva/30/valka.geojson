@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Valka",
+    "country": "LV",
+    "subdivision": "30",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.01013,
+      57.7752
+    ]
+  }
+}

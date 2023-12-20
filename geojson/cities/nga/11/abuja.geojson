@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Abuja",
+    "country": "NG",
+    "subdivision": "11",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.49508,
+      9.05785
+    ]
+  }
+}

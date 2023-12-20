@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pomezí",
+    "country": "CZ",
+    "subdivision": "86",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.31729,
+      49.71026
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan de los Morros",
+    "country": "VE",
+    "subdivision": "12",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.35381,
+      9.91152
+    ]
+  }
+}

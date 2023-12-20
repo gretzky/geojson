@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bella Vista",
+    "country": "DO",
+    "subdivision": "34",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.9454,
+      18.45539
+    ]
+  }
+}

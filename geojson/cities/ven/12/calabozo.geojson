@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Calabozo",
+    "country": "VE",
+    "subdivision": "12",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.42929,
+      8.92416
+    ]
+  }
+}

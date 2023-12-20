@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Funchal",
+    "country": "PT",
+    "subdivision": "10",
+    "timezone": "Atlantic/Madeira"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.92547,
+      32.66568
+    ]
+  }
+}

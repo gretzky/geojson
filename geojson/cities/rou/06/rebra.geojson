@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rebra",
+    "country": "RO",
+    "subdivision": "06",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.5,
+      47.31667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sơn La",
+    "country": "VN",
+    "subdivision": "32",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.91882,
+      21.3256
+    ]
+  }
+}

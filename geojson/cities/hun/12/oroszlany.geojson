@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oroszlány",
+    "country": "HU",
+    "subdivision": "12",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.31225,
+      47.48671
+    ]
+  }
+}

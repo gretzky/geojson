@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cairo",
+    "country": "EG",
+    "subdivision": "11",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.24967,
+      30.06263
+    ]
+  }
+}

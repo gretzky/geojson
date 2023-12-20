@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Victoria",
+    "country": "VE",
+    "subdivision": "04",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.33122,
+      10.22677
+    ]
+  }
+}

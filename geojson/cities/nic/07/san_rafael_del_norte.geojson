@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Rafael del Norte",
+    "country": "NI",
+    "subdivision": "07",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.11089,
+      13.21248
+    ]
+  }
+}

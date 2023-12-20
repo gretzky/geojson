@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Jorge",
+    "country": "NI",
+    "subdivision": "15",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.80308,
+      11.45584
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Teeriniemi",
+    "country": "FI",
+    "subdivision": "15",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.6959,
+      63.09705
+    ]
+  }
+}

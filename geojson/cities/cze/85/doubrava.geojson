@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Doubrava",
+    "country": "CZ",
+    "subdivision": "85",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.48018,
+      49.85873
+    ]
+  }
+}

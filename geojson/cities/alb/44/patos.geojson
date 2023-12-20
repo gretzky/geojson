@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Patos",
+    "country": "AL",
+    "subdivision": "44",
+    "timezone": "Europe/Tirane"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.61944,
+      40.68333
+    ]
+  }
+}

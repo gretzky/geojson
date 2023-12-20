@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saint Maurice",
+    "country": "IT",
+    "subdivision": "19",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.25547,
+      45.71771
+    ]
+  }
+}

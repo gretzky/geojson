@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kazan",
+    "country": "RU",
+    "subdivision": "73",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.12214,
+      55.78874
+    ]
+  }
+}

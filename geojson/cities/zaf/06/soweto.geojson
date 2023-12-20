@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Soweto",
+    "country": "ZA",
+    "subdivision": "06",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.85849,
+      -26.26781
+    ]
+  }
+}

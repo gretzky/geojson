@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barahona",
+    "country": "PR",
+    "subdivision": "101",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.44545,
+      18.35134
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palle",
+    "country": "IN",
+    "subdivision": "33",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.08333,
+      15.46667
+    ]
+  }
+}

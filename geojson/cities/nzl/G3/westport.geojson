@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Westport",
+    "country": "NZ",
+    "subdivision": "G3",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      171.6037,
+      -41.75262
+    ]
+  }
+}

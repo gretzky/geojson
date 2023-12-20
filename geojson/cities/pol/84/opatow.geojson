@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Opatów",
+    "country": "PL",
+    "subdivision": "84",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.42538,
+      50.80058
+    ]
+  }
+}

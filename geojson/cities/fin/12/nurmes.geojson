@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nurmes",
+    "country": "FI",
+    "subdivision": "12",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.13965,
+      63.54205
+    ]
+  }
+}

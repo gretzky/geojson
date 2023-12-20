@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cajamarca",
+    "country": "PE",
+    "subdivision": "06",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.50027,
+      -7.16378
+    ]
+  }
+}

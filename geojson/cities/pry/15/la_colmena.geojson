@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Colmena",
+    "country": "PY",
+    "subdivision": "15",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.84084,
+      -25.88627
+    ]
+  }
+}

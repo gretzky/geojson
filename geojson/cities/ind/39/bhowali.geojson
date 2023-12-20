@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bhowali",
+    "country": "IN",
+    "subdivision": "39",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.50481,
+      29.38985
+    ]
+  }
+}

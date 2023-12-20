@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Condado",
+    "country": "CU",
+    "subdivision": "14",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.84014,
+      21.8767
+    ]
+  }
+}

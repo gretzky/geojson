@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tumbes",
+    "country": "PE",
+    "subdivision": "24",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.45153,
+      -3.56694
+    ]
+  }
+}

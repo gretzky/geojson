@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kežmarok",
+    "country": "SK",
+    "subdivision": "05",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.43352,
+      49.13571
+    ]
+  }
+}

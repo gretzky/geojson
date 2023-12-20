@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Döge",
+    "country": "HU",
+    "subdivision": "18",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.06339,
+      48.26246
+    ]
+  }
+}

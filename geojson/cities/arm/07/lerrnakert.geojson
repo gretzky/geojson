@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lerrnakert",
+    "country": "AM",
+    "subdivision": "07",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.9389,
+      40.5625
+    ]
+  }
+}

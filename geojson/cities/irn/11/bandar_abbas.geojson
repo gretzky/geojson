@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bandar Abbas",
+    "country": "IR",
+    "subdivision": "11",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      56.2808,
+      27.1865
+    ]
+  }
+}

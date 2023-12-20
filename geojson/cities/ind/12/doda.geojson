@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Doda",
+    "country": "IN",
+    "subdivision": "12",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.54746,
+      33.14916
+    ]
+  }
+}

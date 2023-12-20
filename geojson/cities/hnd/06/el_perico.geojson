@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Perico",
+    "country": "HN",
+    "subdivision": "06",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.1,
+      15.08333
+    ]
+  }
+}

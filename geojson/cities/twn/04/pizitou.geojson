@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pizitou",
+    "country": "TW",
+    "subdivision": "04",
+    "timezone": "Asia/Taipei"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.44472,
+      23.48556
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bar",
+    "country": "UA",
+    "subdivision": "23",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.67404,
+      49.07362
+    ]
+  }
+}

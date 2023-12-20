@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mtama",
+    "country": "TZ",
+    "subdivision": "07",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.36667,
+      -10.3
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gokwe",
+    "country": "ZW",
+    "subdivision": "02",
+    "timezone": "Africa/Harare"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.9349,
+      -18.20476
+    ]
+  }
+}

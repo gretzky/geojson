@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sincik",
+    "country": "TR",
+    "subdivision": "02",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.61257,
+      38.03645
+    ]
+  }
+}

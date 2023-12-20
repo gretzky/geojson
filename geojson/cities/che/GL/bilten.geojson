@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bilten",
+    "country": "CH",
+    "subdivision": "GL",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.02551,
+      47.14995
+    ]
+  }
+}

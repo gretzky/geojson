@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krk",
+    "country": "HR",
+    "subdivision": "12",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.57542,
+      45.02744
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Corral",
+    "country": "CL",
+    "subdivision": "17",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.43101,
+      -39.8873
+    ]
+  }
+}

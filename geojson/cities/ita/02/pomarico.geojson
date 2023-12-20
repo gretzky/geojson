@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pomarico",
+    "country": "IT",
+    "subdivision": "02",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.52708,
+      40.52804
+    ]
+  }
+}

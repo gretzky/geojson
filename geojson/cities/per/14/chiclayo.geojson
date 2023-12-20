@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chiclayo",
+    "country": "PE",
+    "subdivision": "14",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.84088,
+      -6.77137
+    ]
+  }
+}

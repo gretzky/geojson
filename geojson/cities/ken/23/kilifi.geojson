@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kilifi",
+    "country": "KE",
+    "subdivision": "23",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.84992,
+      -3.63045
+    ]
+  }
+}

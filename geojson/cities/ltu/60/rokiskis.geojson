@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rokiškis",
+    "country": "LT",
+    "subdivision": "60",
+    "timezone": "Europe/Vilnius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.59466,
+      55.95867
+    ]
+  }
+}

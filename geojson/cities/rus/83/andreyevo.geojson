@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Andreyevo",
+    "country": "RU",
+    "subdivision": "83",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.1505,
+      55.9465
+    ]
+  }
+}

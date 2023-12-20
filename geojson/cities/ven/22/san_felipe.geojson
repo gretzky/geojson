@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Felipe",
+    "country": "VE",
+    "subdivision": "22",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.74247,
+      10.33991
+    ]
+  }
+}

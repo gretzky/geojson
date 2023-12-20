@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fortuna",
+    "country": "CR",
+    "subdivision": "03",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.19984,
+      10.67384
+    ]
+  }
+}

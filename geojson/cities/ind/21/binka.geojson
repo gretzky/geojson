@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Binka",
+    "country": "IN",
+    "subdivision": "21",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.81197,
+      21.02626
+    ]
+  }
+}

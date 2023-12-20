@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Andreyevka",
+    "country": "UA",
+    "subdivision": "20",
+    "timezone": "Europe/Simferopol"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.56313,
+      44.81663
+    ]
+  }
+}

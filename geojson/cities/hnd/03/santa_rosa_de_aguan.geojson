@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Rosa de Aguán",
+    "country": "HN",
+    "subdivision": "03",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.71667,
+      15.95
+    ]
+  }
+}

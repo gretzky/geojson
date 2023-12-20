@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santo Domingo",
+    "country": "NI",
+    "subdivision": "04",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.08235,
+      12.26438
+    ]
+  }
+}

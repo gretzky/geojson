@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ilva Mică",
+    "country": "RO",
+    "subdivision": "06",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.66667,
+      47.31667
+    ]
+  }
+}

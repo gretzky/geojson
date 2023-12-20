@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vođinci",
+    "country": "HR",
+    "subdivision": "18",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.60972,
+      45.27556
+    ]
+  }
+}

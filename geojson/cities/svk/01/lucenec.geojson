@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lučenec",
+    "country": "SK",
+    "subdivision": "01",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.66708,
+      48.33249
+    ]
+  }
+}

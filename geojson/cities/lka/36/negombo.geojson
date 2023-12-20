@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Negombo",
+    "country": "LK",
+    "subdivision": "36",
+    "timezone": "Asia/Colombo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.8358,
+      7.2083
+    ]
+  }
+}

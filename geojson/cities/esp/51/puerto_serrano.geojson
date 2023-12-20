@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Serrano",
+    "country": "ES",
+    "subdivision": "51",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.54304,
+      36.92209
+    ]
+  }
+}

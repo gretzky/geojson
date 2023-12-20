@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Salaspils",
+    "country": "LV",
+    "subdivision": "C3",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.36544,
+      56.86014
+    ]
+  }
+}

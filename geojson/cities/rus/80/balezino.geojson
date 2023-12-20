@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Balezino",
+    "country": "RU",
+    "subdivision": "80",
+    "timezone": "Europe/Samara"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.0138,
+      57.9787
+    ]
+  }
+}

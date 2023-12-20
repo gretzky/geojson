@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rocky Point",
+    "country": "JM",
+    "subdivision": "01",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.26107,
+      17.774
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Urazovka",
+    "country": "RU",
+    "subdivision": "51",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.6186,
+      55.40126
+    ]
+  }
+}

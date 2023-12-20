@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Andau",
+    "country": "AT",
+    "subdivision": "01",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.03293,
+      47.77441
+    ]
+  }
+}

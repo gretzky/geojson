@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zamora",
+    "country": "HN",
+    "subdivision": "03",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.06667,
+      15.63333
+    ]
+  }
+}

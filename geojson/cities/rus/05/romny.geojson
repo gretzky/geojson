@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Romny",
+    "country": "RU",
+    "subdivision": "05",
+    "timezone": "Asia/Yakutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      129.29122,
+      50.7207
+    ]
+  }
+}

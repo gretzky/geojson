@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Türkeli",
+    "country": "TR",
+    "subdivision": "57",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.33861,
+      41.94764
+    ]
+  }
+}

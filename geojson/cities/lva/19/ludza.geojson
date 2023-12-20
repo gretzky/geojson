@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ludza",
+    "country": "LV",
+    "subdivision": "19",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.71891,
+      56.53958
+    ]
+  }
+}

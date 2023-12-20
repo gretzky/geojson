@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Erzincan",
+    "country": "TR",
+    "subdivision": "24",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.49015,
+      39.73919
+    ]
+  }
+}

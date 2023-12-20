@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porcupine",
+    "country": "US",
+    "subdivision": "SD",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.33099,
+      43.23971
+    ]
+  }
+}

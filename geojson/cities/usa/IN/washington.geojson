@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Washington",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Vincennes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.17279,
+      38.65922
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Polokwane",
+    "country": "ZA",
+    "subdivision": "09",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.46885,
+      -23.90449
+    ]
+  }
+}

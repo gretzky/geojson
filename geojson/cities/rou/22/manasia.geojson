@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Manasia",
+    "country": "RO",
+    "subdivision": "22",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.66667,
+      44.7
+    ]
+  }
+}

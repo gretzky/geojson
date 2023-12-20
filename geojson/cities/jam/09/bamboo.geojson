@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bamboo",
+    "country": "JM",
+    "subdivision": "09",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.26429,
+      18.39216
+    ]
+  }
+}

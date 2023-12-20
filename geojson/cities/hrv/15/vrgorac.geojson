@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vrgorac",
+    "country": "HR",
+    "subdivision": "15",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.37111,
+      43.20583
+    ]
+  }
+}

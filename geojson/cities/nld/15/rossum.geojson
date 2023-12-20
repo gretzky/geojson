@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rossum",
+    "country": "NL",
+    "subdivision": "15",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.92222,
+      52.35167
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ranchi",
+    "country": "IN",
+    "subdivision": "38",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3094,
+      23.34316
+    ]
+  }
+}

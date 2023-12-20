@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Paeroa",
+    "country": "NZ",
+    "subdivision": "G1",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      175.66667,
+      -37.36667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dalton Gardens",
+    "country": "US",
+    "subdivision": "ID",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.77019,
+      47.72963
+    ]
+  }
+}

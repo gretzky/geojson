@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kitahiroshima",
+    "country": "JP",
+    "subdivision": "12",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.56722,
+      42.97583
+    ]
+  }
+}

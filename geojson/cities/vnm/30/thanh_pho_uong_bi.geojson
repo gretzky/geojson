@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Thành Phố Uông Bí",
+    "country": "VN",
+    "subdivision": "30",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.77049,
+      21.03433
+    ]
+  }
+}

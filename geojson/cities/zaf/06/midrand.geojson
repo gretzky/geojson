@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Midrand",
+    "country": "ZA",
+    "subdivision": "06",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.12843,
+      -25.98953
+    ]
+  }
+}

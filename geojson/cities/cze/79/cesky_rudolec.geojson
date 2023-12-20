@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Český Rudolec",
+    "country": "CZ",
+    "subdivision": "79",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.32437,
+      49.06835
+    ]
+  }
+}

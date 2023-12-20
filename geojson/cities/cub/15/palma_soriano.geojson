@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palma Soriano",
+    "country": "CU",
+    "subdivision": "15",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.99362,
+      20.2113
+    ]
+  }
+}

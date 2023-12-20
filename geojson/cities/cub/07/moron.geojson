@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Morón",
+    "country": "CU",
+    "subdivision": "07",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.62667,
+      22.10774
+    ]
+  }
+}

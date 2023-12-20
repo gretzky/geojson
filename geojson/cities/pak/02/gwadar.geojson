@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gwadar",
+    "country": "PK",
+    "subdivision": "02",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      62.32541,
+      25.12163
+    ]
+  }
+}

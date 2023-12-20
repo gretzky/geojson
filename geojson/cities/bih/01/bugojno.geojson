@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bugojno",
+    "country": "BA",
+    "subdivision": "01",
+    "timezone": "Europe/Sarajevo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.45083,
+      44.05722
+    ]
+  }
+}

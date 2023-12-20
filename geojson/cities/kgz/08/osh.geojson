@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Osh",
+    "country": "KG",
+    "subdivision": "08",
+    "timezone": "Asia/Bishkek"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.7985,
+      40.52828
+    ]
+  }
+}

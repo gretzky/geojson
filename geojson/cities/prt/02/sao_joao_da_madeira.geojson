@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "São João da Madeira",
+    "country": "PT",
+    "subdivision": "02",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.4902,
+      40.9007
+    ]
+  }
+}

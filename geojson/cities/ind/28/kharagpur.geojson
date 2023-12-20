@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kharagpur",
+    "country": "IN",
+    "subdivision": "28",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.32501,
+      22.33971
+    ]
+  }
+}

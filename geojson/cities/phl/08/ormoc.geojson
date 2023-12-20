@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ormoc",
+    "country": "PH",
+    "subdivision": "08",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.6075,
+      11.00639
+    ]
+  }
+}

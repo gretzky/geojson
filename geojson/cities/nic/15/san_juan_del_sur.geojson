@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan del Sur",
+    "country": "NI",
+    "subdivision": "15",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.87049,
+      11.25292
+    ]
+  }
+}

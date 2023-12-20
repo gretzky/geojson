@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vila Real",
+    "country": "PT",
+    "subdivision": "21",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.74413,
+      41.30062
+    ]
+  }
+}

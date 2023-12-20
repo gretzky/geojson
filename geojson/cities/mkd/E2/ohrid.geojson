@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ohrid",
+    "country": "MK",
+    "subdivision": "E2",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.80194,
+      41.11722
+    ]
+  }
+}

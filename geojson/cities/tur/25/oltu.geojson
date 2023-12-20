@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oltu",
+    "country": "TR",
+    "subdivision": "25",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.98722,
+      40.53945
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dolores",
+    "country": "GT",
+    "subdivision": "12",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.41704,
+      16.51178
+    ]
+  }
+}

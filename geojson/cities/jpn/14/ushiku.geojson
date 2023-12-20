@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ushiku",
+    "country": "JP",
+    "subdivision": "14",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.13333,
+      35.96667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tsuen Wan",
+    "country": "HK",
+    "subdivision": "NTW",
+    "timezone": "Asia/Hong_Kong"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.11329,
+      22.37137
+    ]
+  }
+}

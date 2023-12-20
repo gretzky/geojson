@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Misawa",
+    "country": "JP",
+    "subdivision": "03",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.38969,
+      40.68682
+    ]
+  }
+}

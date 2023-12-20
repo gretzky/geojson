@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Uwajima",
+    "country": "JP",
+    "subdivision": "05",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      132.56001,
+      33.22375
+    ]
+  }
+}

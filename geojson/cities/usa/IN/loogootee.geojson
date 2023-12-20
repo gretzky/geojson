@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Loogootee",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Vincennes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.91417,
+      38.67699
+    ]
+  }
+}

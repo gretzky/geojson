@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Troncal",
+    "country": "EC",
+    "subdivision": "04",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.33977,
+      -2.42355
+    ]
+  }
+}

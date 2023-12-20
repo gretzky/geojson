@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Belfast",
+    "country": "CA",
+    "subdivision": "09",
+    "timezone": "America/Halifax"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -62.88197,
+      46.08341
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ulsteinvik weather pws station",
+    "country": "NO",
+    "subdivision": "08",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.84385,
+      62.34338
+    ]
+  }
+}

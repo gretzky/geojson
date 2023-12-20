@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vas’kovo",
+    "country": "RU",
+    "subdivision": "06",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.4639,
+      64.4122
+    ]
+  }
+}

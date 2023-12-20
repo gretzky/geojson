@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Road Town",
+    "country": "VG",
+    "subdivision": "00",
+    "timezone": "America/Tortola"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.62079,
+      18.42693
+    ]
+  }
+}

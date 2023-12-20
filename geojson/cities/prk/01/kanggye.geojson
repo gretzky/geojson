@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kanggye",
+    "country": "KP",
+    "subdivision": "01",
+    "timezone": "Asia/Pyongyang"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.58523,
+      40.96946
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hjallerup",
+    "country": "DK",
+    "subdivision": "19",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.14571,
+      57.16466
+    ]
+  }
+}

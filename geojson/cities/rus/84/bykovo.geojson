@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bykovo",
+    "country": "RU",
+    "subdivision": "84",
+    "timezone": "Europe/Volgograd"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.38866,
+      49.76618
+    ]
+  }
+}

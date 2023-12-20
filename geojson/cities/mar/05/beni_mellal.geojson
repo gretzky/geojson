@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beni Mellal",
+    "country": "MA",
+    "subdivision": "05",
+    "timezone": "Africa/Casablanca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.34983,
+      32.33725
+    ]
+  }
+}

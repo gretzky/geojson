@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "İskenderun",
+    "country": "TR",
+    "subdivision": "31",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.17347,
+      36.58718
+    ]
+  }
+}

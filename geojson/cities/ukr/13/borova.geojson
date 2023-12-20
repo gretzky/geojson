@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Borova",
+    "country": "UA",
+    "subdivision": "13",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.10429,
+      50.17625
+    ]
+  }
+}

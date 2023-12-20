@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zango",
+    "country": "NG",
+    "subdivision": "24",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.48574,
+      13.05313
+    ]
+  }
+}

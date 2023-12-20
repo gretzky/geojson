@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Uthai Thani",
+    "country": "TH",
+    "subdivision": "15",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.0245,
+      15.37939
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Montemurro",
+    "country": "IT",
+    "subdivision": "02",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.99182,
+      40.29765
+    ]
+  }
+}

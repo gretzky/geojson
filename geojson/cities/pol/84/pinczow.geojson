@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pińczów",
+    "country": "PL",
+    "subdivision": "84",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.52649,
+      50.52052
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yedisu",
+    "country": "TR",
+    "subdivision": "12",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.53368,
+      39.43277
+    ]
+  }
+}

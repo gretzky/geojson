@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Quetzal",
+    "country": "GT",
+    "subdivision": "17",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.81757,
+      14.76865
+    ]
+  }
+}

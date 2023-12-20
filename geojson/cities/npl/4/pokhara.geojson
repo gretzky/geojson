@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pokhara",
+    "country": "NP",
+    "subdivision": "4",
+    "timezone": "Asia/Kathmandu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.96851,
+      28.26689
+    ]
+  }
+}

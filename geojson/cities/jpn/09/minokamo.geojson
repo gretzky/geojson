@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Minokamo",
+    "country": "JP",
+    "subdivision": "09",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.02166,
+      35.48199
+    ]
+  }
+}

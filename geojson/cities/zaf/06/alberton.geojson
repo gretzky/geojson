@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alberton",
+    "country": "ZA",
+    "subdivision": "06",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.12225,
+      -26.26786
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kamiichi",
+    "country": "JP",
+    "subdivision": "42",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.36667,
+      36.7
+    ]
+  }
+}

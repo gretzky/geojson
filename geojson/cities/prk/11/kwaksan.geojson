@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kwaksan",
+    "country": "KP",
+    "subdivision": "11",
+    "timezone": "Asia/Pyongyang"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.08278,
+      39.6875
+    ]
+  }
+}

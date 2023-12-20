@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hägendorf",
+    "country": "CH",
+    "subdivision": "SO",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.84133,
+      47.33497
+    ]
+  }
+}

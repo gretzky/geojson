@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kumba",
+    "country": "CM",
+    "subdivision": "09",
+    "timezone": "Africa/Douala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4469,
+      4.6363
+    ]
+  }
+}

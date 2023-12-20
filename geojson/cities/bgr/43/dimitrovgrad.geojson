@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dimitrovgrad",
+    "country": "BG",
+    "subdivision": "43",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.6,
+      42.05
+    ]
+  }
+}

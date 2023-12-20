@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jászberény",
+    "country": "HU",
+    "subdivision": "20",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.91667,
+      47.5
+    ]
+  }
+}

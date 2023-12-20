@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Westerly",
+    "country": "US",
+    "subdivision": "RI",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.82729,
+      41.3776
+    ]
+  }
+}

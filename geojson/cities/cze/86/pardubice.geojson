@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pardubice",
+    "country": "CZ",
+    "subdivision": "86",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.77659,
+      50.04075
+    ]
+  }
+}

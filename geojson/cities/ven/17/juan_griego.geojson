@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Juan Griego",
+    "country": "VE",
+    "subdivision": "17",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.96549,
+      11.08172
+    ]
+  }
+}

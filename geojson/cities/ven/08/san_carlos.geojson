@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Carlos",
+    "country": "VE",
+    "subdivision": "08",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.58268,
+      9.66124
+    ]
+  }
+}

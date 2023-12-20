@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Izvor",
+    "country": "MK",
+    "subdivision": "59",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.57812,
+      42.20322
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Keningau",
+    "country": "MY",
+    "subdivision": "16",
+    "timezone": "Asia/Kuching"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.1602,
+      5.3378
+    ]
+  }
+}

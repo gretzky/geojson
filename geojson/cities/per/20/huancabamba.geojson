@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Huancabamba",
+    "country": "PE",
+    "subdivision": "20",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.45056,
+      -5.23861
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fort Liberté",
+    "country": "HT",
+    "subdivision": "10",
+    "timezone": "America/Port-au-Prince"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.83798,
+      19.66273
+    ]
+  }
+}

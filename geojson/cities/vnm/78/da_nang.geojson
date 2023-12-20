@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Da Nang",
+    "country": "VN",
+    "subdivision": "78",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      108.22083,
+      16.06778
+    ]
+  }
+}

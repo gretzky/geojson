@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hwado",
+    "country": "KR",
+    "subdivision": "13",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.3075,
+      37.6525
+    ]
+  }
+}

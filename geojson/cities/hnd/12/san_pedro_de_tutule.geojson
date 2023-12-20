@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pedro de Tutule",
+    "country": "HN",
+    "subdivision": "12",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.85,
+      14.25
+    ]
+  }
+}

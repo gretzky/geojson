@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moshi",
+    "country": "TZ",
+    "subdivision": "06",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.33333,
+      -3.35
+    ]
+  }
+}

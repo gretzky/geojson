@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Señor",
+    "country": "MX",
+    "subdivision": "23",
+    "timezone": "America/Cancun"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.13524,
+      19.84424
+    ]
+  }
+}

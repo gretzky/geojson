@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Votkinsk",
+    "country": "RU",
+    "subdivision": "80",
+    "timezone": "Europe/Samara"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.98717,
+      57.04865
+    ]
+  }
+}

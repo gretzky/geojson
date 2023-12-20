@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Løten",
+    "country": "NO",
+    "subdivision": "34",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.34209,
+      60.81941
+    ]
+  }
+}

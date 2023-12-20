@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bărăganul",
+    "country": "RO",
+    "subdivision": "08",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.51667,
+      44.8
+    ]
+  }
+}

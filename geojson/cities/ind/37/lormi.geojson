@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lormi",
+    "country": "IN",
+    "subdivision": "37",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.70181,
+      22.27434
+    ]
+  }
+}

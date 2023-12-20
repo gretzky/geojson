@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Daokou",
+    "country": "CN",
+    "subdivision": "09",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.50583,
+      35.56389
+    ]
+  }
+}

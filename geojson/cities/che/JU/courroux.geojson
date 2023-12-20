@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Courroux",
+    "country": "CH",
+    "subdivision": "JU",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.37371,
+      47.36069
+    ]
+  }
+}

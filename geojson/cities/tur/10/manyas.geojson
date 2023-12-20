@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Manyas",
+    "country": "TR",
+    "subdivision": "10",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.97,
+      40.04639
+    ]
+  }
+}

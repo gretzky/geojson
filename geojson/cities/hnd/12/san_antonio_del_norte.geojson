@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Antonio del Norte",
+    "country": "HN",
+    "subdivision": "12",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.70306,
+      13.88444
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gotenba",
+    "country": "JP",
+    "subdivision": "37",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.94343,
+      35.31859
+    ]
+  }
+}

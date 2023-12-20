@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Corcova",
+    "country": "RO",
+    "subdivision": "26",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.05,
+      44.7
+    ]
+  }
+}

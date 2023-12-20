@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Uvita",
+    "country": "CO",
+    "subdivision": "36",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.56281,
+      6.32064
+    ]
+  }
+}

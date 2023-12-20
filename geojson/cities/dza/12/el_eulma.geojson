@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Eulma",
+    "country": "DZ",
+    "subdivision": "12",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.69016,
+      36.15281
+    ]
+  }
+}

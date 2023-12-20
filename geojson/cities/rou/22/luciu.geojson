@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Luciu",
+    "country": "RO",
+    "subdivision": "22",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.7276,
+      44.74722
+    ]
+  }
+}

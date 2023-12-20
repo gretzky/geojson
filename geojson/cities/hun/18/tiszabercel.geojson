@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tiszabercel",
+    "country": "HU",
+    "subdivision": "18",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.65,
+      48.15
+    ]
+  }
+}

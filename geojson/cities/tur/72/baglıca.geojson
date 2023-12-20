@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bağlıca",
+    "country": "TR",
+    "subdivision": "72",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.68618,
+      37.52705
+    ]
+  }
+}

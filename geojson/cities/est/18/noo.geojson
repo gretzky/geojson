@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nõo",
+    "country": "EE",
+    "subdivision": "18",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.5375,
+      58.27556
+    ]
+  }
+}

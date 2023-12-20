@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Regla",
+    "country": "CU",
+    "subdivision": "02",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.33194,
+      23.125
+    ]
+  }
+}

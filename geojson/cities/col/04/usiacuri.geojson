@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Usiacurí",
+    "country": "CO",
+    "subdivision": "04",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.97604,
+      10.74313
+    ]
+  }
+}

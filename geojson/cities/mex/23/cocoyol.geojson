@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cocoyol",
+    "country": "MX",
+    "subdivision": "23",
+    "timezone": "America/Cancun"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.6908,
+      18.16448
+    ]
+  }
+}

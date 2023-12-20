@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ubon Ratchathani",
+    "country": "TH",
+    "subdivision": "75",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.84866,
+      15.23844
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kingstown",
+    "country": "VC",
+    "subdivision": "04",
+    "timezone": "America/St_Vincent"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.22742,
+      13.15527
+    ]
+  }
+}

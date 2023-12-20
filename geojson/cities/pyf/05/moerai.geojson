@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moerai",
+    "country": "PF",
+    "subdivision": "05",
+    "timezone": "Pacific/Tahiti"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.34191,
+      -22.45133
+    ]
+  }
+}

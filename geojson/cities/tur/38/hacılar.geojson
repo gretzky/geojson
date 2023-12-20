@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hacılar",
+    "country": "TR",
+    "subdivision": "38",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.44937,
+      38.64631
+    ]
+  }
+}

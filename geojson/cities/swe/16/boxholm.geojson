@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boxholm",
+    "country": "SE",
+    "subdivision": "16",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.05376,
+      58.19719
+    ]
+  }
+}

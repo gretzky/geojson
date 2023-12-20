@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jining",
+    "country": "CN",
+    "subdivision": "20",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.10583,
+      41.0275
+    ]
+  }
+}

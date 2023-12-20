@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Marand",
+    "country": "IR",
+    "subdivision": "33",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.7749,
+      38.4329
+    ]
+  }
+}

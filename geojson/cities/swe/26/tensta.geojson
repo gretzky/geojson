@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tensta",
+    "country": "SE",
+    "subdivision": "26",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.90111,
+      59.3939
+    ]
+  }
+}

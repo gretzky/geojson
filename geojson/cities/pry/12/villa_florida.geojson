@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Florida",
+    "country": "PY",
+    "subdivision": "12",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.12104,
+      -26.41065
+    ]
+  }
+}

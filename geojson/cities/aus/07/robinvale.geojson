@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Robinvale",
+    "country": "AU",
+    "subdivision": "07",
+    "timezone": "Australia/Sydney"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      142.77228,
+      -34.58356
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yotoco",
+    "country": "CO",
+    "subdivision": "29",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.38364,
+      3.86048
+    ]
+  }
+}

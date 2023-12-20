@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Samsat",
+    "country": "TR",
+    "subdivision": "02",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.47417,
+      37.58194
+    ]
+  }
+}

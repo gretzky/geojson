@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Solna",
+    "country": "SE",
+    "subdivision": "26",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.00086,
+      59.36004
+    ]
+  }
+}

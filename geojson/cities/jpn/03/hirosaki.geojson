@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hirosaki",
+    "country": "JP",
+    "subdivision": "03",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.4725,
+      40.59306
+    ]
+  }
+}

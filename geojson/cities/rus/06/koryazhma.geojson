@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Koryazhma",
+    "country": "RU",
+    "subdivision": "06",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.16914,
+      61.31433
+    ]
+  }
+}

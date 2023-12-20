@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jiaozuo",
+    "country": "CN",
+    "subdivision": "09",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.23306,
+      35.23972
+    ]
+  }
+}

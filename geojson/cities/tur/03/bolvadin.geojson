@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bolvadin",
+    "country": "TR",
+    "subdivision": "03",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.04861,
+      38.71111
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nan",
+    "country": "TH",
+    "subdivision": "04",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.77899,
+      18.78378
+    ]
+  }
+}

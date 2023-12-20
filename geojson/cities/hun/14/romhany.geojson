@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Romhány",
+    "country": "HU",
+    "subdivision": "14",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.25723,
+      47.92618
+    ]
+  }
+}

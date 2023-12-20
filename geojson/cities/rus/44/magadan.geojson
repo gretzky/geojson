@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Magadan",
+    "country": "RU",
+    "subdivision": "44",
+    "timezone": "Asia/Magadan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      150.80347,
+      59.5638
+    ]
+  }
+}

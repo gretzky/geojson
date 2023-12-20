@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ørnes",
+    "country": "NO",
+    "subdivision": "09",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.70579,
+      66.86878
+    ]
+  }
+}

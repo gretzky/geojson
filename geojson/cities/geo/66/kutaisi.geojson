@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kutaisi",
+    "country": "GE",
+    "subdivision": "66",
+    "timezone": "Asia/Tbilisi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.69459,
+      42.26791
+    ]
+  }
+}

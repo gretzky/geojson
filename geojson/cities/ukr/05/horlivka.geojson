@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Horlivka",
+    "country": "UA",
+    "subdivision": "05",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.05325,
+      48.33576
+    ]
+  }
+}

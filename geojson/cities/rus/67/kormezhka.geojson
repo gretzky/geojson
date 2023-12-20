@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kormëzhka",
+    "country": "RU",
+    "subdivision": "67",
+    "timezone": "Europe/Saratov"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.0163,
+      51.9005
+    ]
+  }
+}

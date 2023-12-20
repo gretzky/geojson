@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lapseki",
+    "country": "TR",
+    "subdivision": "17",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.68556,
+      40.34417
+    ]
+  }
+}

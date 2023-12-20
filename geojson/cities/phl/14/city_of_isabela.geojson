@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "City of Isabela",
+    "country": "PH",
+    "subdivision": "14",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.97117,
+      6.70407
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Huruta",
+    "country": "ET",
+    "subdivision": "51",
+    "timezone": "Africa/Addis_Ababa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.35,
+      8.15
+    ]
+  }
+}

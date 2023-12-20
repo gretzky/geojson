@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Campana",
+    "country": "AR",
+    "subdivision": "01",
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.95919,
+      -34.16327
+    ]
+  }
+}

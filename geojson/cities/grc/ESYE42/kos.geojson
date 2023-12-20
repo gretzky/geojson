@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kos",
+    "country": "GR",
+    "subdivision": "ESYE42",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.28768,
+      36.89295
+    ]
+  }
+}

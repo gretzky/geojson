@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gombe",
+    "country": "NG",
+    "subdivision": "55",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.16729,
+      10.28969
+    ]
+  }
+}

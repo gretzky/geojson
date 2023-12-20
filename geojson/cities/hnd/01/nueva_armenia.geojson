@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nueva Armenia",
+    "country": "HN",
+    "subdivision": "01",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.49845,
+      15.79556
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Naha",
+    "country": "JP",
+    "subdivision": "47",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.68333,
+      26.21667
+    ]
+  }
+}

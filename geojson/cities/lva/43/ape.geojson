@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ape",
+    "country": "LV",
+    "subdivision": "43",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.69291,
+      57.53928
+    ]
+  }
+}

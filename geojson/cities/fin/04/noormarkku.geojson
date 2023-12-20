@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Noormarkku",
+    "country": "FI",
+    "subdivision": "04",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.86846,
+      61.59274
+    ]
+  }
+}

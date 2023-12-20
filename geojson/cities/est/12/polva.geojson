@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Põlva",
+    "country": "EE",
+    "subdivision": "12",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.06944,
+      58.06028
+    ]
+  }
+}

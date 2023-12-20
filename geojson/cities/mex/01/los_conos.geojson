@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Conos",
+    "country": "MX",
+    "subdivision": "01",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -101.99487,
+      21.89739
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Miletino",
+    "country": "MK",
+    "subdivision": "12",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.01601,
+      41.90753
+    ]
+  }
+}

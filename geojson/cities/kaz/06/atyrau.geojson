@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Atyrau",
+    "country": "KZ",
+    "subdivision": "06",
+    "timezone": "Asia/Atyrau"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.88333,
+      47.11667
+    ]
+  }
+}

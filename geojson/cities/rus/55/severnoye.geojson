@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Severnoye",
+    "country": "RU",
+    "subdivision": "55",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.54393,
+      54.09347
+    ]
+  }
+}

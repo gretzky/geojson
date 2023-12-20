@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Rafael",
+    "country": "AR",
+    "subdivision": "13",
+    "timezone": "America/Argentina/Mendoza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.33007,
+      -34.61772
+    ]
+  }
+}

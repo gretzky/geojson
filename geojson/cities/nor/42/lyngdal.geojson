@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lyngdal",
+    "country": "NO",
+    "subdivision": "42",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.07002,
+      58.1376
+    ]
+  }
+}

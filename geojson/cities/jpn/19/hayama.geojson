@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hayama",
+    "country": "JP",
+    "subdivision": "19",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.57733,
+      35.27651
+    ]
+  }
+}

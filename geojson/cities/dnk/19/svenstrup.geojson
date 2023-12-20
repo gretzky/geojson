@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Svenstrup",
+    "country": "DK",
+    "subdivision": "19",
+    "timezone": "Europe/Copenhagen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.84806,
+      56.9723
+    ]
+  }
+}

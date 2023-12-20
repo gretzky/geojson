@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ketchikan",
+    "country": "US",
+    "subdivision": "AK",
+    "timezone": "America/Sitka"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -131.64757,
+      55.3418
+    ]
+  }
+}

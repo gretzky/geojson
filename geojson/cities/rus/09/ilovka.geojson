@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ilovka",
+    "country": "RU",
+    "subdivision": "09",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.6373,
+      50.7053
+    ]
+  }
+}

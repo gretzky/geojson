@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Harrisville",
+    "country": "US",
+    "subdivision": "RI",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.67451,
+      41.96565
+    ]
+  }
+}

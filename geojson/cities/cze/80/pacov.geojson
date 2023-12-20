@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pacov",
+    "country": "CZ",
+    "subdivision": "80",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.00168,
+      49.47076
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taiyuan",
+    "country": "CN",
+    "subdivision": "24",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.56028,
+      37.86944
+    ]
+  }
+}

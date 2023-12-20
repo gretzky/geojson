@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bartoszyce",
+    "country": "PL",
+    "subdivision": "85",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.80819,
+      54.25354
+    ]
+  }
+}

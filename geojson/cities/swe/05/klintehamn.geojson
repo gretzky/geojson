@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Klintehamn",
+    "country": "SE",
+    "subdivision": "05",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.20371,
+      57.38667
+    ]
+  }
+}

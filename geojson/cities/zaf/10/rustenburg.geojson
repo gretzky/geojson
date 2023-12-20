@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rustenburg",
+    "country": "ZA",
+    "subdivision": "10",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.24208,
+      -25.66756
+    ]
+  }
+}

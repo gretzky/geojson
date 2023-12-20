@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kakuda",
+    "country": "JP",
+    "subdivision": "24",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.77202,
+      37.97451
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Kala",
+    "country": "DZ",
+    "subdivision": "44",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.44333,
+      36.89556
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Imatra",
+    "country": "FI",
+    "subdivision": "09",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.75242,
+      61.17185
+    ]
+  }
+}

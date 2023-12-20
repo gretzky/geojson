@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad de Villa de Álvarez",
+    "country": "MX",
+    "subdivision": "08",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.73778,
+      19.26722
+    ]
+  }
+}

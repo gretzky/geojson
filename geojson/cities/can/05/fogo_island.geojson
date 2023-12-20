@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fogo Island",
+    "country": "CA",
+    "subdivision": "05",
+    "timezone": "America/St_Johns"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.16981,
+      49.71649
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Burdur",
+    "country": "TR",
+    "subdivision": "15",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.29083,
+      37.72028
+    ]
+  }
+}

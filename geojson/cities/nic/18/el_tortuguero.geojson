@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Tortuguero",
+    "country": "NI",
+    "subdivision": "18",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.19629,
+      12.82247
+    ]
+  }
+}

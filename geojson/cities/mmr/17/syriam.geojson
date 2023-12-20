@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Syriam",
+    "country": "MM",
+    "subdivision": "17",
+    "timezone": "Asia/Yangon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      96.24503,
+      16.76887
+    ]
+  }
+}

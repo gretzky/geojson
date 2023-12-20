@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Olenino",
+    "country": "RU",
+    "subdivision": "77",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.48888,
+      56.20917
+    ]
+  }
+}

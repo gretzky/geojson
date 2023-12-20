@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pasaco",
+    "country": "GT",
+    "subdivision": "11",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.20639,
+      13.97722
+    ]
+  }
+}

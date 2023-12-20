@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Castranova",
+    "country": "RO",
+    "subdivision": "17",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.01667,
+      44.11667
+    ]
+  }
+}

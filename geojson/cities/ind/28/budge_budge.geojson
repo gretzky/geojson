@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Budge Budge",
+    "country": "IN",
+    "subdivision": "28",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      88.18176,
+      22.48275
+    ]
+  }
+}

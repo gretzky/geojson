@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Olivar",
+    "country": "HN",
+    "subdivision": "06",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.88333,
+      15.08333
+    ]
+  }
+}

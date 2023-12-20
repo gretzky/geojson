@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zushi",
+    "country": "JP",
+    "subdivision": "19",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.57812,
+      35.29483
+    ]
+  }
+}

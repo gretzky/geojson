@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bahau",
+    "country": "MY",
+    "subdivision": "05",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.4049,
+      2.8079
+    ]
+  }
+}

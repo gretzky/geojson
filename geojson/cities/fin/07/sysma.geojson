@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sysmä",
+    "country": "FI",
+    "subdivision": "07",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.68333,
+      61.5
+    ]
+  }
+}

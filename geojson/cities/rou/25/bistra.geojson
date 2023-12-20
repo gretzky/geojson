@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bistra",
+    "country": "RO",
+    "subdivision": "25",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.2,
+      47.86667
+    ]
+  }
+}

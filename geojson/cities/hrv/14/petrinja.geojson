@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Petrinja",
+    "country": "HR",
+    "subdivision": "14",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.29,
+      45.4375
+    ]
+  }
+}

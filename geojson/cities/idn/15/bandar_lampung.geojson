@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bandar Lampung",
+    "country": "ID",
+    "subdivision": "15",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      105.26111,
+      -5.42917
+    ]
+  }
+}

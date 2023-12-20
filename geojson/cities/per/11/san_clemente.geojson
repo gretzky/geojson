@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Clemente",
+    "country": "PE",
+    "subdivision": "11",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.15,
+      -13.66667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Buenos Aires",
+    "country": "AR",
+    "subdivision": "07",
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.37723,
+      -34.61315
+    ]
+  }
+}

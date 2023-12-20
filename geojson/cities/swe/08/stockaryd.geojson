@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stockaryd",
+    "country": "SE",
+    "subdivision": "08",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.59341,
+      57.31737
+    ]
+  }
+}

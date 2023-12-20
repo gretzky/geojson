@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alhambra",
+    "country": "ES",
+    "subdivision": "54",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.05333,
+      38.89925
+    ]
+  }
+}

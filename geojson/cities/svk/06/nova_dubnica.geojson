@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nová Dubnica",
+    "country": "SK",
+    "subdivision": "06",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.14632,
+      48.93479
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bristol",
+    "country": "US",
+    "subdivision": "RI",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.26616,
+      41.67705
+    ]
+  }
+}

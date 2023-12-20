@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porto Covo",
+    "country": "PT",
+    "subdivision": "19",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.79018,
+      37.85256
+    ]
+  }
+}

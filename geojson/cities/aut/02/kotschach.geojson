@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kötschach",
+    "country": "AT",
+    "subdivision": "02",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.00694,
+      46.68167
+    ]
+  }
+}

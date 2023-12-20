@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pastos",
+    "country": "PR",
+    "subdivision": "009",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.25878,
+      18.11774
+    ]
+  }
+}

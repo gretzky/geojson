@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coatepeque",
+    "country": "SV",
+    "subdivision": "11",
+    "timezone": "America/El_Salvador"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.50417,
+      13.92861
+    ]
+  }
+}

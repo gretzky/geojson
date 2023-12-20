@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cáchira",
+    "country": "CO",
+    "subdivision": "21",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.0483,
+      7.74104
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Padra",
+    "country": "IN",
+    "subdivision": "09",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.08451,
+      22.2398
+    ]
+  }
+}

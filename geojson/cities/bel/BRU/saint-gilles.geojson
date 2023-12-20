@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saint-Gilles",
+    "country": "BE",
+    "subdivision": "BRU",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.34389,
+      50.82763
+    ]
+  }
+}

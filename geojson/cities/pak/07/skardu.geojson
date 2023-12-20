@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Skardu",
+    "country": "PK",
+    "subdivision": "07",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.63372,
+      35.29787
+    ]
+  }
+}

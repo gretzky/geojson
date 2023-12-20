@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Malu Roșu",
+    "country": "RO",
+    "subdivision": "22",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.57945,
+      44.78088
+    ]
+  }
+}

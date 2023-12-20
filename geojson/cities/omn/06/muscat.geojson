@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Muscat",
+    "country": "OM",
+    "subdivision": "06",
+    "timezone": "Asia/Muscat"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      58.40778,
+      23.58413
+    ]
+  }
+}

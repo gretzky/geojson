@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Say",
+    "country": "NE",
+    "subdivision": "09",
+    "timezone": "Africa/Niamey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3689,
+      13.1007
+    ]
+  }
+}

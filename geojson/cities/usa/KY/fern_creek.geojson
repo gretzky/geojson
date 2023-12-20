@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fern Creek",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/Kentucky/Louisville"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.58774,
+      38.15979
+    ]
+  }
+}

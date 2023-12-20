@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Owase",
+    "country": "JP",
+    "subdivision": "23",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.2,
+      34.06667
+    ]
+  }
+}

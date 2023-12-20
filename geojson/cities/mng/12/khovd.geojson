@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Khovd",
+    "country": "MN",
+    "subdivision": "12",
+    "timezone": "Asia/Hovd"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      91.64194,
+      48.00556
+    ]
+  }
+}

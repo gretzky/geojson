@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Fortuna",
+    "country": "CR",
+    "subdivision": "01",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.64535,
+      10.47089
+    ]
+  }
+}

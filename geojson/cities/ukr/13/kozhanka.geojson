@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kozhanka",
+    "country": "UA",
+    "subdivision": "13",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.76424,
+      49.97231
+    ]
+  }
+}

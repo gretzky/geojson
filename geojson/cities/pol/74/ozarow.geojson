@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ożarów",
+    "country": "PL",
+    "subdivision": "74",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5111,
+      51.14489
+    ]
+  }
+}

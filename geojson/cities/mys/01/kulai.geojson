@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kulai",
+    "country": "MY",
+    "subdivision": "01",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.6032,
+      1.6561
+    ]
+  }
+}

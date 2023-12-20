@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Varzy",
+    "country": "FR",
+    "subdivision": "27",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.38619,
+      47.3581
+    ]
+  }
+}

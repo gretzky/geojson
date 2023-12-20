@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Björklinge",
+    "country": "SE",
+    "subdivision": "21",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.55203,
+      60.03004
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kurchatov",
+    "country": "RU",
+    "subdivision": "41",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.6521,
+      51.6601
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Waitara",
+    "country": "NZ",
+    "subdivision": "F9",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.23836,
+      -39.00158
+    ]
+  }
+}

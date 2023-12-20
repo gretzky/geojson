@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Siparia",
+    "country": "TT",
+    "subdivision": "SIP",
+    "timezone": "America/Port_of_Spain"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.5074,
+      10.14525
+    ]
+  }
+}

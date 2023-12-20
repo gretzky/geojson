@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Esteban",
+    "country": "HN",
+    "subdivision": "15",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.76996,
+      15.21231
+    ]
+  }
+}

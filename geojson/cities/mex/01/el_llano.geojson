@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Llano",
+    "country": "MX",
+    "subdivision": "01",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.32278,
+      21.94389
+    ]
+  }
+}

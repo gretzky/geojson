@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cyangugu",
+    "country": "RW",
+    "subdivision": "14",
+    "timezone": "Africa/Kigali"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.9075,
+      -2.4846
+    ]
+  }
+}

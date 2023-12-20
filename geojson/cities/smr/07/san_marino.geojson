@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Marino",
+    "country": "SM",
+    "subdivision": "07",
+    "timezone": "Europe/San_Marino"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.44639,
+      43.93667
+    ]
+  }
+}

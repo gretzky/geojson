@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lanškroun",
+    "country": "CZ",
+    "subdivision": "86",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.6119,
+      49.91217
+    ]
+  }
+}

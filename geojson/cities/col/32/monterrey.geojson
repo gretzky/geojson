@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monterrey",
+    "country": "CO",
+    "subdivision": "32",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.89575,
+      4.87802
+    ]
+  }
+}

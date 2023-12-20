@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gilgit",
+    "country": "PK",
+    "subdivision": "07",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.31245,
+      35.91869
+    ]
+  }
+}

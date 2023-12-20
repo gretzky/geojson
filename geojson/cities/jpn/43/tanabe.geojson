@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tanabe",
+    "country": "JP",
+    "subdivision": "43",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.36667,
+      33.73333
+    ]
+  }
+}

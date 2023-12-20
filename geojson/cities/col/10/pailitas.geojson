@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pailitas",
+    "country": "CO",
+    "subdivision": "10",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.62548,
+      8.95652
+    ]
+  }
+}

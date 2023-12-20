@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nové Sedlo",
+    "country": "CZ",
+    "subdivision": "81",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.738,
+      50.20647
+    ]
+  }
+}

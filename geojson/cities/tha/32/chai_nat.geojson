@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chai Nat",
+    "country": "TH",
+    "subdivision": "32",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.12353,
+      15.18636
+    ]
+  }
+}

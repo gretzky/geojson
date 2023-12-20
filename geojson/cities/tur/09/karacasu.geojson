@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karacasu",
+    "country": "TR",
+    "subdivision": "09",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.60569,
+      37.72816
+    ]
+  }
+}

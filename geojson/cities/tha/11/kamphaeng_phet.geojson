@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kamphaeng Phet",
+    "country": "TH",
+    "subdivision": "11",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.52153,
+      16.48344
+    ]
+  }
+}

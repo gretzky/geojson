@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Orito",
+    "country": "CO",
+    "subdivision": "22",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.87297,
+      0.66749
+    ]
+  }
+}

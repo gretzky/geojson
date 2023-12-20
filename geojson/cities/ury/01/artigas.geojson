@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Artigas",
+    "country": "UY",
+    "subdivision": "01",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.46667,
+      -30.4
+    ]
+  }
+}

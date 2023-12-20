@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vabalninkas",
+    "country": "LT",
+    "subdivision": "60",
+    "timezone": "Europe/Vilnius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.74828,
+      55.98151
+    ]
+  }
+}

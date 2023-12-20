@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Marabá",
+    "country": "BR",
+    "subdivision": "16",
+    "timezone": "America/Belem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -49.13232,
+      -5.38146
+    ]
+  }
+}

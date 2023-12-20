@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Banjarmasin",
+    "country": "ID",
+    "subdivision": "12",
+    "timezone": "Asia/Makassar"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.59075,
+      -3.31987
+    ]
+  }
+}

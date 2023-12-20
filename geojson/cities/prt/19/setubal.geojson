@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Setúbal",
+    "country": "PT",
+    "subdivision": "19",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.8882,
+      38.5244
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stockvik",
+    "country": "SE",
+    "subdivision": "24",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.36583,
+      62.33667
+    ]
+  }
+}

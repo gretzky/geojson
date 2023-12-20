@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kumysh",
+    "country": "RU",
+    "subdivision": "27",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.89323,
+      43.88334
+    ]
+  }
+}

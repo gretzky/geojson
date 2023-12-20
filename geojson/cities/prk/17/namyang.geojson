@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Namyang",
+    "country": "KP",
+    "subdivision": "17",
+    "timezone": "Asia/Pyongyang"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      129.85894,
+      42.95105
+    ]
+  }
+}

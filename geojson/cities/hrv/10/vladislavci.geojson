@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vladislavci",
+    "country": "HR",
+    "subdivision": "10",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.57417,
+      45.45944
+    ]
+  }
+}

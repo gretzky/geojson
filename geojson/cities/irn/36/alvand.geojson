@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alvand",
+    "country": "IR",
+    "subdivision": "36",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.16773,
+      36.31885
+    ]
+  }
+}

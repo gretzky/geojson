@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bulancak",
+    "country": "TR",
+    "subdivision": "28",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.23148,
+      40.93805
+    ]
+  }
+}

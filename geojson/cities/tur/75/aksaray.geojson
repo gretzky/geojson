@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aksaray",
+    "country": "TR",
+    "subdivision": "75",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.02537,
+      38.37255
+    ]
+  }
+}

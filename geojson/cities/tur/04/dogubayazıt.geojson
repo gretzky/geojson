@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Doğubayazıt",
+    "country": "TR",
+    "subdivision": "04",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.08417,
+      39.54694
+    ]
+  }
+}

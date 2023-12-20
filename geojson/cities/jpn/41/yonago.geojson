@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yonago",
+    "country": "JP",
+    "subdivision": "41",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      133.33333,
+      35.43333
+    ]
+  }
+}

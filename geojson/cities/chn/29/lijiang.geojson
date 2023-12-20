@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lijiang",
+    "country": "CN",
+    "subdivision": "29",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.22072,
+      26.86879
+    ]
+  }
+}

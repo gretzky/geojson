@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Lugano",
+    "country": "AR",
+    "subdivision": "07",
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.47263,
+      -34.67907
+    ]
+  }
+}

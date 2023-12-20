@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arashiyama",
+    "country": "JP",
+    "subdivision": "22",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.67755,
+      35.01481
+    ]
+  }
+}

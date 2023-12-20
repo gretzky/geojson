@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mwaya",
+    "country": "TZ",
+    "subdivision": "09",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.95,
+      -9.55
+    ]
+  }
+}

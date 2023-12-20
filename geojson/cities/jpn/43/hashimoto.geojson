@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hashimoto",
+    "country": "JP",
+    "subdivision": "43",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.61667,
+      34.31667
+    ]
+  }
+}

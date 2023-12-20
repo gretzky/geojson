@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boa Vista",
+    "country": "BR",
+    "subdivision": "25",
+    "timezone": "America/Boa_Vista"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.67333,
+      2.81972
+    ]
+  }
+}

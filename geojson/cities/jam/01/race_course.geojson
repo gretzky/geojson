@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Race Course",
+    "country": "JM",
+    "subdivision": "01",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.28223,
+      17.84019
+    ]
+  }
+}

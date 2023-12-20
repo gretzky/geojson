@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pelayo",
+    "country": "CO",
+    "subdivision": "12",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.83627,
+      8.95833
+    ]
+  }
+}

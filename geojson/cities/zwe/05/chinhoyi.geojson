@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chinhoyi",
+    "country": "ZW",
+    "subdivision": "05",
+    "timezone": "Africa/Harare"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.2,
+      -17.36667
+    ]
+  }
+}

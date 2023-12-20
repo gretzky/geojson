@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santiago de Cuba",
+    "country": "CU",
+    "subdivision": "15",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.82667,
+      20.02083
+    ]
+  }
+}

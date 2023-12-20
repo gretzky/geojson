@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arthur’s Town",
+    "country": "BS",
+    "subdivision": "06",
+    "timezone": "America/Nassau"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.67151,
+      24.6224
+    ]
+  }
+}

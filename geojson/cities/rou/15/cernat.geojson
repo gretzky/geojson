@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cernat",
+    "country": "RO",
+    "subdivision": "15",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.03333,
+      45.95
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Valdivia",
+    "country": "CL",
+    "subdivision": "17",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.24589,
+      -39.81422
+    ]
+  }
+}

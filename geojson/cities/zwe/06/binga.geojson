@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Binga",
+    "country": "ZW",
+    "subdivision": "06",
+    "timezone": "Africa/Harare"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.34139,
+      -17.62027
+    ]
+  }
+}

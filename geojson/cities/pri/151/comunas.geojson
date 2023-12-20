@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Comunas",
+    "country": "PR",
+    "subdivision": "151",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.84377,
+      18.08719
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San José de Comayagua",
+    "country": "HN",
+    "subdivision": "04",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.03333,
+      14.73333
+    ]
+  }
+}

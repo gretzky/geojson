@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ibarra",
+    "country": "EC",
+    "subdivision": "11",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.12233,
+      0.35171
+    ]
+  }
+}

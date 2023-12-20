@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ponoarele",
+    "country": "RO",
+    "subdivision": "26",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.76444,
+      44.97389
+    ]
+  }
+}

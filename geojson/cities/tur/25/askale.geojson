@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aşkale",
+    "country": "TR",
+    "subdivision": "25",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.695,
+      39.92083
+    ]
+  }
+}

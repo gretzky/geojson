@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bang Ban",
+    "country": "TH",
+    "subdivision": "36",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.48528,
+      14.37395
+    ]
+  }
+}

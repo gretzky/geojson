@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ortona",
+    "country": "IT",
+    "subdivision": "01",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.40342,
+      42.35087
+    ]
+  }
+}

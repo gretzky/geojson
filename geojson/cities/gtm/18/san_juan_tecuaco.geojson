@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan Tecuaco",
+    "country": "GT",
+    "subdivision": "18",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.26649,
+      14.08361
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Samokov",
+    "country": "MK",
+    "subdivision": "D8",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.14625,
+      41.68331
+    ]
+  }
+}

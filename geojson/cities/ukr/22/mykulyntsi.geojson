@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mykulyntsi",
+    "country": "UA",
+    "subdivision": "22",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.60685,
+      49.39187
+    ]
+  }
+}

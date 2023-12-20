@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bochum",
+    "country": "ZA",
+    "subdivision": "09",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.13964,
+      -23.28609
+    ]
+  }
+}

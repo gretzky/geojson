@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ballyshannon",
+    "country": "IE",
+    "subdivision": "U",
+    "timezone": "Europe/Dublin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.18333,
+      54.5
+    ]
+  }
+}

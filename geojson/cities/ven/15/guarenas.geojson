@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guarenas",
+    "country": "VE",
+    "subdivision": "15",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.61934,
+      10.47027
+    ]
+  }
+}

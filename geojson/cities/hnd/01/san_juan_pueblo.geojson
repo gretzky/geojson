@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan Pueblo",
+    "country": "HN",
+    "subdivision": "01",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.23333,
+      15.58333
+    ]
+  }
+}

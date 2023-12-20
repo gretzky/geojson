@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rezh",
+    "country": "RU",
+    "subdivision": "71",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      61.40428,
+      57.37005
+    ]
+  }
+}

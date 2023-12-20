@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Urman",
+    "country": "RU",
+    "subdivision": "08",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      56.87417,
+      54.88314
+    ]
+  }
+}

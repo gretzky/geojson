@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mendoza",
+    "country": "AR",
+    "subdivision": "13",
+    "timezone": "America/Argentina/Mendoza"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.82717,
+      -32.89084
+    ]
+  }
+}

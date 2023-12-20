@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yasnyy",
+    "country": "RU",
+    "subdivision": "55",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      59.8742,
+      51.0333
+    ]
+  }
+}

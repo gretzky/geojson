@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hojancha",
+    "country": "CR",
+    "subdivision": "03",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.41803,
+      10.0579
+    ]
+  }
+}

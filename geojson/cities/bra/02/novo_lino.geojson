@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novo Lino",
+    "country": "BR",
+    "subdivision": "02",
+    "timezone": "America/Maceio"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -35.64667,
+      -8.915
+    ]
+  }
+}

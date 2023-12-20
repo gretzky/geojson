@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Corabia",
+    "country": "RO",
+    "subdivision": "29",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.50146,
+      43.77513
+    ]
+  }
+}

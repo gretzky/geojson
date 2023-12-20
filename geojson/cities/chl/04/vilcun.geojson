@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vilcún",
+    "country": "CL",
+    "subdivision": "04",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.22565,
+      -38.66875
+    ]
+  }
+}

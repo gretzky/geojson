@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ormara",
+    "country": "PK",
+    "subdivision": "02",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      64.63626,
+      25.21018
+    ]
+  }
+}

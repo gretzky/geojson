@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tilişca",
+    "country": "RO",
+    "subdivision": "33",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.85,
+      45.8
+    ]
+  }
+}

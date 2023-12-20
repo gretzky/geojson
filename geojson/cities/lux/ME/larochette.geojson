@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Larochette",
+    "country": "LU",
+    "subdivision": "ME",
+    "timezone": "Europe/Luxembourg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.21891,
+      49.78362
+    ]
+  }
+}

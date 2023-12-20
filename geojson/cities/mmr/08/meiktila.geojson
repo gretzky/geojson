@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Meiktila",
+    "country": "MM",
+    "subdivision": "08",
+    "timezone": "Asia/Yangon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.85844,
+      20.87776
+    ]
+  }
+}

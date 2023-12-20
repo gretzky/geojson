@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Husum",
+    "country": "SE",
+    "subdivision": "24",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.16667,
+      63.33333
+    ]
+  }
+}

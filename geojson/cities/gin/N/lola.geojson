@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lola",
+    "country": "GN",
+    "subdivision": "N",
+    "timezone": "Africa/Conakry"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.53333,
+      7.8
+    ]
+  }
+}

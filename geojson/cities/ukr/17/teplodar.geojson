@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Teplodar",
+    "country": "UA",
+    "subdivision": "17",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.32256,
+      46.50196
+    ]
+  }
+}

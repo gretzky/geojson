@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kocaköy",
+    "country": "TR",
+    "subdivision": "21",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.49786,
+      38.28889
+    ]
+  }
+}

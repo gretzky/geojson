@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kimhae",
+    "country": "KR",
+    "subdivision": "20",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.88111,
+      35.23417
+    ]
+  }
+}

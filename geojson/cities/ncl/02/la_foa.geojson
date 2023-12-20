@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Foa",
+    "country": "NC",
+    "subdivision": "02",
+    "timezone": "Pacific/Noumea"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      165.82764,
+      -21.71079
+    ]
+  }
+}

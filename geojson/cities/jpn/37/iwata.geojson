@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Iwata",
+    "country": "JP",
+    "subdivision": "37",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.85,
+      34.7
+    ]
+  }
+}

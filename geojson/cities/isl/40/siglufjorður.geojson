@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Siglufjörður",
+    "country": "IS",
+    "subdivision": "40",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -18.90815,
+      66.15198
+    ]
+  }
+}

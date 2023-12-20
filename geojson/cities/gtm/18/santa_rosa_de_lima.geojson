@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Rosa de Lima",
+    "country": "GT",
+    "subdivision": "18",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.29556,
+      14.38806
+    ]
+  }
+}

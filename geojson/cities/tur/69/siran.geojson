@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Şiran",
+    "country": "TR",
+    "subdivision": "69",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.11747,
+      40.19064
+    ]
+  }
+}

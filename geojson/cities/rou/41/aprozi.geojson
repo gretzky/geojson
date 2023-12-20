@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aprozi",
+    "country": "RO",
+    "subdivision": "41",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.50213,
+      44.26616
+    ]
+  }
+}

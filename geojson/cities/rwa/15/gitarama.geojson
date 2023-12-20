@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gitarama",
+    "country": "RW",
+    "subdivision": "15",
+    "timezone": "Africa/Kigali"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.75667,
+      -2.07444
+    ]
+  }
+}

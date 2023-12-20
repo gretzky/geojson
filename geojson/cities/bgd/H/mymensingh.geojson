@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mymensingh",
+    "country": "BD",
+    "subdivision": "H",
+    "timezone": "Asia/Dhaka"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      90.40646,
+      24.75636
+    ]
+  }
+}

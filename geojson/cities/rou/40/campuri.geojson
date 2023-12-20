@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Câmpuri",
+    "country": "RO",
+    "subdivision": "40",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.78802,
+      46.01535
+    ]
+  }
+}

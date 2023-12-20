@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Anneberg",
+    "country": "SE",
+    "subdivision": "21",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.41667,
+      60.24167
+    ]
+  }
+}

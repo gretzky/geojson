@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Jerónimo",
+    "country": "GT",
+    "subdivision": "02",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.2405,
+      15.06032
+    ]
+  }
+}

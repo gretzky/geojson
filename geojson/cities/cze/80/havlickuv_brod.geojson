@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Havlíčkův Brod",
+    "country": "CZ",
+    "subdivision": "80",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.57937,
+      49.6069
+    ]
+  }
+}

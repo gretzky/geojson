@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mwanza",
+    "country": "MW",
+    "subdivision": "S",
+    "timezone": "Africa/Blantyre"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.52479,
+      -15.60262
+    ]
+  }
+}

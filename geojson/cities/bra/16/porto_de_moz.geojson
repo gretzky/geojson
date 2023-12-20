@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porto de Moz",
+    "country": "BR",
+    "subdivision": "16",
+    "timezone": "America/Santarem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -52.23833,
+      -1.74833
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alavus",
+    "country": "FI",
+    "subdivision": "14",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.61667,
+      62.58333
+    ]
+  }
+}

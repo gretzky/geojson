@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Teresa",
+    "country": "NI",
+    "subdivision": "02",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.21413,
+      11.74321
+    ]
+  }
+}

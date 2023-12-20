@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Földes",
+    "country": "HU",
+    "subdivision": "10",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.36667,
+      47.3
+    ]
+  }
+}

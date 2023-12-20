@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Freeport",
+    "country": "BS",
+    "subdivision": "25",
+    "timezone": "America/Nassau"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.7,
+      26.53333
+    ]
+  }
+}

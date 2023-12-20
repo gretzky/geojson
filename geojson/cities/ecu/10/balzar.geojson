@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Balzar",
+    "country": "EC",
+    "subdivision": "10",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.90494,
+      -1.36501
+    ]
+  }
+}

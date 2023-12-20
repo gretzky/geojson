@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Locle",
+    "country": "CH",
+    "subdivision": "NE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.74913,
+      47.05619
+    ]
+  }
+}

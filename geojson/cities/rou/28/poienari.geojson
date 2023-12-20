@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Poienari",
+    "country": "RO",
+    "subdivision": "28",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.12765,
+      46.88777
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bucheon-si",
+    "country": "KR",
+    "subdivision": "13",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.78306,
+      37.49889
+    ]
+  }
+}

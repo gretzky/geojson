@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Toa Alta",
+    "country": "PR",
+    "subdivision": "135",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.24822,
+      18.38828
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oni",
+    "country": "GE",
+    "subdivision": "70",
+    "timezone": "Asia/Tbilisi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.4425,
+      42.57944
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nijenheim",
+    "country": "NL",
+    "subdivision": "09",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.21852,
+      52.08689
+    ]
+  }
+}

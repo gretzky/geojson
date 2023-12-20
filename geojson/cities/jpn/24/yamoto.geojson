@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yamoto",
+    "country": "JP",
+    "subdivision": "24",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.21487,
+      38.42738
+    ]
+  }
+}

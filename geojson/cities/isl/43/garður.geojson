@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Garður",
+    "country": "IS",
+    "subdivision": "43",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -22.6513,
+      64.07055
+    ]
+  }
+}

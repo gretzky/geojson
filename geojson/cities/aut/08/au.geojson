@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Au",
+    "country": "AT",
+    "subdivision": "08",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.98067,
+      47.32176
+    ]
+  }
+}

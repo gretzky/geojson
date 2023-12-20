@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sundsvall",
+    "country": "SE",
+    "subdivision": "24",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.3063,
+      62.39129
+    ]
+  }
+}

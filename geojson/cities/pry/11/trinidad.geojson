@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Trinidad",
+    "country": "PY",
+    "subdivision": "11",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.70584,
+      -27.13103
+    ]
+  }
+}

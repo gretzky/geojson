@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nováky",
+    "country": "SK",
+    "subdivision": "06",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.53389,
+      48.71106
+    ]
+  }
+}

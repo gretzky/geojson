@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Byelaazyorsk",
+    "country": "BY",
+    "subdivision": "01",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.1784,
+      52.4731
+    ]
+  }
+}

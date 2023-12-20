@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Quetta",
+    "country": "PK",
+    "subdivision": "02",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      67.00141,
+      30.18414
+    ]
+  }
+}

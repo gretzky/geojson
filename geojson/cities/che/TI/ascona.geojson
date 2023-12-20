@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ascona",
+    "country": "CH",
+    "subdivision": "TI",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.77327,
+      46.15451
+    ]
+  }
+}

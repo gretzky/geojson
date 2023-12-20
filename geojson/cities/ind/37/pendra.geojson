@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pendra",
+    "country": "IN",
+    "subdivision": "37",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.95968,
+      22.77548
+    ]
+  }
+}

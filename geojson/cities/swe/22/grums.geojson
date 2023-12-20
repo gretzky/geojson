@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Grums",
+    "country": "SE",
+    "subdivision": "22",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.11105,
+      59.35141
+    ]
+  }
+}

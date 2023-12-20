@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zabok",
+    "country": "HR",
+    "subdivision": "07",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.915,
+      46.02944
+    ]
+  }
+}

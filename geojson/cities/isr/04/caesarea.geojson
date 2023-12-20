@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Caesarea",
+    "country": "IL",
+    "subdivision": "04",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.90459,
+      32.51888
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan La Laguna",
+    "country": "GT",
+    "subdivision": "19",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.28666,
+      14.69453
+    ]
+  }
+}

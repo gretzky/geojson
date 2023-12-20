@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Asunción",
+    "country": "PY",
+    "subdivision": "22",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.647,
+      -25.28646
+    ]
+  }
+}

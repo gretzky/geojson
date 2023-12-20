@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Simbahan",
+    "country": "PH",
+    "subdivision": "14",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.5836,
+      6.3032
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brojce",
+    "country": "PL",
+    "subdivision": "87",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.35975,
+      53.95705
+    ]
+  }
+}

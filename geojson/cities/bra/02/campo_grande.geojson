@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Campo Grande",
+    "country": "BR",
+    "subdivision": "02",
+    "timezone": "America/Maceio"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -36.5,
+      -10.23333
+    ]
+  }
+}

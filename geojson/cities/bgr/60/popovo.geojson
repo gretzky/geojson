@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Popovo",
+    "country": "BG",
+    "subdivision": "60",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.23333,
+      43.35
+    ]
+  }
+}

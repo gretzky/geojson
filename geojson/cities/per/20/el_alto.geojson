@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Alto",
+    "country": "PE",
+    "subdivision": "20",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.21719,
+      -4.26851
+    ]
+  }
+}

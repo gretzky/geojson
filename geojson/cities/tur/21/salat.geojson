@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Salat",
+    "country": "TR",
+    "subdivision": "21",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.8865,
+      37.84172
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pechenga",
+    "country": "RU",
+    "subdivision": "49",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.17027,
+      69.52587
+    ]
+  }
+}

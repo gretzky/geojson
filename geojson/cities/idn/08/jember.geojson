@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jember",
+    "country": "ID",
+    "subdivision": "08",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.69953,
+      -8.17211
+    ]
+  }
+}

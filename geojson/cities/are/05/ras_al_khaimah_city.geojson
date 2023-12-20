@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ras Al Khaimah City",
+    "country": "AE",
+    "subdivision": "05",
+    "timezone": "Asia/Dubai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.9432,
+      25.78953
+    ]
+  }
+}

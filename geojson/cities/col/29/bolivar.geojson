@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bolívar",
+    "country": "CO",
+    "subdivision": "29",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.18342,
+      4.3387
+    ]
+  }
+}

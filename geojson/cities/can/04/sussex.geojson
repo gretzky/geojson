@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sussex",
+    "country": "CA",
+    "subdivision": "04",
+    "timezone": "America/Moncton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.50663,
+      45.72266
+    ]
+  }
+}

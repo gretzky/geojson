@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ventspils",
+    "country": "LV",
+    "subdivision": "32",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.56121,
+      57.39485
+    ]
+  }
+}

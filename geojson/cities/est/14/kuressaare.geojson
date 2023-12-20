@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kuressaare",
+    "country": "EE",
+    "subdivision": "14",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.50389,
+      58.24806
+    ]
+  }
+}

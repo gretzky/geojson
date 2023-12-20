@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tsubata",
+    "country": "JP",
+    "subdivision": "15",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.7403,
+      36.67012
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zara",
+    "country": "TR",
+    "subdivision": "58",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.75833,
+      39.89778
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hayrat",
+    "country": "TR",
+    "subdivision": "61",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.36495,
+      40.8853
+    ]
+  }
+}

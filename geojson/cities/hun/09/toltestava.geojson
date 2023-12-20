@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Töltéstava",
+    "country": "HU",
+    "subdivision": "09",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.73376,
+      47.62609
+    ]
+  }
+}

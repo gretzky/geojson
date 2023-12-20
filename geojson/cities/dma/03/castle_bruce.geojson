@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Castle Bruce",
+    "country": "DM",
+    "subdivision": "03",
+    "timezone": "America/Dominica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.25723,
+      15.44397
+    ]
+  }
+}

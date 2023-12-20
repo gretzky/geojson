@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vukovar",
+    "country": "HR",
+    "subdivision": "18",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.00225,
+      45.35161
+    ]
+  }
+}

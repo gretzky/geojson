@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shira",
+    "country": "RU",
+    "subdivision": "31",
+    "timezone": "Asia/Krasnoyarsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      89.95306,
+      54.49111
+    ]
+  }
+}

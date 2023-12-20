@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Visby",
+    "country": "SE",
+    "subdivision": "05",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.29602,
+      57.64089
+    ]
+  }
+}

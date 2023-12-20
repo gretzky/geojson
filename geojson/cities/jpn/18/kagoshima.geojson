@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kagoshima",
+    "country": "JP",
+    "subdivision": "18",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.55,
+      31.56667
+    ]
+  }
+}

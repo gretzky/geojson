@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stâna",
+    "country": "RO",
+    "subdivision": "32",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.96423,
+      47.50757
+    ]
+  }
+}

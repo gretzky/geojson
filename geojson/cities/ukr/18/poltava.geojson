@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Poltava",
+    "country": "UA",
+    "subdivision": "18",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.55367,
+      49.58925
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shakhtersk",
+    "country": "RU",
+    "subdivision": "64",
+    "timezone": "Asia/Sakhalin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      142.1364,
+      49.17175
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shellbrook",
+    "country": "CA",
+    "subdivision": "11",
+    "timezone": "America/Regina"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.40109,
+      53.21679
+    ]
+  }
+}

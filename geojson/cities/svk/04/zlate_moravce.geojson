@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zlaté Moravce",
+    "country": "SK",
+    "subdivision": "04",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.40063,
+      48.38553
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kurikka",
+    "country": "FI",
+    "subdivision": "14",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.41667,
+      62.61667
+    ]
+  }
+}

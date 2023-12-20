@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eğirdir",
+    "country": "TR",
+    "subdivision": "33",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.85042,
+      37.87462
+    ]
+  }
+}

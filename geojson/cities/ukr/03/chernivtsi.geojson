@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chernivtsi",
+    "country": "UA",
+    "subdivision": "03",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.93241,
+      48.29045
+    ]
+  }
+}

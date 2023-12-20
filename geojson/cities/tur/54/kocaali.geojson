@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kocaali",
+    "country": "TR",
+    "subdivision": "54",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.85278,
+      41.05336
+    ]
+  }
+}

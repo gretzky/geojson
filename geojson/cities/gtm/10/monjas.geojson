@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monjas",
+    "country": "GT",
+    "subdivision": "10",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.87246,
+      14.50309
+    ]
+  }
+}

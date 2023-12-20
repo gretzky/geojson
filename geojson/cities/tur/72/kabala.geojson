@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kabala",
+    "country": "TR",
+    "subdivision": "72",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.80059,
+      37.34585
+    ]
+  }
+}

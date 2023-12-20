@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Undory",
+    "country": "RU",
+    "subdivision": "81",
+    "timezone": "Europe/Ulyanovsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.39276,
+      54.60849
+    ]
+  }
+}

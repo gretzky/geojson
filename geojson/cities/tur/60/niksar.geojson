@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Niksar",
+    "country": "TR",
+    "subdivision": "60",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.95167,
+      40.59167
+    ]
+  }
+}

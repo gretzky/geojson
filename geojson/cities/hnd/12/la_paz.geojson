@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Paz",
+    "country": "HN",
+    "subdivision": "12",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.67917,
+      14.31944
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sarız",
+    "country": "TR",
+    "subdivision": "38",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.49898,
+      38.47917
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fang",
+    "country": "TH",
+    "subdivision": "02",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.2145,
+      19.91689
+    ]
+  }
+}

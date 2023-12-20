@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kibungo",
+    "country": "RW",
+    "subdivision": "11",
+    "timezone": "Africa/Kigali"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.5427,
+      -2.1597
+    ]
+  }
+}

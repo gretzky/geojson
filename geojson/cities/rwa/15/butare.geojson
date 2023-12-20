@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Butare",
+    "country": "RW",
+    "subdivision": "15",
+    "timezone": "Africa/Kigali"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.73944,
+      -2.59667
+    ]
+  }
+}

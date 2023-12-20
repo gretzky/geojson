@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bilbays",
+    "country": "EG",
+    "subdivision": "14",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.56223,
+      30.42039
+    ]
+  }
+}

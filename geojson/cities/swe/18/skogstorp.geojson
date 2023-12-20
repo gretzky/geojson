@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Skogstorp",
+    "country": "SE",
+    "subdivision": "18",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.48284,
+      59.32472
+    ]
+  }
+}

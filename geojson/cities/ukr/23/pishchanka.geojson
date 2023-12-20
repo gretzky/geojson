@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pishchanka",
+    "country": "UA",
+    "subdivision": "23",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.88056,
+      48.21249
+    ]
+  }
+}

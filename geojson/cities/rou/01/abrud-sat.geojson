@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Abrud-Sat",
+    "country": "RO",
+    "subdivision": "01",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.06098,
+      46.28166
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Natales",
+    "country": "CL",
+    "subdivision": "10",
+    "timezone": "America/Punta_Arenas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.50603,
+      -51.72987
+    ]
+  }
+}

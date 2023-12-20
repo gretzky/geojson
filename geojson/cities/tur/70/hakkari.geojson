@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hakkâri",
+    "country": "TR",
+    "subdivision": "70",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.74083,
+      37.57444
+    ]
+  }
+}

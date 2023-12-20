@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nistru",
+    "country": "RO",
+    "subdivision": "25",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.45495,
+      47.72088
+    ]
+  }
+}

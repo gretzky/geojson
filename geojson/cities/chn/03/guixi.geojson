@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guixi",
+    "country": "CN",
+    "subdivision": "03",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.21329,
+      28.28857
+    ]
+  }
+}

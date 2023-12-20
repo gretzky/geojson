@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nokia",
+    "country": "FI",
+    "subdivision": "06",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5,
+      61.46667
+    ]
+  }
+}

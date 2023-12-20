@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Thimphu",
+    "country": "BT",
+    "subdivision": "20",
+    "timezone": "Asia/Thimphu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      89.64191,
+      27.46609
+    ]
+  }
+}

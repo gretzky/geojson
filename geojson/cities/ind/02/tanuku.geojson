@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tanuku",
+    "country": "IN",
+    "subdivision": "02",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.68143,
+      16.75438
+    ]
+  }
+}

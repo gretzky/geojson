@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le Gros-Morne",
+    "country": "MQ",
+    "subdivision": "MQ",
+    "timezone": "America/Martinique"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61,
+      14.7
+    ]
+  }
+}

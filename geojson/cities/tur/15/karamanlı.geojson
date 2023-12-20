@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karamanlı",
+    "country": "TR",
+    "subdivision": "15",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.82308,
+      37.37301
+    ]
+  }
+}

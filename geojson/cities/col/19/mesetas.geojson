@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mesetas",
+    "country": "CO",
+    "subdivision": "19",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.04424,
+      3.38463
+    ]
+  }
+}

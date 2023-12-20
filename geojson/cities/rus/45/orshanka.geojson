@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Orshanka",
+    "country": "RU",
+    "subdivision": "45",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.89335,
+      56.91607
+    ]
+  }
+}

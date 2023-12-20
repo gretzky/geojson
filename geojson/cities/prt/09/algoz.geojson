@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Algoz",
+    "country": "PT",
+    "subdivision": "09",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.30359,
+      37.16301
+    ]
+  }
+}

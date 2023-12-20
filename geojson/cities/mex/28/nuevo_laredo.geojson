@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nuevo Laredo",
+    "country": "MX",
+    "subdivision": "28",
+    "timezone": "America/Matamoros"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.51639,
+      27.47629
+    ]
+  }
+}

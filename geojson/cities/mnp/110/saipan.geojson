@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saipan",
+    "country": "MP",
+    "subdivision": "110",
+    "timezone": "Pacific/Saipan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.7545,
+      15.21233
+    ]
+  }
+}

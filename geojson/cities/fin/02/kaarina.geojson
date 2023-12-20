@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kaarina",
+    "country": "FI",
+    "subdivision": "02",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.36904,
+      60.40724
+    ]
+  }
+}

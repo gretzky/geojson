@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Corozal",
+    "country": "BZ",
+    "subdivision": "03",
+    "timezone": "America/Belize"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.38849,
+      18.39375
+    ]
+  }
+}

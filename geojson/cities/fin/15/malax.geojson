@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Malax",
+    "country": "FI",
+    "subdivision": "15",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.57311,
+      62.94225
+    ]
+  }
+}

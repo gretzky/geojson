@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santyoku",
+    "country": "KR",
+    "subdivision": "06",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      129.17083,
+      37.44056
+    ]
+  }
+}

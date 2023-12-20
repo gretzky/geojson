@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arendal",
+    "country": "NO",
+    "subdivision": "42",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.77253,
+      58.46151
+    ]
+  }
+}

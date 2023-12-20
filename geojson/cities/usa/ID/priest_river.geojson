@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Priest River",
+    "country": "US",
+    "subdivision": "ID",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.91157,
+      48.18097
+    ]
+  }
+}

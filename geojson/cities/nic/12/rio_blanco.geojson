@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Río Blanco",
+    "country": "NI",
+    "subdivision": "12",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.22354,
+      12.93435
+    ]
+  }
+}

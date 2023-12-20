@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Seogwipo",
+    "country": "KR",
+    "subdivision": "01",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.56181,
+      33.25333
+    ]
+  }
+}

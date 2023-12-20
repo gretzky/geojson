@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pushkino",
+    "country": "AZ",
+    "subdivision": "13",
+    "timezone": "Asia/Baku"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.545,
+      39.45833
+    ]
+  }
+}

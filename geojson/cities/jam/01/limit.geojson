@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Limit",
+    "country": "JM",
+    "subdivision": "01",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.47121,
+      18.15287
+    ]
+  }
+}

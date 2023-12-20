@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bhuj",
+    "country": "IN",
+    "subdivision": "09",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      69.66928,
+      23.25397
+    ]
+  }
+}

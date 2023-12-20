@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zamora",
+    "country": "EC",
+    "subdivision": "20",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.95488,
+      -4.06685
+    ]
+  }
+}

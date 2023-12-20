@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Seram",
+    "country": "IN",
+    "subdivision": "19",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.28998,
+      17.17859
+    ]
+  }
+}

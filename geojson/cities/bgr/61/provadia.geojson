@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Provadia",
+    "country": "BG",
+    "subdivision": "61",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.43333,
+      43.18333
+    ]
+  }
+}

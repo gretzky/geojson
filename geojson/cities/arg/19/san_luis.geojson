@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Luis",
+    "country": "AR",
+    "subdivision": "19",
+    "timezone": "America/Argentina/San_Luis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.33563,
+      -33.29501
+    ]
+  }
+}

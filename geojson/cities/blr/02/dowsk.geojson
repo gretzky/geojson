@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dowsk",
+    "country": "BY",
+    "subdivision": "02",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.4601,
+      53.1571
+    ]
+  }
+}

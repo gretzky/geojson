@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tohmajärvi",
+    "country": "FI",
+    "subdivision": "12",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.38333,
+      62.18333
+    ]
+  }
+}

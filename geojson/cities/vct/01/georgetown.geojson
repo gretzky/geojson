@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Georgetown",
+    "country": "VC",
+    "subdivision": "01",
+    "timezone": "America/St_Vincent"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.1185,
+      13.28054
+    ]
+  }
+}

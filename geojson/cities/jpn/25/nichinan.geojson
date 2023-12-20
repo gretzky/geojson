@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nichinan",
+    "country": "JP",
+    "subdivision": "25",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.36667,
+      31.6
+    ]
+  }
+}

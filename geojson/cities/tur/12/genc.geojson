@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Genç",
+    "country": "TR",
+    "subdivision": "12",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.55343,
+      38.74773
+    ]
+  }
+}

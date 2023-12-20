@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Heritage Creek",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/Kentucky/Louisville"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.71968,
+      38.12368
+    ]
+  }
+}

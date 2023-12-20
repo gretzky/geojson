@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Strakonice",
+    "country": "CZ",
+    "subdivision": "79",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.90237,
+      49.26141
+    ]
+  }
+}

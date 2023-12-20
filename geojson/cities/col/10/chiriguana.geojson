@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chiriguaná",
+    "country": "CO",
+    "subdivision": "10",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.60313,
+      9.36238
+    ]
+  }
+}

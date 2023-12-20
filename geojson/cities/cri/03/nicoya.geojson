@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nicoya",
+    "country": "CR",
+    "subdivision": "03",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.45093,
+      10.15038
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kodala",
+    "country": "IN",
+    "subdivision": "21",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      84.94075,
+      19.62425
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Günyazı",
+    "country": "TR",
+    "subdivision": "31",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.11702,
+      36.23307
+    ]
+  }
+}

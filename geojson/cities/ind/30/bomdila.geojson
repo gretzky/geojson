@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bomdila",
+    "country": "IN",
+    "subdivision": "30",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      92.42472,
+      27.26475
+    ]
+  }
+}

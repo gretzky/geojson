@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ganado",
+    "country": "US",
+    "subdivision": "AZ",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.54205,
+      35.7114
+    ]
+  }
+}

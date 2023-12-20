@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puducherry",
+    "country": "IN",
+    "subdivision": "22",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.82979,
+      11.93381
+    ]
+  }
+}

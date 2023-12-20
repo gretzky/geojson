@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "White River",
+    "country": "ZA",
+    "subdivision": "07",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.01166,
+      -25.33177
+    ]
+  }
+}

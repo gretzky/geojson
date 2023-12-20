@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sund",
+    "country": "AX",
+    "subdivision": "212",
+    "timezone": "Europe/Mariehamn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.11667,
+      60.25
+    ]
+  }
+}

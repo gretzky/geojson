@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Waeng",
+    "country": "TH",
+    "subdivision": "25",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.97786,
+      16.30006
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nizhnyaya Tura",
+    "country": "RU",
+    "subdivision": "71",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      59.8118,
+      58.6293
+    ]
+  }
+}

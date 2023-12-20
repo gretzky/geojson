@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Realejo",
+    "country": "NI",
+    "subdivision": "03",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.16517,
+      12.54333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Herisau",
+    "country": "CH",
+    "subdivision": "AR",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.27916,
+      47.38615
+    ]
+  }
+}

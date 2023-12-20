@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dalcahue",
+    "country": "CL",
+    "subdivision": "14",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.65011,
+      -42.37845
+    ]
+  }
+}

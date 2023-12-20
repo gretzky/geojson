@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hwawŏn",
+    "country": "KR",
+    "subdivision": "15",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.50083,
+      35.80167
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kastoria",
+    "country": "GR",
+    "subdivision": "ESYE13",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.26341,
+      40.52165
+    ]
+  }
+}

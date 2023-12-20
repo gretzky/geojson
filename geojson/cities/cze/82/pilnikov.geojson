@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pilníkov",
+    "country": "CZ",
+    "subdivision": "82",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.8202,
+      50.53247
+    ]
+  }
+}

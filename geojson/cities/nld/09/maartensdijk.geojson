@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maartensdijk",
+    "country": "NL",
+    "subdivision": "09",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.175,
+      52.155
+    ]
+  }
+}

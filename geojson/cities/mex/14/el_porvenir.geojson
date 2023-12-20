@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Porvenir",
+    "country": "MX",
+    "subdivision": "14",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.24196,
+      20.75379
+    ]
+  }
+}

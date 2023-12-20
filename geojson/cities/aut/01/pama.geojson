@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pama",
+    "country": "AT",
+    "subdivision": "01",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.0332,
+      48.0473
+    ]
+  }
+}

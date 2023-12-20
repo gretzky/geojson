@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lichtenburg",
+    "country": "ZA",
+    "subdivision": "10",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.15968,
+      -26.152
+    ]
+  }
+}

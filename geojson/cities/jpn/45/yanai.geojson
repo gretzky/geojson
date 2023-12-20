@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yanai",
+    "country": "JP",
+    "subdivision": "45",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      132.11667,
+      33.96667
+    ]
+  }
+}

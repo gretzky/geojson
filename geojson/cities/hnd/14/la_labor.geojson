@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Labor",
+    "country": "HN",
+    "subdivision": "14",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89,
+      14.48333
+    ]
+  }
+}

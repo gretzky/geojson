@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cabral",
+    "country": "DO",
+    "subdivision": "03",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.21667,
+      18.25
+    ]
+  }
+}

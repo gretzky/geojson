@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villarrica",
+    "country": "PY",
+    "subdivision": "10",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.43518,
+      -25.74946
+    ]
+  }
+}

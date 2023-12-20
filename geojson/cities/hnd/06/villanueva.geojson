@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villanueva",
+    "country": "HN",
+    "subdivision": "06",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88,
+      15.31667
+    ]
+  }
+}

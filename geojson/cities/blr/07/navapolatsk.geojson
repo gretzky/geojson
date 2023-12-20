@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Navapolatsk",
+    "country": "BY",
+    "subdivision": "07",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.5987,
+      55.5318
+    ]
+  }
+}

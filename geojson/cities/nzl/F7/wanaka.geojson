@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wanaka",
+    "country": "NZ",
+    "subdivision": "F7",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      169.15,
+      -44.7
+    ]
+  }
+}

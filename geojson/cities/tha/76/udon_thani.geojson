@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Udon Thani",
+    "country": "TH",
+    "subdivision": "76",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.78589,
+      17.41567
+    ]
+  }
+}

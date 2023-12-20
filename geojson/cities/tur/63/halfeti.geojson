@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Halfeti",
+    "country": "TR",
+    "subdivision": "63",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.86874,
+      37.24529
+    ]
+  }
+}

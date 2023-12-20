@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pedro",
+    "country": "BO",
+    "subdivision": "04",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.85063,
+      -16.23717
+    ]
+  }
+}

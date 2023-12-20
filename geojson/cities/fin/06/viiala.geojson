@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Viiala",
+    "country": "FI",
+    "subdivision": "06",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.76738,
+      61.21023
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Katpur",
+    "country": "IN",
+    "subdivision": "09",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.79457,
+      21.05869
+    ]
+  }
+}

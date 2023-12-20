@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Voi",
+    "country": "KE",
+    "subdivision": "47",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.55609,
+      -3.39605
+    ]
+  }
+}

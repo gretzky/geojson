@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Macas",
+    "country": "EC",
+    "subdivision": "15",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.11135,
+      -2.30868
+    ]
+  }
+}

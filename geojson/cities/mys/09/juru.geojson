@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Juru",
+    "country": "MY",
+    "subdivision": "09",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.44229,
+      5.31201
+    ]
+  }
+}

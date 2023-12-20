@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Enköping",
+    "country": "SE",
+    "subdivision": "21",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.07768,
+      59.63607
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Castilla La Nueva",
+    "country": "CO",
+    "subdivision": "19",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.68831,
+      3.82722
+    ]
+  }
+}

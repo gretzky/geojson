@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Imperial",
+    "country": "PE",
+    "subdivision": "15",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.35269,
+      -13.05927
+    ]
+  }
+}

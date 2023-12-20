@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Gomera",
+    "country": "GT",
+    "subdivision": "06",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.05383,
+      14.08213
+    ]
+  }
+}

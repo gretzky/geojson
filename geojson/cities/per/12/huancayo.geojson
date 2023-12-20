@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Huancayo",
+    "country": "PE",
+    "subdivision": "12",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.20486,
+      -12.06513
+    ]
+  }
+}

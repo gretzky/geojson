@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Anta",
+    "country": "PE",
+    "subdivision": "08",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.14833,
+      -13.47056
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kalix",
+    "country": "SE",
+    "subdivision": "14",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.15645,
+      65.85298
+    ]
+  }
+}

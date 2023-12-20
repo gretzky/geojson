@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sergeyevka",
+    "country": "KZ",
+    "subdivision": "16",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      67.40882,
+      53.88139
+    ]
+  }
+}

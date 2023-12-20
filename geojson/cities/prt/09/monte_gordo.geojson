@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monte Gordo",
+    "country": "PT",
+    "subdivision": "09",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.45225,
+      37.18192
+    ]
+  }
+}

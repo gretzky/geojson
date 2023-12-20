@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aleksandrovsk",
+    "country": "RU",
+    "subdivision": "90",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.5695,
+      59.1581
+    ]
+  }
+}

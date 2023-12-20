@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chinique",
+    "country": "GT",
+    "subdivision": "14",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.02594,
+      15.04147
+    ]
+  }
+}

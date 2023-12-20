@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Cubolero",
+    "country": "HN",
+    "subdivision": "17",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.66667,
+      13.46667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pápa",
+    "country": "HU",
+    "subdivision": "23",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.4674,
+      47.33004
+    ]
+  }
+}

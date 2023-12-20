@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nytva",
+    "country": "RU",
+    "subdivision": "90",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.3396,
+      57.9437
+    ]
+  }
+}

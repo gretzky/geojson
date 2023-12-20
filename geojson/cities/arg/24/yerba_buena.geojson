@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yerba Buena",
+    "country": "AR",
+    "subdivision": "24",
+    "timezone": "America/Argentina/Tucuman"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.31667,
+      -26.81667
+    ]
+  }
+}

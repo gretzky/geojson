@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Turnov",
+    "country": "CZ",
+    "subdivision": "83",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.15186,
+      50.58356
+    ]
+  }
+}

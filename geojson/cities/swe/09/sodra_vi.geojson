@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Södra Vi",
+    "country": "SE",
+    "subdivision": "09",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.79391,
+      57.73993
+    ]
+  }
+}

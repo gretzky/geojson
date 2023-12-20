@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sankt Martin",
+    "country": "AT",
+    "subdivision": "06",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2849,
+      47.44667
+    ]
+  }
+}

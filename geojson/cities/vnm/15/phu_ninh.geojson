@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Phù Ninh",
+    "country": "VN",
+    "subdivision": "15",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      105.95,
+      21.08333
+    ]
+  }
+}

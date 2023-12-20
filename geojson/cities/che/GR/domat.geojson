@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Domat",
+    "country": "CH",
+    "subdivision": "GR",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.45075,
+      46.83483
+    ]
+  }
+}

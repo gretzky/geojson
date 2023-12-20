@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kivijärvi",
+    "country": "FI",
+    "subdivision": "13",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.07835,
+      63.11984
+    ]
+  }
+}

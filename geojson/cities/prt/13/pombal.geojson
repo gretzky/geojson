@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pombal",
+    "country": "PT",
+    "subdivision": "13",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.62847,
+      39.91674
+    ]
+  }
+}

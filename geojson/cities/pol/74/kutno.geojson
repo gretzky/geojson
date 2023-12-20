@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kutno",
+    "country": "PL",
+    "subdivision": "74",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.36409,
+      52.23064
+    ]
+  }
+}

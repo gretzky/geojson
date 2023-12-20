@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sakon Nakhon",
+    "country": "TH",
+    "subdivision": "20",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.14725,
+      17.16116
+    ]
+  }
+}

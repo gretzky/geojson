@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Farsund",
+    "country": "NO",
+    "subdivision": "42",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.80468,
+      58.09479
+    ]
+  }
+}

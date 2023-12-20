@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Marta",
+    "country": "CO",
+    "subdivision": "38",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.19904,
+      11.24079
+    ]
+  }
+}

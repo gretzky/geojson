@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Mateo",
+    "country": "VE",
+    "subdivision": "04",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.42365,
+      10.21302
+    ]
+  }
+}

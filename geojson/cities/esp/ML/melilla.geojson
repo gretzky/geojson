@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Melilla",
+    "country": "ES",
+    "subdivision": "ML",
+    "timezone": "Africa/Ceuta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.93833,
+      35.29369
+    ]
+  }
+}

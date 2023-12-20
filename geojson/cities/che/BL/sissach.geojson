@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sissach",
+    "country": "CH",
+    "subdivision": "BL",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.80888,
+      47.46408
+    ]
+  }
+}

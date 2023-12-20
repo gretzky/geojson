@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Järva-Jaani",
+    "country": "EE",
+    "subdivision": "04",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.88639,
+      59.03861
+    ]
+  }
+}

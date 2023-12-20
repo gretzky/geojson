@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Leksand",
+    "country": "SE",
+    "subdivision": "10",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.99994,
+      60.7303
+    ]
+  }
+}

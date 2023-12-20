@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dumitra",
+    "country": "RO",
+    "subdivision": "06",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.48333,
+      47.21667
+    ]
+  }
+}

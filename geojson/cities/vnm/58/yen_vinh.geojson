@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yên Vinh",
+    "country": "VN",
+    "subdivision": "58",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      105.66667,
+      18.66667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nagaoka",
+    "country": "JP",
+    "subdivision": "29",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.85,
+      37.45
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Clara",
+    "country": "PT",
+    "subdivision": "07",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.44018,
+      40.19985
+    ]
+  }
+}

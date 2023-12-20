@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gradec",
+    "country": "MK",
+    "subdivision": "B4",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.51132,
+      41.85068
+    ]
+  }
+}

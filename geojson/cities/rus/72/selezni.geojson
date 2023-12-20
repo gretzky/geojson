@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Selezni",
+    "country": "RU",
+    "subdivision": "72",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.23961,
+      52.80415
+    ]
+  }
+}

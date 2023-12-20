@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hemse",
+    "country": "SE",
+    "subdivision": "05",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.37443,
+      57.23788
+    ]
+  }
+}

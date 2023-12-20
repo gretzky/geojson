@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jokioinen",
+    "country": "FI",
+    "subdivision": "05",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.48004,
+      60.80162
+    ]
+  }
+}

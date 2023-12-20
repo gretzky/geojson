@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cayuco",
+    "country": "PR",
+    "subdivision": "141",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.73934,
+      18.29106
+    ]
+  }
+}

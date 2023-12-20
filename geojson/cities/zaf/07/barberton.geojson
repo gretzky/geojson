@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barberton",
+    "country": "ZA",
+    "subdivision": "07",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.05319,
+      -25.78842
+    ]
+  }
+}

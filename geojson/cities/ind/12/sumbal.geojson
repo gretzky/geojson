@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sumbal",
+    "country": "IN",
+    "subdivision": "12",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.6472,
+      34.23072
+    ]
+  }
+}

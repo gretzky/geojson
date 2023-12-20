@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pita",
+    "country": "GN",
+    "subdivision": "M",
+    "timezone": "Africa/Conakry"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.39498,
+      11.05915
+    ]
+  }
+}

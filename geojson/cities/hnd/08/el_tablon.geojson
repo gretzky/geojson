@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Tablón",
+    "country": "HN",
+    "subdivision": "08",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.16667,
+      14.03333
+    ]
+  }
+}

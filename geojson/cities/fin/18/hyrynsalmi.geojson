@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hyrynsalmi",
+    "country": "FI",
+    "subdivision": "18",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.53333,
+      64.66667
+    ]
+  }
+}

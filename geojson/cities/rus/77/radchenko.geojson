@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Radchenko",
+    "country": "RU",
+    "subdivision": "77",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.37178,
+      56.68027
+    ]
+  }
+}

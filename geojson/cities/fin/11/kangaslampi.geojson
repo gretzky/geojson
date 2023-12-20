@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kangaslampi",
+    "country": "FI",
+    "subdivision": "11",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.25289,
+      62.29563
+    ]
+  }
+}

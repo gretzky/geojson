@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Crucero",
+    "country": "NI",
+    "subdivision": "10",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.30954,
+      11.99008
+    ]
+  }
+}

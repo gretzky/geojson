@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gorodoviki",
+    "country": "RU",
+    "subdivision": "24",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.96556,
+      46.13528
+    ]
+  }
+}

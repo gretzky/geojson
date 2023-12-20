@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Küçükkendirci",
+    "country": "TR",
+    "subdivision": "63",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.34611,
+      36.90583
+    ]
+  }
+}

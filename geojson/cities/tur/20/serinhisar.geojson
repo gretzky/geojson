@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Serinhisar",
+    "country": "TR",
+    "subdivision": "20",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.26639,
+      37.58105
+    ]
+  }
+}

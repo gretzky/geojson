@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ixelles",
+    "country": "BE",
+    "subdivision": "BRU",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.36667,
+      50.83333
+    ]
+  }
+}

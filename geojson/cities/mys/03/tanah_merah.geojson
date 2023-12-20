@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tanah Merah",
+    "country": "MY",
+    "subdivision": "03",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.15,
+      5.8
+    ]
+  }
+}

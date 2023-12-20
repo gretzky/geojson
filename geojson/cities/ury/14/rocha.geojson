@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rocha",
+    "country": "UY",
+    "subdivision": "14",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.33333,
+      -34.48333
+    ]
+  }
+}

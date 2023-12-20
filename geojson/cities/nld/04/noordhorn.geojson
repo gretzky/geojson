@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Noordhorn",
+    "country": "NL",
+    "subdivision": "04",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.39583,
+      53.26167
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Anamur",
+    "country": "TR",
+    "subdivision": "32",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.83691,
+      36.07508
+    ]
+  }
+}

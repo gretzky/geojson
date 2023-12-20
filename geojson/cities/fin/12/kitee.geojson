@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kitee",
+    "country": "FI",
+    "subdivision": "12",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.15,
+      62.1
+    ]
+  }
+}

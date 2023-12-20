@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chernihiv",
+    "country": "UA",
+    "subdivision": "02",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.28487,
+      51.50551
+    ]
+  }
+}

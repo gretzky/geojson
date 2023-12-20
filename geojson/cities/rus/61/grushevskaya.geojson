@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Grushevskaya",
+    "country": "RU",
+    "subdivision": "61",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.95111,
+      47.44056
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pavlovka",
+    "country": "RU",
+    "subdivision": "81",
+    "timezone": "Europe/Ulyanovsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.76631,
+      53.59569
+    ]
+  }
+}

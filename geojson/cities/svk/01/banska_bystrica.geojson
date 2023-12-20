@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Banská Bystrica",
+    "country": "SK",
+    "subdivision": "01",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.15349,
+      48.73946
+    ]
+  }
+}

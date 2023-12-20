@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Manatí",
+    "country": "CO",
+    "subdivision": "04",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.95869,
+      10.44589
+    ]
+  }
+}

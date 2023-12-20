@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ghioca",
+    "country": "RO",
+    "subdivision": "29",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.73333,
+      44.31667
+    ]
+  }
+}

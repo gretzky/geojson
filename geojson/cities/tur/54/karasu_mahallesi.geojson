@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karasu Mahallesi",
+    "country": "TR",
+    "subdivision": "54",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.78543,
+      41.07096
+    ]
+  }
+}

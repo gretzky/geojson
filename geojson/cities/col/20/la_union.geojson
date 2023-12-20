@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Unión",
+    "country": "CO",
+    "subdivision": "20",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.13152,
+      1.6045
+    ]
+  }
+}

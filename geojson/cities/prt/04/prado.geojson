@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Prado",
+    "country": "PT",
+    "subdivision": "04",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.46297,
+      41.60246
+    ]
+  }
+}

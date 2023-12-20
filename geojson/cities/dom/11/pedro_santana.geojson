@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pedro Santana",
+    "country": "DO",
+    "subdivision": "11",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.69498,
+      19.10515
+    ]
+  }
+}

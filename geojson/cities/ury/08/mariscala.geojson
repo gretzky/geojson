@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mariscala",
+    "country": "UY",
+    "subdivision": "08",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.77732,
+      -34.04085
+    ]
+  }
+}

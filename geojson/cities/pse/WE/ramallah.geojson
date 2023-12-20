@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ramallah",
+    "country": "PS",
+    "subdivision": "WE",
+    "timezone": "Asia/Hebron"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.20422,
+      31.89964
+    ]
+  }
+}

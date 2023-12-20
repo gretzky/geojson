@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cruces",
+    "country": "CU",
+    "subdivision": "08",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.27021,
+      22.34203
+    ]
+  }
+}

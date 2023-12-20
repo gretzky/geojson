@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santiago Vázquez",
+    "country": "UY",
+    "subdivision": "10",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.35,
+      -34.79028
+    ]
+  }
+}

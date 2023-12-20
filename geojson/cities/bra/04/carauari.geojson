@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carauari",
+    "country": "BR",
+    "subdivision": "04",
+    "timezone": "America/Manaus"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.89583,
+      -4.88278
+    ]
+  }
+}

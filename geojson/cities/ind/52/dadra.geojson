@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dadra",
+    "country": "IN",
+    "subdivision": "52",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.96618,
+      20.32504
+    ]
+  }
+}

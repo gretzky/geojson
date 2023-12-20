@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maykor",
+    "country": "RU",
+    "subdivision": "90",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.8784,
+      59.0047
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oberuzwil",
+    "country": "CH",
+    "subdivision": "SG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.12724,
+      47.43076
+    ]
+  }
+}

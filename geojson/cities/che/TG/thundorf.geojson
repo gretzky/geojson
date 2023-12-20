@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Thundorf",
+    "country": "CH",
+    "subdivision": "TG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.96358,
+      47.54594
+    ]
+  }
+}

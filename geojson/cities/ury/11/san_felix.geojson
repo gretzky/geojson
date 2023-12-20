@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Félix",
+    "country": "UY",
+    "subdivision": "11",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.10094,
+      -32.34631
+    ]
+  }
+}

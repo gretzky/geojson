@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Point Fortin",
+    "country": "TT",
+    "subdivision": "PTF",
+    "timezone": "America/Port_of_Spain"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.68407,
+      10.17411
+    ]
+  }
+}

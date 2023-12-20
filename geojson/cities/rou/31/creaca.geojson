@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Creaca",
+    "country": "RO",
+    "subdivision": "31",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.25,
+      47.2
+    ]
+  }
+}

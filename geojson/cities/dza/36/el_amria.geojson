@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Amria",
+    "country": "DZ",
+    "subdivision": "36",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.01577,
+      35.52439
+    ]
+  }
+}

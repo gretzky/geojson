@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Turia",
+    "country": "RO",
+    "subdivision": "15",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.05,
+      46.03333
+    ]
+  }
+}

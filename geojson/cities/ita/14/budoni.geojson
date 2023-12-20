@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Budoni",
+    "country": "IT",
+    "subdivision": "14",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.70384,
+      40.70467
+    ]
+  }
+}

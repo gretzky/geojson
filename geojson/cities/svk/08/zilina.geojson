@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Žilina",
+    "country": "SK",
+    "subdivision": "08",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.73941,
+      49.22315
+    ]
+  }
+}

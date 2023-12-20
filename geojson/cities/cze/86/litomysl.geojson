@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Litomyšl",
+    "country": "CZ",
+    "subdivision": "86",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.31298,
+      49.86809
+    ]
+  }
+}

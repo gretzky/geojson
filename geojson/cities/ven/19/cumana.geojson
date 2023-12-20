@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cumaná",
+    "country": "VE",
+    "subdivision": "19",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.18256,
+      10.45397
+    ]
+  }
+}

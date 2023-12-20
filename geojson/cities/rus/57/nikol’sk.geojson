@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nikol’sk",
+    "country": "RU",
+    "subdivision": "57",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.07118,
+      53.71886
+    ]
+  }
+}

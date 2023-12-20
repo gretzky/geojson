@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vaala",
+    "country": "FI",
+    "subdivision": "18",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.83333,
+      64.56667
+    ]
+  }
+}

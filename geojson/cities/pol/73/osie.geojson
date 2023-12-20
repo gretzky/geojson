@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Osie",
+    "country": "PL",
+    "subdivision": "73",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.34373,
+      53.59918
+    ]
+  }
+}

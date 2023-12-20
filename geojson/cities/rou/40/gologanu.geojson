@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gologanu",
+    "country": "RO",
+    "subdivision": "40",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.27091,
+      45.60979
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Basel",
+    "country": "CH",
+    "subdivision": "BS",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.57327,
+      47.55839
+    ]
+  }
+}

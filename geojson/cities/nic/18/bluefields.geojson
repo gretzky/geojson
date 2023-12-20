@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bluefields",
+    "country": "NI",
+    "subdivision": "18",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.76353,
+      12.01366
+    ]
+  }
+}

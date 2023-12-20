@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vibble",
+    "country": "SE",
+    "subdivision": "05",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.25601,
+      57.60452
+    ]
+  }
+}

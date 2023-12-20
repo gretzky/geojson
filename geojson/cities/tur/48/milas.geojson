@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Milas",
+    "country": "TR",
+    "subdivision": "48",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.78389,
+      37.31639
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dillsboro",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.05884,
+      39.01783
+    ]
+  }
+}

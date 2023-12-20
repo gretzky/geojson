@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cubarral",
+    "country": "CO",
+    "subdivision": "19",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.84063,
+      3.79536
+    ]
+  }
+}

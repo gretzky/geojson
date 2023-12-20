@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ortaköy",
+    "country": "TR",
+    "subdivision": "72",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.78476,
+      37.22089
+    ]
+  }
+}

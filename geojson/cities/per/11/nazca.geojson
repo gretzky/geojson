@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nazca",
+    "country": "PE",
+    "subdivision": "11",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.93895,
+      -14.83098
+    ]
+  }
+}

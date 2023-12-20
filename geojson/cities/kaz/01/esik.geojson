@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Esik",
+    "country": "KZ",
+    "subdivision": "01",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.45245,
+      43.3552
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Märjamaa",
+    "country": "EE",
+    "subdivision": "13",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.43056,
+      58.90389
+    ]
+  }
+}

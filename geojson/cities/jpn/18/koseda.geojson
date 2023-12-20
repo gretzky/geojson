@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Koseda",
+    "country": "JP",
+    "subdivision": "18",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.64924,
+      30.38796
+    ]
+  }
+}

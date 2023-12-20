@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kalmar",
+    "country": "SE",
+    "subdivision": "09",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.36163,
+      56.66157
+    ]
+  }
+}

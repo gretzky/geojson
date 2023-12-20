@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ruscova",
+    "country": "RO",
+    "subdivision": "25",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.28546,
+      47.79289
+    ]
+  }
+}

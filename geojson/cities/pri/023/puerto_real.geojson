@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Real",
+    "country": "PR",
+    "subdivision": "023",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.18712,
+      18.07496
+    ]
+  }
+}

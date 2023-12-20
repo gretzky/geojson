@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Marsa Alam",
+    "country": "EG",
+    "subdivision": "02",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.89005,
+      25.06305
+    ]
+  }
+}

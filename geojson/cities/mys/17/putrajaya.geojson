@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Putrajaya",
+    "country": "MY",
+    "subdivision": "17",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.69112,
+      2.93527
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Znojmo",
+    "country": "CZ",
+    "subdivision": "78",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.0488,
+      48.8555
+    ]
+  }
+}

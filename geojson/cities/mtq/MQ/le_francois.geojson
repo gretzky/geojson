@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Le François",
+    "country": "MQ",
+    "subdivision": "MQ",
+    "timezone": "America/Martinique"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.90311,
+      14.61513
+    ]
+  }
+}

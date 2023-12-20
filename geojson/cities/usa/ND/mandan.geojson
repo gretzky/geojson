@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mandan",
+    "country": "US",
+    "subdivision": "ND",
+    "timezone": "America/North_Dakota/New_Salem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.88958,
+      46.82666
+    ]
+  }
+}

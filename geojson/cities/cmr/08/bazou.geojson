@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bazou",
+    "country": "CM",
+    "subdivision": "08",
+    "timezone": "Africa/Douala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.46751,
+      5.06001
+    ]
+  }
+}

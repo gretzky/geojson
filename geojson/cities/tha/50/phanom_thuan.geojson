@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Phanom Thuan",
+    "country": "TH",
+    "subdivision": "50",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.69858,
+      14.13031
+    ]
+  }
+}

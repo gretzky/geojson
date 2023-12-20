@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kegen",
+    "country": "KZ",
+    "subdivision": "01",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.22055,
+      43.02143
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yellandu",
+    "country": "IN",
+    "subdivision": "40",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.32146,
+      17.59064
+    ]
+  }
+}

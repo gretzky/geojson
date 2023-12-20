@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Urubamba",
+    "country": "PE",
+    "subdivision": "08",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.11583,
+      -13.30472
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jardim",
+    "country": "BR",
+    "subdivision": "11",
+    "timezone": "America/Campo_Grande"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.13806,
+      -21.48028
+    ]
+  }
+}

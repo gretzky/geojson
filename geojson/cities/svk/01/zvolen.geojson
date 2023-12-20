@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zvolen",
+    "country": "SK",
+    "subdivision": "01",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.15324,
+      48.57442
+    ]
+  }
+}

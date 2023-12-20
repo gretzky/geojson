@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan Bautista",
+    "country": "GT",
+    "subdivision": "20",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.17904,
+      14.42274
+    ]
+  }
+}

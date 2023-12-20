@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sande",
+    "country": "NO",
+    "subdivision": "38",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.20809,
+      59.58679
+    ]
+  }
+}

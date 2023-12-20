@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Merced",
+    "country": "CO",
+    "subdivision": "24",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.88472,
+      5.40194
+    ]
+  }
+}

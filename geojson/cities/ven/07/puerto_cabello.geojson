@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Cabello",
+    "country": "VE",
+    "subdivision": "07",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.0125,
+      10.47306
+    ]
+  }
+}

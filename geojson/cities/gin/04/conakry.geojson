@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Conakry",
+    "country": "GN",
+    "subdivision": "04",
+    "timezone": "Africa/Conakry"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.67729,
+      9.53795
+    ]
+  }
+}

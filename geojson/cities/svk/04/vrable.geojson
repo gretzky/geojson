@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vráble",
+    "country": "SK",
+    "subdivision": "04",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.30846,
+      48.24371
+    ]
+  }
+}

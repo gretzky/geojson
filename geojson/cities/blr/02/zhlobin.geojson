@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zhlobin",
+    "country": "BY",
+    "subdivision": "02",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.024,
+      52.8926
+    ]
+  }
+}

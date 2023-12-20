@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pristol",
+    "country": "RO",
+    "subdivision": "26",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.70917,
+      44.22472
+    ]
+  }
+}

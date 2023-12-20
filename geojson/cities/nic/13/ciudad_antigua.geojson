@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad Antigua",
+    "country": "NI",
+    "subdivision": "13",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.30815,
+      13.6406
+    ]
+  }
+}

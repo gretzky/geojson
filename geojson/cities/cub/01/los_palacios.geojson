@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Palacios",
+    "country": "CU",
+    "subdivision": "01",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.24671,
+      22.58882
+    ]
+  }
+}

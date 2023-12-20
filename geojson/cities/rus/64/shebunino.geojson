@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shebunino",
+    "country": "RU",
+    "subdivision": "64",
+    "timezone": "Asia/Sakhalin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.85699,
+      46.4301
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Piggs Peak",
+    "country": "SZ",
+    "subdivision": "01",
+    "timezone": "Africa/Mbabane"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.24666,
+      -25.96082
+    ]
+  }
+}

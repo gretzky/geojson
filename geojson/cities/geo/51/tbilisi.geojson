@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tbilisi",
+    "country": "GE",
+    "subdivision": "51",
+    "timezone": "Asia/Tbilisi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.83368,
+      41.69411
+    ]
+  }
+}

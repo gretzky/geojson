@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Borgo",
+    "country": "FR",
+    "subdivision": "94",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.42636,
+      42.55488
+    ]
+  }
+}

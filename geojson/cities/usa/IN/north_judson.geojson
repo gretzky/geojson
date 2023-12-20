@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "North Judson",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Knox"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.77585,
+      41.21504
+    ]
+  }
+}

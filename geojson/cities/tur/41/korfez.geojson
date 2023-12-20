@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Körfez",
+    "country": "TR",
+    "subdivision": "41",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.78275,
+      40.76704
+    ]
+  }
+}

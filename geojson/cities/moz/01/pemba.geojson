@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pemba",
+    "country": "MZ",
+    "subdivision": "01",
+    "timezone": "Africa/Maputo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.51775,
+      -12.97395
+    ]
+  }
+}

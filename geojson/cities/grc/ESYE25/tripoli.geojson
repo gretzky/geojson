@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Trípoli",
+    "country": "GR",
+    "subdivision": "ESYE25",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.37944,
+      37.50889
+    ]
+  }
+}

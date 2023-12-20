@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hayrabolu",
+    "country": "TR",
+    "subdivision": "59",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.10688,
+      41.21311
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Haba",
+    "country": "ES",
+    "subdivision": "57",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.80034,
+      38.91929
+    ]
+  }
+}

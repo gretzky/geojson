@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ghazni",
+    "country": "AF",
+    "subdivision": "08",
+    "timezone": "Asia/Kabul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      68.42096,
+      33.55391
+    ]
+  }
+}

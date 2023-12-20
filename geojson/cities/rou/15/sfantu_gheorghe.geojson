@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sfântu Gheorghe",
+    "country": "RO",
+    "subdivision": "15",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.78333,
+      45.86667
+    ]
+  }
+}

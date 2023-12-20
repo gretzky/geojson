@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dedovichi",
+    "country": "RU",
+    "subdivision": "60",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.95018,
+      57.55166
+    ]
+  }
+}

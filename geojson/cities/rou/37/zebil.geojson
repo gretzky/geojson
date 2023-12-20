@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zebil",
+    "country": "RO",
+    "subdivision": "37",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.76873,
+      44.946
+    ]
+  }
+}

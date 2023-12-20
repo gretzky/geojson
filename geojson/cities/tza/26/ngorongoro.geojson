@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ngorongoro",
+    "country": "TZ",
+    "subdivision": "26",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.48747,
+      -3.23973
+    ]
+  }
+}

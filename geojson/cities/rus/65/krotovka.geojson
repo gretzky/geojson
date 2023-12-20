@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krotovka",
+    "country": "RU",
+    "subdivision": "65",
+    "timezone": "Europe/Samara"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.1686,
+      53.2858
+    ]
+  }
+}

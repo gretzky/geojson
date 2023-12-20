@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ismailia",
+    "country": "EG",
+    "subdivision": "07",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.27225,
+      30.60427
+    ]
+  }
+}

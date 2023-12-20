@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pop",
+    "country": "UZ",
+    "subdivision": "06",
+    "timezone": "Asia/Tashkent"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.10889,
+      40.87361
+    ]
+  }
+}

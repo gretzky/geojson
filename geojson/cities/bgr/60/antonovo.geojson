@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Antonovo",
+    "country": "BG",
+    "subdivision": "60",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.16667,
+      43.15
+    ]
+  }
+}

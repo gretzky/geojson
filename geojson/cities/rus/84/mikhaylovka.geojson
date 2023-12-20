@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mikhaylovka",
+    "country": "RU",
+    "subdivision": "84",
+    "timezone": "Europe/Volgograd"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.2379,
+      50.06
+    ]
+  }
+}

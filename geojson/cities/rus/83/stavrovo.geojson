@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stavrovo",
+    "country": "RU",
+    "subdivision": "83",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.01295,
+      56.13311
+    ]
+  }
+}

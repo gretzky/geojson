@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Samokov",
+    "country": "BG",
+    "subdivision": "58",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5528,
+      42.337
+    ]
+  }
+}

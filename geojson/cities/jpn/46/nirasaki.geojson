@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nirasaki",
+    "country": "JP",
+    "subdivision": "46",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.45,
+      35.7
+    ]
+  }
+}

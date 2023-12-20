@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chui",
+    "country": "UY",
+    "subdivision": "14",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -53.45926,
+      -33.69792
+    ]
+  }
+}

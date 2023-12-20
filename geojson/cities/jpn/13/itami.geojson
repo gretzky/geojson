@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Itami",
+    "country": "JP",
+    "subdivision": "13",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.40126,
+      34.78427
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Grabovo",
+    "country": "RU",
+    "subdivision": "57",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.06395,
+      53.38751
+    ]
+  }
+}

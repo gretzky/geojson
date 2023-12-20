@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Elkford",
+    "country": "CA",
+    "subdivision": "02",
+    "timezone": "America/Edmonton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.8854,
+      50.05007
+    ]
+  }
+}

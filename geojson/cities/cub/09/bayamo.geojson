@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bayamo",
+    "country": "CU",
+    "subdivision": "09",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.64361,
+      20.37417
+    ]
+  }
+}

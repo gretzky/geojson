@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Klang",
+    "country": "MY",
+    "subdivision": "12",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.44333,
+      3.03667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Rosa del Conlara",
+    "country": "AR",
+    "subdivision": "19",
+    "timezone": "America/Argentina/San_Luis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.20323,
+      -32.34286
+    ]
+  }
+}

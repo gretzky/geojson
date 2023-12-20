@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shirone",
+    "country": "JP",
+    "subdivision": "29",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.02199,
+      37.76354
+    ]
+  }
+}

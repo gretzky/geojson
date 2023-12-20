@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Appenzell",
+    "country": "CH",
+    "subdivision": "AI",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.40996,
+      47.33103
+    ]
+  }
+}

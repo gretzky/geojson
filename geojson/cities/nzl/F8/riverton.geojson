@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Riverton",
+    "country": "NZ",
+    "subdivision": "F8",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      168.01667,
+      -46.35
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arusha",
+    "country": "TZ",
+    "subdivision": "26",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.68333,
+      -3.36667
+    ]
+  }
+}

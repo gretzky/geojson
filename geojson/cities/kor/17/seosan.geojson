@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Seosan",
+    "country": "KR",
+    "subdivision": "17",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.45222,
+      36.78167
+    ]
+  }
+}

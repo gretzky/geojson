@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pablo",
+    "country": "BO",
+    "subdivision": "04",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.83333,
+      -16.21667
+    ]
+  }
+}

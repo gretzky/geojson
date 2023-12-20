@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ostashkov",
+    "country": "RU",
+    "subdivision": "77",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.10753,
+      57.14667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Abu Dhabi",
+    "country": "AE",
+    "subdivision": "01",
+    "timezone": "Asia/Dubai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.39696,
+      24.45118
+    ]
+  }
+}

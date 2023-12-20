@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Turkestan",
+    "country": "KZ",
+    "subdivision": "10",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      68.25175,
+      43.29733
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kondovo",
+    "country": "MK",
+    "subdivision": "F6",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.31427,
+      42.01151
+    ]
+  }
+}

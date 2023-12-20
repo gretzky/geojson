@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pingzhuang",
+    "country": "CN",
+    "subdivision": "20",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.28889,
+      42.03722
+    ]
+  }
+}

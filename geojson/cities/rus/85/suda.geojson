@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Suda",
+    "country": "RU",
+    "subdivision": "85",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.5582,
+      59.15254
+    ]
+  }
+}

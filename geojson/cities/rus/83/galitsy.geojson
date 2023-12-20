@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Galitsy",
+    "country": "RU",
+    "subdivision": "83",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.84588,
+      56.17759
+    ]
+  }
+}

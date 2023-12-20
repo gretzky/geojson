@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chom Bueng",
+    "country": "TH",
+    "subdivision": "52",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.59169,
+      13.62
+    ]
+  }
+}

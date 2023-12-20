@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zuidhorn",
+    "country": "NL",
+    "subdivision": "04",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.40278,
+      53.24667
+    ]
+  }
+}

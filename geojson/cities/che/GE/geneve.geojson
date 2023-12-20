@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Genève",
+    "country": "CH",
+    "subdivision": "GE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.14569,
+      46.20222
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pathum Thani",
+    "country": "TH",
+    "subdivision": "39",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.53049,
+      14.01346
+    ]
+  }
+}

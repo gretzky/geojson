@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Qiryat Ye‘arim",
+    "country": "IL",
+    "subdivision": "06",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.10571,
+      31.81144
+    ]
+  }
+}

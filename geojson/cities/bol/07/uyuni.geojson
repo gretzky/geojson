@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Uyuni",
+    "country": "BO",
+    "subdivision": "07",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.82503,
+      -20.45967
+    ]
+  }
+}

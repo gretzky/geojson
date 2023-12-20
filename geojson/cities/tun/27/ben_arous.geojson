@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ben Arous",
+    "country": "TN",
+    "subdivision": "27",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.22167,
+      36.75452
+    ]
+  }
+}

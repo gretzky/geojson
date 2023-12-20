@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eğil",
+    "country": "TR",
+    "subdivision": "21",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.07435,
+      38.25748
+    ]
+  }
+}

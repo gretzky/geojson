@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tucacas",
+    "country": "VE",
+    "subdivision": "11",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.32564,
+      10.79006
+    ]
+  }
+}

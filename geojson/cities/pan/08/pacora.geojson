@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pacora",
+    "country": "PA",
+    "subdivision": "08",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.28997,
+      9.07937
+    ]
+  }
+}

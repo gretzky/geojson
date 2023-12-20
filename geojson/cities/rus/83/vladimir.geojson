@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vladimir",
+    "country": "RU",
+    "subdivision": "83",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.39658,
+      56.13655
+    ]
+  }
+}

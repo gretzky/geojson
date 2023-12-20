@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Diyarbakır",
+    "country": "TR",
+    "subdivision": "21",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.21721,
+      37.91363
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Korsholm",
+    "country": "FI",
+    "subdivision": "15",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.68216,
+      63.11418
+    ]
+  }
+}

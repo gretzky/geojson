@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Orania",
+    "country": "ZA",
+    "subdivision": "08",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.41205,
+      -29.81381
+    ]
+  }
+}

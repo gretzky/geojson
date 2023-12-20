@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sauga",
+    "country": "EE",
+    "subdivision": "11",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.49496,
+      58.4272
+    ]
+  }
+}

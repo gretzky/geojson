@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Comrat",
+    "country": "MD",
+    "subdivision": "51",
+    "timezone": "Europe/Chisinau"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.6565,
+      46.29456
+    ]
+  }
+}

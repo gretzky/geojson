@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puma",
+    "country": "TZ",
+    "subdivision": "16",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.73333,
+      -5
+    ]
+  }
+}

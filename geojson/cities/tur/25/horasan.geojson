@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Horasan",
+    "country": "TR",
+    "subdivision": "25",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.16366,
+      40.03885
+    ]
+  }
+}

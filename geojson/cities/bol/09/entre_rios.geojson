@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Entre Ríos",
+    "country": "BO",
+    "subdivision": "09",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.17299,
+      -21.52661
+    ]
+  }
+}

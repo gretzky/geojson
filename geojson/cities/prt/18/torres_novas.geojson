@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Torres Novas",
+    "country": "PT",
+    "subdivision": "18",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.54348,
+      39.47581
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Iqaluit",
+    "country": "CA",
+    "subdivision": "14",
+    "timezone": "America/Iqaluit"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.51727,
+      63.74697
+    ]
+  }
+}

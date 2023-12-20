@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hooper Bay",
+    "country": "US",
+    "subdivision": "AK",
+    "timezone": "America/Nome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -166.09667,
+      61.53111
+    ]
+  }
+}

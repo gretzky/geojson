@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sfax",
+    "country": "TN",
+    "subdivision": "32",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.76028,
+      34.74056
+    ]
+  }
+}

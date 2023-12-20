@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gros Morne",
+    "country": "HT",
+    "subdivision": "06",
+    "timezone": "America/Port-au-Prince"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.67808,
+      19.6708
+    ]
+  }
+}

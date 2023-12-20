@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Semnan",
+    "country": "IR",
+    "subdivision": "25",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.39205,
+      35.57691
+    ]
+  }
+}

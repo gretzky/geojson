@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Malvik",
+    "country": "NO",
+    "subdivision": "21",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.68333,
+      63.43333
+    ]
+  }
+}

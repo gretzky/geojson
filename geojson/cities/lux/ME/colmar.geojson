@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colmar",
+    "country": "LU",
+    "subdivision": "ME",
+    "timezone": "Europe/Luxembourg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.09722,
+      49.81028
+    ]
+  }
+}

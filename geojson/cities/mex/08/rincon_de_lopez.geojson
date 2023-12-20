@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rincón de López",
+    "country": "MX",
+    "subdivision": "08",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.93241,
+      19.05308
+    ]
+  }
+}

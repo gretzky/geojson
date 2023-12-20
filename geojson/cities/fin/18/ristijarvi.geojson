@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ristijärvi",
+    "country": "FI",
+    "subdivision": "18",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.21667,
+      64.5
+    ]
+  }
+}

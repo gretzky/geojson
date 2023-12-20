@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dhanbad",
+    "country": "IN",
+    "subdivision": "38",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.42992,
+      23.79759
+    ]
+  }
+}

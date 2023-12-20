@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sivas",
+    "country": "TR",
+    "subdivision": "58",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.01611,
+      39.74833
+    ]
+  }
+}

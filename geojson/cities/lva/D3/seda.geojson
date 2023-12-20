@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Seda",
+    "country": "LV",
+    "subdivision": "D3",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.75089,
+      57.65042
+    ]
+  }
+}

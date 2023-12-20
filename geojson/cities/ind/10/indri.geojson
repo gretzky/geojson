@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Indri",
+    "country": "IN",
+    "subdivision": "10",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.05972,
+      29.87999
+    ]
+  }
+}

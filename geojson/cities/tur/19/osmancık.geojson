@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Osmancık",
+    "country": "TR",
+    "subdivision": "19",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.8047,
+      40.97818
+    ]
+  }
+}

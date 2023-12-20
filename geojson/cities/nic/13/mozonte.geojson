@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mozonte",
+    "country": "NI",
+    "subdivision": "13",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.43841,
+      13.66034
+    ]
+  }
+}

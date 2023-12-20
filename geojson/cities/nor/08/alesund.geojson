@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ålesund",
+    "country": "NO",
+    "subdivision": "08",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.15492,
+      62.47225
+    ]
+  }
+}

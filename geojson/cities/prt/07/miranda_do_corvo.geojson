@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Miranda do Corvo",
+    "country": "PT",
+    "subdivision": "07",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.33261,
+      40.09318
+    ]
+  }
+}

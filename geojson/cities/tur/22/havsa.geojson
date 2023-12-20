@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Havsa",
+    "country": "TR",
+    "subdivision": "22",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.82207,
+      41.54898
+    ]
+  }
+}

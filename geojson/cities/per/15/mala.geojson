@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mala",
+    "country": "PE",
+    "subdivision": "15",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.63083,
+      -12.65806
+    ]
+  }
+}

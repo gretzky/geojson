@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pie de Pató",
+    "country": "CO",
+    "subdivision": "11",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.97449,
+      5.51604
+    ]
+  }
+}

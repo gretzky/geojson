@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Askiz",
+    "country": "RU",
+    "subdivision": "31",
+    "timezone": "Asia/Krasnoyarsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      90.42833,
+      53.13722
+    ]
+  }
+}

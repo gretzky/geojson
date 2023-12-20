@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Horezu",
+    "country": "RO",
+    "subdivision": "39",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.01667,
+      45.15
+    ]
+  }
+}

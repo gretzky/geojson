@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Izalco",
+    "country": "SV",
+    "subdivision": "13",
+    "timezone": "America/El_Salvador"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.67306,
+      13.74472
+    ]
+  }
+}

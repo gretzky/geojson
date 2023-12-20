@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Araklı",
+    "country": "TR",
+    "subdivision": "61",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.05842,
+      40.93854
+    ]
+  }
+}

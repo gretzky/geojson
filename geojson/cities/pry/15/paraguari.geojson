@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Paraguarí",
+    "country": "PY",
+    "subdivision": "15",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.14722,
+      -25.62083
+    ]
+  }
+}

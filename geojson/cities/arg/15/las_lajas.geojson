@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Lajas",
+    "country": "AR",
+    "subdivision": "15",
+    "timezone": "America/Argentina/Salta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.36745,
+      -38.52322
+    ]
+  }
+}

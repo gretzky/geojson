@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bjursås",
+    "country": "SE",
+    "subdivision": "10",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.45291,
+      60.73726
+    ]
+  }
+}

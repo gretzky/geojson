@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kaibito",
+    "country": "US",
+    "subdivision": "AZ",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.07431,
+      36.59722
+    ]
+  }
+}

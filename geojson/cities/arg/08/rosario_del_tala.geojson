@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rosario del Tala",
+    "country": "AR",
+    "subdivision": "08",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.14545,
+      -32.30286
+    ]
+  }
+}

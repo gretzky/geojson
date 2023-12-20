@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hechuan",
+    "country": "CN",
+    "subdivision": "33",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.26461,
+      29.99228
+    ]
+  }
+}

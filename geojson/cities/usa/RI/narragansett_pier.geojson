@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Narragansett Pier",
+    "country": "US",
+    "subdivision": "RI",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.45644,
+      41.43232
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Constantine",
+    "country": "DZ",
+    "subdivision": "04",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.61472,
+      36.365
+    ]
+  }
+}

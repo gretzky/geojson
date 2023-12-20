@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "São Vicente",
+    "country": "PT",
+    "subdivision": "10",
+    "timezone": "Atlantic/Madeira"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -17.04323,
+      32.79673
+    ]
+  }
+}

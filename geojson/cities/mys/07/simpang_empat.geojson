@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Simpang Empat",
+    "country": "MY",
+    "subdivision": "07",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.63333,
+      4.95
+    ]
+  }
+}

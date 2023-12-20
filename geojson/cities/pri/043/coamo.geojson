@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coamo",
+    "country": "PR",
+    "subdivision": "043",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.35795,
+      18.07996
+    ]
+  }
+}

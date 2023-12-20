@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gonzalo",
+    "country": "DO",
+    "subdivision": "32",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.75114,
+      18.95147
+    ]
+  }
+}

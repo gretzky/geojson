@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palo Negro",
+    "country": "VE",
+    "subdivision": "04",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.54194,
+      10.17389
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Söderfors",
+    "country": "SE",
+    "subdivision": "21",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.23333,
+      60.38333
+    ]
+  }
+}

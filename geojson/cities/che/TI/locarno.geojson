@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Locarno",
+    "country": "CH",
+    "subdivision": "TI",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.79953,
+      46.17086
+    ]
+  }
+}

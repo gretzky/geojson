@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Golczewo",
+    "country": "PL",
+    "subdivision": "87",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.97847,
+      53.82426
+    ]
+  }
+}

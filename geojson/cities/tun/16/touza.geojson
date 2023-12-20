@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Touza",
+    "country": "TN",
+    "subdivision": "16",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.82732,
+      35.63544
+    ]
+  }
+}

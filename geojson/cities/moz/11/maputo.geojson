@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maputo",
+    "country": "MZ",
+    "subdivision": "11",
+    "timezone": "Africa/Maputo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.58322,
+      -25.96553
+    ]
+  }
+}

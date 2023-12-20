@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lawrenceburg",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.84995,
+      39.09089
+    ]
+  }
+}

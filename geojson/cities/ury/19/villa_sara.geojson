@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Sara",
+    "country": "UY",
+    "subdivision": "19",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.41947,
+      -33.2534
+    ]
+  }
+}

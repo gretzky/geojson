@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bukavu",
+    "country": "CD",
+    "subdivision": "12",
+    "timezone": "Africa/Lubumbashi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.84281,
+      -2.49077
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taşlıçay",
+    "country": "TR",
+    "subdivision": "04",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.36878,
+      39.62966
+    ]
+  }
+}

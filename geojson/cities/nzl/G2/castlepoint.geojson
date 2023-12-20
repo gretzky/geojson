@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Castlepoint",
+    "country": "NZ",
+    "subdivision": "G2",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      176.21667,
+      -40.9
+    ]
+  }
+}

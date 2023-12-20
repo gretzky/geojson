@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beirut",
+    "country": "LB",
+    "subdivision": "04",
+    "timezone": "Asia/Beirut"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.50157,
+      33.89332
+    ]
+  }
+}

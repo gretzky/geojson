@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Botados",
+    "country": "DO",
+    "subdivision": "32",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.99536,
+      18.73226
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Port Victoria",
+    "country": "KE",
+    "subdivision": "13",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.97248,
+      0.09809
+    ]
+  }
+}

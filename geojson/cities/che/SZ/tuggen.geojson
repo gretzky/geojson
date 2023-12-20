@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tuggen",
+    "country": "CH",
+    "subdivision": "SZ",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.94896,
+      47.20291
+    ]
+  }
+}

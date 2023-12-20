@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Buena Esperanza",
+    "country": "AR",
+    "subdivision": "19",
+    "timezone": "America/Argentina/San_Luis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.25379,
+      -34.75647
+    ]
+  }
+}

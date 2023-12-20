@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Castillo",
+    "country": "DO",
+    "subdivision": "06",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.02726,
+      19.20824
+    ]
+  }
+}

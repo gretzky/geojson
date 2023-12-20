@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jieni",
+    "country": "RO",
+    "subdivision": "29",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.59349,
+      43.95095
+    ]
+  }
+}

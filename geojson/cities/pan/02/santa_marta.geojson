@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Marta",
+    "country": "PA",
+    "subdivision": "02",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.70113,
+      8.52289
+    ]
+  }
+}

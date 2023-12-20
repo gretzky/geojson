@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Embu",
+    "country": "KE",
+    "subdivision": "15",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.45743,
+      -0.53987
+    ]
+  }
+}

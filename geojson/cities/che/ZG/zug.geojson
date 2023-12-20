@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zug",
+    "country": "CH",
+    "subdivision": "ZG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.51745,
+      47.17242
+    ]
+  }
+}

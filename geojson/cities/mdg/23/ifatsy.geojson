@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ifatsy",
+    "country": "MG",
+    "subdivision": "23",
+    "timezone": "Indian/Antananarivo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.75,
+      -22.4
+    ]
+  }
+}

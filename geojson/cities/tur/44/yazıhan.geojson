@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yazıhan",
+    "country": "TR",
+    "subdivision": "44",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.17327,
+      38.59292
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jenzan",
+    "country": "KR",
+    "subdivision": "14",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.2975,
+      36.24083
+    ]
+  }
+}

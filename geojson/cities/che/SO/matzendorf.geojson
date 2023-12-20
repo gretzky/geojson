@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matzendorf",
+    "country": "CH",
+    "subdivision": "SO",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6282,
+      47.30374
+    ]
+  }
+}

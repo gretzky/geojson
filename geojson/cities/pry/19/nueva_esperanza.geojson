@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nueva Esperanza",
+    "country": "PY",
+    "subdivision": "19",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.8551,
+      -24.5076
+    ]
+  }
+}

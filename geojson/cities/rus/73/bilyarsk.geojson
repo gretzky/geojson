@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bilyarsk",
+    "country": "RU",
+    "subdivision": "73",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      50.38671,
+      54.98358
+    ]
+  }
+}

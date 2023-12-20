@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Darreh Shahr",
+    "country": "IR",
+    "subdivision": "10",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.3799,
+      33.14447
+    ]
+  }
+}

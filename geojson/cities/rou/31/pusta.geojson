@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pusta",
+    "country": "RO",
+    "subdivision": "31",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.72374,
+      47.24596
+    ]
+  }
+}

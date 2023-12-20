@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Viesīte",
+    "country": "LV",
+    "subdivision": "E6",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.55514,
+      56.34751
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Franco",
+    "country": "ES",
+    "subdivision": "34",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8662,
+      43.55522
+    ]
+  }
+}

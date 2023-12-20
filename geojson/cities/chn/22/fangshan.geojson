@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fangshan",
+    "country": "CN",
+    "subdivision": "22",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.99658,
+      39.68699
+    ]
+  }
+}

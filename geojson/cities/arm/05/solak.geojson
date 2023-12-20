@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Solak",
+    "country": "AM",
+    "subdivision": "05",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.70709,
+      40.46252
+    ]
+  }
+}

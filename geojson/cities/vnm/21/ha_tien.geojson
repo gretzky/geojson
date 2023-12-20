@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hà Tiên",
+    "country": "VN",
+    "subdivision": "21",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.48753,
+      10.3831
+    ]
+  }
+}

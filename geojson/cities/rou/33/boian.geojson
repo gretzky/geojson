@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boian",
+    "country": "RO",
+    "subdivision": "33",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.22862,
+      46.20159
+    ]
+  }
+}

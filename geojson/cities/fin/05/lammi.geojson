@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lammi",
+    "country": "FI",
+    "subdivision": "05",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.01667,
+      61.08333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jambi City",
+    "country": "ID",
+    "subdivision": "05",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.61667,
+      -1.6
+    ]
+  }
+}

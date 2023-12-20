@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Etterbeek",
+    "country": "BE",
+    "subdivision": "BRU",
+    "timezone": "Europe/Brussels"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.38835,
+      50.83272
+    ]
+  }
+}

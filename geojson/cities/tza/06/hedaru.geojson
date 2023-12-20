@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hedaru",
+    "country": "TZ",
+    "subdivision": "06",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.9,
+      -4.5
+    ]
+  }
+}

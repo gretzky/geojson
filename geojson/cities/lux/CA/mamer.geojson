@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mamer",
+    "country": "LU",
+    "subdivision": "CA",
+    "timezone": "Europe/Luxembourg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.02333,
+      49.6275
+    ]
+  }
+}

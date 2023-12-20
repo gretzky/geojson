@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ibadan",
+    "country": "NG",
+    "subdivision": "32",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.90591,
+      7.37756
+    ]
+  }
+}

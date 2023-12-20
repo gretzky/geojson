@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Usuki",
+    "country": "JP",
+    "subdivision": "30",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.80401,
+      33.12342
+    ]
+  }
+}

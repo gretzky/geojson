@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Foxford",
+    "country": "IE",
+    "subdivision": "C",
+    "timezone": "Europe/Dublin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.11551,
+      53.9807
+    ]
+  }
+}

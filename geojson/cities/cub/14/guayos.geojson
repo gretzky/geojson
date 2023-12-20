@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guayos",
+    "country": "CU",
+    "subdivision": "14",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.46106,
+      22.04956
+    ]
+  }
+}

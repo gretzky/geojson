@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mapua",
+    "country": "NZ",
+    "subdivision": "TAS",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      173.1,
+      -41.25
+    ]
+  }
+}

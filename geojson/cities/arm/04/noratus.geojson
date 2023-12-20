@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Noratus",
+    "country": "AM",
+    "subdivision": "04",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.18048,
+      40.37793
+    ]
+  }
+}

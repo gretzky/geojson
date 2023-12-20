@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Les Avanchets",
+    "country": "CH",
+    "subdivision": "GE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.10814,
+      46.22168
+    ]
+  }
+}

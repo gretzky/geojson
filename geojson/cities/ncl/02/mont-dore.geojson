@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mont-Dore",
+    "country": "NC",
+    "subdivision": "02",
+    "timezone": "Pacific/Noumea"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      166.56621,
+      -22.26257
+    ]
+  }
+}

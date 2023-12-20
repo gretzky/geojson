@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Клечовце",
+    "country": "MK",
+    "subdivision": "45",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.85722,
+      42.11611
+    ]
+  }
+}

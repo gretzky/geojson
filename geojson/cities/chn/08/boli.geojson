@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boli",
+    "country": "CN",
+    "subdivision": "08",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.57211,
+      45.75279
+    ]
+  }
+}

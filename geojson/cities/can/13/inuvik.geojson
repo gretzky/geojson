@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Inuvik",
+    "country": "CA",
+    "subdivision": "13",
+    "timezone": "America/Inuvik"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -133.72817,
+      68.36166
+    ]
+  }
+}

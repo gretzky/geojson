@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cavtat",
+    "country": "HR",
+    "subdivision": "03",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.21806,
+      42.58111
+    ]
+  }
+}

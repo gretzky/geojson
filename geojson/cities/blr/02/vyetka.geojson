@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vyetka",
+    "country": "BY",
+    "subdivision": "02",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.1794,
+      52.5591
+    ]
+  }
+}

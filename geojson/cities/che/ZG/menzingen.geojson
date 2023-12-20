@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Menzingen",
+    "country": "CH",
+    "subdivision": "ZG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.59215,
+      47.17764
+    ]
+  }
+}

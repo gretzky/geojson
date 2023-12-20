@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Şemdinli",
+    "country": "TR",
+    "subdivision": "70",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.5742,
+      37.30514
+    ]
+  }
+}

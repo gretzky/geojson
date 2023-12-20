@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Galicea",
+    "country": "RO",
+    "subdivision": "39",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.28333,
+      44.91667
+    ]
+  }
+}

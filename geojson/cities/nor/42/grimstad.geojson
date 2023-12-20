@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Grimstad",
+    "country": "NO",
+    "subdivision": "42",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.59343,
+      58.3405
+    ]
+  }
+}

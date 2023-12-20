@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Limache",
+    "country": "CL",
+    "subdivision": "01",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.26667,
+      -33.01667
+    ]
+  }
+}

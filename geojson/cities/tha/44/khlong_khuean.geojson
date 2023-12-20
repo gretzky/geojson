@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Khlong Khuean",
+    "country": "TH",
+    "subdivision": "44",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.16353,
+      13.79131
+    ]
+  }
+}

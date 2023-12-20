@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bang Yai",
+    "country": "TH",
+    "subdivision": "38",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.36251,
+      13.84341
+    ]
+  }
+}

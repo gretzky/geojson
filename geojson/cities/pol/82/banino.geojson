@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Banino",
+    "country": "PL",
+    "subdivision": "82",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.40622,
+      54.39215
+    ]
+  }
+}

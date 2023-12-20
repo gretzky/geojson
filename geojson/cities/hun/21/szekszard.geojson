@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Szekszárd",
+    "country": "HU",
+    "subdivision": "21",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.70905,
+      46.35014
+    ]
+  }
+}

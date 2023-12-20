@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Río Bueno",
+    "country": "CL",
+    "subdivision": "17",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.95564,
+      -40.33494
+    ]
+  }
+}

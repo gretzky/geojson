@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chiria",
+    "country": "IN",
+    "subdivision": "38",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.27601,
+      22.31093
+    ]
+  }
+}

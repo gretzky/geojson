@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hanga Roa",
+    "country": "CL",
+    "subdivision": "01",
+    "timezone": "Pacific/Easter"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.42438,
+      -27.15253
+    ]
+  }
+}

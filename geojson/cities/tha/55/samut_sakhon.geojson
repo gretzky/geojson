@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Samut Sakhon",
+    "country": "TH",
+    "subdivision": "55",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.27362,
+      13.54753
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rzeczyca",
+    "country": "PL",
+    "subdivision": "74",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.29484,
+      51.59824
+    ]
+  }
+}

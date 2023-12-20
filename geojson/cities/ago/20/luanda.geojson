@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Luanda",
+    "country": "AO",
+    "subdivision": "20",
+    "timezone": "Africa/Luanda"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.23432,
+      -8.83682
+    ]
+  }
+}

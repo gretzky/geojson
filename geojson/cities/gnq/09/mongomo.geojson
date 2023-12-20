@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mongomo",
+    "country": "GQ",
+    "subdivision": "09",
+    "timezone": "Africa/Malabo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.31346,
+      1.62742
+    ]
+  }
+}

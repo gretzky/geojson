@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Medvedevo",
+    "country": "RU",
+    "subdivision": "45",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.80405,
+      56.63388
+    ]
+  }
+}

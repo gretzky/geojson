@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lewiston Orchards",
+    "country": "US",
+    "subdivision": "ID",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.97543,
+      46.38044
+    ]
+  }
+}

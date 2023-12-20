@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Vásquez",
+    "country": "DO",
+    "subdivision": "15",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.4464,
+      19.7411
+    ]
+  }
+}

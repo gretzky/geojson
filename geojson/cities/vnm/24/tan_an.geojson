@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tân An",
+    "country": "VN",
+    "subdivision": "24",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.41366,
+      10.53589
+    ]
+  }
+}

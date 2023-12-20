@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carlos Reyles",
+    "country": "UY",
+    "subdivision": "05",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.47652,
+      -33.05658
+    ]
+  }
+}

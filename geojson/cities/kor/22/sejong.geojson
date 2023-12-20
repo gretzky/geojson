@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sejong",
+    "country": "KR",
+    "subdivision": "22",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.29223,
+      36.59245
+    ]
+  }
+}

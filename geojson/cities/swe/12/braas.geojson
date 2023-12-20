@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Braås",
+    "country": "SE",
+    "subdivision": "12",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.05,
+      57.06667
+    ]
+  }
+}

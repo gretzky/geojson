@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Doğanyurt",
+    "country": "TR",
+    "subdivision": "37",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.46029,
+      42.00457
+    ]
+  }
+}

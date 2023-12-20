@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sylva",
+    "country": "RU",
+    "subdivision": "71",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      58.7734,
+      57.3092
+    ]
+  }
+}

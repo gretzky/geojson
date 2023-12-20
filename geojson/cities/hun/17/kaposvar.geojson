@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kaposvár",
+    "country": "HU",
+    "subdivision": "17",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.8,
+      46.36667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Quiaca",
+    "country": "AR",
+    "subdivision": "10",
+    "timezone": "America/Argentina/Jujuy"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.59299,
+      -22.10236
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Başkale",
+    "country": "TR",
+    "subdivision": "65",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.01718,
+      38.04526
+    ]
+  }
+}

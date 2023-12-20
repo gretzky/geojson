@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hadera",
+    "country": "IL",
+    "subdivision": "04",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.9039,
+      32.44192
+    ]
+  }
+}

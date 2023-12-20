@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tsuruoka",
+    "country": "JP",
+    "subdivision": "44",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.82167,
+      38.72167
+    ]
+  }
+}

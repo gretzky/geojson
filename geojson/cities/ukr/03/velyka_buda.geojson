@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Velyka Buda",
+    "country": "UA",
+    "subdivision": "03",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.0973,
+      48.14793
+    ]
+  }
+}

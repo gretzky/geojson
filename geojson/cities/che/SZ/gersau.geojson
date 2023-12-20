@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gersau",
+    "country": "CH",
+    "subdivision": "SZ",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.525,
+      46.99419
+    ]
+  }
+}

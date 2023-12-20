@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lagarto",
+    "country": "BR",
+    "subdivision": "28",
+    "timezone": "America/Maceio"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -37.65,
+      -10.91722
+    ]
+  }
+}

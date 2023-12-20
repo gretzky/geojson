@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guabito",
+    "country": "PA",
+    "subdivision": "01",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.61152,
+      9.49437
+    ]
+  }
+}

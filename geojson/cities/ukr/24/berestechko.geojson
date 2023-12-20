@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Berestechko",
+    "country": "UA",
+    "subdivision": "24",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.11071,
+      50.36047
+    ]
+  }
+}

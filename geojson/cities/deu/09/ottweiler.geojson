@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ottweiler",
+    "country": "DE",
+    "subdivision": "09",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.16424,
+      49.40133
+    ]
+  }
+}

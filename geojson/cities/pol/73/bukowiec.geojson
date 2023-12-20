@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bukowiec",
+    "country": "PL",
+    "subdivision": "73",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.24048,
+      53.43383
+    ]
+  }
+}

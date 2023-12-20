@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Waiouru",
+    "country": "NZ",
+    "subdivision": "F3",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      175.66834,
+      -39.47753
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kūd",
+    "country": "IN",
+    "subdivision": "12",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.28727,
+      33.07246
+    ]
+  }
+}

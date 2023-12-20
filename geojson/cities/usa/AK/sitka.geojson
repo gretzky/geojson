@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sitka",
+    "country": "US",
+    "subdivision": "AK",
+    "timezone": "America/Sitka"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -135.33088,
+      57.05315
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Çay",
+    "country": "TR",
+    "subdivision": "03",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.02861,
+      38.59167
+    ]
+  }
+}

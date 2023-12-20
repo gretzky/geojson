@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zambezi",
+    "country": "ZM",
+    "subdivision": "06",
+    "timezone": "Africa/Lusaka"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.10467,
+      -13.54323
+    ]
+  }
+}

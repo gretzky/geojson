@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aghajari",
+    "country": "IR",
+    "subdivision": "15",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.8315,
+      30.7006
+    ]
+  }
+}

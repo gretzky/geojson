@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El-Tor",
+    "country": "EG",
+    "subdivision": "26",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.6222,
+      28.24168
+    ]
+  }
+}

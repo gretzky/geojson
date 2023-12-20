@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dubrovnik",
+    "country": "HR",
+    "subdivision": "03",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.10909,
+      42.64125
+    ]
+  }
+}

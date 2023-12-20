@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fuji",
+    "country": "JP",
+    "subdivision": "37",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.68333,
+      35.16667
+    ]
+  }
+}

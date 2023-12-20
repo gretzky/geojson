@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Friedrichsthal",
+    "country": "DE",
+    "subdivision": "09",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.09622,
+      49.32786
+    ]
+  }
+}

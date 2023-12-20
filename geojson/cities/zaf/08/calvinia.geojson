@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Calvinia",
+    "country": "ZA",
+    "subdivision": "08",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.77601,
+      -31.47069
+    ]
+  }
+}

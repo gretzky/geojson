@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chekalin",
+    "country": "RU",
+    "subdivision": "76",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.24499,
+      54.09685
+    ]
+  }
+}

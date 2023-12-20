@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wildhaus",
+    "country": "CH",
+    "subdivision": "SG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.35402,
+      47.20583
+    ]
+  }
+}

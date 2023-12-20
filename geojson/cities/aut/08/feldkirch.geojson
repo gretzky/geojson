@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Feldkirch",
+    "country": "AT",
+    "subdivision": "08",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6,
+      47.23306
+    ]
+  }
+}

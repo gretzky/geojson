@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Palmar",
+    "country": "PA",
+    "subdivision": "02",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.85081,
+      8.30563
+    ]
+  }
+}

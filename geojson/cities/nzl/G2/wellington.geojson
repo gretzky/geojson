@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wellington",
+    "country": "NZ",
+    "subdivision": "G2",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.77557,
+      -41.28664
+    ]
+  }
+}

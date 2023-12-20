@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Princes Town",
+    "country": "TT",
+    "subdivision": "PRT",
+    "timezone": "America/Port_of_Spain"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.37103,
+      10.27184
+    ]
+  }
+}

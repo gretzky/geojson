@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bodhan",
+    "country": "IN",
+    "subdivision": "40",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.88581,
+      18.66208
+    ]
+  }
+}

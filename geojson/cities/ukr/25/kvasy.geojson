@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kvasy",
+    "country": "UA",
+    "subdivision": "25",
+    "timezone": "Europe/Uzhgorod"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.28115,
+      48.15747
+    ]
+  }
+}

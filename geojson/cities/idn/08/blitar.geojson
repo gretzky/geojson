@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Blitar",
+    "country": "ID",
+    "subdivision": "08",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.1681,
+      -8.0983
+    ]
+  }
+}

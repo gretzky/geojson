@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Volga",
+    "country": "RU",
+    "subdivision": "88",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.38785,
+      57.95157
+    ]
+  }
+}

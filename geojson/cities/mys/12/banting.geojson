@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Banting",
+    "country": "MY",
+    "subdivision": "12",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.50185,
+      2.8136
+    ]
+  }
+}

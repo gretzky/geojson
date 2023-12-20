@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beijing",
+    "country": "CN",
+    "subdivision": "22",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.39723,
+      39.9075
+    ]
+  }
+}

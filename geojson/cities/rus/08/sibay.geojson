@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sibay",
+    "country": "RU",
+    "subdivision": "08",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      58.66583,
+      52.71806
+    ]
+  }
+}

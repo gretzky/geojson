@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Olym",
+    "country": "RU",
+    "subdivision": "41",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.17652,
+      51.682
+    ]
+  }
+}

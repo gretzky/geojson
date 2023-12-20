@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Livadia",
+    "country": "RO",
+    "subdivision": "39",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.24192,
+      45.20546
+    ]
+  }
+}

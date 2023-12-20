@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cerro de Ortega",
+    "country": "MX",
+    "subdivision": "08",
+    "timezone": "America/Mexico_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.72155,
+      18.7508
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Ayote",
+    "country": "NI",
+    "subdivision": "04",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.28737,
+      12.19046
+    ]
+  }
+}

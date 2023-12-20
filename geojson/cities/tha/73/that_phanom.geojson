@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "That Phanom",
+    "country": "TH",
+    "subdivision": "73",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.71039,
+      16.93636
+    ]
+  }
+}

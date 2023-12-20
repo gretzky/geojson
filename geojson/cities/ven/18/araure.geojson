@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Araure",
+    "country": "VE",
+    "subdivision": "18",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.23851,
+      9.58144
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Baj",
+    "country": "HU",
+    "subdivision": "12",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.3641,
+      47.64593
+    ]
+  }
+}

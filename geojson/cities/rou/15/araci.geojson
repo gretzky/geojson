@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Araci",
+    "country": "RO",
+    "subdivision": "15",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.65482,
+      45.81187
+    ]
+  }
+}

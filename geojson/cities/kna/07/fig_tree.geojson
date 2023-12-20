@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fig Tree",
+    "country": "KN",
+    "subdivision": "07",
+    "timezone": "America/St_Kitts"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -62.60265,
+      17.12623
+    ]
+  }
+}

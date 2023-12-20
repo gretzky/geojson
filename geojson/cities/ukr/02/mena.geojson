@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mena",
+    "country": "UA",
+    "subdivision": "02",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.21568,
+      51.5217
+    ]
+  }
+}

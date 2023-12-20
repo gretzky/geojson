@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maseru",
+    "country": "LS",
+    "subdivision": "14",
+    "timezone": "Africa/Maseru"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.48333,
+      -29.31667
+    ]
+  }
+}

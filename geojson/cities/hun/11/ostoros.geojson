@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ostoros",
+    "country": "HU",
+    "subdivision": "11",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.43333,
+      47.86667
+    ]
+  }
+}

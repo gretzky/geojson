@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Durango",
+    "country": "ES",
+    "subdivision": "59",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.6338,
+      43.17124
+    ]
+  }
+}

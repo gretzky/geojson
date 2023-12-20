@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Takaka",
+    "country": "NZ",
+    "subdivision": "TAS",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      172.8,
+      -40.85
+    ]
+  }
+}

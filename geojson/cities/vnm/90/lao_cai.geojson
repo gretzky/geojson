@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lào Cai",
+    "country": "VN",
+    "subdivision": "90",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.97066,
+      22.48556
+    ]
+  }
+}

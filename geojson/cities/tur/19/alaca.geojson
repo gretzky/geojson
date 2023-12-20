@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alaca",
+    "country": "TR",
+    "subdivision": "19",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.8425,
+      40.16833
+    ]
+  }
+}

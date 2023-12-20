@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Megadim",
+    "country": "IL",
+    "subdivision": "04",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.95631,
+      32.72815
+    ]
+  }
+}

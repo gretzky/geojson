@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Osveya",
+    "country": "BY",
+    "subdivision": "07",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.11049,
+      56.0147
+    ]
+  }
+}

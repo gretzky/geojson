@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lielvārde",
+    "country": "LV",
+    "subdivision": "87",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.80743,
+      56.72066
+    ]
+  }
+}

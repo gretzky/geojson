@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kenora",
+    "country": "CA",
+    "subdivision": "08",
+    "timezone": "America/Winnipeg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.48985,
+      49.76741
+    ]
+  }
+}

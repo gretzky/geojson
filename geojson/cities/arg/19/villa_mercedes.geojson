@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa Mercedes",
+    "country": "AR",
+    "subdivision": "19",
+    "timezone": "America/Argentina/San_Luis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.45783,
+      -33.67571
+    ]
+  }
+}

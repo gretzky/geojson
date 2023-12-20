@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Umi",
+    "country": "JP",
+    "subdivision": "07",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.51009,
+      33.56826
+    ]
+  }
+}

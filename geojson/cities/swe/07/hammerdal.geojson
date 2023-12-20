@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hammerdal",
+    "country": "SE",
+    "subdivision": "07",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.36516,
+      63.57615
+    ]
+  }
+}

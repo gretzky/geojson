@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ettelbruck",
+    "country": "LU",
+    "subdivision": "DI",
+    "timezone": "Europe/Luxembourg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.10417,
+      49.8475
+    ]
+  }
+}

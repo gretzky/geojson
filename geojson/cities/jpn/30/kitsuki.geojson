@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kitsuki",
+    "country": "JP",
+    "subdivision": "30",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.61837,
+      33.41998
+    ]
+  }
+}

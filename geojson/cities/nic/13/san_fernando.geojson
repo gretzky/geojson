@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Fernando",
+    "country": "NI",
+    "subdivision": "13",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.31486,
+      13.67755
+    ]
+  }
+}

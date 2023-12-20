@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Turrialba",
+    "country": "CR",
+    "subdivision": "02",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.68352,
+      9.90467
+    ]
+  }
+}

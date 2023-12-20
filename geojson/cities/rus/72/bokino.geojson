@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bokino",
+    "country": "RU",
+    "subdivision": "72",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.45968,
+      52.63744
+    ]
+  }
+}

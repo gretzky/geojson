@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Salym",
+    "country": "RU",
+    "subdivision": "32",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.47889,
+      60.0625
+    ]
+  }
+}

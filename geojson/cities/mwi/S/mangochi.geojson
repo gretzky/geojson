@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mangochi",
+    "country": "MW",
+    "subdivision": "S",
+    "timezone": "Africa/Blantyre"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.26448,
+      -14.47815
+    ]
+  }
+}

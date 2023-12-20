@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fizuli",
+    "country": "AZ",
+    "subdivision": "18",
+    "timezone": "Asia/Baku"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.14529,
+      39.60094
+    ]
+  }
+}

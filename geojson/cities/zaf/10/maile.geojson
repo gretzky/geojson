@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maile",
+    "country": "ZA",
+    "subdivision": "10",
+    "timezone": "Africa/Johannesburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.28165,
+      -25.44152
+    ]
+  }
+}

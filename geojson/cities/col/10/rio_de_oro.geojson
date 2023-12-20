@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Río de Oro",
+    "country": "CO",
+    "subdivision": "10",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.38485,
+      8.2919
+    ]
+  }
+}

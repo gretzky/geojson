@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ullava",
+    "country": "FI",
+    "subdivision": "16",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.08333,
+      63.6
+    ]
+  }
+}

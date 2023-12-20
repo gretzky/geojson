@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Artemisa",
+    "country": "CU",
+    "subdivision": "AR",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.75944,
+      22.81667
+    ]
+  }
+}

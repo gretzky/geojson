@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yoshii",
+    "country": "JP",
+    "subdivision": "10",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.98333,
+      36.25
+    ]
+  }
+}

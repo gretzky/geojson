@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vroutek",
+    "country": "CZ",
+    "subdivision": "89",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.37986,
+      50.17999
+    ]
+  }
+}

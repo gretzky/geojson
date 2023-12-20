@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gaur",
+    "country": "NP",
+    "subdivision": "2",
+    "timezone": "Asia/Kathmandu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.27841,
+      26.76448
+    ]
+  }
+}

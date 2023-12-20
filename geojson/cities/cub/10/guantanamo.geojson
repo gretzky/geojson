@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guantánamo",
+    "country": "CU",
+    "subdivision": "10",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.20917,
+      20.14444
+    ]
+  }
+}

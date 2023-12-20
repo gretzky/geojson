@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Feke",
+    "country": "TR",
+    "subdivision": "81",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.91233,
+      37.81446
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Estelí",
+    "country": "NI",
+    "subdivision": "05",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.35384,
+      13.09185
+    ]
+  }
+}

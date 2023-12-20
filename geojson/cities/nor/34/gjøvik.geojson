@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gjøvik",
+    "country": "NO",
+    "subdivision": "34",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.69155,
+      60.79574
+    ]
+  }
+}

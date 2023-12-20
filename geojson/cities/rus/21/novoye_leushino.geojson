@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novoye Leushino",
+    "country": "RU",
+    "subdivision": "21",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.51443,
+      56.80732
+    ]
+  }
+}

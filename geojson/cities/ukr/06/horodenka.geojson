@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Horodenka",
+    "country": "UA",
+    "subdivision": "06",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.5033,
+      48.669
+    ]
+  }
+}

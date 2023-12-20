@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Şura Mică",
+    "country": "RO",
+    "subdivision": "33",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.06667,
+      45.83333
+    ]
+  }
+}

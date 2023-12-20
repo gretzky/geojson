@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karbi",
+    "country": "AM",
+    "subdivision": "01",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.37793,
+      40.33069
+    ]
+  }
+}

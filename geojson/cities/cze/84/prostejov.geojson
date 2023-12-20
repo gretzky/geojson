@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Prostějov",
+    "country": "CZ",
+    "subdivision": "84",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.11184,
+      49.47188
+    ]
+  }
+}

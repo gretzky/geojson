@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pyeongchang",
+    "country": "KR",
+    "subdivision": "06",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.39306,
+      37.37028
+    ]
+  }
+}

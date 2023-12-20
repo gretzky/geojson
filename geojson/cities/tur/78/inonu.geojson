@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "İnönü",
+    "country": "TR",
+    "subdivision": "78",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.76667,
+      37.31667
+    ]
+  }
+}

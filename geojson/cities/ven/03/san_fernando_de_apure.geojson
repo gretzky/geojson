@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Fernando de Apure",
+    "country": "VE",
+    "subdivision": "03",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.47236,
+      7.88782
+    ]
+  }
+}

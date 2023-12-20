@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Siedove",
+    "country": "UA",
+    "subdivision": "05",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.15368,
+      47.0787
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aguachica",
+    "country": "CO",
+    "subdivision": "10",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.6166,
+      8.30844
+    ]
+  }
+}

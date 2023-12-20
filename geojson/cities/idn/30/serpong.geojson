@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Serpong",
+    "country": "ID",
+    "subdivision": "30",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.66417,
+      -6.31694
+    ]
+  }
+}

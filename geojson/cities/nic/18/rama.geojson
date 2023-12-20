@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rama",
+    "country": "NI",
+    "subdivision": "18",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.21952,
+      12.15965
+    ]
+  }
+}

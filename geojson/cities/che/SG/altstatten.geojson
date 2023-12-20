@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Altstätten",
+    "country": "CH",
+    "subdivision": "SG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.54746,
+      47.37766
+    ]
+  }
+}

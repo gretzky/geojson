@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Cruz Naranjo",
+    "country": "GT",
+    "subdivision": "18",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.36972,
+      14.38806
+    ]
+  }
+}

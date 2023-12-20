@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tachov",
+    "country": "CZ",
+    "subdivision": "87",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.63365,
+      49.79528
+    ]
+  }
+}

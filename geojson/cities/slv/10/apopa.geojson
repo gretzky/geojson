@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Apopa",
+    "country": "SV",
+    "subdivision": "10",
+    "timezone": "America/El_Salvador"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.17917,
+      13.80722
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shangri-La",
+    "country": "CN",
+    "subdivision": "29",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.70779,
+      27.82511
+    ]
+  }
+}

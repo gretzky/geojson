@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rio Meão",
+    "country": "PT",
+    "subdivision": "02",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.57818,
+      40.95775
+    ]
+  }
+}

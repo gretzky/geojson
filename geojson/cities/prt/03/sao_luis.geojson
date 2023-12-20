@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "São Luis",
+    "country": "PT",
+    "subdivision": "03",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.66472,
+      37.71556
+    ]
+  }
+}

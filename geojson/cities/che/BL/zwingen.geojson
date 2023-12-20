@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zwingen",
+    "country": "CH",
+    "subdivision": "BL",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.53027,
+      47.43825
+    ]
+  }
+}

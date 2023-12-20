@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Quito",
+    "country": "EC",
+    "subdivision": "18",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.52495,
+      -0.22985
+    ]
+  }
+}

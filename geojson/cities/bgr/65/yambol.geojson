@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yambol",
+    "country": "BG",
+    "subdivision": "65",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.5,
+      42.48333
+    ]
+  }
+}

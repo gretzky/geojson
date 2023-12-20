@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pronunciamiento",
+    "country": "AR",
+    "subdivision": "08",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.44268,
+      -32.3448
+    ]
+  }
+}

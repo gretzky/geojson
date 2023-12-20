@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Aouinet",
+    "country": "DZ",
+    "subdivision": "33",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.88673,
+      35.86691
+    ]
+  }
+}

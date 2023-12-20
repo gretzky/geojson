@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gigante",
+    "country": "CO",
+    "subdivision": "16",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.54736,
+      2.38678
+    ]
+  }
+}

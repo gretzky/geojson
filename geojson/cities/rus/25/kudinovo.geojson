@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kudinovo",
+    "country": "RU",
+    "subdivision": "25",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.25331,
+      54.99939
+    ]
+  }
+}

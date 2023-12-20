@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kale",
+    "country": "TR",
+    "subdivision": "20",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.84528,
+      37.43917
+    ]
+  }
+}

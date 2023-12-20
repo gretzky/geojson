@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hami",
+    "country": "CN",
+    "subdivision": "13",
+    "timezone": "Asia/Urumqi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      93.50601,
+      42.83393
+    ]
+  }
+}

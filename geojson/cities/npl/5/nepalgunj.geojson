@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nepalgunj",
+    "country": "NP",
+    "subdivision": "5",
+    "timezone": "Asia/Kathmandu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.61667,
+      28.05
+    ]
+  }
+}

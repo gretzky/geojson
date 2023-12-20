@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ceardac",
+    "country": "RO",
+    "subdivision": "40",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.16611,
+      45.66967
+    ]
+  }
+}

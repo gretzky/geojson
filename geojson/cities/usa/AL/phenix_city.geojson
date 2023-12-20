@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Phenix City",
+    "country": "US",
+    "subdivision": "AL",
+    "timezone": "America/New_York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.00077,
+      32.47098
+    ]
+  }
+}

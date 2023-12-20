@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nova Olinda do Norte",
+    "country": "BR",
+    "subdivision": "04",
+    "timezone": "America/Manaus"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.09542,
+      -3.89174
+    ]
+  }
+}

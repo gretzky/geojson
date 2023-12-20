@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tyukod",
+    "country": "HU",
+    "subdivision": "18",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.5633,
+      47.85378
+    ]
+  }
+}

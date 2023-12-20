@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Fría",
+    "country": "VE",
+    "subdivision": "20",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.24888,
+      8.21523
+    ]
+  }
+}

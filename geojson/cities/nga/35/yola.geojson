@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yola",
+    "country": "NG",
+    "subdivision": "35",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.48146,
+      9.20839
+    ]
+  }
+}

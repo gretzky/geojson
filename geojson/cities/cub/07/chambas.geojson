@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chambas",
+    "country": "CU",
+    "subdivision": "07",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.9123,
+      22.19534
+    ]
+  }
+}

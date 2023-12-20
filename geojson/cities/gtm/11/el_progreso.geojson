@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Progreso",
+    "country": "GT",
+    "subdivision": "11",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.84854,
+      14.35604
+    ]
+  }
+}

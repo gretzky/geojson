@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carhuaz",
+    "country": "PE",
+    "subdivision": "02",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.64472,
+      -9.28194
+    ]
+  }
+}

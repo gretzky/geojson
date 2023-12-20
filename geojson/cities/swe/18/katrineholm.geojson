@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Katrineholm",
+    "country": "SE",
+    "subdivision": "18",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.20721,
+      58.99587
+    ]
+  }
+}

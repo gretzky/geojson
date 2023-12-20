@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tamarin",
+    "country": "MU",
+    "subdivision": "12",
+    "timezone": "Indian/Mauritius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.37056,
+      -20.32556
+    ]
+  }
+}

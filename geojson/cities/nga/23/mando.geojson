@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mando",
+    "country": "NG",
+    "subdivision": "23",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.56667,
+      10.71667
+    ]
+  }
+}

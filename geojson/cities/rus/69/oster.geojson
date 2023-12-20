@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oster",
+    "country": "RU",
+    "subdivision": "69",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.8019,
+      54.017
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ocotal",
+    "country": "NI",
+    "subdivision": "13",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.47516,
+      13.63208
+    ]
+  }
+}

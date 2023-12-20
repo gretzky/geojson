@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kamyanka",
+    "country": "UA",
+    "subdivision": "01",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.10174,
+      49.03955
+    ]
+  }
+}

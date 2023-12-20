@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Slavhorod",
+    "country": "UA",
+    "subdivision": "04",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.51722,
+      48.09951
+    ]
+  }
+}

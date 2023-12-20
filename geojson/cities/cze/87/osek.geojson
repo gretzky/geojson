@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Osek",
+    "country": "CZ",
+    "subdivision": "87",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5906,
+      49.77594
+    ]
+  }
+}

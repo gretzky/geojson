@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Cisnes",
+    "country": "CL",
+    "subdivision": "02",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.69695,
+      -44.74736
+    ]
+  }
+}

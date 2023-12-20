@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hastings",
+    "country": "NZ",
+    "subdivision": "F2",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      176.84918,
+      -39.6381
+    ]
+  }
+}

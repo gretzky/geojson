@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Soljani",
+    "country": "HR",
+    "subdivision": "18",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.97028,
+      44.95028
+    ]
+  }
+}

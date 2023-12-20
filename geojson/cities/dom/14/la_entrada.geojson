@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Entrada",
+    "country": "DO",
+    "subdivision": "14",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.90762,
+      19.55367
+    ]
+  }
+}

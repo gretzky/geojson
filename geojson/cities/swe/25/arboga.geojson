@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arboga",
+    "country": "SE",
+    "subdivision": "25",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.83882,
+      59.39387
+    ]
+  }
+}

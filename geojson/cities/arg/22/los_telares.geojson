@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Telares",
+    "country": "AR",
+    "subdivision": "22",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.44889,
+      -28.98479
+    ]
+  }
+}

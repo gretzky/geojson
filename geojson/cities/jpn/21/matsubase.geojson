@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matsubase",
+    "country": "JP",
+    "subdivision": "21",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.66667,
+      32.65
+    ]
+  }
+}

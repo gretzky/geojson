@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Szihalom",
+    "country": "HU",
+    "subdivision": "11",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.48333,
+      47.76667
+    ]
+  }
+}

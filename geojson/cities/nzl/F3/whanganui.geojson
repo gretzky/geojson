@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Whanganui",
+    "country": "NZ",
+    "subdivision": "F3",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      175.05,
+      -39.93333
+    ]
+  }
+}

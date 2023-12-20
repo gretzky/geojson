@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zubovo",
+    "country": "RU",
+    "subdivision": "85",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.9709,
+      60.3181
+    ]
+  }
+}

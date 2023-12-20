@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sindi",
+    "country": "EE",
+    "subdivision": "11",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.6675,
+      58.40056
+    ]
+  }
+}

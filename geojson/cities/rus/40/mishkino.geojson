@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mishkino",
+    "country": "RU",
+    "subdivision": "40",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      63.9175,
+      55.33889
+    ]
+  }
+}

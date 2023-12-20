@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kiten",
+    "country": "BG",
+    "subdivision": "61",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.31667,
+      43.08333
+    ]
+  }
+}

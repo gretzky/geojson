@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Jerónimo",
+    "country": "HN",
+    "subdivision": "02",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.13639,
+      13.17667
+    ]
+  }
+}

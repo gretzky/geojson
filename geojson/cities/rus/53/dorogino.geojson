@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dorogino",
+    "country": "RU",
+    "subdivision": "53",
+    "timezone": "Asia/Novosibirsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.3198,
+      54.3598
+    ]
+  }
+}

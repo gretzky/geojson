@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karaton",
+    "country": "KZ",
+    "subdivision": "06",
+    "timezone": "Asia/Atyrau"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.48905,
+      46.43685
+    ]
+  }
+}

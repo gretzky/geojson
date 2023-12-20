@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Quíbor",
+    "country": "VE",
+    "subdivision": "13",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.6201,
+      9.92866
+    ]
+  }
+}

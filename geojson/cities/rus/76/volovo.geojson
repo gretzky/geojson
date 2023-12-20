@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Volovo",
+    "country": "RU",
+    "subdivision": "76",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.00285,
+      53.55831
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Valdez",
+    "country": "EC",
+    "subdivision": "09",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.98306,
+      1.24917
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gose",
+    "country": "JP",
+    "subdivision": "28",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.73333,
+      34.45
+    ]
+  }
+}

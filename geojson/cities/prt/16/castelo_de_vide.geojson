@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Castelo de Vide",
+    "country": "PT",
+    "subdivision": "16",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.4568,
+      39.41624
+    ]
+  }
+}

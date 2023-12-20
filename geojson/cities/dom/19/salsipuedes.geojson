@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Salsipuedes",
+    "country": "DO",
+    "subdivision": "19",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.37985,
+      19.40552
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jaén",
+    "country": "PE",
+    "subdivision": "06",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.80785,
+      -5.70729
+    ]
+  }
+}

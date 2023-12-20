@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Camagüey",
+    "country": "CU",
+    "subdivision": "05",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.91694,
+      21.38083
+    ]
+  }
+}

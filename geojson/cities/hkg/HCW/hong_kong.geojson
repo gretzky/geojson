@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hong Kong",
+    "country": "HK",
+    "subdivision": "HCW",
+    "timezone": "Asia/Hong_Kong"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.17469,
+      22.27832
+    ]
+  }
+}

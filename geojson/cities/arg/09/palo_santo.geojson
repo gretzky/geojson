@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Palo Santo",
+    "country": "AR",
+    "subdivision": "09",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.33781,
+      -25.56332
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gerger",
+    "country": "TR",
+    "subdivision": "02",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.01667,
+      37.95
+    ]
+  }
+}

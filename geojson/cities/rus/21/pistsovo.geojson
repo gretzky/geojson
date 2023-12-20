@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pistsovo",
+    "country": "RU",
+    "subdivision": "21",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.52983,
+      57.17904
+    ]
+  }
+}

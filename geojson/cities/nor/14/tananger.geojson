@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tananger",
+    "country": "NO",
+    "subdivision": "14",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5741,
+      58.93618
+    ]
+  }
+}

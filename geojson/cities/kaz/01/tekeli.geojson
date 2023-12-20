@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tekeli",
+    "country": "KZ",
+    "subdivision": "01",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.72807,
+      44.8678
+    ]
+  }
+}

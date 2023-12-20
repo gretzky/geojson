@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bishkek",
+    "country": "KG",
+    "subdivision": "01",
+    "timezone": "Asia/Bishkek"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.59,
+      42.87
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Staré Město",
+    "country": "CZ",
+    "subdivision": "84",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.94734,
+      50.16174
+    ]
+  }
+}

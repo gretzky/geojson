@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Scarborough",
+    "country": "TT",
+    "subdivision": "11",
+    "timezone": "America/Port_of_Spain"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.73525,
+      11.18229
+    ]
+  }
+}

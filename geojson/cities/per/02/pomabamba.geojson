@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pomabamba",
+    "country": "PE",
+    "subdivision": "02",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.46667,
+      -8.83333
+    ]
+  }
+}

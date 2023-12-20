@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Echternach",
+    "country": "LU",
+    "subdivision": "EC",
+    "timezone": "Europe/Luxembourg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.41846,
+      49.81212
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krasavino",
+    "country": "RU",
+    "subdivision": "85",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.48321,
+      60.96225
+    ]
+  }
+}

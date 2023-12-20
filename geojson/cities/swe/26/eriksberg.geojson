@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eriksberg",
+    "country": "SE",
+    "subdivision": "26",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.81631,
+      59.24241
+    ]
+  }
+}

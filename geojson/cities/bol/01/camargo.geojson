@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Camargo",
+    "country": "BO",
+    "subdivision": "01",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.20893,
+      -20.64064
+    ]
+  }
+}

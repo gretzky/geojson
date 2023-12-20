@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sindou",
+    "country": "BF",
+    "subdivision": "02",
+    "timezone": "Africa/Ouagadougou"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.16667,
+      10.66667
+    ]
+  }
+}

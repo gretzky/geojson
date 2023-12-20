@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moskovskiy",
+    "country": "RU",
+    "subdivision": "78",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      65.42298,
+      57.11108
+    ]
+  }
+}

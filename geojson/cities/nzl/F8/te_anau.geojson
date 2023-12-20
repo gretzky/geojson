@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Te Anau",
+    "country": "NZ",
+    "subdivision": "F8",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.71667,
+      -45.41667
+    ]
+  }
+}

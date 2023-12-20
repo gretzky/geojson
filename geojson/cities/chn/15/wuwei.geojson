@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wuwei",
+    "country": "CN",
+    "subdivision": "15",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.63202,
+      37.92672
+    ]
+  }
+}

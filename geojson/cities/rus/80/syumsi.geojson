@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Syumsi",
+    "country": "RU",
+    "subdivision": "80",
+    "timezone": "Europe/Samara"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.61494,
+      57.11108
+    ]
+  }
+}

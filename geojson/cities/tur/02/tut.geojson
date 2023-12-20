@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tut",
+    "country": "TR",
+    "subdivision": "02",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.9161,
+      37.79529
+    ]
+  }
+}

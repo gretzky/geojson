@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monywa",
+    "country": "MM",
+    "subdivision": "10",
+    "timezone": "Asia/Yangon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.13583,
+      22.10856
+    ]
+  }
+}

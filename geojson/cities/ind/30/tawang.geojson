@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tawang",
+    "country": "IN",
+    "subdivision": "30",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      91.92437,
+      27.57417
+    ]
+  }
+}

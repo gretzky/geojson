@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monduli",
+    "country": "TZ",
+    "subdivision": "26",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.45,
+      -3.3
+    ]
+  }
+}

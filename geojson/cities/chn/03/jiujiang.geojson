@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jiujiang",
+    "country": "CN",
+    "subdivision": "03",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.00206,
+      29.70475
+    ]
+  }
+}

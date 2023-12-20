@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sa Pa",
+    "country": "VN",
+    "subdivision": "90",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.84415,
+      22.34023
+    ]
+  }
+}

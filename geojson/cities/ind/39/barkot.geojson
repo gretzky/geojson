@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barkot",
+    "country": "IN",
+    "subdivision": "39",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.20596,
+      30.80861
+    ]
+  }
+}

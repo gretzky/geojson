@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pinar del Río",
+    "country": "CU",
+    "subdivision": "01",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.69667,
+      22.41667
+    ]
+  }
+}

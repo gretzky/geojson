@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Port Said",
+    "country": "EG",
+    "subdivision": "19",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.3019,
+      31.26531
+    ]
+  }
+}

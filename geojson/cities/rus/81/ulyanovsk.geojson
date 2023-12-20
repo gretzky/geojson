@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ulyanovsk",
+    "country": "RU",
+    "subdivision": "81",
+    "timezone": "Europe/Ulyanovsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.38657,
+      54.32824
+    ]
+  }
+}

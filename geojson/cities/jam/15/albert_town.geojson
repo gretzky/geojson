@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Albert Town",
+    "country": "JM",
+    "subdivision": "15",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.54239,
+      18.29434
+    ]
+  }
+}

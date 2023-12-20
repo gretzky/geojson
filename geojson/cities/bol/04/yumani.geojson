@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yumani",
+    "country": "BO",
+    "subdivision": "04",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.14843,
+      -16.03574
+    ]
+  }
+}

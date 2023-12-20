@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Myjava",
+    "country": "SK",
+    "subdivision": "06",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.56866,
+      48.75876
+    ]
+  }
+}

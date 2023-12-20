@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ojiya",
+    "country": "JP",
+    "subdivision": "29",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.8,
+      37.3
+    ]
+  }
+}

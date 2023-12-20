@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sarykemer",
+    "country": "KZ",
+    "subdivision": "17",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.5,
+      43
+    ]
+  }
+}

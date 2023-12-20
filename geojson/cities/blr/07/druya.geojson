@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Druya",
+    "country": "BY",
+    "subdivision": "07",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.4505,
+      55.7906
+    ]
+  }
+}

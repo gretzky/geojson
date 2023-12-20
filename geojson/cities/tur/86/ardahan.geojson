@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ardahan",
+    "country": "TR",
+    "subdivision": "86",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.70222,
+      41.10871
+    ]
+  }
+}

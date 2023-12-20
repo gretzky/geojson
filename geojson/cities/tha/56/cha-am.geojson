@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cha-am",
+    "country": "TH",
+    "subdivision": "56",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.96667,
+      12.8
+    ]
+  }
+}

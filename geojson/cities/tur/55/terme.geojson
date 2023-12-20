@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Terme",
+    "country": "TR",
+    "subdivision": "55",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.97389,
+      41.20917
+    ]
+  }
+}

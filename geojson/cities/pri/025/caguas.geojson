@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Caguas",
+    "country": "PR",
+    "subdivision": "025",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.0485,
+      18.23412
+    ]
+  }
+}

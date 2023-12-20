@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Campo Gallo",
+    "country": "AR",
+    "subdivision": "22",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -62.85,
+      -26.58333
+    ]
+  }
+}

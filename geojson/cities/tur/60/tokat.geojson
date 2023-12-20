@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tokat",
+    "country": "TR",
+    "subdivision": "60",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.55444,
+      40.31389
+    ]
+  }
+}

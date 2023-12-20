@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gangtok",
+    "country": "IN",
+    "subdivision": "29",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      88.61216,
+      27.32574
+    ]
+  }
+}

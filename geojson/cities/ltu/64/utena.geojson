@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Utena",
+    "country": "LT",
+    "subdivision": "64",
+    "timezone": "Europe/Vilnius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.59918,
+      55.49764
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Waterloo",
+    "country": "SL",
+    "subdivision": "04",
+    "timezone": "Africa/Freetown"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.07091,
+      8.3389
+    ]
+  }
+}

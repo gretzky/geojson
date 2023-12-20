@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kallinge",
+    "country": "SE",
+    "subdivision": "02",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.28721,
+      56.24841
+    ]
+  }
+}

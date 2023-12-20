@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yazd",
+    "country": "IR",
+    "subdivision": "40",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.3675,
+      31.89722
+    ]
+  }
+}

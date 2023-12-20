@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Igrim",
+    "country": "RU",
+    "subdivision": "32",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      64.4162,
+      63.1906
+    ]
+  }
+}

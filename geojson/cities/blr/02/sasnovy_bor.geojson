@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sasnovy Bor",
+    "country": "BY",
+    "subdivision": "02",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.5988,
+      52.5194
+    ]
+  }
+}

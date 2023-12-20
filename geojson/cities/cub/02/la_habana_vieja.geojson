@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Habana Vieja",
+    "country": "CU",
+    "subdivision": "02",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.35306,
+      23.13028
+    ]
+  }
+}

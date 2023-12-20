@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pradera",
+    "country": "CO",
+    "subdivision": "29",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.24472,
+      3.42111
+    ]
+  }
+}

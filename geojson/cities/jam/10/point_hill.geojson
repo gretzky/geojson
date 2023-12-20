@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Point Hill",
+    "country": "JM",
+    "subdivision": "10",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.10759,
+      18.08988
+    ]
+  }
+}

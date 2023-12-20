@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Golfito",
+    "country": "CR",
+    "subdivision": "07",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.11342,
+      8.60327
+    ]
+  }
+}

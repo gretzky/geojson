@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arsk",
+    "country": "RU",
+    "subdivision": "73",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.87783,
+      56.09151
+    ]
+  }
+}

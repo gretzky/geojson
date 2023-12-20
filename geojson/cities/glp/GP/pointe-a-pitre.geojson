@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pointe-à-Pitre",
+    "country": "GP",
+    "subdivision": "GP",
+    "timezone": "America/Guadeloupe"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.53614,
+      16.24125
+    ]
+  }
+}

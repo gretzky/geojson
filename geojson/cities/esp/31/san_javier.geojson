@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Javier",
+    "country": "ES",
+    "subdivision": "31",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.83736,
+      37.80626
+    ]
+  }
+}

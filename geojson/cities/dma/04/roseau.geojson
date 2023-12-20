@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Roseau",
+    "country": "DM",
+    "subdivision": "04",
+    "timezone": "America/Dominica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.38808,
+      15.30174
+    ]
+  }
+}

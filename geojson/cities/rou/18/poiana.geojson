@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Poiana",
+    "country": "RO",
+    "subdivision": "18",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.25609,
+      45.99228
+    ]
+  }
+}

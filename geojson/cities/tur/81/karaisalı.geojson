@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karaisalı",
+    "country": "TR",
+    "subdivision": "81",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.05889,
+      37.25667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Suzuka",
+    "country": "JP",
+    "subdivision": "23",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.58333,
+      34.88333
+    ]
+  }
+}

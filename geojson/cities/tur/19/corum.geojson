@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Çorum",
+    "country": "TR",
+    "subdivision": "19",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.95333,
+      40.54889
+    ]
+  }
+}

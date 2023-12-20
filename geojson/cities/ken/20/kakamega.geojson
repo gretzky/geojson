@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kakamega",
+    "country": "KE",
+    "subdivision": "20",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.75229,
+      0.28422
+    ]
+  }
+}

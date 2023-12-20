@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ereğli",
+    "country": "TR",
+    "subdivision": "71",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.04672,
+      37.51333
+    ]
+  }
+}

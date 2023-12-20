@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Haouaria",
+    "country": "TN",
+    "subdivision": "19",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.01442,
+      37.05002
+    ]
+  }
+}

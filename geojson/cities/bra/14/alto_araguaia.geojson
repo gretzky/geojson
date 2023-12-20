@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alto Araguaia",
+    "country": "BR",
+    "subdivision": "14",
+    "timezone": "America/Cuiaba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -53.21528,
+      -17.31472
+    ]
+  }
+}

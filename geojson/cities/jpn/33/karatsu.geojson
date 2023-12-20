@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karatsu",
+    "country": "JP",
+    "subdivision": "33",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      129.96972,
+      33.4425
+    ]
+  }
+}

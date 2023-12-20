@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ishikawa",
+    "country": "JP",
+    "subdivision": "08",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.45,
+      37.15
+    ]
+  }
+}

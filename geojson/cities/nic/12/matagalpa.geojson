@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matagalpa",
+    "country": "NI",
+    "subdivision": "12",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.91747,
+      12.92559
+    ]
+  }
+}

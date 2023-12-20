@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kohtla-Järve",
+    "country": "EE",
+    "subdivision": "03",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.27306,
+      59.39861
+    ]
+  }
+}

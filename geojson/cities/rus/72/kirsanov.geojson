@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kirsanov",
+    "country": "RU",
+    "subdivision": "72",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.72236,
+      52.65494
+    ]
+  }
+}

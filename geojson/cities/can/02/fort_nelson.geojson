@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fort Nelson",
+    "country": "CA",
+    "subdivision": "02",
+    "timezone": "America/Fort_Nelson"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.7002,
+      58.80533
+    ]
+  }
+}

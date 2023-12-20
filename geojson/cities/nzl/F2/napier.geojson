@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Napier",
+    "country": "NZ",
+    "subdivision": "F2",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      176.91233,
+      -39.4926
+    ]
+  }
+}

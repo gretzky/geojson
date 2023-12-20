@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mishan",
+    "country": "CN",
+    "subdivision": "08",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.88333,
+      45.55
+    ]
+  }
+}

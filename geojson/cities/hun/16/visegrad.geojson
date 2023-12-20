@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Visegrád",
+    "country": "HU",
+    "subdivision": "16",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.9709,
+      47.78526
+    ]
+  }
+}

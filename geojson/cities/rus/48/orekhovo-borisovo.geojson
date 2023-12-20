@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Orekhovo-Borisovo",
+    "country": "RU",
+    "subdivision": "48",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.72639,
+      55.61252
+    ]
+  }
+}

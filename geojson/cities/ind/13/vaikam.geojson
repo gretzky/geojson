@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vaikam",
+    "country": "IN",
+    "subdivision": "13",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.39637,
+      9.74858
+    ]
+  }
+}

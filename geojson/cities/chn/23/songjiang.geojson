@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Songjiang",
+    "country": "CN",
+    "subdivision": "23",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.22326,
+      31.03443
+    ]
+  }
+}

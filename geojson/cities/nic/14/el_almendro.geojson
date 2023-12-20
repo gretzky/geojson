@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Almendro",
+    "country": "NI",
+    "subdivision": "14",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.70269,
+      11.67859
+    ]
+  }
+}

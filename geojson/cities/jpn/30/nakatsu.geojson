@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nakatsu",
+    "country": "JP",
+    "subdivision": "30",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.1883,
+      33.59811
+    ]
+  }
+}

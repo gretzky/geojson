@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Talsi",
+    "country": "LV",
+    "subdivision": "28",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.58137,
+      57.24562
+    ]
+  }
+}

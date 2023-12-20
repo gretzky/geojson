@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lozna",
+    "country": "RO",
+    "subdivision": "31",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.46667,
+      47.31667
+    ]
+  }
+}

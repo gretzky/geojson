@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brody",
+    "country": "UA",
+    "subdivision": "15",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.15027,
+      50.08791
+    ]
+  }
+}

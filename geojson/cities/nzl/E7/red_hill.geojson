@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Red Hill",
+    "country": "NZ",
+    "subdivision": "E7",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.97019,
+      -37.0582
+    ]
+  }
+}

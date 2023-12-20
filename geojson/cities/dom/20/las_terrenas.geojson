@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Terrenas",
+    "country": "DO",
+    "subdivision": "20",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.5428,
+      19.31102
+    ]
+  }
+}

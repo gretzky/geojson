@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Adam",
+    "country": "OM",
+    "subdivision": "01",
+    "timezone": "Asia/Muscat"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.52718,
+      22.37934
+    ]
+  }
+}

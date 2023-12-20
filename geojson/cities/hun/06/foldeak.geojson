@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Földeák",
+    "country": "HU",
+    "subdivision": "06",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.5,
+      46.31667
+    ]
+  }
+}

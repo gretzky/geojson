@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Järvakandi",
+    "country": "EE",
+    "subdivision": "13",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.82583,
+      58.77889
+    ]
+  }
+}

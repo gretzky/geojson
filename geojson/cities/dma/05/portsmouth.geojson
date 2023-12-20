@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Portsmouth",
+    "country": "DM",
+    "subdivision": "05",
+    "timezone": "America/Dominica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.46667,
+      15.58333
+    ]
+  }
+}

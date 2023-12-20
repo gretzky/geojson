@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mullovka",
+    "country": "RU",
+    "subdivision": "81",
+    "timezone": "Europe/Ulyanovsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.4,
+      54.2
+    ]
+  }
+}

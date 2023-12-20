@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mirovice",
+    "country": "CZ",
+    "subdivision": "79",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.03582,
+      49.51555
+    ]
+  }
+}

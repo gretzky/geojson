@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stans",
+    "country": "CH",
+    "subdivision": "NW",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.36609,
+      46.95805
+    ]
+  }
+}

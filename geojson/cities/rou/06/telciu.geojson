@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Telciu",
+    "country": "RO",
+    "subdivision": "06",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.4,
+      47.43333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Belize City",
+    "country": "BZ",
+    "subdivision": "01",
+    "timezone": "America/Belize"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.19756,
+      17.49952
+    ]
+  }
+}

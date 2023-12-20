@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Quinnesec",
+    "country": "US",
+    "subdivision": "MI",
+    "timezone": "America/Menominee"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.98846,
+      45.80635
+    ]
+  }
+}

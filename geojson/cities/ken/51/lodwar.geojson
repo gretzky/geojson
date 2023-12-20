@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lodwar",
+    "country": "KE",
+    "subdivision": "51",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.59642,
+      3.11988
+    ]
+  }
+}

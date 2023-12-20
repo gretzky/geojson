@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hola",
+    "country": "KE",
+    "subdivision": "48",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.03341,
+      -1.48256
+    ]
+  }
+}

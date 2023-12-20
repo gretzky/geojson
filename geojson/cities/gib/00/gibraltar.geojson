@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gibraltar",
+    "country": "GI",
+    "subdivision": "00",
+    "timezone": "Europe/Gibraltar"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.35257,
+      36.14474
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wuda",
+    "country": "CN",
+    "subdivision": "20",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.71167,
+      39.49944
+    ]
+  }
+}

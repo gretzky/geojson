@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Patnos",
+    "country": "TR",
+    "subdivision": "04",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.85693,
+      39.22493
+    ]
+  }
+}

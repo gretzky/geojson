@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tanjung Pinang",
+    "country": "ID",
+    "subdivision": "40",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.45833,
+      0.91667
+    ]
+  }
+}

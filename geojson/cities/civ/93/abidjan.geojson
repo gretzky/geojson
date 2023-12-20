@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Abidjan",
+    "country": "CI",
+    "subdivision": "93",
+    "timezone": "Africa/Abidjan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.00167,
+      5.35444
+    ]
+  }
+}

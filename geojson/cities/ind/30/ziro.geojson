@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ziro",
+    "country": "IN",
+    "subdivision": "30",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      93.83854,
+      27.59497
+    ]
+  }
+}

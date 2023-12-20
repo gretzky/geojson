@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Valle San Francisco",
+    "country": "NI",
+    "subdivision": "10",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.28333,
+      12.51667
+    ]
+  }
+}

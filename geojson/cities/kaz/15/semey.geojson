@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Semey",
+    "country": "KZ",
+    "subdivision": "15",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.26669,
+      50.42675
+    ]
+  }
+}

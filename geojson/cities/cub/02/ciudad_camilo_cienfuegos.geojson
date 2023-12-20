@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad Camilo Cienfuegos",
+    "country": "CU",
+    "subdivision": "02",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.32798,
+      23.16076
+    ]
+  }
+}

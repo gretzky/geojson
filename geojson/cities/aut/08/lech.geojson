@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lech",
+    "country": "AT",
+    "subdivision": "08",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.14184,
+      47.20797
+    ]
+  }
+}

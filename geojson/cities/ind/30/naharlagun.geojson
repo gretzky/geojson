@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Naharlagun",
+    "country": "IN",
+    "subdivision": "30",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      93.69518,
+      27.10467
+    ]
+  }
+}

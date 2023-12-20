@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zefta",
+    "country": "EG",
+    "subdivision": "05",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.24425,
+      30.7142
+    ]
+  }
+}

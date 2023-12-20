@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hatillo",
+    "country": "PR",
+    "subdivision": "065",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.82545,
+      18.48633
+    ]
+  }
+}

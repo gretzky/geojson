@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Otok",
+    "country": "HR",
+    "subdivision": "18",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.88389,
+      45.14667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nová Role",
+    "country": "CZ",
+    "subdivision": "81",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.78422,
+      50.27092
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sofia",
+    "country": "BG",
+    "subdivision": "42",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.32415,
+      42.69751
+    ]
+  }
+}

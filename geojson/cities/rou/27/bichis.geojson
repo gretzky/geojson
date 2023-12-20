@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bichiş",
+    "country": "RO",
+    "subdivision": "27",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.1,
+      46.36667
+    ]
+  }
+}

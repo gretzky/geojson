@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ipoh",
+    "country": "MY",
+    "subdivision": "07",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.0829,
+      4.5841
+    ]
+  }
+}

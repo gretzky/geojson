@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chekhov",
+    "country": "RU",
+    "subdivision": "64",
+    "timezone": "Asia/Sakhalin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.99064,
+      47.44984
+    ]
+  }
+}

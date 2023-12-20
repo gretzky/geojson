@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Viganello",
+    "country": "CH",
+    "subdivision": "TI",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.96879,
+      46.01342
+    ]
+  }
+}

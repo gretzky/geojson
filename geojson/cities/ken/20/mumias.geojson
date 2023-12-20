@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mumias",
+    "country": "KE",
+    "subdivision": "20",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.48796,
+      0.33474
+    ]
+  }
+}

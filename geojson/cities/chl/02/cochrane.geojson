@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cochrane",
+    "country": "CL",
+    "subdivision": "02",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.5695,
+      -47.2557
+    ]
+  }
+}

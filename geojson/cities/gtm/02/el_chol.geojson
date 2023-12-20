@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Chol",
+    "country": "GT",
+    "subdivision": "02",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.48799,
+      14.96055
+    ]
+  }
+}

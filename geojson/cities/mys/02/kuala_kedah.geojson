@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kuala Kedah",
+    "country": "MY",
+    "subdivision": "02",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.3,
+      6.1
+    ]
+  }
+}

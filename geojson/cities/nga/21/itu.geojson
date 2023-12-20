@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Itu",
+    "country": "NG",
+    "subdivision": "21",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.98373,
+      5.20131
+    ]
+  }
+}

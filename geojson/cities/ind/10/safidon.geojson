@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Safidon",
+    "country": "IN",
+    "subdivision": "10",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.67042,
+      29.40596
+    ]
+  }
+}

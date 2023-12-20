@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sarıoğlan",
+    "country": "TR",
+    "subdivision": "38",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.96671,
+      39.07694
+    ]
+  }
+}

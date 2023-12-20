@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kowloon",
+    "country": "HK",
+    "subdivision": "KKC",
+    "timezone": "Asia/Hong_Kong"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.18333,
+      22.31667
+    ]
+  }
+}

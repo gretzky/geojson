@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kama",
+    "country": "RU",
+    "subdivision": "80",
+    "timezone": "Europe/Samara"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.09361,
+      56.30512
+    ]
+  }
+}

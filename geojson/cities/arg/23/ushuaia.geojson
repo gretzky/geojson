@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ushuaia",
+    "country": "AR",
+    "subdivision": "23",
+    "timezone": "America/Argentina/Ushuaia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.31591,
+      -54.81084
+    ]
+  }
+}

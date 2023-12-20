@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beidao",
+    "country": "CN",
+    "subdivision": "15",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      105.89333,
+      34.56861
+    ]
+  }
+}

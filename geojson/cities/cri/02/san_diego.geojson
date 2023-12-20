@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Diego",
+    "country": "CR",
+    "subdivision": "02",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.00287,
+      9.89898
+    ]
+  }
+}

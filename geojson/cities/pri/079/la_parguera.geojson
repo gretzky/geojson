@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Parguera",
+    "country": "PR",
+    "subdivision": "079",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.04657,
+      17.97497
+    ]
+  }
+}

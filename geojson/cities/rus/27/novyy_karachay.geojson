@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novyy Karachay",
+    "country": "RU",
+    "subdivision": "27",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.90322,
+      43.82076
+    ]
+  }
+}

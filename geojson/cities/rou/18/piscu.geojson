@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Piscu",
+    "country": "RO",
+    "subdivision": "18",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.73333,
+      45.5
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mpika",
+    "country": "ZM",
+    "subdivision": "10",
+    "timezone": "Africa/Lusaka"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.45287,
+      -11.83431
+    ]
+  }
+}

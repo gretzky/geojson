@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tungi",
+    "country": "BD",
+    "subdivision": "81",
+    "timezone": "Asia/Dhaka"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      90.40232,
+      23.89154
+    ]
+  }
+}

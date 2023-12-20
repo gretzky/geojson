@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kyrenia",
+    "country": "CY",
+    "subdivision": "02",
+    "timezone": "Asia/Famagusta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.31729,
+      35.33634
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barceloneta",
+    "country": "PR",
+    "subdivision": "017",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.53851,
+      18.4505
+    ]
+  }
+}

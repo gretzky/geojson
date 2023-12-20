@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gazi",
+    "country": "KE",
+    "subdivision": "28",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.50588,
+      -4.42402
+    ]
+  }
+}

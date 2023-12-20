@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dinar",
+    "country": "TR",
+    "subdivision": "03",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.16557,
+      38.065
+    ]
+  }
+}

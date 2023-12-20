@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Birlestik",
+    "country": "KZ",
+    "subdivision": "16",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      68.35382,
+      53.58414
+    ]
+  }
+}

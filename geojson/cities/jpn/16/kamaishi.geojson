@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kamaishi",
+    "country": "JP",
+    "subdivision": "16",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.86801,
+      39.27694
+    ]
+  }
+}

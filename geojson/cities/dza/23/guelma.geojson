@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guelma",
+    "country": "DZ",
+    "subdivision": "23",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.42608,
+      36.46214
+    ]
+  }
+}

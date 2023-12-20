@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Orimattila",
+    "country": "FI",
+    "subdivision": "07",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.72964,
+      60.80487
+    ]
+  }
+}

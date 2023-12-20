@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Petacciato",
+    "country": "IT",
+    "subdivision": "11",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.86026,
+      42.00827
+    ]
+  }
+}

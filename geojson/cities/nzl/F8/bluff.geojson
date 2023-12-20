@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bluff",
+    "country": "NZ",
+    "subdivision": "F8",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      168.33333,
+      -46.6
+    ]
+  }
+}

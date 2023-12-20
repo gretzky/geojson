@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nikfer",
+    "country": "TR",
+    "subdivision": "20",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.13727,
+      37.40542
+    ]
+  }
+}

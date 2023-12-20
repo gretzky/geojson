@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tabriz",
+    "country": "IR",
+    "subdivision": "33",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.2919,
+      38.08
+    ]
+  }
+}

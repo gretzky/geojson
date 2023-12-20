@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Garko",
+    "country": "NG",
+    "subdivision": "55",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.16458,
+      10.17506
+    ]
+  }
+}

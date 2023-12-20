@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Donetsk",
+    "country": "RU",
+    "subdivision": "61",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.95948,
+      48.33962
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jakarta",
+    "country": "ID",
+    "subdivision": "04",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.84513,
+      -6.21462
+    ]
+  }
+}

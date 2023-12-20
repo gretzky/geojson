@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mixco",
+    "country": "GT",
+    "subdivision": "07",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.60711,
+      14.63077
+    ]
+  }
+}

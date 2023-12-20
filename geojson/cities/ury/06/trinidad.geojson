@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Trinidad",
+    "country": "UY",
+    "subdivision": "06",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.89957,
+      -33.5165
+    ]
+  }
+}

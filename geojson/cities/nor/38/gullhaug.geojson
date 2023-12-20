@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gullhaug",
+    "country": "NO",
+    "subdivision": "38",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.25224,
+      59.5013
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kocadere",
+    "country": "TR",
+    "subdivision": "92",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.03,
+      40.63
+    ]
+  }
+}

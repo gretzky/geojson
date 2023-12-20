@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karabağlar",
+    "country": "TR",
+    "subdivision": "35",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.1352,
+      38.37396
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Iskateley",
+    "country": "RU",
+    "subdivision": "50",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.15117,
+      67.68026
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chagoda",
+    "country": "RU",
+    "subdivision": "85",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3285,
+      59.164
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dikson",
+    "country": "RU",
+    "subdivision": "91",
+    "timezone": "Asia/Krasnoyarsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.52918,
+      73.50819
+    ]
+  }
+}

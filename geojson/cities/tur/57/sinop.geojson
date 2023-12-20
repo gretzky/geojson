@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sinop",
+    "country": "TR",
+    "subdivision": "57",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.16253,
+      42.02683
+    ]
+  }
+}

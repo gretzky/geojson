@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Chaux-de-Fonds",
+    "country": "CH",
+    "subdivision": "NE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.82586,
+      47.09993
+    ]
+  }
+}

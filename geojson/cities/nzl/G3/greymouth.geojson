@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Greymouth",
+    "country": "NZ",
+    "subdivision": "G3",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      171.2,
+      -42.46667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Buena Vista",
+    "country": "PY",
+    "subdivision": "05",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.08334,
+      -26.18705
+    ]
+  }
+}

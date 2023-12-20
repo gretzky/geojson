@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wagini",
+    "country": "NG",
+    "subdivision": "24",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.19579,
+      12.68781
+    ]
+  }
+}

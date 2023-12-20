@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Patricio",
+    "country": "PY",
+    "subdivision": "12",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.8269,
+      -26.97626
+    ]
+  }
+}

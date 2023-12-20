@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wenshan City",
+    "country": "CN",
+    "subdivision": "29",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.25047,
+      23.36306
+    ]
+  }
+}

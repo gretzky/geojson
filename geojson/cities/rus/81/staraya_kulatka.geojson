@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Staraya Kulatka",
+    "country": "RU",
+    "subdivision": "81",
+    "timezone": "Europe/Ulyanovsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.61788,
+      52.72778
+    ]
+  }
+}

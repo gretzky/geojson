@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nueva Italia",
+    "country": "PY",
+    "subdivision": "06",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.46563,
+      -25.6108
+    ]
+  }
+}

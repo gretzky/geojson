@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pattaya",
+    "country": "TH",
+    "subdivision": "46",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.88333,
+      12.93333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beshkent",
+    "country": "UZ",
+    "subdivision": "08",
+    "timezone": "Asia/Samarkand"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      65.65306,
+      38.82139
+    ]
+  }
+}

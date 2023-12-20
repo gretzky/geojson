@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vorokhta",
+    "country": "UA",
+    "subdivision": "06",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.56393,
+      48.29301
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cayambe",
+    "country": "EC",
+    "subdivision": "18",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.14524,
+      0.04084
+    ]
+  }
+}

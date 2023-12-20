@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Samarkand",
+    "country": "UZ",
+    "subdivision": "10",
+    "timezone": "Asia/Samarkand"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      66.95972,
+      39.65417
+    ]
+  }
+}

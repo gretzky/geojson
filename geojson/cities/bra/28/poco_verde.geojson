@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Poço Verde",
+    "country": "BR",
+    "subdivision": "28",
+    "timezone": "America/Bahia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -38.18333,
+      -10.70833
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monte Grande",
+    "country": "PR",
+    "subdivision": "023",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.1074,
+      18.08746
+    ]
+  }
+}

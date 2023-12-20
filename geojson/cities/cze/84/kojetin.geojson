@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kojetín",
+    "country": "CZ",
+    "subdivision": "84",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.30207,
+      49.35179
+    ]
+  }
+}

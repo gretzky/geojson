@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colosó",
+    "country": "CO",
+    "subdivision": "27",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.35271,
+      9.49477
+    ]
+  }
+}

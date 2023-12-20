@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Banie Mazurskie",
+    "country": "PL",
+    "subdivision": "85",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.03617,
+      54.24662
+    ]
+  }
+}

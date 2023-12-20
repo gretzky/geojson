@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yauco",
+    "country": "PR",
+    "subdivision": "153",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.8499,
+      18.03496
+    ]
+  }
+}

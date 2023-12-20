@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Songea",
+    "country": "TZ",
+    "subdivision": "14",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.65,
+      -10.68333
+    ]
+  }
+}

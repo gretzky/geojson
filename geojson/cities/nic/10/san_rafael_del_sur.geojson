@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Rafael del Sur",
+    "country": "NI",
+    "subdivision": "10",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.43839,
+      11.84854
+    ]
+  }
+}

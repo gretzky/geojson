@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rajec",
+    "country": "SK",
+    "subdivision": "08",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.64007,
+      49.08899
+    ]
+  }
+}

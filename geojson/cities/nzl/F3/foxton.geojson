@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Foxton",
+    "country": "NZ",
+    "subdivision": "F3",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      175.28601,
+      -40.47277
+    ]
+  }
+}

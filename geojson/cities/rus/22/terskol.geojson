@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Terskol",
+    "country": "RU",
+    "subdivision": "22",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.51481,
+      43.2568
+    ]
+  }
+}

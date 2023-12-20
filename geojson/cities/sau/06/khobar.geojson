@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Khobar",
+    "country": "SA",
+    "subdivision": "06",
+    "timezone": "Asia/Riyadh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      50.20833,
+      26.27944
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yomou",
+    "country": "GN",
+    "subdivision": "N",
+    "timezone": "Africa/Conakry"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.26283,
+      7.56748
+    ]
+  }
+}

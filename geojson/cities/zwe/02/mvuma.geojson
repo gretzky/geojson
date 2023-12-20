@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mvuma",
+    "country": "ZW",
+    "subdivision": "02",
+    "timezone": "Africa/Harare"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.52828,
+      -19.27924
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Anaco",
+    "country": "VE",
+    "subdivision": "02",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.46428,
+      9.42958
+    ]
+  }
+}

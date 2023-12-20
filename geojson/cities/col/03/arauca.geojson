@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arauca",
+    "country": "CO",
+    "subdivision": "03",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.75908,
+      7.08471
+    ]
+  }
+}

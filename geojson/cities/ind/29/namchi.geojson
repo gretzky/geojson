@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Namchi",
+    "country": "IN",
+    "subdivision": "29",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      88.3638,
+      27.16494
+    ]
+  }
+}

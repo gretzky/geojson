@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bistrica",
+    "country": "MK",
+    "subdivision": "06",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.3658,
+      40.97892
+    ]
+  }
+}

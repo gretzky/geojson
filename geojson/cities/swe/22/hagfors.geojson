@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hagfors",
+    "country": "SE",
+    "subdivision": "22",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.67214,
+      60.02378
+    ]
+  }
+}

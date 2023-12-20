@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "A dos Francos",
+    "country": "PT",
+    "subdivision": "13",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.04743,
+      39.32272
+    ]
+  }
+}

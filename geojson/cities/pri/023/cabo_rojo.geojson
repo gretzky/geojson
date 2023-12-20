@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cabo Rojo",
+    "country": "PR",
+    "subdivision": "023",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.14573,
+      18.08663
+    ]
+  }
+}

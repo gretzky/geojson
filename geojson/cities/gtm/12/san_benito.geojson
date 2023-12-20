@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Benito",
+    "country": "GT",
+    "subdivision": "12",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.91898,
+      16.91675
+    ]
+  }
+}

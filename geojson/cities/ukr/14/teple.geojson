@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Teple",
+    "country": "UA",
+    "subdivision": "14",
+    "timezone": "Europe/Zaporozhye"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.56284,
+      48.31245
+    ]
+  }
+}

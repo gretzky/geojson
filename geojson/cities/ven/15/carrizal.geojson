@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carrizal",
+    "country": "VE",
+    "subdivision": "15",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.98632,
+      10.34985
+    ]
+  }
+}

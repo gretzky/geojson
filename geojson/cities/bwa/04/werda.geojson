@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Werda",
+    "country": "BW",
+    "subdivision": "04",
+    "timezone": "Africa/Gaborone"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.28333,
+      -25.26667
+    ]
+  }
+}

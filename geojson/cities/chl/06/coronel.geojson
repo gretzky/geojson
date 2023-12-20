@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coronel",
+    "country": "CL",
+    "subdivision": "06",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.14019,
+      -37.03386
+    ]
+  }
+}

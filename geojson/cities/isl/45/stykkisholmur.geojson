@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stykkishólmur",
+    "country": "IS",
+    "subdivision": "45",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -22.72977,
+      65.07537
+    ]
+  }
+}

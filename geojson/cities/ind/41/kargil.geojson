@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kargil",
+    "country": "IN",
+    "subdivision": "41",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.12622,
+      34.55765
+    ]
+  }
+}

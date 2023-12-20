@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Playa",
+    "country": "PR",
+    "subdivision": "011",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.18685,
+      18.28745
+    ]
+  }
+}

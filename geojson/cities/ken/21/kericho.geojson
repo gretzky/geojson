@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kericho",
+    "country": "KE",
+    "subdivision": "21",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.28314,
+      -0.36774
+    ]
+  }
+}

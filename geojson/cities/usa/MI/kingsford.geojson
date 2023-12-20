@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kingsford",
+    "country": "US",
+    "subdivision": "MI",
+    "timezone": "America/Menominee"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.07207,
+      45.79496
+    ]
+  }
+}

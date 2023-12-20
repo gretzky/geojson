@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Fernando",
+    "country": "TT",
+    "subdivision": "10",
+    "timezone": "America/Port_of_Spain"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.46835,
+      10.27969
+    ]
+  }
+}

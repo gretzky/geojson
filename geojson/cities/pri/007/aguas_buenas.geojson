@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aguas Buenas",
+    "country": "PR",
+    "subdivision": "007",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.10294,
+      18.2569
+    ]
+  }
+}

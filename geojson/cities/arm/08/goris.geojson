@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Goris",
+    "country": "AM",
+    "subdivision": "08",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.34168,
+      39.51111
+    ]
+  }
+}

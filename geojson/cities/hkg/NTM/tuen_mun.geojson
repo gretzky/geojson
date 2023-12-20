@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tuen Mun",
+    "country": "HK",
+    "subdivision": "NTM",
+    "timezone": "Asia/Hong_Kong"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.97157,
+      22.39175
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Köping",
+    "country": "SE",
+    "subdivision": "25",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.99255,
+      59.51404
+    ]
+  }
+}

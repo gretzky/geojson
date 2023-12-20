@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Uzhgorod",
+    "country": "UA",
+    "subdivision": "25",
+    "timezone": "Europe/Uzhgorod"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.2947,
+      48.6242
+    ]
+  }
+}

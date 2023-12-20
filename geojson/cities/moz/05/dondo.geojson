@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dondo",
+    "country": "MZ",
+    "subdivision": "05",
+    "timezone": "Africa/Maputo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.74306,
+      -19.60944
+    ]
+  }
+}

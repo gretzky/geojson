@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nguru",
+    "country": "NG",
+    "subdivision": "44",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.45536,
+      12.87695
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pajo",
+    "country": "BT",
+    "subdivision": "15",
+    "timezone": "Asia/Thimphu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      89.88333,
+      27.53333
+    ]
+  }
+}

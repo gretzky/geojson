@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Suez",
+    "country": "EG",
+    "subdivision": "15",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.52627,
+      29.97371
+    ]
+  }
+}

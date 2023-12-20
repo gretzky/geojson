@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Montevideo",
+    "country": "UY",
+    "subdivision": "10",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.18816,
+      -34.90328
+    ]
+  }
+}

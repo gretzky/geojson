@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bagua Grande",
+    "country": "PE",
+    "subdivision": "01",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.44111,
+      -5.75611
+    ]
+  }
+}

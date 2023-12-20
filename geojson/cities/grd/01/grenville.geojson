@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Grenville",
+    "country": "GD",
+    "subdivision": "01",
+    "timezone": "America/Grenada"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.62498,
+      12.12278
+    ]
+  }
+}

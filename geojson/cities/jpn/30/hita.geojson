@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hita",
+    "country": "JP",
+    "subdivision": "30",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.94098,
+      33.3213
+    ]
+  }
+}

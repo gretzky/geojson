@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Milton",
+    "country": "NZ",
+    "subdivision": "F7",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      169.96944,
+      -46.12083
+    ]
+  }
+}

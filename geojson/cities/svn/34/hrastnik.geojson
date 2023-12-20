@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hrastnik",
+    "country": "SI",
+    "subdivision": "34",
+    "timezone": "Europe/Ljubljana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.08139,
+      46.14611
+    ]
+  }
+}

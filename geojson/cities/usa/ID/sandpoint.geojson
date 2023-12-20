@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sandpoint",
+    "country": "US",
+    "subdivision": "ID",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.55325,
+      48.27659
+    ]
+  }
+}

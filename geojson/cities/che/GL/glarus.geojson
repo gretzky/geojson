@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Glarus",
+    "country": "CH",
+    "subdivision": "GL",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.06804,
+      47.04057
+    ]
+  }
+}

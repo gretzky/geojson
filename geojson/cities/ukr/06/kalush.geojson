@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kalush",
+    "country": "UA",
+    "subdivision": "06",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.37206,
+      49.02398
+    ]
+  }
+}

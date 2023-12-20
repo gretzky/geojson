@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jēkabpils",
+    "country": "LV",
+    "subdivision": "10",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.85735,
+      56.49903
+    ]
+  }
+}

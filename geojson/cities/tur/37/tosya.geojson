@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tosya",
+    "country": "TR",
+    "subdivision": "37",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.04013,
+      41.01545
+    ]
+  }
+}

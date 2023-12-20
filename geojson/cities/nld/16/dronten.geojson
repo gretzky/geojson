@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dronten",
+    "country": "NL",
+    "subdivision": "16",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.71806,
+      52.525
+    ]
+  }
+}

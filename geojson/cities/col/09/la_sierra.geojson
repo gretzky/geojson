@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Sierra",
+    "country": "CO",
+    "subdivision": "09",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.76265,
+      2.17835
+    ]
+  }
+}

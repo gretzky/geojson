@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa General Guemes",
+    "country": "AR",
+    "subdivision": "09",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.4894,
+      -24.7553
+    ]
+  }
+}

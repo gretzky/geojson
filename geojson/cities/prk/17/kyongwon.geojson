@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kyŏngwŏn",
+    "country": "KP",
+    "subdivision": "17",
+    "timezone": "Asia/Pyongyang"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.16534,
+      42.81196
+    ]
+  }
+}

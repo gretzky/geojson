@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mtskheta",
+    "country": "GE",
+    "subdivision": "69",
+    "timezone": "Asia/Tbilisi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.71875,
+      41.84514
+    ]
+  }
+}

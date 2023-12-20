@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vientiane",
+    "country": "LA",
+    "subdivision": "24",
+    "timezone": "Asia/Vientiane"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.6,
+      17.96667
+    ]
+  }
+}

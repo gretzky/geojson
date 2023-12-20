@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mazyr",
+    "country": "BY",
+    "subdivision": "02",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.2456,
+      52.0495
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Soca",
+    "country": "UY",
+    "subdivision": "02",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.702,
+      -34.68432
+    ]
+  }
+}

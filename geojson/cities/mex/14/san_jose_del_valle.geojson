@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San José del Valle",
+    "country": "MX",
+    "subdivision": "14",
+    "timezone": "America/Mazatlan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.22813,
+      20.76376
+    ]
+  }
+}

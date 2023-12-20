@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gombi",
+    "country": "NG",
+    "subdivision": "35",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.73684,
+      10.16756
+    ]
+  }
+}

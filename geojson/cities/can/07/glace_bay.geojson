@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Glace Bay",
+    "country": "CA",
+    "subdivision": "07",
+    "timezone": "America/Glace_Bay"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.95698,
+      46.19695
+    ]
+  }
+}

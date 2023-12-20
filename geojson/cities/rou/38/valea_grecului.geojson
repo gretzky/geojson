@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Valea Grecului",
+    "country": "RO",
+    "subdivision": "38",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.10123,
+      46.71985
+    ]
+  }
+}

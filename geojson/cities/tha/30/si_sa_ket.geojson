@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Si Sa Ket",
+    "country": "TH",
+    "subdivision": "30",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.32938,
+      15.11481
+    ]
+  }
+}

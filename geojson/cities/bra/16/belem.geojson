@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Belém",
+    "country": "BR",
+    "subdivision": "16",
+    "timezone": "America/Belem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -48.50444,
+      -1.45583
+    ]
+  }
+}

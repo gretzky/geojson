@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Parque Lefevre",
+    "country": "PA",
+    "subdivision": "08",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.48333,
+      9.01667
+    ]
+  }
+}

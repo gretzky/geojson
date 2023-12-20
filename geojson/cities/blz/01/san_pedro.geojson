@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pedro",
+    "country": "BZ",
+    "subdivision": "01",
+    "timezone": "America/Belize"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.9659,
+      17.91598
+    ]
+  }
+}

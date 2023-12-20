@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San José de Mayo",
+    "country": "UY",
+    "subdivision": "16",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.71361,
+      -34.3375
+    ]
+  }
+}

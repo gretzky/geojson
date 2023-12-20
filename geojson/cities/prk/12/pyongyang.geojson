@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pyongyang",
+    "country": "KP",
+    "subdivision": "12",
+    "timezone": "Asia/Pyongyang"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.75432,
+      39.03385
+    ]
+  }
+}

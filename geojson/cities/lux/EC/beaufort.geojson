@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beaufort",
+    "country": "LU",
+    "subdivision": "EC",
+    "timezone": "Europe/Luxembourg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.29167,
+      49.83583
+    ]
+  }
+}

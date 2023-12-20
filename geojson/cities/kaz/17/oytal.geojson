@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oytal",
+    "country": "KZ",
+    "subdivision": "17",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.26972,
+      42.90573
+    ]
+  }
+}

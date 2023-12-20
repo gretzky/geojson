@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Katikati",
+    "country": "NZ",
+    "subdivision": "E8",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      175.91667,
+      -37.55
+    ]
+  }
+}

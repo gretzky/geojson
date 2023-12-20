@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gwangju",
+    "country": "KR",
+    "subdivision": "13",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.25722,
+      37.41
+    ]
+  }
+}

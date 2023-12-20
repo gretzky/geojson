@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Manama",
+    "country": "BH",
+    "subdivision": "16",
+    "timezone": "Asia/Bahrain"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      50.58565,
+      26.22787
+    ]
+  }
+}

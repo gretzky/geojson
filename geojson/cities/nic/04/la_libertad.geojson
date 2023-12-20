@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Libertad",
+    "country": "NI",
+    "subdivision": "04",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.16595,
+      12.21635
+    ]
+  }
+}

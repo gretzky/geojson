@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Banana Village",
+    "country": "KI",
+    "subdivision": "02",
+    "timezone": "Pacific/Kiritimati"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -157.36526,
+      1.98329
+    ]
+  }
+}

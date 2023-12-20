@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Camuy",
+    "country": "PR",
+    "subdivision": "027",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.8449,
+      18.48383
+    ]
+  }
+}

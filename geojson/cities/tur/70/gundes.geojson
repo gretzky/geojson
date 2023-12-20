@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gündeş",
+    "country": "TR",
+    "subdivision": "70",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.4541,
+      37.30716
+    ]
+  }
+}

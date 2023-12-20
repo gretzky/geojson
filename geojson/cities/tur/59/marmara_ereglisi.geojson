@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Marmara Ereğlisi",
+    "country": "TR",
+    "subdivision": "59",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.95503,
+      40.96907
+    ]
+  }
+}

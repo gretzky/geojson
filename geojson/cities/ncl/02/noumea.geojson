@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nouméa",
+    "country": "NC",
+    "subdivision": "02",
+    "timezone": "Pacific/Noumea"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      166.44884,
+      -22.27407
+    ]
+  }
+}

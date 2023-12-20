@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kuopio",
+    "country": "FI",
+    "subdivision": "11",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.67703,
+      62.89238
+    ]
+  }
+}

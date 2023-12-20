@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sai Kung",
+    "country": "HK",
+    "subdivision": "NSK",
+    "timezone": "Asia/Hong_Kong"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.26667,
+      22.38333
+    ]
+  }
+}

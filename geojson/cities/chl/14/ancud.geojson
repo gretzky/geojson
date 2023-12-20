@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ancud",
+    "country": "CL",
+    "subdivision": "14",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.81622,
+      -41.8707
+    ]
+  }
+}

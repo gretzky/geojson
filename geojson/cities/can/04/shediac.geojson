@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shediac",
+    "country": "CA",
+    "subdivision": "04",
+    "timezone": "America/Moncton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.54107,
+      46.21981
+    ]
+  }
+}

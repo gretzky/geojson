@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Retén",
+    "country": "CO",
+    "subdivision": "38",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.26824,
+      10.61135
+    ]
+  }
+}

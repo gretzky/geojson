@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Michalovce",
+    "country": "SK",
+    "subdivision": "03",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.9195,
+      48.75434
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sligo",
+    "country": "IE",
+    "subdivision": "C",
+    "timezone": "Europe/Dublin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.46943,
+      54.26969
+    ]
+  }
+}

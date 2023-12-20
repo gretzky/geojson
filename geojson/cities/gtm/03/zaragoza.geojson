@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zaragoza",
+    "country": "GT",
+    "subdivision": "03",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.89034,
+      14.64968
+    ]
+  }
+}

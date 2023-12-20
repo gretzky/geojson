@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Komarno",
+    "country": "UA",
+    "subdivision": "15",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.69866,
+      49.62785
+    ]
+  }
+}

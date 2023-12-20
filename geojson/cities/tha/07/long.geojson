@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Long",
+    "country": "TH",
+    "subdivision": "07",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.83073,
+      18.07422
+    ]
+  }
+}

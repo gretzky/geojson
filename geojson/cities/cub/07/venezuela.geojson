@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Venezuela",
+    "country": "CU",
+    "subdivision": "07",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.79336,
+      21.73748
+    ]
+  }
+}

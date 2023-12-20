@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Damparis",
+    "country": "FR",
+    "subdivision": "27",
+    "timezone": "Europe/Paris"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.41398,
+      47.07556
+    ]
+  }
+}

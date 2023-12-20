@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pannonhalma",
+    "country": "HU",
+    "subdivision": "09",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.75535,
+      47.54946
+    ]
+  }
+}

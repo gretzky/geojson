@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sendai",
+    "country": "JP",
+    "subdivision": "24",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.86667,
+      38.26667
+    ]
+  }
+}

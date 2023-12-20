@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nejdek",
+    "country": "CZ",
+    "subdivision": "81",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.72936,
+      50.32242
+    ]
+  }
+}

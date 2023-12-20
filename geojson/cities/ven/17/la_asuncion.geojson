@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Asunción",
+    "country": "VE",
+    "subdivision": "17",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.86278,
+      11.03333
+    ]
+  }
+}

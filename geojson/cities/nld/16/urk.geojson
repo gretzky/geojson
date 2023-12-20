@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Urk",
+    "country": "NL",
+    "subdivision": "16",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.60139,
+      52.6625
+    ]
+  }
+}

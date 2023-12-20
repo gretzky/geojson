@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kalinin",
+    "country": "RU",
+    "subdivision": "61",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.51088,
+      47.24678
+    ]
+  }
+}

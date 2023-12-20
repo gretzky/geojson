@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mandamarri",
+    "country": "IN",
+    "subdivision": "40",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.47475,
+      18.96506
+    ]
+  }
+}

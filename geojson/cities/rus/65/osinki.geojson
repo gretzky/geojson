@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Osinki",
+    "country": "RU",
+    "subdivision": "65",
+    "timezone": "Europe/Samara"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.5132,
+      52.8432
+    ]
+  }
+}

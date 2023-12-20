@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Khartoum",
+    "country": "SD",
+    "subdivision": "29",
+    "timezone": "Africa/Khartoum"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.53241,
+      15.55177
+    ]
+  }
+}

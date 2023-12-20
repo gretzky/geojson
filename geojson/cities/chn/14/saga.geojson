@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saga",
+    "country": "CN",
+    "subdivision": "14",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.22601,
+      29.32367
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vianden",
+    "country": "LU",
+    "subdivision": "VD",
+    "timezone": "Europe/Luxembourg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.20889,
+      49.935
+    ]
+  }
+}

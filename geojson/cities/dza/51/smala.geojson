@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Smala",
+    "country": "DZ",
+    "subdivision": "51",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.75437,
+      35.71652
+    ]
+  }
+}

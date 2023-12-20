@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Caban",
+    "country": "PR",
+    "subdivision": "005",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.13601,
+      18.44328
+    ]
+  }
+}

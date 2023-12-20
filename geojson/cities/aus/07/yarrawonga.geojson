@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yarrawonga",
+    "country": "AU",
+    "subdivision": "07",
+    "timezone": "Australia/Sydney"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.99973,
+      -36.01923
+    ]
+  }
+}

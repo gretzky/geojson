@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Minas",
+    "country": "CU",
+    "subdivision": "05",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.61033,
+      21.48802
+    ]
+  }
+}

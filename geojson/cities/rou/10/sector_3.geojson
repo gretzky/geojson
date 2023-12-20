@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sector 3",
+    "country": "RO",
+    "subdivision": "10",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.16874,
+      44.4234
+    ]
+  }
+}

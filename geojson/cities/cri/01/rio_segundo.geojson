@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Río Segundo",
+    "country": "CR",
+    "subdivision": "01",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.27933,
+      10.24138
+    ]
+  }
+}

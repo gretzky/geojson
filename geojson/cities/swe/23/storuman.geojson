@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Storuman",
+    "country": "SE",
+    "subdivision": "23",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.11731,
+      65.0959
+    ]
+  }
+}

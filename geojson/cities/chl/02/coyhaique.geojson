@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coyhaique",
+    "country": "CL",
+    "subdivision": "02",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.06619,
+      -45.57524
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dubinino",
+    "country": "RU",
+    "subdivision": "91",
+    "timezone": "Asia/Krasnoyarsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      89.09111,
+      55.61917
+    ]
+  }
+}

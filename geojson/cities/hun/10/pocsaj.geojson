@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pocsaj",
+    "country": "HU",
+    "subdivision": "10",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.81667,
+      47.28333
+    ]
+  }
+}

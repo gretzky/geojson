@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Anjala",
+    "country": "FI",
+    "subdivision": "08",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.83333,
+      60.68333
+    ]
+  }
+}

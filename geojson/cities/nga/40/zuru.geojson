@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zuru",
+    "country": "NG",
+    "subdivision": "40",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.23494,
+      11.43522
+    ]
+  }
+}

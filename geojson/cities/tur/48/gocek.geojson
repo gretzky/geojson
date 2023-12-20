@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Göcek",
+    "country": "TR",
+    "subdivision": "48",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.94571,
+      36.75345
+    ]
+  }
+}

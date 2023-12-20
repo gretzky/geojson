@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kikuyu",
+    "country": "KE",
+    "subdivision": "22",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.66291,
+      -1.24627
+    ]
+  }
+}

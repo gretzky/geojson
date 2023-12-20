@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tunduma",
+    "country": "TZ",
+    "subdivision": "32",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.76667,
+      -9.3
+    ]
+  }
+}

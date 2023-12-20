@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Phnom Penh",
+    "country": "KH",
+    "subdivision": "22",
+    "timezone": "Asia/Phnom_Penh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.91601,
+      11.56245
+    ]
+  }
+}

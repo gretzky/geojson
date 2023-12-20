@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Conguaco",
+    "country": "GT",
+    "subdivision": "11",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.03111,
+      14.04417
+    ]
+  }
+}

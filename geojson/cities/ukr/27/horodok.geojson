@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Horodok",
+    "country": "UA",
+    "subdivision": "27",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.4607,
+      50.59483
+    ]
+  }
+}

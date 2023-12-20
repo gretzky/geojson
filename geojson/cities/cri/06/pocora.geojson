@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pocora",
+    "country": "CR",
+    "subdivision": "06",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.60439,
+      10.17185
+    ]
+  }
+}

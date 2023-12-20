@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Guayabal",
+    "country": "DO",
+    "subdivision": "01",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.8369,
+      18.7496
+    ]
+  }
+}

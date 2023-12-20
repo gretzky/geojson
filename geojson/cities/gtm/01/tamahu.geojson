@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tamahú",
+    "country": "GT",
+    "subdivision": "01",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.23599,
+      15.3089
+    ]
+  }
+}

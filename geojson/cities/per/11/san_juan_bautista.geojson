@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan Bautista",
+    "country": "PE",
+    "subdivision": "11",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.73583,
+      -14.01083
+    ]
+  }
+}

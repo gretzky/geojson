@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sandovo",
+    "country": "RU",
+    "subdivision": "77",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.41277,
+      58.46022
+    ]
+  }
+}

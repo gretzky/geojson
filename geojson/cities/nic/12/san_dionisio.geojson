@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Dionisio",
+    "country": "NI",
+    "subdivision": "12",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.85018,
+      12.76023
+    ]
+  }
+}

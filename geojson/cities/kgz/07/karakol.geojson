@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karakol",
+    "country": "KG",
+    "subdivision": "07",
+    "timezone": "Asia/Bishkek"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.39362,
+      42.49068
+    ]
+  }
+}

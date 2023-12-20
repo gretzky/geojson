@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mihai Viteazu",
+    "country": "RO",
+    "subdivision": "41",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.07361,
+      44.34864
+    ]
+  }
+}

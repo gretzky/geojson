@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lhasa",
+    "country": "CN",
+    "subdivision": "14",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      91.1,
+      29.65
+    ]
+  }
+}

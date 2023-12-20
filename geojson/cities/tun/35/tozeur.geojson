@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tozeur",
+    "country": "TN",
+    "subdivision": "35",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.13352,
+      33.91968
+    ]
+  }
+}

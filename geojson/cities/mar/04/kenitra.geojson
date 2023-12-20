@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kenitra",
+    "country": "MA",
+    "subdivision": "04",
+    "timezone": "Africa/Casablanca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5802,
+      34.26101
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shar",
+    "country": "KZ",
+    "subdivision": "15",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.04883,
+      49.5872
+    ]
+  }
+}

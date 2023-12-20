@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Couva",
+    "country": "TT",
+    "subdivision": "CTT",
+    "timezone": "America/Port_of_Spain"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.46748,
+      10.42248
+    ]
+  }
+}

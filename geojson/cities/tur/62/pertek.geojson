@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pertek",
+    "country": "TR",
+    "subdivision": "62",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.32273,
+      38.86574
+    ]
+  }
+}

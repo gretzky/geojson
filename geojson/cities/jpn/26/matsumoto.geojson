@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matsumoto",
+    "country": "JP",
+    "subdivision": "26",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.96667,
+      36.23333
+    ]
+  }
+}

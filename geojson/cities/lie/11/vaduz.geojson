@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vaduz",
+    "country": "LI",
+    "subdivision": "11",
+    "timezone": "Europe/Vaduz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.52154,
+      47.14151
+    ]
+  }
+}

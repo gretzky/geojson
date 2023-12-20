@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arevik",
+    "country": "AM",
+    "subdivision": "07",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.9043,
+      40.7417
+    ]
+  }
+}

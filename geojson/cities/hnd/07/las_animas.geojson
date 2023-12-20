@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Ánimas",
+    "country": "HN",
+    "subdivision": "07",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.56667,
+      14.25
+    ]
+  }
+}

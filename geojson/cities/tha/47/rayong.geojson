@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rayong",
+    "country": "TH",
+    "subdivision": "47",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.25798,
+      12.68095
+    ]
+  }
+}

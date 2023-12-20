@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Akureyri",
+    "country": "IS",
+    "subdivision": "40",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -18.0878,
+      65.68353
+    ]
+  }
+}

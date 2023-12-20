@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Alejo",
+    "country": "SV",
+    "subdivision": "07",
+    "timezone": "America/El_Salvador"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.96306,
+      13.43139
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Unión",
+    "country": "EC",
+    "subdivision": "02",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.78333,
+      -2.85
+    ]
+  }
+}

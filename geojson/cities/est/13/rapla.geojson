@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rapla",
+    "country": "EE",
+    "subdivision": "13",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.79278,
+      59.00722
+    ]
+  }
+}

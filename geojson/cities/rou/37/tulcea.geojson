@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tulcea",
+    "country": "RO",
+    "subdivision": "37",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.80501,
+      45.1787
+    ]
+  }
+}

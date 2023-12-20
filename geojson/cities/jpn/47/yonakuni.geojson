@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yonakuni",
+    "country": "JP",
+    "subdivision": "47",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123,
+      24.46667
+    ]
+  }
+}

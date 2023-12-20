@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pastores",
+    "country": "GT",
+    "subdivision": "16",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.75473,
+      14.59433
+    ]
+  }
+}

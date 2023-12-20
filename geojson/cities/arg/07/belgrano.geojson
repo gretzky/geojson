@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Belgrano",
+    "country": "AR",
+    "subdivision": "07",
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.45829,
+      -34.5627
+    ]
+  }
+}

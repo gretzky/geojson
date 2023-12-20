@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Whitehorse",
+    "country": "CA",
+    "subdivision": "12",
+    "timezone": "America/Whitehorse"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -135.05375,
+      60.71611
+    ]
+  }
+}

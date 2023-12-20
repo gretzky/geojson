@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Roşia",
+    "country": "RO",
+    "subdivision": "33",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.31667,
+      45.81667
+    ]
+  }
+}

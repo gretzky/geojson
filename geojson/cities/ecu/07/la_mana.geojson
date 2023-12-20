@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Maná",
+    "country": "EC",
+    "subdivision": "07",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.22506,
+      -0.94094
+    ]
+  }
+}

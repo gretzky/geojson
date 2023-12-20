@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Buena Vista",
+    "country": "PR",
+    "subdivision": "015",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.05183,
+      17.99635
+    ]
+  }
+}

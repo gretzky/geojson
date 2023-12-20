@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Benin City",
+    "country": "NG",
+    "subdivision": "37",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.62575,
+      6.33815
+    ]
+  }
+}

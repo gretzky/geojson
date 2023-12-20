@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pidkamin",
+    "country": "UA",
+    "subdivision": "15",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.31672,
+      49.94599
+    ]
+  }
+}

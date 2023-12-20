@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Victoria",
+    "country": "GD",
+    "subdivision": "05",
+    "timezone": "America/Grenada"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.70677,
+      12.19021
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bozan",
+    "country": "TR",
+    "subdivision": "26",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.10167,
+      39.78806
+    ]
+  }
+}

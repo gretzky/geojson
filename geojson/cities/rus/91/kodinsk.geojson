@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kodinsk",
+    "country": "RU",
+    "subdivision": "91",
+    "timezone": "Asia/Krasnoyarsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.17398,
+      58.60629
+    ]
+  }
+}

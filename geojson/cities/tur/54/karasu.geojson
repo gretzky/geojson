@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karasu",
+    "country": "TR",
+    "subdivision": "54",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.69664,
+      41.10442
+    ]
+  }
+}

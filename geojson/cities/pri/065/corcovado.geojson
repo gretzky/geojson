@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Corcovado",
+    "country": "PR",
+    "subdivision": "065",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.77629,
+      18.45856
+    ]
+  }
+}

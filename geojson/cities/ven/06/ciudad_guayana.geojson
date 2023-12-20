@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad Guayana",
+    "country": "VE",
+    "subdivision": "06",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -62.64102,
+      8.35122
+    ]
+  }
+}

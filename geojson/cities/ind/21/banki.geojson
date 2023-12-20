@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bānki",
+    "country": "IN",
+    "subdivision": "21",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.52953,
+      20.37912
+    ]
+  }
+}

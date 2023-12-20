@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dailekh",
+    "country": "NP",
+    "subdivision": "6",
+    "timezone": "Asia/Kathmandu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.71011,
+      28.84434
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gijang",
+    "country": "KR",
+    "subdivision": "10",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      129.21389,
+      35.24417
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mombasa",
+    "country": "KE",
+    "subdivision": "37",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.66359,
+      -4.05466
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Man",
+    "country": "CI",
+    "subdivision": "78",
+    "timezone": "Africa/Abidjan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.55383,
+      7.41251
+    ]
+  }
+}

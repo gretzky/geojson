@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Trenel",
+    "country": "AR",
+    "subdivision": "11",
+    "timezone": "America/Argentina/Salta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.13218,
+      -35.69837
+    ]
+  }
+}

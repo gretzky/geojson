@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mungeli",
+    "country": "IN",
+    "subdivision": "37",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.68543,
+      22.06566
+    ]
+  }
+}

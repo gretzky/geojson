@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yumbe",
+    "country": "UG",
+    "subdivision": "N",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.24689,
+      3.46506
+    ]
+  }
+}

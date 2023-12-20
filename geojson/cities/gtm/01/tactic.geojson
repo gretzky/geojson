@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tactic",
+    "country": "GT",
+    "subdivision": "01",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.35448,
+      15.32218
+    ]
+  }
+}

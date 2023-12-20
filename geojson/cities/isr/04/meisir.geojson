@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Meisir",
+    "country": "IL",
+    "subdivision": "04",
+    "timezone": "Asia/Jerusalem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.04134,
+      32.44445
+    ]
+  }
+}

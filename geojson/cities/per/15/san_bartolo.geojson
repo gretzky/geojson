@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Bartolo",
+    "country": "PE",
+    "subdivision": "15",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.78333,
+      -12.38333
+    ]
+  }
+}

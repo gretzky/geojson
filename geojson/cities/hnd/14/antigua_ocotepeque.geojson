@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Antigua Ocotepeque",
+    "country": "HN",
+    "subdivision": "14",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.2,
+      14.4
+    ]
+  }
+}

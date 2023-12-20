@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Virje",
+    "country": "HR",
+    "subdivision": "06",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.99,
+      46.06722
+    ]
+  }
+}

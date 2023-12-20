@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mayagüez",
+    "country": "PR",
+    "subdivision": "097",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.13962,
+      18.20107
+    ]
+  }
+}

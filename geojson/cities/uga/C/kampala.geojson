@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kampala",
+    "country": "UG",
+    "subdivision": "C",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.58219,
+      0.31628
+    ]
+  }
+}

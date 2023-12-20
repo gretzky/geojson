@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kaiapoi",
+    "country": "NZ",
+    "subdivision": "E9",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      172.64013,
+      -43.37832
+    ]
+  }
+}

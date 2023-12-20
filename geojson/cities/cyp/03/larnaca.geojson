@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Larnaca",
+    "country": "CY",
+    "subdivision": "03",
+    "timezone": "Asia/Nicosia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.6233,
+      34.92291
+    ]
+  }
+}

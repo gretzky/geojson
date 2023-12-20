@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Frosta",
+    "country": "NO",
+    "subdivision": "21",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7423,
+      63.5891
+    ]
+  }
+}

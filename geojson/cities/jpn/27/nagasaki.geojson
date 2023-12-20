@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nagasaki",
+    "country": "JP",
+    "subdivision": "27",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      129.88333,
+      32.75
+    ]
+  }
+}

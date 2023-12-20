@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tongzhou",
+    "country": "CN",
+    "subdivision": "22",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.66183,
+      39.90395
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad Barrios",
+    "country": "SV",
+    "subdivision": "09",
+    "timezone": "America/El_Salvador"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.26667,
+      13.76667
+    ]
+  }
+}

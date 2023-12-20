@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Astillero",
+    "country": "ES",
+    "subdivision": "39",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.82051,
+      43.40094
+    ]
+  }
+}

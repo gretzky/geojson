@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Labuan",
+    "country": "MY",
+    "subdivision": "15",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.2475,
+      5.28028
+    ]
+  }
+}

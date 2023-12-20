@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Punto Fijo",
+    "country": "VE",
+    "subdivision": "11",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.19918,
+      11.69152
+    ]
+  }
+}

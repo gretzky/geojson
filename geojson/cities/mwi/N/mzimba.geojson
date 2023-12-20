@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mzimba",
+    "country": "MW",
+    "subdivision": "N",
+    "timezone": "Africa/Blantyre"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.6,
+      -11.9
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "N'Djamena",
+    "country": "TD",
+    "subdivision": "21",
+    "timezone": "Africa/Ndjamena"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0444,
+      12.10672
+    ]
+  }
+}

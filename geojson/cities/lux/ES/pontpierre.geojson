@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pontpierre",
+    "country": "LU",
+    "subdivision": "ES",
+    "timezone": "Europe/Luxembourg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.02944,
+      49.53639
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mae Sai",
+    "country": "TH",
+    "subdivision": "03",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.87617,
+      20.43353
+    ]
+  }
+}

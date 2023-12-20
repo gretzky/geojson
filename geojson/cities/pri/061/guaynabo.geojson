@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guaynabo",
+    "country": "PR",
+    "subdivision": "061",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.111,
+      18.35745
+    ]
+  }
+}

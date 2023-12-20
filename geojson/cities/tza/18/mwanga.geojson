@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mwanga",
+    "country": "TZ",
+    "subdivision": "18",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.2,
+      -4.8
+    ]
+  }
+}

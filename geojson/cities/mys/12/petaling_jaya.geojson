@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Petaling Jaya",
+    "country": "MY",
+    "subdivision": "12",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.60671,
+      3.10726
+    ]
+  }
+}

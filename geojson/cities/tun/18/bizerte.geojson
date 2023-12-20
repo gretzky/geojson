@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bizerte",
+    "country": "TN",
+    "subdivision": "18",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.87391,
+      37.27442
+    ]
+  }
+}

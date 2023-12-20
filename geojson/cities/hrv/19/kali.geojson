@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kali",
+    "country": "HR",
+    "subdivision": "19",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.20556,
+      44.06278
+    ]
+  }
+}

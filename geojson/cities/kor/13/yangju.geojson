@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yangju",
+    "country": "KR",
+    "subdivision": "13",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.06169,
+      37.83311
+    ]
+  }
+}

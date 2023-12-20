@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hayang",
+    "country": "KR",
+    "subdivision": "14",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.82,
+      35.91333
+    ]
+  }
+}

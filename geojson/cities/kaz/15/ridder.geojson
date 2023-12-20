@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ridder",
+    "country": "KZ",
+    "subdivision": "15",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.51287,
+      50.34413
+    ]
+  }
+}

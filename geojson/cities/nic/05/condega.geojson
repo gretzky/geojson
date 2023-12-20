@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Condega",
+    "country": "NI",
+    "subdivision": "05",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.39846,
+      13.36502
+    ]
+  }
+}

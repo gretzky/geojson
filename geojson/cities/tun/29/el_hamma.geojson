@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Hamma",
+    "country": "TN",
+    "subdivision": "29",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.79629,
+      33.89152
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Caleta Olivia",
+    "country": "AR",
+    "subdivision": "20",
+    "timezone": "America/Argentina/Rio_Gallegos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.52814,
+      -46.43929
+    ]
+  }
+}

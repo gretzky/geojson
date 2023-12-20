@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ishigaki",
+    "country": "JP",
+    "subdivision": "47",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.15717,
+      24.34478
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kawakawa",
+    "country": "NZ",
+    "subdivision": "F6",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.06667,
+      -35.38333
+    ]
+  }
+}

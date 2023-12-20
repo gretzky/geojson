@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Quirihue",
+    "country": "CL",
+    "subdivision": "18",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.54118,
+      -36.27998
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chuncheon",
+    "country": "KR",
+    "subdivision": "06",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.73417,
+      37.87472
+    ]
+  }
+}

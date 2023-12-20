@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arki",
+    "country": "IN",
+    "subdivision": "11",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.96675,
+      31.15196
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Strömsund",
+    "country": "SE",
+    "subdivision": "07",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.55583,
+      63.85206
+    ]
+  }
+}

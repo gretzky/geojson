@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Old City",
+    "country": "PS",
+    "subdivision": "WE",
+    "timezone": "Asia/Hebron"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.23417,
+      31.77667
+    ]
+  }
+}

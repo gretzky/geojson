@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nairobi",
+    "country": "KE",
+    "subdivision": "05",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.81667,
+      -1.28333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bangkok",
+    "country": "TH",
+    "subdivision": "40",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.50144,
+      13.75398
+    ]
+  }
+}

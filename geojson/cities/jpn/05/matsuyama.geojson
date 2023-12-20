@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matsuyama",
+    "country": "JP",
+    "subdivision": "05",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      132.76574,
+      33.83916
+    ]
+  }
+}

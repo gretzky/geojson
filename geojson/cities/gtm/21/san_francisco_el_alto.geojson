@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Francisco El Alto",
+    "country": "GT",
+    "subdivision": "21",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.4431,
+      14.9449
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Blagoveshchensk",
+    "country": "RU",
+    "subdivision": "05",
+    "timezone": "Asia/Yakutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.5405,
+      50.27961
+    ]
+  }
+}

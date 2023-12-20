@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mischii",
+    "country": "RO",
+    "subdivision": "17",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.85,
+      44.38333
+    ]
+  }
+}

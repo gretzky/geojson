@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tambovka",
+    "country": "RU",
+    "subdivision": "05",
+    "timezone": "Asia/Yakutsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.05724,
+      50.09968
+    ]
+  }
+}

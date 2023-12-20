@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Busan",
+    "country": "KR",
+    "subdivision": "10",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      129.03004,
+      35.10168
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tai O",
+    "country": "HK",
+    "subdivision": "NIS",
+    "timezone": "Asia/Hong_Kong"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.86309,
+      22.25515
+    ]
+  }
+}

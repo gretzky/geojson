@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dąbrowa Białostocka",
+    "country": "PL",
+    "subdivision": "81",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.34792,
+      53.65364
+    ]
+  }
+}

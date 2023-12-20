@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stan’kava",
+    "country": "BY",
+    "subdivision": "05",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.229,
+      53.6292
+    ]
+  }
+}

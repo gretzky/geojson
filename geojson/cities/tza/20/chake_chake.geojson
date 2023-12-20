@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chake Chake",
+    "country": "TZ",
+    "subdivision": "20",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.76659,
+      -5.24586
+    ]
+  }
+}

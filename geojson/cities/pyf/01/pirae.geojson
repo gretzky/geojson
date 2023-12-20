@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pirae",
+    "country": "PF",
+    "subdivision": "01",
+    "timezone": "Pacific/Tahiti"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.53333,
+      -17.51667
+    ]
+  }
+}

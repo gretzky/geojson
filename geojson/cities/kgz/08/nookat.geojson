@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nookat",
+    "country": "KG",
+    "subdivision": "08",
+    "timezone": "Asia/Bishkek"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.61834,
+      40.26597
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bremerhaven",
+    "country": "DE",
+    "subdivision": "03",
+    "timezone": "Europe/Berlin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.59298,
+      53.53615
+    ]
+  }
+}

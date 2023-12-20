@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bratislava",
+    "country": "SK",
+    "subdivision": "02",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.10674,
+      48.14816
+    ]
+  }
+}

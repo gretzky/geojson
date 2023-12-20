@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nelson",
+    "country": "NZ",
+    "subdivision": "F5",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      173.28404,
+      -41.27078
+    ]
+  }
+}

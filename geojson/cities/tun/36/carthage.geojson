@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carthage",
+    "country": "TN",
+    "subdivision": "36",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.33161,
+      36.86108
+    ]
+  }
+}

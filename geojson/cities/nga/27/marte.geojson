@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Marte",
+    "country": "NG",
+    "subdivision": "27",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.8293,
+      12.36532
+    ]
+  }
+}

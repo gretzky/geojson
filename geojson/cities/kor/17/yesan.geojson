@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yesan",
+    "country": "KR",
+    "subdivision": "17",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.84272,
+      36.67756
+    ]
+  }
+}

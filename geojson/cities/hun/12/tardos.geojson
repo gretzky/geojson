@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tardos",
+    "country": "HU",
+    "subdivision": "12",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.44416,
+      47.66192
+    ]
+  }
+}

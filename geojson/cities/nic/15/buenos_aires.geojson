@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Buenos Aires",
+    "country": "NI",
+    "subdivision": "15",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.81661,
+      11.46916
+    ]
+  }
+}

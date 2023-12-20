@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ulsan",
+    "country": "KR",
+    "subdivision": "21",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      129.31667,
+      35.53722
+    ]
+  }
+}

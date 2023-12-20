@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cleanov",
+    "country": "RO",
+    "subdivision": "17",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.21032,
+      44.35288
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Damietta",
+    "country": "EG",
+    "subdivision": "20",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.81332,
+      31.41648
+    ]
+  }
+}

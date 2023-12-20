@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zaxo",
+    "country": "IQ",
+    "subdivision": "08",
+    "timezone": "Asia/Baghdad"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.68591,
+      37.14871
+    ]
+  }
+}

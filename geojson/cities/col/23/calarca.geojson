@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Calarcá",
+    "country": "CO",
+    "subdivision": "23",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.64091,
+      4.52949
+    ]
+  }
+}

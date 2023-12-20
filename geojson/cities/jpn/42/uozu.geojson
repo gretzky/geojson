@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Uozu",
+    "country": "JP",
+    "subdivision": "42",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.4,
+      36.8
+    ]
+  }
+}

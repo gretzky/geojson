@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Central Aguirre",
+    "country": "PR",
+    "subdivision": "123",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.22294,
+      17.95358
+    ]
+  }
+}

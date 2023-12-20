@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Charlottetown",
+    "country": "CA",
+    "subdivision": "09",
+    "timezone": "America/Halifax"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.1256,
+      46.23459
+    ]
+  }
+}

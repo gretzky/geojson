@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mandeville",
+    "country": "JM",
+    "subdivision": "04",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.50714,
+      18.04168
+    ]
+  }
+}

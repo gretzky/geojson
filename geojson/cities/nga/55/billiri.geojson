@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Billiri",
+    "country": "NG",
+    "subdivision": "55",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.22624,
+      9.86545
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Námestovo",
+    "country": "SK",
+    "subdivision": "08",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.48032,
+      49.4079
+    ]
+  }
+}

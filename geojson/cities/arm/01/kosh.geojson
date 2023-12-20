@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kosh",
+    "country": "AM",
+    "subdivision": "01",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.16107,
+      40.30011
+    ]
+  }
+}

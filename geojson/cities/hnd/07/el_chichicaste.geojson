@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Chichicaste",
+    "country": "HN",
+    "subdivision": "07",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.3,
+      14.06667
+    ]
+  }
+}

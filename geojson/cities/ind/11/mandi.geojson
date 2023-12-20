@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mandi",
+    "country": "IN",
+    "subdivision": "11",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.93273,
+      31.71194
+    ]
+  }
+}

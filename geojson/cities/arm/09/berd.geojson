@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Berd",
+    "country": "AM",
+    "subdivision": "09",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.38901,
+      40.88135
+    ]
+  }
+}

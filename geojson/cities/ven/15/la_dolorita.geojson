@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Dolorita",
+    "country": "VE",
+    "subdivision": "15",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.78608,
+      10.4883
+    ]
+  }
+}

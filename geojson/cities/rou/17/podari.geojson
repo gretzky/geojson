@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Podari",
+    "country": "RO",
+    "subdivision": "17",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.78333,
+      44.25
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maisí",
+    "country": "CU",
+    "subdivision": "10",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.15181,
+      20.24673
+    ]
+  }
+}

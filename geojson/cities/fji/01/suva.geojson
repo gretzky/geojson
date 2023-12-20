@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Suva",
+    "country": "FJ",
+    "subdivision": "01",
+    "timezone": "Pacific/Fiji"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      178.44149,
+      -18.14161
+    ]
+  }
+}

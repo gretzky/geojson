@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lima",
+    "country": "PE",
+    "subdivision": "LMA",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.02824,
+      -12.04318
+    ]
+  }
+}

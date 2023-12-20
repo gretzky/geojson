@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wakefield",
+    "country": "NZ",
+    "subdivision": "TAS",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      173.05,
+      -41.4
+    ]
+  }
+}

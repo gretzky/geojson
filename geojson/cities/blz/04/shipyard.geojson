@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shipyard",
+    "country": "BZ",
+    "subdivision": "04",
+    "timezone": "America/Belize"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.65452,
+      17.89382
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sangju",
+    "country": "KR",
+    "subdivision": "14",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.16056,
+      36.41528
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Tumbador",
+    "country": "GT",
+    "subdivision": "17",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.93416,
+      14.86375
+    ]
+  }
+}

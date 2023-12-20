@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Chacabuco",
+    "country": "CL",
+    "subdivision": "02",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.81667,
+      -45.46667
+    ]
+  }
+}

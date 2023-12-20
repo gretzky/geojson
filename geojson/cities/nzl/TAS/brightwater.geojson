@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brightwater",
+    "country": "NZ",
+    "subdivision": "TAS",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      173.11667,
+      -41.38333
+    ]
+  }
+}

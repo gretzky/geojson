@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Window Rock",
+    "country": "US",
+    "subdivision": "AZ",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.05259,
+      35.68057
+    ]
+  }
+}

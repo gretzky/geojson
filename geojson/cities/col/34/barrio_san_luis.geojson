@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barrio San Luis",
+    "country": "CO",
+    "subdivision": "34",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.0215,
+      4.66779
+    ]
+  }
+}

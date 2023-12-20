@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Naszály",
+    "country": "HU",
+    "subdivision": "12",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.25751,
+      47.70329
+    ]
+  }
+}

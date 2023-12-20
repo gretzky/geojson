@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Corella",
+    "country": "ES",
+    "subdivision": "32",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.78563,
+      42.11507
+    ]
+  }
+}

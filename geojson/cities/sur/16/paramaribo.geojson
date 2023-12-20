@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Paramaribo",
+    "country": "SR",
+    "subdivision": "16",
+    "timezone": "America/Paramaribo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.16682,
+      5.86638
+    ]
+  }
+}

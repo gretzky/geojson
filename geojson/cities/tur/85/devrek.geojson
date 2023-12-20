@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Devrek",
+    "country": "TR",
+    "subdivision": "85",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.95583,
+      41.21917
+    ]
+  }
+}

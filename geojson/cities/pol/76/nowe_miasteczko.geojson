@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nowe Miasteczko",
+    "country": "PL",
+    "subdivision": "76",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.73174,
+      51.69097
+    ]
+  }
+}

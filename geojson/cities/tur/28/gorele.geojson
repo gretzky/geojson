@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Görele",
+    "country": "TR",
+    "subdivision": "28",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.00306,
+      41.03083
+    ]
+  }
+}

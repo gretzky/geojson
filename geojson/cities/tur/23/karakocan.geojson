@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karakoçan",
+    "country": "TR",
+    "subdivision": "23",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.02706,
+      38.95178
+    ]
+  }
+}

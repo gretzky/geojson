@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brazzaville",
+    "country": "CG",
+    "subdivision": "12",
+    "timezone": "Africa/Brazzaville"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.28318,
+      -4.26613
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kerepes",
+    "country": "HU",
+    "subdivision": "16",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.28289,
+      47.56008
+    ]
+  }
+}

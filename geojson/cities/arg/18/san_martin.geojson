@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Martín",
+    "country": "AR",
+    "subdivision": "18",
+    "timezone": "America/Argentina/San_Juan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.50065,
+      -31.42957
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sohag",
+    "country": "EG",
+    "subdivision": "24",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.69478,
+      26.55695
+    ]
+  }
+}

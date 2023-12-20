@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rengo",
+    "country": "CL",
+    "subdivision": "08",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.85834,
+      -34.40639
+    ]
+  }
+}

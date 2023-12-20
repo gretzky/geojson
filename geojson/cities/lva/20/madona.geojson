@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Madona",
+    "country": "LV",
+    "subdivision": "20",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.21698,
+      56.85329
+    ]
+  }
+}

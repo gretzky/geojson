@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shalushka",
+    "country": "RU",
+    "subdivision": "22",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.56611,
+      43.5325
+    ]
+  }
+}

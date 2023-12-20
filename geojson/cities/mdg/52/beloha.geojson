@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beloha",
+    "country": "MG",
+    "subdivision": "52",
+    "timezone": "Indian/Antananarivo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.05,
+      -25.16667
+    ]
+  }
+}

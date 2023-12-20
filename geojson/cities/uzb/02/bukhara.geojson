@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bukhara",
+    "country": "UZ",
+    "subdivision": "02",
+    "timezone": "Asia/Samarkand"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      64.42861,
+      39.77472
+    ]
+  }
+}

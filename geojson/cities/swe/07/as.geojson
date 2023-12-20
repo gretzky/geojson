@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ås",
+    "country": "SE",
+    "subdivision": "07",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.56667,
+      63.25
+    ]
+  }
+}

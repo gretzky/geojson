@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kijang",
+    "country": "ID",
+    "subdivision": "40",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.63333,
+      0.9
+    ]
+  }
+}

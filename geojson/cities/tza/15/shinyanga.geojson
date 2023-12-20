@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shinyanga",
+    "country": "TZ",
+    "subdivision": "15",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.42118,
+      -3.66393
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Addis Ababa",
+    "country": "ET",
+    "subdivision": "44",
+    "timezone": "Africa/Addis_Ababa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.74689,
+      9.02497
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mali",
+    "country": "GN",
+    "subdivision": "L",
+    "timezone": "Africa/Conakry"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.2982,
+      12.079
+    ]
+  }
+}

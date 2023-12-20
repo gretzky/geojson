@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Selva Alegre",
+    "country": "PE",
+    "subdivision": "04",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.52724,
+      -16.37057
+    ]
+  }
+}

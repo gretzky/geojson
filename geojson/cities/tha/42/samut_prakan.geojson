@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Samut Prakan",
+    "country": "TH",
+    "subdivision": "42",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.59675,
+      13.59934
+    ]
+  }
+}

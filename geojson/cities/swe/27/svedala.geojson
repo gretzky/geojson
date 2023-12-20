@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Svedala",
+    "country": "SE",
+    "subdivision": "27",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.23515,
+      55.50788
+    ]
+  }
+}

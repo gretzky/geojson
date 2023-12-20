@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rincón",
+    "country": "PR",
+    "subdivision": "117",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.2499,
+      18.34023
+    ]
+  }
+}

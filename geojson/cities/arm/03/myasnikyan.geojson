@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Myasnikyan",
+    "country": "AM",
+    "subdivision": "03",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.91949,
+      40.18048
+    ]
+  }
+}

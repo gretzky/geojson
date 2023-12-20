@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fukuyama",
+    "country": "JP",
+    "subdivision": "11",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      133.36667,
+      34.48333
+    ]
+  }
+}

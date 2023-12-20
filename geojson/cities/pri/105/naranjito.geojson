@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Naranjito",
+    "country": "PR",
+    "subdivision": "105",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.24489,
+      18.30079
+    ]
+  }
+}

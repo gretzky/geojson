@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Toaca",
+    "country": "RO",
+    "subdivision": "27",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.9641,
+      46.79975
+    ]
+  }
+}

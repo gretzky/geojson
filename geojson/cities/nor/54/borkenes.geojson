@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Borkenes",
+    "country": "NO",
+    "subdivision": "54",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.17115,
+      68.77261
+    ]
+  }
+}

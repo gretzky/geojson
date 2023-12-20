@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kaliningrad",
+    "country": "RU",
+    "subdivision": "23",
+    "timezone": "Europe/Kaliningrad"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.51095,
+      54.70649
+    ]
+  }
+}

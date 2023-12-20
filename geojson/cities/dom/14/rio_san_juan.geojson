@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Río San Juan",
+    "country": "DO",
+    "subdivision": "14",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.07635,
+      19.64385
+    ]
+  }
+}

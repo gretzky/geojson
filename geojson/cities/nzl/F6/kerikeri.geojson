@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kerikeri",
+    "country": "NZ",
+    "subdivision": "F6",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      173.94739,
+      -35.22676
+    ]
+  }
+}

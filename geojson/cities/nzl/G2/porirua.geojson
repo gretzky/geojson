@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porirua",
+    "country": "NZ",
+    "subdivision": "G2",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.85,
+      -41.13333
+    ]
+  }
+}

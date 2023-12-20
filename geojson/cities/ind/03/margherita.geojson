@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Margherita",
+    "country": "IN",
+    "subdivision": "03",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.66796,
+      27.28482
+    ]
+  }
+}

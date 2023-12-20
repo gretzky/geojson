@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boden",
+    "country": "SE",
+    "subdivision": "14",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.68864,
+      65.82518
+    ]
+  }
+}

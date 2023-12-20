@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Clint",
+    "country": "US",
+    "subdivision": "TX",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.22414,
+      31.59234
+    ]
+  }
+}

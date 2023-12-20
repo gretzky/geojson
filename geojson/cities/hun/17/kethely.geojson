@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kéthely",
+    "country": "HU",
+    "subdivision": "17",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.39362,
+      46.64605
+    ]
+  }
+}

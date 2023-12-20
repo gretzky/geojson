@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bingöl",
+    "country": "TR",
+    "subdivision": "12",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.49389,
+      38.88472
+    ]
+  }
+}

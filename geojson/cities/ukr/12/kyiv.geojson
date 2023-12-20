@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kyiv",
+    "country": "UA",
+    "subdivision": "12",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.5238,
+      50.45466
+    ]
+  }
+}

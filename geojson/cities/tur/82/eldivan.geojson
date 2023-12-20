@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eldivan",
+    "country": "TR",
+    "subdivision": "82",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.49903,
+      40.52975
+    ]
+  }
+}

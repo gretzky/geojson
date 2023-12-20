@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coconi",
+    "country": "RO",
+    "subdivision": "41",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.88409,
+      44.24769
+    ]
+  }
+}

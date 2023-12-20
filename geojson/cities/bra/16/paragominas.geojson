@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Paragominas",
+    "country": "BR",
+    "subdivision": "16",
+    "timezone": "America/Belem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -47.48333,
+      -2.96667
+    ]
+  }
+}

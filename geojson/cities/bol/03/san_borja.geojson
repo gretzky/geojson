@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Borja",
+    "country": "BO",
+    "subdivision": "03",
+    "timezone": "America/La_Paz"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.74954,
+      -14.85195
+    ]
+  }
+}

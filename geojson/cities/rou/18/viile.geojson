@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Viile",
+    "country": "RO",
+    "subdivision": "18",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.94748,
+      45.80691
+    ]
+  }
+}

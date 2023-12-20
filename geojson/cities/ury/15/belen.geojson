@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Belén",
+    "country": "UY",
+    "subdivision": "15",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.77577,
+      -30.78716
+    ]
+  }
+}

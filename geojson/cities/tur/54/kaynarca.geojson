@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kaynarca",
+    "country": "TR",
+    "subdivision": "54",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.3075,
+      41.03083
+    ]
+  }
+}

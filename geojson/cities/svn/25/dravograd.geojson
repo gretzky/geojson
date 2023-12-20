@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dravograd",
+    "country": "SI",
+    "subdivision": "25",
+    "timezone": "Europe/Ljubljana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.01917,
+      46.58806
+    ]
+  }
+}

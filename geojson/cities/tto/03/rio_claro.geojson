@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rio Claro",
+    "country": "TT",
+    "subdivision": "03",
+    "timezone": "America/Port_of_Spain"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.17556,
+      10.30594
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Seka",
+    "country": "TH",
+    "subdivision": "81",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.95519,
+      17.92851
+    ]
+  }
+}

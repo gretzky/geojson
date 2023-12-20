@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Motueka",
+    "country": "NZ",
+    "subdivision": "TAS",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      173.01667,
+      -41.13333
+    ]
+  }
+}

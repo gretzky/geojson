@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fergana",
+    "country": "UZ",
+    "subdivision": "03",
+    "timezone": "Asia/Tashkent"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.78432,
+      40.38421
+    ]
+  }
+}

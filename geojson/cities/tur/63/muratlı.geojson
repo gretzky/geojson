@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Muratlı",
+    "country": "TR",
+    "subdivision": "63",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.10056,
+      36.96167
+    ]
+  }
+}

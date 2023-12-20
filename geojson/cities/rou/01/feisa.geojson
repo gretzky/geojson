@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Feisa",
+    "country": "RO",
+    "subdivision": "01",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.14492,
+      46.22608
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Namyangju",
+    "country": "KR",
+    "subdivision": "13",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.21417,
+      37.63667
+    ]
+  }
+}

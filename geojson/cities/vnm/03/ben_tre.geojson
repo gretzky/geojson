@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bến Tre",
+    "country": "VN",
+    "subdivision": "03",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.37585,
+      10.24147
+    ]
+  }
+}

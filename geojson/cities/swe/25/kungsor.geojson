@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kungsör",
+    "country": "SE",
+    "subdivision": "25",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.09656,
+      59.42245
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan del Cesar",
+    "country": "CO",
+    "subdivision": "17",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.00314,
+      10.77107
+    ]
+  }
+}

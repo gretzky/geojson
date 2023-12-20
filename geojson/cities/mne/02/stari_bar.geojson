@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stari Bar",
+    "country": "ME",
+    "subdivision": "02",
+    "timezone": "Europe/Podgorica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.136,
+      42.097
+    ]
+  }
+}

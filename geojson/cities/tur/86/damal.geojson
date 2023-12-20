@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Damal",
+    "country": "TR",
+    "subdivision": "86",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.8368,
+      41.34145
+    ]
+  }
+}

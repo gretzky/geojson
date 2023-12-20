@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shilin",
+    "country": "CN",
+    "subdivision": "29",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.33237,
+      24.81878
+    ]
+  }
+}

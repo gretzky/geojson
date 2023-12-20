@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Al Khawr",
+    "country": "QA",
+    "subdivision": "04",
+    "timezone": "Asia/Qatar"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.50583,
+      25.68389
+    ]
+  }
+}

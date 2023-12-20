@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Šamac",
+    "country": "BA",
+    "subdivision": "02",
+    "timezone": "Europe/Sarajevo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.46756,
+      45.05987
+    ]
+  }
+}

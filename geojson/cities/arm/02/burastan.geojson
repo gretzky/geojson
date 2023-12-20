@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Burastan",
+    "country": "AM",
+    "subdivision": "02",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.49681,
+      39.99157
+    ]
+  }
+}

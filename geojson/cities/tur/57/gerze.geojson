@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gerze",
+    "country": "TR",
+    "subdivision": "57",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.20111,
+      41.80361
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Ana",
+    "country": "PE",
+    "subdivision": "08",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.71667,
+      -12.86667
+    ]
+  }
+}

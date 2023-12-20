@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rioja",
+    "country": "PE",
+    "subdivision": "22",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.16651,
+      -6.05675
+    ]
+  }
+}

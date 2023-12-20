@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Greenville",
+    "country": "LR",
+    "subdivision": "10",
+    "timezone": "Africa/Monrovia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.0388,
+      5.01133
+    ]
+  }
+}

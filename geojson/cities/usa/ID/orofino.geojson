@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Orofino",
+    "country": "US",
+    "subdivision": "ID",
+    "timezone": "America/Los_Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.25514,
+      46.47935
+    ]
+  }
+}

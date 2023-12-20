@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mozdok",
+    "country": "RU",
+    "subdivision": "68",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.65177,
+      43.74359
+    ]
+  }
+}

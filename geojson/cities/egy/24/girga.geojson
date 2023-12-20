@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Girga",
+    "country": "EG",
+    "subdivision": "24",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.89295,
+      26.33721
+    ]
+  }
+}

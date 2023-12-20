@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chisinau",
+    "country": "MD",
+    "subdivision": "57",
+    "timezone": "Europe/Chisinau"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.8575,
+      47.00556
+    ]
+  }
+}

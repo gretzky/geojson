@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jūrmala",
+    "country": "LV",
+    "subdivision": "13",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.77038,
+      56.968
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Bayadh",
+    "country": "DZ",
+    "subdivision": "42",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.01927,
+      33.68318
+    ]
+  }
+}

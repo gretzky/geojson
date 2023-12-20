@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cartaxo",
+    "country": "PT",
+    "subdivision": "18",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.78741,
+      39.16022
+    ]
+  }
+}

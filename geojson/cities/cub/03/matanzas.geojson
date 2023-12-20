@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matanzas",
+    "country": "CU",
+    "subdivision": "03",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.5775,
+      23.04111
+    ]
+  }
+}

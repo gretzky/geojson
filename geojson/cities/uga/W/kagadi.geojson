@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kagadi",
+    "country": "UG",
+    "subdivision": "W",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.80889,
+      0.93778
+    ]
+  }
+}

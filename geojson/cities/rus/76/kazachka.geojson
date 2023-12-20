@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kazachka",
+    "country": "RU",
+    "subdivision": "76",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.0694,
+      53.3644
+    ]
+  }
+}

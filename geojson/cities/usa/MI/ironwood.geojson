@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ironwood",
+    "country": "US",
+    "subdivision": "MI",
+    "timezone": "America/Menominee"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.17101,
+      46.45467
+    ]
+  }
+}

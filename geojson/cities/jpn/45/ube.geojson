@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ube",
+    "country": "JP",
+    "subdivision": "45",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.25111,
+      33.94306
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Diego de Los Baños",
+    "country": "CU",
+    "subdivision": "01",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.36972,
+      22.64667
+    ]
+  }
+}

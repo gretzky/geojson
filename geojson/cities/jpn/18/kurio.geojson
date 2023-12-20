@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kurio",
+    "country": "JP",
+    "subdivision": "18",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.4236,
+      30.27123
+    ]
+  }
+}

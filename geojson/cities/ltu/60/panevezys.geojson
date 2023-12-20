@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Panevėžys",
+    "country": "LT",
+    "subdivision": "60",
+    "timezone": "Europe/Vilnius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.35,
+      55.73333
+    ]
+  }
+}

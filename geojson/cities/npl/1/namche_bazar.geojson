@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Namche Bazar",
+    "country": "NP",
+    "subdivision": "1",
+    "timezone": "Asia/Kathmandu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.71058,
+      27.80528
+    ]
+  }
+}

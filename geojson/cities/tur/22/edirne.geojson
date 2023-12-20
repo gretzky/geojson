@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Edirne",
+    "country": "TR",
+    "subdivision": "22",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.55597,
+      41.67719
+    ]
+  }
+}

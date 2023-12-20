@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kermanshah",
+    "country": "IR",
+    "subdivision": "13",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.065,
+      34.31417
+    ]
+  }
+}

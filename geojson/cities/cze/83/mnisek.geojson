@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mníšek",
+    "country": "CZ",
+    "subdivision": "83",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0563,
+      50.83163
+    ]
+  }
+}

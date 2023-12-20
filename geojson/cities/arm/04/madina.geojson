@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Madina",
+    "country": "AM",
+    "subdivision": "04",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.25507,
+      40.07637
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Catia La Mar",
+    "country": "VE",
+    "subdivision": "26",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.03238,
+      10.60545
+    ]
+  }
+}

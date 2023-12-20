@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matamata",
+    "country": "NZ",
+    "subdivision": "G1",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      175.76237,
+      -37.8106
+    ]
+  }
+}

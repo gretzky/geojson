@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Makushino",
+    "country": "RU",
+    "subdivision": "40",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      67.24417,
+      55.21028
+    ]
+  }
+}

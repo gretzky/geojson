@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Iskar",
+    "country": "BG",
+    "subdivision": "50",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.26667,
+      43.45
+    ]
+  }
+}

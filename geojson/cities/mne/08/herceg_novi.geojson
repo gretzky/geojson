@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Herceg Novi",
+    "country": "ME",
+    "subdivision": "08",
+    "timezone": "Europe/Podgorica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5375,
+      42.45306
+    ]
+  }
+}

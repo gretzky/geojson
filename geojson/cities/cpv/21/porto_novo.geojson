@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porto Novo",
+    "country": "CV",
+    "subdivision": "21",
+    "timezone": "Atlantic/Cape_Verde"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -25.06471,
+      17.01969
+    ]
+  }
+}

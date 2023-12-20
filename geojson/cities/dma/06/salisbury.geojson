@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Salisbury",
+    "country": "DM",
+    "subdivision": "06",
+    "timezone": "America/Dominica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.43637,
+      15.43689
+    ]
+  }
+}

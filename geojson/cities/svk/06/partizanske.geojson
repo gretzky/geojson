@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Partizánske",
+    "country": "SK",
+    "subdivision": "06",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.38455,
+      48.62861
+    ]
+  }
+}

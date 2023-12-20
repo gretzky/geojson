@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Montes",
+    "country": "UY",
+    "subdivision": "02",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.56219,
+      -34.49339
+    ]
+  }
+}

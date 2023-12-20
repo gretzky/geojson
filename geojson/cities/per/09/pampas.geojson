@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pampas",
+    "country": "PE",
+    "subdivision": "09",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.86687,
+      -12.3949
+    ]
+  }
+}

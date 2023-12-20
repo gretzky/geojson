@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nova Zagora",
+    "country": "BG",
+    "subdivision": "56",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.01667,
+      42.48333
+    ]
+  }
+}

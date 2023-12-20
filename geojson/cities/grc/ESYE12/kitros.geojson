@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kítros",
+    "country": "GR",
+    "subdivision": "ESYE12",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.57862,
+      40.37399
+    ]
+  }
+}

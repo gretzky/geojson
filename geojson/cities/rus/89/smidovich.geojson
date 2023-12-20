@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Smidovich",
+    "country": "RU",
+    "subdivision": "89",
+    "timezone": "Asia/Vladivostok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      133.80866,
+      48.59647
+    ]
+  }
+}

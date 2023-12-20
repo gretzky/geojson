@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pampa de Tate",
+    "country": "PE",
+    "subdivision": "11",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.69179,
+      -14.1453
+    ]
+  }
+}

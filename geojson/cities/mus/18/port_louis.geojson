@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Port Louis",
+    "country": "MU",
+    "subdivision": "18",
+    "timezone": "Indian/Mauritius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.49889,
+      -20.16194
+    ]
+  }
+}

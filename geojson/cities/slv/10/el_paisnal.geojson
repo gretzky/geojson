@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Paisnal",
+    "country": "SV",
+    "subdivision": "10",
+    "timezone": "America/El_Salvador"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.21861,
+      13.97361
+    ]
+  }
+}

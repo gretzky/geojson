@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Falmouth",
+    "country": "JM",
+    "subdivision": "15",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.65587,
+      18.49358
+    ]
+  }
+}

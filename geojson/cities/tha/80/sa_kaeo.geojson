@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sa Kaeo",
+    "country": "TH",
+    "subdivision": "80",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.07222,
+      13.81411
+    ]
+  }
+}

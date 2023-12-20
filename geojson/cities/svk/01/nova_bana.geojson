@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nová Baňa",
+    "country": "SK",
+    "subdivision": "01",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.64037,
+      48.42305
+    ]
+  }
+}

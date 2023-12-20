@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Petapa",
+    "country": "GT",
+    "subdivision": "07",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.56196,
+      14.50189
+    ]
+  }
+}

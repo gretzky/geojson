@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Depok",
+    "country": "ID",
+    "subdivision": "10",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      110.43167,
+      -7.7625
+    ]
+  }
+}

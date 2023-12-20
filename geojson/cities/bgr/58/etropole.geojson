@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Etropole",
+    "country": "BG",
+    "subdivision": "58",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24,
+      42.83333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shturmovoye",
+    "country": "UA",
+    "subdivision": "20",
+    "timezone": "Europe/Simferopol"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.62245,
+      44.56767
+    ]
+  }
+}

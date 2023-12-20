@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colón",
+    "country": "CO",
+    "subdivision": "22",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.97369,
+      1.19034
+    ]
+  }
+}

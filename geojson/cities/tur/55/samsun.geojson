@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Samsun",
+    "country": "TR",
+    "subdivision": "55",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3361,
+      41.27976
+    ]
+  }
+}

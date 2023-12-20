@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aswan",
+    "country": "EG",
+    "subdivision": "16",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.89942,
+      24.09082
+    ]
+  }
+}

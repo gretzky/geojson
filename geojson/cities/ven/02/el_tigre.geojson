@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Tigre",
+    "country": "VE",
+    "subdivision": "02",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.2527,
+      8.88902
+    ]
+  }
+}

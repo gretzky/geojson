@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alaşehir",
+    "country": "TR",
+    "subdivision": "45",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.51718,
+      38.35083
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Isidro",
+    "country": "MX",
+    "subdivision": "06",
+    "timezone": "America/Ojinaga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.27868,
+      31.54683
+    ]
+  }
+}

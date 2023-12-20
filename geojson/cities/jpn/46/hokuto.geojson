@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hokuto",
+    "country": "JP",
+    "subdivision": "46",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.39606,
+      35.83458
+    ]
+  }
+}

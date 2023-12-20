@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gyumri",
+    "country": "AM",
+    "subdivision": "07",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.84528,
+      40.7942
+    ]
+  }
+}

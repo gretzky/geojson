@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Les Abricots",
+    "country": "HT",
+    "subdivision": "14",
+    "timezone": "America/Port-au-Prince"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.30786,
+      18.64901
+    ]
+  }
+}

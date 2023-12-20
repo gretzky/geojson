@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nakuru",
+    "country": "KE",
+    "subdivision": "39",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.07225,
+      -0.30719
+    ]
+  }
+}

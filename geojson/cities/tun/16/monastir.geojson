@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monastir",
+    "country": "TN",
+    "subdivision": "16",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.82617,
+      35.77799
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nueva Loja",
+    "country": "EC",
+    "subdivision": "22",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.89528,
+      0.086
+    ]
+  }
+}

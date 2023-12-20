@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Les Abymes",
+    "country": "GP",
+    "subdivision": "GP",
+    "timezone": "America/Guadeloupe"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.50507,
+      16.273
+    ]
+  }
+}

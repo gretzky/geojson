@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moca",
+    "country": "PR",
+    "subdivision": "099",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.11324,
+      18.39467
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pointe-Noire",
+    "country": "CG",
+    "subdivision": "15",
+    "timezone": "Africa/Brazzaville"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.86352,
+      -4.77609
+    ]
+  }
+}

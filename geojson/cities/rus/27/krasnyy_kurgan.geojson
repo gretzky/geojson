@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krasnyy Kurgan",
+    "country": "RU",
+    "subdivision": "27",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.61083,
+      43.94222
+    ]
+  }
+}

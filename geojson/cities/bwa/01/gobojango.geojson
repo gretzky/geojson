@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gobojango",
+    "country": "BW",
+    "subdivision": "01",
+    "timezone": "Africa/Gaborone"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.72882,
+      -21.8327
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Akmenė",
+    "country": "LT",
+    "subdivision": "61",
+    "timezone": "Europe/Vilnius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.75,
+      56.25
+    ]
+  }
+}

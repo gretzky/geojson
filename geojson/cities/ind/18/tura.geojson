@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tura",
+    "country": "IN",
+    "subdivision": "18",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      90.20239,
+      25.51421
+    ]
+  }
+}

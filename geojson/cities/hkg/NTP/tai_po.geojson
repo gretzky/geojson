@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tai Po",
+    "country": "HK",
+    "subdivision": "NTP",
+    "timezone": "Asia/Hong_Kong"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.16877,
+      22.45007
+    ]
+  }
+}

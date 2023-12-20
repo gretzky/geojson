@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Xining",
+    "country": "CN",
+    "subdivision": "06",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.75739,
+      36.62554
+    ]
+  }
+}

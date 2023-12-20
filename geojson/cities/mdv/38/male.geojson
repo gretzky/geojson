@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Male",
+    "country": "MV",
+    "subdivision": "38",
+    "timezone": "Indian/Maldives"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.50916,
+      4.17521
+    ]
+  }
+}

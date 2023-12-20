@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vysoké Tatry",
+    "country": "SK",
+    "subdivision": "05",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.24386,
+      49.13637
+    ]
+  }
+}

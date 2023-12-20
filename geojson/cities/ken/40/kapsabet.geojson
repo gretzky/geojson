@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kapsabet",
+    "country": "KE",
+    "subdivision": "40",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.105,
+      0.20387
+    ]
+  }
+}

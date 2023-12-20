@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gevaş",
+    "country": "TR",
+    "subdivision": "65",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.10189,
+      38.2921
+    ]
+  }
+}

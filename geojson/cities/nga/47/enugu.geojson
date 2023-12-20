@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Enugu",
+    "country": "NG",
+    "subdivision": "47",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.49883,
+      6.44132
+    ]
+  }
+}

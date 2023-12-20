@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Myshkin",
+    "country": "RU",
+    "subdivision": "88",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.45448,
+      57.78973
+    ]
+  }
+}

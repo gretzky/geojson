@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pirava",
+    "country": "MK",
+    "subdivision": "E9",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.53047,
+      41.32042
+    ]
+  }
+}

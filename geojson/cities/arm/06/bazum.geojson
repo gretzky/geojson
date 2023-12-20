@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bazum",
+    "country": "AM",
+    "subdivision": "06",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.43978,
+      40.86763
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lunca",
+    "country": "RO",
+    "subdivision": "37",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.77495,
+      44.73288
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Río Gallegos",
+    "country": "AR",
+    "subdivision": "20",
+    "timezone": "America/Argentina/Rio_Gallegos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.21813,
+      -51.62261
+    ]
+  }
+}

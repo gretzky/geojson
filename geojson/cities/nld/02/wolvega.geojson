@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wolvega",
+    "country": "NL",
+    "subdivision": "02",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.99691,
+      52.87545
+    ]
+  }
+}

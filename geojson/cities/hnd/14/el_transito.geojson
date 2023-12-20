@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Tránsito",
+    "country": "HN",
+    "subdivision": "14",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.91667,
+      14.38333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Long Mountain",
+    "country": "MU",
+    "subdivision": "16",
+    "timezone": "Indian/Mauritius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.56222,
+      -20.14306
+    ]
+  }
+}

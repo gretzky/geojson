@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bir el Hafey",
+    "country": "TN",
+    "subdivision": "33",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.19321,
+      34.93212
+    ]
+  }
+}

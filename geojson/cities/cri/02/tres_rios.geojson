@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tres Ríos",
+    "country": "CR",
+    "subdivision": "02",
+    "timezone": "America/Costa_Rica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.9876,
+      9.90644
+    ]
+  }
+}

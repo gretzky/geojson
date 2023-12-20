@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chortkiv",
+    "country": "UA",
+    "subdivision": "22",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.79808,
+      49.01701
+    ]
+  }
+}

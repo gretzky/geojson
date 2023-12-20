@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bumba",
+    "country": "CD",
+    "subdivision": "25",
+    "timezone": "Africa/Kinshasa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.46827,
+      2.18771
+    ]
+  }
+}

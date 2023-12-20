@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hostavice",
+    "country": "CZ",
+    "subdivision": "52",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.55822,
+      50.09283
+    ]
+  }
+}

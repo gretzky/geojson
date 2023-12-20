@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Macau",
+    "country": "MO",
+    "subdivision": "02",
+    "timezone": "Asia/Macau"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.54611,
+      22.20056
+    ]
+  }
+}

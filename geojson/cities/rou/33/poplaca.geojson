@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Poplaca",
+    "country": "RO",
+    "subdivision": "33",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.05,
+      45.71667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Videira",
+    "country": "BR",
+    "subdivision": "26",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -51.15167,
+      -27.00833
+    ]
+  }
+}

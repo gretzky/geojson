@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kasane",
+    "country": "BW",
+    "subdivision": "12",
+    "timezone": "Africa/Gaborone"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.16024,
+      -17.80165
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "İmranlı",
+    "country": "TR",
+    "subdivision": "58",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.11358,
+      39.87544
+    ]
+  }
+}

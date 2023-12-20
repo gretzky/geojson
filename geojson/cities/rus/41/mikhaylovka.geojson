@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mikhaylovka",
+    "country": "RU",
+    "subdivision": "41",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3767,
+      52.2317
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gurabo",
+    "country": "PR",
+    "subdivision": "063",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.97294,
+      18.2544
+    ]
+  }
+}

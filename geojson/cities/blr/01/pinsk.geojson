@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pinsk",
+    "country": "BY",
+    "subdivision": "01",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.0951,
+      52.1229
+    ]
+  }
+}

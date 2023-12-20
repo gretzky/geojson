@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Cristóbal",
+    "country": "VE",
+    "subdivision": "20",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.225,
+      7.76694
+    ]
+  }
+}

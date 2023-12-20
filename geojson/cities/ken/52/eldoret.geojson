@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eldoret",
+    "country": "KE",
+    "subdivision": "52",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.26993,
+      0.52036
+    ]
+  }
+}

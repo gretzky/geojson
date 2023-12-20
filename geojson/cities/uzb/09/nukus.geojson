@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nukus",
+    "country": "UZ",
+    "subdivision": "09",
+    "timezone": "Asia/Samarkand"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      59.61028,
+      42.45306
+    ]
+  }
+}

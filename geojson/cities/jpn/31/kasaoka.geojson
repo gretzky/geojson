@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kasaoka",
+    "country": "JP",
+    "subdivision": "31",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      133.50391,
+      34.50597
+    ]
+  }
+}

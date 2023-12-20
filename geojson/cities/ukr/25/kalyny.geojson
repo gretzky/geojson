@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kalyny",
+    "country": "UA",
+    "subdivision": "25",
+    "timezone": "Europe/Uzhgorod"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.87386,
+      48.14403
+    ]
+  }
+}

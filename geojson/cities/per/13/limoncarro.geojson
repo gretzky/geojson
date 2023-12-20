@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Limoncarro",
+    "country": "PE",
+    "subdivision": "13",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.4168,
+      -7.3011
+    ]
+  }
+}

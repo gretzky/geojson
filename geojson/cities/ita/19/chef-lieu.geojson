@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chef-Lieu",
+    "country": "IT",
+    "subdivision": "19",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.35372,
+      45.75091
+    ]
+  }
+}

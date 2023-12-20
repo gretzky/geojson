@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Xi’an",
+    "country": "CN",
+    "subdivision": "26",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      108.92861,
+      34.25833
+    ]
+  }
+}

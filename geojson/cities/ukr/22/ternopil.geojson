@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ternopil",
+    "country": "UA",
+    "subdivision": "22",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.59067,
+      49.55404
+    ]
+  }
+}

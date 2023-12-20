@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Teavaro",
+    "country": "PF",
+    "subdivision": "01",
+    "timezone": "Pacific/Tahiti"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.76667,
+      -17.5
+    ]
+  }
+}

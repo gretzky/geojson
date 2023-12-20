@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Muş",
+    "country": "TR",
+    "subdivision": "49",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.48482,
+      38.73163
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ulmu",
+    "country": "RO",
+    "subdivision": "08",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.31667,
+      44.95
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sidon",
+    "country": "LB",
+    "subdivision": "06",
+    "timezone": "Asia/Beirut"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.37148,
+      33.55751
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hammarstrand",
+    "country": "SE",
+    "subdivision": "07",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.35377,
+      63.11041
+    ]
+  }
+}

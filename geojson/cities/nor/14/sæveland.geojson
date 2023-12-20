@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sæveland",
+    "country": "NO",
+    "subdivision": "14",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.2,
+      59.26667
+    ]
+  }
+}

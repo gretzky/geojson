@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matzingen",
+    "country": "CH",
+    "subdivision": "TG",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.93365,
+      47.51957
+    ]
+  }
+}

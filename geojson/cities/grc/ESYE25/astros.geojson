@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ástros",
+    "country": "GR",
+    "subdivision": "ESYE25",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.72118,
+      37.40395
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Akouda",
+    "country": "TN",
+    "subdivision": "23",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.5653,
+      35.8691
+    ]
+  }
+}

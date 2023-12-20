@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ahmetli",
+    "country": "TR",
+    "subdivision": "45",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.93865,
+      38.5196
+    ]
+  }
+}

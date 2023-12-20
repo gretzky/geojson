@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Paikuse",
+    "country": "EE",
+    "subdivision": "11",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.63444,
+      58.37917
+    ]
+  }
+}

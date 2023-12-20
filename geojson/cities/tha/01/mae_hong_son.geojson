@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mae Hong Son",
+    "country": "TH",
+    "subdivision": "01",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.96852,
+      19.30029
+    ]
+  }
+}

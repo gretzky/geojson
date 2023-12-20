@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pazardzhik",
+    "country": "BG",
+    "subdivision": "48",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.33333,
+      42.2
+    ]
+  }
+}

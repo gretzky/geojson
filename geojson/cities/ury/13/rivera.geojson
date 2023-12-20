@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rivera",
+    "country": "UY",
+    "subdivision": "13",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.55076,
+      -30.90534
+    ]
+  }
+}

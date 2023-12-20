@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taxisco",
+    "country": "GT",
+    "subdivision": "18",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.46791,
+      14.06719
+    ]
+  }
+}

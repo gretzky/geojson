@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rusko",
+    "country": "FI",
+    "subdivision": "02",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.21667,
+      60.53333
+    ]
+  }
+}

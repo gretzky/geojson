@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saint-Pierre",
+    "country": "IT",
+    "subdivision": "19",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.22683,
+      45.71153
+    ]
+  }
+}

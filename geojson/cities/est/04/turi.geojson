@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Türi",
+    "country": "EE",
+    "subdivision": "04",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.4325,
+      58.80861
+    ]
+  }
+}

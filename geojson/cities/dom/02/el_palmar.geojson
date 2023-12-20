@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Palmar",
+    "country": "DO",
+    "subdivision": "02",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.24558,
+      18.41139
+    ]
+  }
+}

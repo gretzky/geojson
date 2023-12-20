@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ngatea",
+    "country": "NZ",
+    "subdivision": "G1",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      175.5,
+      -37.28333
+    ]
+  }
+}

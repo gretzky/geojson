@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Târnova",
+    "country": "RO",
+    "subdivision": "12",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.00611,
+      45.3425
+    ]
+  }
+}

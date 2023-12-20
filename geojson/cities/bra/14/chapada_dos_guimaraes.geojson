@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chapada dos Guimarães",
+    "country": "BR",
+    "subdivision": "14",
+    "timezone": "America/Cuiaba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.74972,
+      -15.46056
+    ]
+  }
+}

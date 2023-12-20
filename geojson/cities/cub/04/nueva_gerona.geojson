@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nueva Gerona",
+    "country": "CU",
+    "subdivision": "04",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.80556,
+      21.88667
+    ]
+  }
+}

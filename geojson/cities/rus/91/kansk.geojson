@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kansk",
+    "country": "RU",
+    "subdivision": "91",
+    "timezone": "Asia/Krasnoyarsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.7175,
+      56.20167
+    ]
+  }
+}

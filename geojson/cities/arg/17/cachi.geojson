@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cachí",
+    "country": "AR",
+    "subdivision": "17",
+    "timezone": "America/Argentina/Salta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.16519,
+      -25.12033
+    ]
+  }
+}

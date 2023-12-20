@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lamu",
+    "country": "KE",
+    "subdivision": "30",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.90201,
+      -2.27169
+    ]
+  }
+}

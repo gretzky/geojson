@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ratholo",
+    "country": "BW",
+    "subdivision": "01",
+    "timezone": "Africa/Gaborone"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.57199,
+      -22.72454
+    ]
+  }
+}

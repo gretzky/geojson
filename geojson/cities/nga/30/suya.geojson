@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Suya",
+    "country": "NG",
+    "subdivision": "30",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.18333,
+      9.4688
+    ]
+  }
+}

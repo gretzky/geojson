@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shablykino",
+    "country": "RU",
+    "subdivision": "56",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.19637,
+      52.85661
+    ]
+  }
+}

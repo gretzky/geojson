@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Al Markaz",
+    "country": "SA",
+    "subdivision": "06",
+    "timezone": "Asia/Riyadh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.73333,
+      25.4
+    ]
+  }
+}

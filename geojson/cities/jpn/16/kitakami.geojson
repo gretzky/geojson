@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kitakami",
+    "country": "JP",
+    "subdivision": "16",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.11667,
+      39.28333
+    ]
+  }
+}

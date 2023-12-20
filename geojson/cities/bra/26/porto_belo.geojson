@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Porto Belo",
+    "country": "BR",
+    "subdivision": "26",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -48.55306,
+      -27.15778
+    ]
+  }
+}

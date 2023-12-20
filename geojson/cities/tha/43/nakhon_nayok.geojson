@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nakhon Nayok",
+    "country": "TH",
+    "subdivision": "43",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.21295,
+      14.20463
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Valley of Peace",
+    "country": "BZ",
+    "subdivision": "02",
+    "timezone": "America/Belize"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.83472,
+      17.33472
+    ]
+  }
+}

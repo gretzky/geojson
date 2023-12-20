@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Te Kauwhata",
+    "country": "NZ",
+    "subdivision": "G1",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      175.15,
+      -37.4
+    ]
+  }
+}

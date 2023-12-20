@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sonqor",
+    "country": "IR",
+    "subdivision": "13",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.59945,
+      34.78187
+    ]
+  }
+}

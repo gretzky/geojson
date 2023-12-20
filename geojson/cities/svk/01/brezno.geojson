@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brezno",
+    "country": "SK",
+    "subdivision": "01",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.63631,
+      48.80431
+    ]
+  }
+}

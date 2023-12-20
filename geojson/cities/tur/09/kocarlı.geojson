@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Koçarlı",
+    "country": "TR",
+    "subdivision": "09",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.70583,
+      37.76113
+    ]
+  }
+}

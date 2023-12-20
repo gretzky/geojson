@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Colombia",
+    "country": "CU",
+    "subdivision": "13",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.42598,
+      20.98812
+    ]
+  }
+}

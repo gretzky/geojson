@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Cristobal",
+    "country": "CU",
+    "subdivision": "AR",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.05647,
+      22.71658
+    ]
+  }
+}

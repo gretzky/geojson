@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vojnik",
+    "country": "SI",
+    "subdivision": "N3",
+    "timezone": "Europe/Ljubljana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.30333,
+      46.29333
+    ]
+  }
+}

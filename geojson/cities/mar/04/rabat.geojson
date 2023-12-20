@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rabat",
+    "country": "MA",
+    "subdivision": "04",
+    "timezone": "Africa/Casablanca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.83255,
+      34.01325
+    ]
+  }
+}

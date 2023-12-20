@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Caracol",
+    "country": "HT",
+    "subdivision": "10",
+    "timezone": "America/Port-au-Prince"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.01733,
+      19.69274
+    ]
+  }
+}

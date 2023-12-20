@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pointe Michel",
+    "country": "DM",
+    "subdivision": "07",
+    "timezone": "America/Dominica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.37452,
+      15.25976
+    ]
+  }
+}

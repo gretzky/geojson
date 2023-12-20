@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pilisszentkereszt",
+    "country": "HU",
+    "subdivision": "16",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.90503,
+      47.69143
+    ]
+  }
+}

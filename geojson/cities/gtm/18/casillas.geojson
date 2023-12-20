@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Casillas",
+    "country": "GT",
+    "subdivision": "18",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.24328,
+      14.41915
+    ]
+  }
+}

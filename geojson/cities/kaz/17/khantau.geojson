@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Khantau",
+    "country": "KZ",
+    "subdivision": "17",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.7941,
+      44.22627
+    ]
+  }
+}

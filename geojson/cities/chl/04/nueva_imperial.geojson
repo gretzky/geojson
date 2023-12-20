@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nueva Imperial",
+    "country": "CL",
+    "subdivision": "04",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.95025,
+      -38.74451
+    ]
+  }
+}

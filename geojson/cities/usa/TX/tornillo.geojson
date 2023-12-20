@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tornillo",
+    "country": "US",
+    "subdivision": "TX",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.08831,
+      31.4454
+    ]
+  }
+}

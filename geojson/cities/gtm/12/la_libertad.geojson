@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Libertad",
+    "country": "GT",
+    "subdivision": "12",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.11698,
+      16.7885
+    ]
+  }
+}

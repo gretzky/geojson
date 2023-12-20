@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kırklareli",
+    "country": "TR",
+    "subdivision": "39",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.22521,
+      41.73508
+    ]
+  }
+}

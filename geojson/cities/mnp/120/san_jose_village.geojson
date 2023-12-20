@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Jose Village",
+    "country": "MP",
+    "subdivision": "120",
+    "timezone": "Pacific/Saipan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.61998,
+      14.96823
+    ]
+  }
+}

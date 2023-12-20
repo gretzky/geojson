@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Goroka",
+    "country": "PG",
+    "subdivision": "09",
+    "timezone": "Pacific/Port_Moresby"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.38667,
+      -6.085
+    ]
+  }
+}

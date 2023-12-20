@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eskişehir",
+    "country": "TR",
+    "subdivision": "26",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.52056,
+      39.77667
+    ]
+  }
+}

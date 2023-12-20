@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tyup",
+    "country": "KG",
+    "subdivision": "07",
+    "timezone": "Asia/Bishkek"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.36476,
+      42.7276
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Holwerd",
+    "country": "NL",
+    "subdivision": "02",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.90073,
+      53.36815
+    ]
+  }
+}

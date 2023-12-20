@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Petersburg",
+    "country": "US",
+    "subdivision": "AK",
+    "timezone": "America/Sitka"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -132.95556,
+      56.8125
+    ]
+  }
+}

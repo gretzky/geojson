@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Safaga",
+    "country": "EG",
+    "subdivision": "02",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.93891,
+      26.74906
+    ]
+  }
+}

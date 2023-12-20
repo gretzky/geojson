@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Norilsk",
+    "country": "RU",
+    "subdivision": "91",
+    "timezone": "Asia/Krasnoyarsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      88.2027,
+      69.3535
+    ]
+  }
+}

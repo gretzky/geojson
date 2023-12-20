@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santarém",
+    "country": "BR",
+    "subdivision": "16",
+    "timezone": "America/Santarem"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.70833,
+      -2.44306
+    ]
+  }
+}

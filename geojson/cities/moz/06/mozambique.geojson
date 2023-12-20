@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mozambique",
+    "country": "MZ",
+    "subdivision": "06",
+    "timezone": "Africa/Maputo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.73447,
+      -15.03466
+    ]
+  }
+}

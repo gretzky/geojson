@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ha",
+    "country": "BT",
+    "subdivision": "10",
+    "timezone": "Asia/Thimphu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      89.28074,
+      27.38747
+    ]
+  }
+}

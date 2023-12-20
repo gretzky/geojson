@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Konya",
+    "country": "TR",
+    "subdivision": "71",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.48464,
+      37.87135
+    ]
+  }
+}

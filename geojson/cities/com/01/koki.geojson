@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Koki",
+    "country": "KM",
+    "subdivision": "01",
+    "timezone": "Indian/Comoro"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.44167,
+      -12.17139
+    ]
+  }
+}

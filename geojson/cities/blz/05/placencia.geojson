@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Placencia",
+    "country": "BZ",
+    "subdivision": "05",
+    "timezone": "America/Belize"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.36647,
+      16.51419
+    ]
+  }
+}

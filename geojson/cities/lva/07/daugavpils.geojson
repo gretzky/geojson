@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Daugavpils",
+    "country": "LV",
+    "subdivision": "07",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.53333,
+      55.88333
+    ]
+  }
+}

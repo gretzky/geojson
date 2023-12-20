@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pavlivka",
+    "country": "UA",
+    "subdivision": "23",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.45956,
+      49.44143
+    ]
+  }
+}

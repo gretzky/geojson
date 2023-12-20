@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bucharest",
+    "country": "RO",
+    "subdivision": "10",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.10626,
+      44.43225
+    ]
+  }
+}

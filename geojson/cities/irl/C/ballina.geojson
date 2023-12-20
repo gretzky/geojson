@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ballina",
+    "country": "IE",
+    "subdivision": "C",
+    "timezone": "Europe/Dublin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.16667,
+      54.11667
+    ]
+  }
+}

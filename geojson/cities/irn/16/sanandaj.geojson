@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sanandaj",
+    "country": "IR",
+    "subdivision": "16",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.99883,
+      35.31495
+    ]
+  }
+}

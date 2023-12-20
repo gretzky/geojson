@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nueva Palmira",
+    "country": "UY",
+    "subdivision": "04",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.41176,
+      -33.87031
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kitakyushu",
+    "country": "JP",
+    "subdivision": "07",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.85034,
+      33.85181
+    ]
+  }
+}

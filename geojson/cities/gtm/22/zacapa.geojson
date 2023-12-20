@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zacapa",
+    "country": "GT",
+    "subdivision": "22",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.53056,
+      14.97222
+    ]
+  }
+}

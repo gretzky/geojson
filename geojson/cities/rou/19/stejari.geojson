@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stejari",
+    "country": "RO",
+    "subdivision": "19",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.68333,
+      44.76667
+    ]
+  }
+}

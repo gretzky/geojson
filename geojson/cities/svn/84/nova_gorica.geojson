@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nova Gorica",
+    "country": "SI",
+    "subdivision": "84",
+    "timezone": "Europe/Ljubljana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.64837,
+      45.95604
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Florida",
+    "country": "UY",
+    "subdivision": "07",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.21417,
+      -34.09556
+    ]
+  }
+}

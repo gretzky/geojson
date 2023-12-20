@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ccolo",
+    "country": "PE",
+    "subdivision": "04",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.49184,
+      -15.50611
+    ]
+  }
+}

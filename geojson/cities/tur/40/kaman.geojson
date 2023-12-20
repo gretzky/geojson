@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kaman",
+    "country": "TR",
+    "subdivision": "40",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.72389,
+      39.3575
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Ignacio",
+    "country": "PE",
+    "subdivision": "06",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.00139,
+      -5.14583
+    ]
+  }
+}

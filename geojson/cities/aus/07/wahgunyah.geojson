@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wahgunyah",
+    "country": "AU",
+    "subdivision": "07",
+    "timezone": "Australia/Sydney"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.39714,
+      -36.01178
+    ]
+  }
+}

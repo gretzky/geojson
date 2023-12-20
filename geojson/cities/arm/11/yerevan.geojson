@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yerevan",
+    "country": "AM",
+    "subdivision": "11",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.51361,
+      40.18111
+    ]
+  }
+}

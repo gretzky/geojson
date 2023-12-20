@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Železnice",
+    "country": "CZ",
+    "subdivision": "82",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.38459,
+      50.47274
+    ]
+  }
+}

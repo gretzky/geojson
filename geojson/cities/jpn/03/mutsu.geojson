@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mutsu",
+    "country": "JP",
+    "subdivision": "03",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.21694,
+      41.28944
+    ]
+  }
+}

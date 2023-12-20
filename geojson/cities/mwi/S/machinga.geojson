@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Machinga",
+    "country": "MW",
+    "subdivision": "S",
+    "timezone": "Africa/Blantyre"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.30002,
+      -15.16849
+    ]
+  }
+}

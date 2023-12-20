@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Vestmannaeyjar",
+    "country": "IS",
+    "subdivision": "42",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -20.27339,
+      63.44273
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Keszthely",
+    "country": "HU",
+    "subdivision": "24",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.24317,
+      46.76812
+    ]
+  }
+}

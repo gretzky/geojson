@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Urca",
+    "country": "RO",
+    "subdivision": "13",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.96187,
+      46.54885
+    ]
+  }
+}

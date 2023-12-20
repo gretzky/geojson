@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jalapa",
+    "country": "GT",
+    "subdivision": "10",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.98889,
+      14.63472
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pekanbaru",
+    "country": "ID",
+    "subdivision": "37",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.44167,
+      0.51667
+    ]
+  }
+}

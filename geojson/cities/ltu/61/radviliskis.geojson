@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Radviliskis",
+    "country": "LT",
+    "subdivision": "61",
+    "timezone": "Europe/Vilnius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.53333,
+      55.81667
+    ]
+  }
+}

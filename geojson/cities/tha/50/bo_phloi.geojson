@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bo Phloi",
+    "country": "TH",
+    "subdivision": "50",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.51467,
+      14.32517
+    ]
+  }
+}

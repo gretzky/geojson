@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Olsztynek",
+    "country": "PL",
+    "subdivision": "85",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.28471,
+      53.58374
+    ]
+  }
+}

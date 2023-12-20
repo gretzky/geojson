@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Estancias de Florida",
+    "country": "PR",
+    "subdivision": "054",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.56962,
+      18.36662
+    ]
+  }
+}

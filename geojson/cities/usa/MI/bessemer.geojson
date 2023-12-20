@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bessemer",
+    "country": "US",
+    "subdivision": "MI",
+    "timezone": "America/Menominee"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.05295,
+      46.48134
+    ]
+  }
+}

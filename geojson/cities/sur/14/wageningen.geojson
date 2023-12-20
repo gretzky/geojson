@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wageningen",
+    "country": "SR",
+    "subdivision": "14",
+    "timezone": "America/Paramaribo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.66523,
+      5.7601
+    ]
+  }
+}

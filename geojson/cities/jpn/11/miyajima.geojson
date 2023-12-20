@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Miyajima",
+    "country": "JP",
+    "subdivision": "11",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      132.32186,
+      34.29907
+    ]
+  }
+}

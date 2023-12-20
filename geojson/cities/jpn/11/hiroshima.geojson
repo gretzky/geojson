@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hiroshima",
+    "country": "JP",
+    "subdivision": "11",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      132.45,
+      34.4
+    ]
+  }
+}

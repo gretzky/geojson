@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zaghouan",
+    "country": "TN",
+    "subdivision": "37",
+    "timezone": "Africa/Tunis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.14292,
+      36.40291
+    ]
+  }
+}

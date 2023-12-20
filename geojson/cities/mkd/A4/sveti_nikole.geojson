@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sveti Nikole",
+    "country": "MK",
+    "subdivision": "A4",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.95274,
+      41.86956
+    ]
+  }
+}

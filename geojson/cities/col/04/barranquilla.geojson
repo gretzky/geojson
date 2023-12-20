@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barranquilla",
+    "country": "CO",
+    "subdivision": "04",
+    "timezone": "America/Bogota"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.78132,
+      10.96854
+    ]
+  }
+}

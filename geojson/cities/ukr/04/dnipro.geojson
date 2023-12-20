@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dnipro",
+    "country": "UA",
+    "subdivision": "04",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.04066,
+      48.46664
+    ]
+  }
+}

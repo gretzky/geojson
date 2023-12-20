@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kallaste",
+    "country": "EE",
+    "subdivision": "18",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.16164,
+      58.66312
+    ]
+  }
+}

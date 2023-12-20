@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hisarya",
+    "country": "BG",
+    "subdivision": "51",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.7,
+      42.5
+    ]
+  }
+}

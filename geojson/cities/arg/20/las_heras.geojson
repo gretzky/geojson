@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Heras",
+    "country": "AR",
+    "subdivision": "20",
+    "timezone": "America/Argentina/Rio_Gallegos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.93593,
+      -46.54186
+    ]
+  }
+}

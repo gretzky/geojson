@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dickinson",
+    "country": "US",
+    "subdivision": "ND",
+    "timezone": "America/Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.78962,
+      46.87918
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sade",
+    "country": "NG",
+    "subdivision": "46",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.6732,
+      11.3595
+    ]
+  }
+}

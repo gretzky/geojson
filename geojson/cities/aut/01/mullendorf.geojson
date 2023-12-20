@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Müllendorf",
+    "country": "AT",
+    "subdivision": "01",
+    "timezone": "Europe/Vienna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.46258,
+      47.83943
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Paraíso",
+    "country": "DO",
+    "subdivision": "03",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.16526,
+      17.99172
+    ]
+  }
+}

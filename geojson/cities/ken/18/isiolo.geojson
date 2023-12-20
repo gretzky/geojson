@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Isiolo",
+    "country": "KE",
+    "subdivision": "18",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.58218,
+      0.35462
+    ]
+  }
+}

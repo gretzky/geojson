@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mtinko",
+    "country": "TZ",
+    "subdivision": "16",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.85,
+      -4.55
+    ]
+  }
+}

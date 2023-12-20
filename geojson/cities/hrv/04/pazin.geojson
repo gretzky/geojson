@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pazin",
+    "country": "HR",
+    "subdivision": "04",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.93667,
+      45.24028
+    ]
+  }
+}

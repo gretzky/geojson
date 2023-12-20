@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sabana Grande",
+    "country": "PR",
+    "subdivision": "121",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.96045,
+      18.07774
+    ]
+  }
+}

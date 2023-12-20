@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Juancho",
+    "country": "DO",
+    "subdivision": "16",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.29311,
+      17.85782
+    ]
+  }
+}

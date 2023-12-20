@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kimry",
+    "country": "RU",
+    "subdivision": "77",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.35,
+      56.86667
+    ]
+  }
+}

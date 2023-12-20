@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Prague",
+    "country": "CZ",
+    "subdivision": "52",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.42076,
+      50.08804
+    ]
+  }
+}

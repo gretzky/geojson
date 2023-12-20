@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Terre Rouge",
+    "country": "MU",
+    "subdivision": "16",
+    "timezone": "Indian/Mauritius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.53116,
+      -20.1283
+    ]
+  }
+}

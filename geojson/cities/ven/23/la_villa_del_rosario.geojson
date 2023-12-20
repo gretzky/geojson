@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Villa del Rosario",
+    "country": "VE",
+    "subdivision": "23",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.31343,
+      10.3258
+    ]
+  }
+}

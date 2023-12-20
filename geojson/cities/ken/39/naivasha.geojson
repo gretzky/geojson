@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Naivasha",
+    "country": "KE",
+    "subdivision": "39",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.43261,
+      -0.71383
+    ]
+  }
+}

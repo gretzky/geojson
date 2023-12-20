@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Charcas",
+    "country": "DO",
+    "subdivision": "01",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.61724,
+      18.45026
+    ]
+  }
+}

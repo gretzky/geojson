@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pasay",
+    "country": "PH",
+    "subdivision": "NCR",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.00144,
+      14.53748
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Skoghall",
+    "country": "SE",
+    "subdivision": "22",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.46552,
+      59.32324
+    ]
+  }
+}

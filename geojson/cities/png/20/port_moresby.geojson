@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Port Moresby",
+    "country": "PG",
+    "subdivision": "20",
+    "timezone": "Pacific/Port_Moresby"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.15089,
+      -9.47723
+    ]
+  }
+}

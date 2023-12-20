@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maldonado",
+    "country": "UY",
+    "subdivision": "09",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.95,
+      -34.9
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matui",
+    "country": "TZ",
+    "subdivision": "18",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.25,
+      -4.8
+    ]
+  }
+}

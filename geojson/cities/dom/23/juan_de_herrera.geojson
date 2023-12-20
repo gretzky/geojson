@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Juan de Herrera",
+    "country": "DO",
+    "subdivision": "23",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.2383,
+      18.87402
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santiago de Cao",
+    "country": "PE",
+    "subdivision": "13",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.23917,
+      -7.95889
+    ]
+  }
+}

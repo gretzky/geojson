@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Trebišov",
+    "country": "SK",
+    "subdivision": "03",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.71954,
+      48.62858
+    ]
+  }
+}

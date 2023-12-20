@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Minsk",
+    "country": "BY",
+    "subdivision": "04",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.56667,
+      53.9
+    ]
+  }
+}

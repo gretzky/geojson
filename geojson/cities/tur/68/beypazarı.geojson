@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Beypazarı",
+    "country": "TR",
+    "subdivision": "68",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.92111,
+      40.1675
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kalecik",
+    "country": "TR",
+    "subdivision": "68",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.40833,
+      40.09722
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Podgorica",
+    "country": "ME",
+    "subdivision": "16",
+    "timezone": "Europe/Podgorica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.26361,
+      42.44111
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cristo Rey",
+    "country": "DO",
+    "subdivision": "34",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.93333,
+      18.5
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yuzawa",
+    "country": "JP",
+    "subdivision": "02",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.5,
+      39.16667
+    ]
+  }
+}

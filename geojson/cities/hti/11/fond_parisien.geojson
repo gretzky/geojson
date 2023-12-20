@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fond Parisien",
+    "country": "HT",
+    "subdivision": "11",
+    "timezone": "America/Port-au-Prince"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.98122,
+      18.50547
+    ]
+  }
+}

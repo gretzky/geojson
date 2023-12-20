@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Odra",
+    "country": "HR",
+    "subdivision": "21",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.9924,
+      45.72979
+    ]
+  }
+}

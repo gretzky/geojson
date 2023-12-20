@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kunduz",
+    "country": "AF",
+    "subdivision": "24",
+    "timezone": "Asia/Kabul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      68.857,
+      36.72895
+    ]
+  }
+}

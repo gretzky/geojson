@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Punta del Este",
+    "country": "UY",
+    "subdivision": "09",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.93382,
+      -34.94747
+    ]
+  }
+}

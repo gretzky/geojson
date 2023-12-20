@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cabarete",
+    "country": "DO",
+    "subdivision": "18",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.40829,
+      19.74982
+    ]
+  }
+}

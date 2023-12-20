@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rio Tavares",
+    "country": "BR",
+    "subdivision": "26",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -48.47486,
+      -27.64529
+    ]
+  }
+}

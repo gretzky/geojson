@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Barishal",
+    "country": "PK",
+    "subdivision": "07",
+    "timezone": "Asia/Karachi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.69502,
+      36.32162
+    ]
+  }
+}

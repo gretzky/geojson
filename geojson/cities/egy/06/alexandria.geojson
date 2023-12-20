@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alexandria",
+    "country": "EG",
+    "subdivision": "06",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.91582,
+      31.20176
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Port of Spain",
+    "country": "TT",
+    "subdivision": "05",
+    "timezone": "America/Port_of_Spain"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.51889,
+      10.66668
+    ]
+  }
+}

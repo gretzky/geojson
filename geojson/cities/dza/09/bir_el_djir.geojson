@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bir el Djir",
+    "country": "DZ",
+    "subdivision": "09",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.545,
+      35.72
+    ]
+  }
+}

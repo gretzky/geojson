@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kibaya",
+    "country": "TZ",
+    "subdivision": "27",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.56667,
+      -5.3
+    ]
+  }
+}

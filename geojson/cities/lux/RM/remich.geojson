@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Remich",
+    "country": "LU",
+    "subdivision": "RM",
+    "timezone": "Europe/Luxembourg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.36694,
+      49.545
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Levashevo",
+    "country": "RU",
+    "subdivision": "88",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.52401,
+      57.64451
+    ]
+  }
+}

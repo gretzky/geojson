@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Summerside",
+    "country": "CA",
+    "subdivision": "09",
+    "timezone": "America/Halifax"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.78762,
+      46.39593
+    ]
+  }
+}

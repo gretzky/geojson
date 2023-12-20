@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chatan",
+    "country": "JP",
+    "subdivision": "47",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.77024,
+      26.30948
+    ]
+  }
+}

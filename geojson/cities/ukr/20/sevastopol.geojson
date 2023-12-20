@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sevastopol",
+    "country": "UA",
+    "subdivision": "20",
+    "timezone": "Europe/Simferopol"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.52134,
+      44.60795
+    ]
+  }
+}

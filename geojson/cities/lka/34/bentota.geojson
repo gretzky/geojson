@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bentota",
+    "country": "LK",
+    "subdivision": "34",
+    "timezone": "Asia/Colombo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.99575,
+      6.42598
+    ]
+  }
+}

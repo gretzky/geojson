@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Koeru",
+    "country": "EE",
+    "subdivision": "04",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.03083,
+      58.96306
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Boca Chica",
+    "country": "DO",
+    "subdivision": "37",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.6,
+      18.45
+    ]
+  }
+}

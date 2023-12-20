@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ahvaz",
+    "country": "IR",
+    "subdivision": "15",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.6842,
+      31.31901
+    ]
+  }
+}

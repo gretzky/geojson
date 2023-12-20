@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Montague",
+    "country": "CA",
+    "subdivision": "09",
+    "timezone": "America/Halifax"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -62.64866,
+      46.16681
+    ]
+  }
+}

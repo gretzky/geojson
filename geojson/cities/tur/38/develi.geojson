@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Develi",
+    "country": "TR",
+    "subdivision": "38",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.49222,
+      38.39056
+    ]
+  }
+}

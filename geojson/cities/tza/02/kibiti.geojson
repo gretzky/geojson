@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kibiti",
+    "country": "TZ",
+    "subdivision": "02",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.93749,
+      -7.72178
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kispest",
+    "country": "HU",
+    "subdivision": "05",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.14017,
+      47.4515
+    ]
+  }
+}

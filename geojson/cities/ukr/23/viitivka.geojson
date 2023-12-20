@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Viitivka",
+    "country": "UA",
+    "subdivision": "23",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.54497,
+      48.42257
+    ]
+  }
+}

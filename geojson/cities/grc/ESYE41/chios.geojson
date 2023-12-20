@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chios",
+    "country": "GR",
+    "subdivision": "ESYE41",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.13718,
+      38.36875
+    ]
+  }
+}

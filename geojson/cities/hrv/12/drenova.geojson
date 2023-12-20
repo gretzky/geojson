@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Drenova",
+    "country": "HR",
+    "subdivision": "12",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.43028,
+      45.35
+    ]
+  }
+}

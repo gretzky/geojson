@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Deputatsky",
+    "country": "RU",
+    "subdivision": "63",
+    "timezone": "Asia/Vladivostok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.97571,
+      69.30958
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Trujillo",
+    "country": "VE",
+    "subdivision": "21",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.43694,
+      9.36583
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tahoua",
+    "country": "NE",
+    "subdivision": "06",
+    "timezone": "Africa/Niamey"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.2692,
+      14.8888
+    ]
+  }
+}

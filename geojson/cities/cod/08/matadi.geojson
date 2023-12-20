@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Matadi",
+    "country": "CD",
+    "subdivision": "08",
+    "timezone": "Africa/Kinshasa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.46306,
+      -5.83861
+    ]
+  }
+}

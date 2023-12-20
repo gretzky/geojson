@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kimberley",
+    "country": "CA",
+    "subdivision": "02",
+    "timezone": "America/Edmonton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.9776,
+      49.67071
+    ]
+  }
+}

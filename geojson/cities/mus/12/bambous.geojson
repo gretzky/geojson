@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bambous",
+    "country": "MU",
+    "subdivision": "12",
+    "timezone": "Indian/Mauritius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.40611,
+      -20.25667
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sevan",
+    "country": "AM",
+    "subdivision": "04",
+    "timezone": "Asia/Yerevan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.94171,
+      40.5473
+    ]
+  }
+}

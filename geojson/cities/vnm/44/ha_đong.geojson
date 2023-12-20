@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hà Đông",
+    "country": "VN",
+    "subdivision": "44",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      105.77876,
+      20.97136
+    ]
+  }
+}

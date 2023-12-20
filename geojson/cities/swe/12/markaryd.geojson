@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Markaryd",
+    "country": "SE",
+    "subdivision": "12",
+    "timezone": "Europe/Stockholm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.59644,
+      56.46135
+    ]
+  }
+}

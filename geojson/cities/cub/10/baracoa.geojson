@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Baracoa",
+    "country": "CU",
+    "subdivision": "10",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.49624,
+      20.34711
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sydney",
+    "country": "CA",
+    "subdivision": "07",
+    "timezone": "America/Glace_Bay"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.1831,
+      46.1351
+    ]
+  }
+}

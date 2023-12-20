@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad Nueva",
+    "country": "DO",
+    "subdivision": "34",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.89339,
+      18.46707
+    ]
+  }
+}

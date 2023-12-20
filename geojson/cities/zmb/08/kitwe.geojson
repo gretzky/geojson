@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kitwe",
+    "country": "ZM",
+    "subdivision": "08",
+    "timezone": "Africa/Lusaka"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.21323,
+      -12.80243
+    ]
+  }
+}

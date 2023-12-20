@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Târguşor",
+    "country": "RO",
+    "subdivision": "14",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.41667,
+      44.45
+    ]
+  }
+}

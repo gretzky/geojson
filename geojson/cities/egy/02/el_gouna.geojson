@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Gouna",
+    "country": "EG",
+    "subdivision": "02",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.67825,
+      27.39417
+    ]
+  }
+}

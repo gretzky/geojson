@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dhaka",
+    "country": "BD",
+    "subdivision": "81",
+    "timezone": "Asia/Dhaka"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      90.40744,
+      23.7104
+    ]
+  }
+}

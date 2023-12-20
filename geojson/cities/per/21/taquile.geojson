@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taquile",
+    "country": "PE",
+    "subdivision": "21",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.68333,
+      -15.76667
+    ]
+  }
+}

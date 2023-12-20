@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Las Khorey",
+    "country": "SO",
+    "subdivision": "12",
+    "timezone": "Africa/Mogadishu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.1967,
+      11.1595
+    ]
+  }
+}

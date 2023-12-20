@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rostovka",
+    "country": "RU",
+    "subdivision": "54",
+    "timezone": "Asia/Omsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.88913,
+      55.3842
+    ]
+  }
+}

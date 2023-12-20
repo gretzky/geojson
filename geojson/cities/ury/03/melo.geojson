@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Melo",
+    "country": "UY",
+    "subdivision": "03",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.1675,
+      -32.37028
+    ]
+  }
+}

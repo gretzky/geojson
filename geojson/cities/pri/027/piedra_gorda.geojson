@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Piedra Gorda",
+    "country": "PR",
+    "subdivision": "027",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.88768,
+      18.43411
+    ]
+  }
+}

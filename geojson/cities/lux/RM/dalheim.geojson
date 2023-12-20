@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dalheim",
+    "country": "LU",
+    "subdivision": "RM",
+    "timezone": "Europe/Luxembourg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.25972,
+      49.54083
+    ]
+  }
+}

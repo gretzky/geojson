@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Isfahan",
+    "country": "IR",
+    "subdivision": "28",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.67462,
+      32.65246
+    ]
+  }
+}

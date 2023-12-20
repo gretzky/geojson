@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sparwood",
+    "country": "CA",
+    "subdivision": "02",
+    "timezone": "America/Edmonton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.88532,
+      49.73332
+    ]
+  }
+}

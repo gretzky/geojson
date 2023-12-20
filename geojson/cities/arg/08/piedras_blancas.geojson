@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Piedras Blancas",
+    "country": "AR",
+    "subdivision": "08",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.95181,
+      -31.18592
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Belfaux",
+    "country": "CH",
+    "subdivision": "FR",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.10674,
+      46.82171
+    ]
+  }
+}

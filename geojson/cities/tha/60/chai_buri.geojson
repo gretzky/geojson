@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chai Buri",
+    "country": "TH",
+    "subdivision": "60",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.07631,
+      8.46222
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Roble",
+    "country": "PA",
+    "subdivision": "03",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.66022,
+      8.16883
+    ]
+  }
+}

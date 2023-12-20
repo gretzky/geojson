@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cherkaske",
+    "country": "UA",
+    "subdivision": "04",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.37868,
+      48.70594
+    ]
+  }
+}

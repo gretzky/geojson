@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tartu",
+    "country": "EE",
+    "subdivision": "18",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.72509,
+      58.38062
+    ]
+  }
+}

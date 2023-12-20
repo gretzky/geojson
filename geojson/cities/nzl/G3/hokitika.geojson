@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hokitika",
+    "country": "NZ",
+    "subdivision": "G3",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      170.96667,
+      -42.71667
+    ]
+  }
+}

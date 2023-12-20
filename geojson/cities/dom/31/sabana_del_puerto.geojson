@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sabana del Puerto",
+    "country": "DO",
+    "subdivision": "31",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.41667,
+      19.06667
+    ]
+  }
+}

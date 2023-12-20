@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gebog",
+    "country": "ID",
+    "subdivision": "07",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      110.8444,
+      -6.735
+    ]
+  }
+}

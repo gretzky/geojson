@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cerrito",
+    "country": "PY",
+    "subdivision": "13",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.64119,
+      -27.34215
+    ]
+  }
+}

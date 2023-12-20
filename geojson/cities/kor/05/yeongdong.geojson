@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yeongdong",
+    "country": "KR",
+    "subdivision": "05",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.77639,
+      36.175
+    ]
+  }
+}

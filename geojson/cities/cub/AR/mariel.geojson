@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mariel",
+    "country": "CU",
+    "subdivision": "AR",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.75376,
+      22.98931
+    ]
+  }
+}

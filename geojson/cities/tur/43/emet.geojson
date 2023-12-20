@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Emet",
+    "country": "TR",
+    "subdivision": "43",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.25847,
+      39.343
+    ]
+  }
+}

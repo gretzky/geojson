@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Detchino",
+    "country": "RU",
+    "subdivision": "25",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3075,
+      54.80923
+    ]
+  }
+}

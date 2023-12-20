@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zavodske",
+    "country": "UA",
+    "subdivision": "18",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.40118,
+      50.40065
+    ]
+  }
+}

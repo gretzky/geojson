@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kaohsiung",
+    "country": "TW",
+    "subdivision": "02",
+    "timezone": "Asia/Taipei"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.31333,
+      22.61626
+    ]
+  }
+}

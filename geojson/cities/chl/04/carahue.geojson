@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Carahue",
+    "country": "CL",
+    "subdivision": "04",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.16101,
+      -38.71122
+    ]
+  }
+}

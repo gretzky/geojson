@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Reyðarfjörður",
+    "country": "IS",
+    "subdivision": "38",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -14.21832,
+      65.03164
+    ]
+  }
+}

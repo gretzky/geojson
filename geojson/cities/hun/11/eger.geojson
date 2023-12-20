@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Eger",
+    "country": "HU",
+    "subdivision": "11",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.37329,
+      47.90265
+    ]
+  }
+}

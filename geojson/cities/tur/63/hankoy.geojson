@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hanköy",
+    "country": "TR",
+    "subdivision": "63",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.19855,
+      36.95081
+    ]
+  }
+}

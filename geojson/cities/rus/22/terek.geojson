@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Terek",
+    "country": "RU",
+    "subdivision": "22",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.13611,
+      43.48333
+    ]
+  }
+}

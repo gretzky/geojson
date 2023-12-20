@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kalevala",
+    "country": "RU",
+    "subdivision": "28",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.18999,
+      65.19873
+    ]
+  }
+}

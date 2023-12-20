@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pirayú",
+    "country": "PY",
+    "subdivision": "15",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.23612,
+      -25.48415
+    ]
+  }
+}

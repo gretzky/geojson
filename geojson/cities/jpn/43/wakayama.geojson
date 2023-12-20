@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wakayama",
+    "country": "JP",
+    "subdivision": "43",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.16667,
+      34.23333
+    ]
+  }
+}

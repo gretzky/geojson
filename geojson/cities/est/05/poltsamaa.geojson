@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Põltsamaa",
+    "country": "EE",
+    "subdivision": "05",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.97056,
+      58.6525
+    ]
+  }
+}

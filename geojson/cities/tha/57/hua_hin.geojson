@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hua Hin",
+    "country": "TH",
+    "subdivision": "57",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.95876,
+      12.57065
+    ]
+  }
+}

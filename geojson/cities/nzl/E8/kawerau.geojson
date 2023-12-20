@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kawerau",
+    "country": "NZ",
+    "subdivision": "E8",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      176.7,
+      -38.1
+    ]
+  }
+}

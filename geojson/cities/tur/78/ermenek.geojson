@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ermenek",
+    "country": "TR",
+    "subdivision": "78",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.89179,
+      36.64043
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aguadilla",
+    "country": "PR",
+    "subdivision": "005",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.15407,
+      18.42745
+    ]
+  }
+}

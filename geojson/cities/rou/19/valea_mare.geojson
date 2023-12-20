@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Valea Mare",
+    "country": "RO",
+    "subdivision": "19",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.08004,
+      45.11263
+    ]
+  }
+}

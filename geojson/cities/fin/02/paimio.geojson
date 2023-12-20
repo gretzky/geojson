@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Paimio",
+    "country": "FI",
+    "subdivision": "02",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.68694,
+      60.45671
+    ]
+  }
+}

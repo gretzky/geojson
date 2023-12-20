@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kristiansund",
+    "country": "NO",
+    "subdivision": "08",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.72795,
+      63.11045
+    ]
+  }
+}

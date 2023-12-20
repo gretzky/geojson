@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Magomeni",
+    "country": "TZ",
+    "subdivision": "23",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.25,
+      -6.8
+    ]
+  }
+}

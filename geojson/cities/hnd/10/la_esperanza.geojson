@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Esperanza",
+    "country": "HN",
+    "subdivision": "10",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.18056,
+      14.31111
+    ]
+  }
+}

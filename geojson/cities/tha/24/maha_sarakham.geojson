@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Maha Sarakham",
+    "country": "TH",
+    "subdivision": "24",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.30067,
+      16.18483
+    ]
+  }
+}

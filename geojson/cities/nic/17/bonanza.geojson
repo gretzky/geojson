@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bonanza",
+    "country": "NI",
+    "subdivision": "17",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.59103,
+      14.02885
+    ]
+  }
+}

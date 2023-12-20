@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Košice",
+    "country": "SK",
+    "subdivision": "03",
+    "timezone": "Europe/Bratislava"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.25808,
+      48.71395
+    ]
+  }
+}

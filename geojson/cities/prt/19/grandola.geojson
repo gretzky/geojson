@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Grândola",
+    "country": "PT",
+    "subdivision": "19",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.56675,
+      38.17718
+    ]
+  }
+}

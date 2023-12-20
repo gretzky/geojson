@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Quevedo",
+    "country": "EC",
+    "subdivision": "13",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.46352,
+      -1.02863
+    ]
+  }
+}

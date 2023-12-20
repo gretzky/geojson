@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Taguig",
+    "country": "PH",
+    "subdivision": "NCR",
+    "timezone": "Asia/Manila"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.0792,
+      14.5243
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dawson Creek",
+    "country": "CA",
+    "subdivision": "02",
+    "timezone": "America/Dawson_Creek"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.2403,
+      55.75984
+    ]
+  }
+}

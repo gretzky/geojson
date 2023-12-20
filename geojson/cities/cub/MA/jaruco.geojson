@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Jaruco",
+    "country": "CU",
+    "subdivision": "MA",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.00919,
+      23.04419
+    ]
+  }
+}

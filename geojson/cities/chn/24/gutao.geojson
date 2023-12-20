@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gutao",
+    "country": "CN",
+    "subdivision": "24",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.17806,
+      37.2025
+    ]
+  }
+}

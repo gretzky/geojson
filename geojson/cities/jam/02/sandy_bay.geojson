@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sandy Bay",
+    "country": "JM",
+    "subdivision": "02",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.07321,
+      18.44854
+    ]
+  }
+}

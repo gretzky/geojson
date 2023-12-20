@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cēsis",
+    "country": "LV",
+    "subdivision": "05",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.27456,
+      57.31188
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Namioka",
+    "country": "JP",
+    "subdivision": "03",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.59048,
+      40.71069
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Livingstone",
+    "country": "ZM",
+    "subdivision": "07",
+    "timezone": "Africa/Lusaka"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.85425,
+      -17.84194
+    ]
+  }
+}

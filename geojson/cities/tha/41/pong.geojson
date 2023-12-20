@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pong",
+    "country": "TH",
+    "subdivision": "41",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.27522,
+      19.14931
+    ]
+  }
+}

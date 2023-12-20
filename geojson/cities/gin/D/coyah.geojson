@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coyah",
+    "country": "GN",
+    "subdivision": "D",
+    "timezone": "Africa/Conakry"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.38465,
+      9.70643
+    ]
+  }
+}

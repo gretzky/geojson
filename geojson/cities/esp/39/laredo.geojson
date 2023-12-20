@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Laredo",
+    "country": "ES",
+    "subdivision": "39",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.41613,
+      43.4098
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sohar",
+    "country": "OM",
+    "subdivision": "11",
+    "timezone": "Asia/Muscat"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      56.70937,
+      24.34745
+    ]
+  }
+}

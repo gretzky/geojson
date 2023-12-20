@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Aysén",
+    "country": "CL",
+    "subdivision": "02",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.69184,
+      -45.40303
+    ]
+  }
+}

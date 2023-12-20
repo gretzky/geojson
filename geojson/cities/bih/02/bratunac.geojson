@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bratunac",
+    "country": "BA",
+    "subdivision": "02",
+    "timezone": "Europe/Sarajevo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.33085,
+      44.18455
+    ]
+  }
+}

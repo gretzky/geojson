@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sucre",
+    "country": "EC",
+    "subdivision": "14",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.41885,
+      -1.27974
+    ]
+  }
+}

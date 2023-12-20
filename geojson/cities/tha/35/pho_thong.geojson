@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pho Thong",
+    "country": "TH",
+    "subdivision": "35",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.40878,
+      14.66731
+    ]
+  }
+}

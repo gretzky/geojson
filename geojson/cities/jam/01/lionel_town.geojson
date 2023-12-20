@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lionel Town",
+    "country": "JM",
+    "subdivision": "01",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.24061,
+      17.81007
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Corfu",
+    "country": "GR",
+    "subdivision": "ESYE22",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.92016,
+      39.62441
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Topki",
+    "country": "RU",
+    "subdivision": "29",
+    "timezone": "Asia/Novokuznetsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.6163,
+      55.2769
+    ]
+  }
+}

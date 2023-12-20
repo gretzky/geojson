@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Khorramabad",
+    "country": "IR",
+    "subdivision": "23",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.35583,
+      33.48778
+    ]
+  }
+}

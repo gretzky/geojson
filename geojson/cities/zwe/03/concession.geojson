@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Concession",
+    "country": "ZW",
+    "subdivision": "03",
+    "timezone": "Africa/Harare"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.95,
+      -17.38333
+    ]
+  }
+}

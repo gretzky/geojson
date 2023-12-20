@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Reynosa",
+    "country": "MX",
+    "subdivision": "28",
+    "timezone": "America/Matamoros"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.28835,
+      26.08061
+    ]
+  }
+}

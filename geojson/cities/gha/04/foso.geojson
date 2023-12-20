@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Foso",
+    "country": "GH",
+    "subdivision": "04",
+    "timezone": "Africa/Accra"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.28657,
+      5.70119
+    ]
+  }
+}

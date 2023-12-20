@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mongar",
+    "country": "BT",
+    "subdivision": "12",
+    "timezone": "Asia/Thimphu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      91.23963,
+      27.27471
+    ]
+  }
+}

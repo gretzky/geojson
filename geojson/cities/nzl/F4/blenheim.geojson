@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Blenheim",
+    "country": "NZ",
+    "subdivision": "F4",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      173.9528,
+      -41.51603
+    ]
+  }
+}

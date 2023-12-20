@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moi",
+    "country": "NO",
+    "subdivision": "14",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.55184,
+      58.45674
+    ]
+  }
+}

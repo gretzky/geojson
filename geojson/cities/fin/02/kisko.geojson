@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kisko",
+    "country": "FI",
+    "subdivision": "02",
+    "timezone": "Europe/Helsinki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.48333,
+      60.23333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Auce",
+    "country": "LV",
+    "subdivision": "44",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.90169,
+      56.45981
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tomsk",
+    "country": "RU",
+    "subdivision": "75",
+    "timezone": "Asia/Tomsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      84.97437,
+      56.49771
+    ]
+  }
+}

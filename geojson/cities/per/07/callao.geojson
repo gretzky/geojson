@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Callao",
+    "country": "PE",
+    "subdivision": "07",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.11814,
+      -12.05659
+    ]
+  }
+}

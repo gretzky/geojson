@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gorontalo",
+    "country": "ID",
+    "subdivision": "34",
+    "timezone": "Asia/Makassar"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.0625,
+      0.5375
+    ]
+  }
+}

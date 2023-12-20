@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Medina",
+    "country": "SA",
+    "subdivision": "05",
+    "timezone": "Asia/Riyadh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.61417,
+      24.46861
+    ]
+  }
+}

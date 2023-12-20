@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Edremit",
+    "country": "TR",
+    "subdivision": "65",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.25889,
+      38.42069
+    ]
+  }
+}

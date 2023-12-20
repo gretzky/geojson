@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Veles",
+    "country": "MK",
+    "subdivision": "F1",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.77556,
+      41.71556
+    ]
+  }
+}

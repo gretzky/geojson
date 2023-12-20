@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saint-Louis",
+    "country": "RE",
+    "subdivision": "RE",
+    "timezone": "Indian/Reunion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.41124,
+      -21.28585
+    ]
+  }
+}

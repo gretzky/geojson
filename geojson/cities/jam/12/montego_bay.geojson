@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Montego Bay",
+    "country": "JM",
+    "subdivision": "12",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.91883,
+      18.47116
+    ]
+  }
+}

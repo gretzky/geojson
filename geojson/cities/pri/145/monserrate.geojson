@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monserrate",
+    "country": "PR",
+    "subdivision": "145",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.35961,
+      18.43661
+    ]
+  }
+}

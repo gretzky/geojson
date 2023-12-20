@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arguvan",
+    "country": "TR",
+    "subdivision": "44",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.26328,
+      38.77375
+    ]
+  }
+}

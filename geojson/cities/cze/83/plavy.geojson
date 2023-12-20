@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Plavy",
+    "country": "CZ",
+    "subdivision": "83",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.31736,
+      50.70324
+    ]
+  }
+}

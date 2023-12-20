@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Phuket",
+    "country": "TH",
+    "subdivision": "62",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.3981,
+      7.89059
+    ]
+  }
+}

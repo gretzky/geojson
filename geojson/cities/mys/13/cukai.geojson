@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cukai",
+    "country": "MY",
+    "subdivision": "13",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.41667,
+      4.25
+    ]
+  }
+}

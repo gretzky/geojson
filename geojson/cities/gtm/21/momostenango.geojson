@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Momostenango",
+    "country": "GT",
+    "subdivision": "21",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.40864,
+      15.04437
+    ]
+  }
+}

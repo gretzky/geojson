@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Flores",
+    "country": "GT",
+    "subdivision": "12",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.89941,
+      16.92258
+    ]
+  }
+}

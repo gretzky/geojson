@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bungoma",
+    "country": "KE",
+    "subdivision": "12",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.56055,
+      0.5635
+    ]
+  }
+}

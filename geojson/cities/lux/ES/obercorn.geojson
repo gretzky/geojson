@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Obercorn",
+    "country": "LU",
+    "subdivision": "ES",
+    "timezone": "Europe/Luxembourg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.89611,
+      49.51361
+    ]
+  }
+}

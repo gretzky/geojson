@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ondo",
+    "country": "NG",
+    "subdivision": "48",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.83528,
+      7.09316
+    ]
+  }
+}

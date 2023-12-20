@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Clemente de Lima",
+    "country": "MX",
+    "subdivision": "18",
+    "timezone": "America/Bahia_Banderas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.27083,
+      20.73722
+    ]
+  }
+}

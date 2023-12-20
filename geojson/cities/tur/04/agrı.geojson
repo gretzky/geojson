@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ağrı",
+    "country": "TR",
+    "subdivision": "04",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.04015,
+      39.71467
+    ]
+  }
+}

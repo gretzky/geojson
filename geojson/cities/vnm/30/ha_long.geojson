@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hạ Long",
+    "country": "VN",
+    "subdivision": "30",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.07336,
+      20.95045
+    ]
+  }
+}

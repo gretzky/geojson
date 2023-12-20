@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zelino",
+    "country": "MK",
+    "subdivision": "C3",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.06417,
+      41.98028
+    ]
+  }
+}

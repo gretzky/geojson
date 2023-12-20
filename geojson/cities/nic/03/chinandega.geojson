@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chinandega",
+    "country": "NI",
+    "subdivision": "03",
+    "timezone": "America/Managua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.13105,
+      12.62937
+    ]
+  }
+}

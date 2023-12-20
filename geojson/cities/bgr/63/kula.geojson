@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kula",
+    "country": "BG",
+    "subdivision": "63",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.52139,
+      43.88833
+    ]
+  }
+}

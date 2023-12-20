@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shunyi",
+    "country": "CN",
+    "subdivision": "22",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.64783,
+      40.12175
+    ]
+  }
+}

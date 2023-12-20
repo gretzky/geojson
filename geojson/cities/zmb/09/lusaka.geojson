@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lusaka",
+    "country": "ZM",
+    "subdivision": "09",
+    "timezone": "Africa/Lusaka"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.28713,
+      -15.40669
+    ]
+  }
+}

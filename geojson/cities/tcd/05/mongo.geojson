@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mongo",
+    "country": "TD",
+    "subdivision": "05",
+    "timezone": "Africa/Ndjamena"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.6884,
+      12.18514
+    ]
+  }
+}

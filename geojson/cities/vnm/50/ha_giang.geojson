@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hà Giang",
+    "country": "VN",
+    "subdivision": "50",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.98357,
+      22.82333
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Harar",
+    "country": "ET",
+    "subdivision": "50",
+    "timezone": "Africa/Addis_Ababa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.11815,
+      9.31387
+    ]
+  }
+}

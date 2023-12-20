@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Koundara",
+    "country": "GN",
+    "subdivision": "B",
+    "timezone": "Africa/Conakry"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.3,
+      12.48333
+    ]
+  }
+}

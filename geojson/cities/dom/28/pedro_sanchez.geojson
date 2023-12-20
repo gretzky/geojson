@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pedro Sánchez",
+    "country": "DO",
+    "subdivision": "28",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.10868,
+      18.86375
+    ]
+  }
+}

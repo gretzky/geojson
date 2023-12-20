@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hanak",
+    "country": "TR",
+    "subdivision": "86",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.84037,
+      41.23344
+    ]
+  }
+}

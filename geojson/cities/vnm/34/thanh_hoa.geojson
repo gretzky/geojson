@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Thanh Hóa",
+    "country": "VN",
+    "subdivision": "34",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      105.76667,
+      19.8
+    ]
+  }
+}

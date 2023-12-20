@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Neópolis",
+    "country": "BR",
+    "subdivision": "28",
+    "timezone": "America/Maceio"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -36.57944,
+      -10.32
+    ]
+  }
+}

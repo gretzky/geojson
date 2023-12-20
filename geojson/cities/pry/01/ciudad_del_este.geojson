@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ciudad del Este",
+    "country": "PY",
+    "subdivision": "01",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -54.61111,
+      -25.50972
+    ]
+  }
+}

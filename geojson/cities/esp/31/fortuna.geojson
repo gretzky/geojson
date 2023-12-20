@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Fortuna",
+    "country": "ES",
+    "subdivision": "31",
+    "timezone": "Europe/Madrid"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.1259,
+      38.1814
+    ]
+  }
+}

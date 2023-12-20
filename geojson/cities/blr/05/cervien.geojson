@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Červień",
+    "country": "BY",
+    "subdivision": "05",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.4313,
+      53.7059
+    ]
+  }
+}

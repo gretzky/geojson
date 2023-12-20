@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sơn Tây",
+    "country": "VN",
+    "subdivision": "44",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      105.50686,
+      21.14053
+    ]
+  }
+}

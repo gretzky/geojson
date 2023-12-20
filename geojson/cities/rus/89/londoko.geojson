@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Londoko",
+    "country": "RU",
+    "subdivision": "89",
+    "timezone": "Asia/Vladivostok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.99142,
+      49.01805
+    ]
+  }
+}

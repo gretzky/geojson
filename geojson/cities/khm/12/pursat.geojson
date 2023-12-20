@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Pursat",
+    "country": "KH",
+    "subdivision": "12",
+    "timezone": "Asia/Phnom_Penh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.9192,
+      12.53878
+    ]
+  }
+}

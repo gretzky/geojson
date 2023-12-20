@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pablo La Laguna",
+    "country": "GT",
+    "subdivision": "19",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.27242,
+      14.72092
+    ]
+  }
+}

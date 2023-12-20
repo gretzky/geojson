@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hwange",
+    "country": "ZW",
+    "subdivision": "06",
+    "timezone": "Africa/Harare"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.49877,
+      -18.36446
+    ]
+  }
+}

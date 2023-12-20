@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dobre Miasto",
+    "country": "PL",
+    "subdivision": "85",
+    "timezone": "Europe/Warsaw"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.39749,
+      53.98668
+    ]
+  }
+}

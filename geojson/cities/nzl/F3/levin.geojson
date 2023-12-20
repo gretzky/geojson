@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Levin",
+    "country": "NZ",
+    "subdivision": "F3",
+    "timezone": "Pacific/Auckland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      175.275,
+      -40.63333
+    ]
+  }
+}

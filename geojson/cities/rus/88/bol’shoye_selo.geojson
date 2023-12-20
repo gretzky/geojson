@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bol’shoye Selo",
+    "country": "RU",
+    "subdivision": "88",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.93341,
+      57.71774
+    ]
+  }
+}

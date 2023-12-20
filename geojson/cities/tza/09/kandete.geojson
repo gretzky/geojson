@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kandete",
+    "country": "TZ",
+    "subdivision": "09",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.8,
+      -9.15
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bergem",
+    "country": "LU",
+    "subdivision": "ES",
+    "timezone": "Europe/Luxembourg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.04222,
+      49.525
+    ]
+  }
+}

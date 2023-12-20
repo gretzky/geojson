@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Villa del Carmen",
+    "country": "UY",
+    "subdivision": "05",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.00936,
+      -33.23943
+    ]
+  }
+}

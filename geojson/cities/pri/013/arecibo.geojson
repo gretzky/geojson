@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Arecibo",
+    "country": "PR",
+    "subdivision": "013",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.71573,
+      18.47245
+    ]
+  }
+}

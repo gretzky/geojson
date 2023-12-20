@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ejido",
+    "country": "VE",
+    "subdivision": "14",
+    "timezone": "America/Caracas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.24087,
+      8.54665
+    ]
+  }
+}

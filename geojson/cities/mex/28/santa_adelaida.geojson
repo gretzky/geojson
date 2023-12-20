@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santa Adelaida",
+    "country": "MX",
+    "subdivision": "28",
+    "timezone": "America/Matamoros"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.65216,
+      25.85414
+    ]
+  }
+}

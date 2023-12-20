@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Yanaoca",
+    "country": "PE",
+    "subdivision": "08",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.43167,
+      -14.21806
+    ]
+  }
+}

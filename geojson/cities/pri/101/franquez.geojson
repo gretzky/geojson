@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Franquez",
+    "country": "PR",
+    "subdivision": "101",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.42767,
+      18.34023
+    ]
+  }
+}

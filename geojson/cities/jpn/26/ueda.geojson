@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ueda",
+    "country": "JP",
+    "subdivision": "26",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.28161,
+      36.40265
+    ]
+  }
+}

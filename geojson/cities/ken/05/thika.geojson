@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Thika",
+    "country": "KE",
+    "subdivision": "05",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.06933,
+      -1.03326
+    ]
+  }
+}

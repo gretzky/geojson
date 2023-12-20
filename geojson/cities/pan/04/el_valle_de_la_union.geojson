@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Valle de La Unión",
+    "country": "PA",
+    "subdivision": "04",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.65955,
+      9.23804
+    ]
+  }
+}

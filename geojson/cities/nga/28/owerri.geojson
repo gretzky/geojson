@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Owerri",
+    "country": "NG",
+    "subdivision": "28",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.03325,
+      5.48363
+    ]
+  }
+}

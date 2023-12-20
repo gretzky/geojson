@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Gaoual",
+    "country": "GN",
+    "subdivision": "B",
+    "timezone": "Africa/Conakry"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2,
+      11.75
+    ]
+  }
+}

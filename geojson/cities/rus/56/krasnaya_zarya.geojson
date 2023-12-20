@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Krasnaya Zarya",
+    "country": "RU",
+    "subdivision": "56",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.68056,
+      52.7825
+    ]
+  }
+}

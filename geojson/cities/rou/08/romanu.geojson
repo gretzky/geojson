@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Romanu",
+    "country": "RO",
+    "subdivision": "08",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.73333,
+      45.28333
+    ]
+  }
+}

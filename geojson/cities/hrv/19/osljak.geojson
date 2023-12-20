@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Osljak",
+    "country": "HR",
+    "subdivision": "19",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.20722,
+      44.07667
+    ]
+  }
+}

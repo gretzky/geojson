@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bam",
+    "country": "IR",
+    "subdivision": "29",
+    "timezone": "Asia/Tehran"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      58.357,
+      29.106
+    ]
+  }
+}

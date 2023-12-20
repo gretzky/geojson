@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Hreljin",
+    "country": "HR",
+    "subdivision": "12",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.59917,
+      45.2825
+    ]
+  }
+}

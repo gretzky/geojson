@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ivanovo",
+    "country": "BG",
+    "subdivision": "53",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.95565,
+      43.68568
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Purwokerto",
+    "country": "ID",
+    "subdivision": "07",
+    "timezone": "Asia/Jakarta"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      109.23444,
+      -7.42139
+    ]
+  }
+}

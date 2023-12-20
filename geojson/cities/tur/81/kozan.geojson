@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kozan",
+    "country": "TR",
+    "subdivision": "81",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.81573,
+      37.45517
+    ]
+  }
+}

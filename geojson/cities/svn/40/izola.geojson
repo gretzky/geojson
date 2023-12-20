@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Izola",
+    "country": "SI",
+    "subdivision": "40",
+    "timezone": "Europe/Ljubljana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.66194,
+      45.53694
+    ]
+  }
+}

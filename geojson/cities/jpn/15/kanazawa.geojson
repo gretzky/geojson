@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kanazawa",
+    "country": "JP",
+    "subdivision": "15",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.61667,
+      36.6
+    ]
+  }
+}

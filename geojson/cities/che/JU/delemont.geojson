@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Delémont",
+    "country": "CH",
+    "subdivision": "JU",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.34453,
+      47.36493
+    ]
+  }
+}

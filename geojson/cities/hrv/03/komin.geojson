@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Komin",
+    "country": "HR",
+    "subdivision": "03",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.53694,
+      43.04083
+    ]
+  }
+}

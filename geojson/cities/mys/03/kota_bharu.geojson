@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kota Bharu",
+    "country": "MY",
+    "subdivision": "03",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.24333,
+      6.12361
+    ]
+  }
+}

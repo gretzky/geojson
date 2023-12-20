@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Juan Díaz",
+    "country": "PA",
+    "subdivision": "03",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.28532,
+      8.46069
+    ]
+  }
+}

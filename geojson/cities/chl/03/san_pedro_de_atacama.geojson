@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pedro de Atacama",
+    "country": "CL",
+    "subdivision": "03",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.20113,
+      -22.9111
+    ]
+  }
+}

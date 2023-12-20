@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dahab",
+    "country": "EG",
+    "subdivision": "26",
+    "timezone": "Africa/Cairo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.49505,
+      28.48208
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saint John’s",
+    "country": "AG",
+    "subdivision": "04",
+    "timezone": "America/Antigua"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.84329,
+      17.12096
+    ]
+  }
+}

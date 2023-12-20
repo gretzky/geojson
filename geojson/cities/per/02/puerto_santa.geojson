@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Puerto Santa",
+    "country": "PE",
+    "subdivision": "02",
+    "timezone": "America/Lima"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.64727,
+      -8.98772
+    ]
+  }
+}

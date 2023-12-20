@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cranbrook",
+    "country": "CA",
+    "subdivision": "02",
+    "timezone": "America/Edmonton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.76879,
+      49.49991
+    ]
+  }
+}

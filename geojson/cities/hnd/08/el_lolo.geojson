@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "El Lolo",
+    "country": "HN",
+    "subdivision": "08",
+    "timezone": "America/Tegucigalpa"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.26667,
+      14.11667
+    ]
+  }
+}

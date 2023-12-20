@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Chaguanas",
+    "country": "TT",
+    "subdivision": "CHA",
+    "timezone": "America/Port_of_Spain"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.41667,
+      10.51667
+    ]
+  }
+}

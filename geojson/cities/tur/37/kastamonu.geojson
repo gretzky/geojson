@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kastamonu",
+    "country": "TR",
+    "subdivision": "37",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.77528,
+      41.37805
+    ]
+  }
+}

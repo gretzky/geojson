@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mahenge",
+    "country": "TZ",
+    "subdivision": "10",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.71667,
+      -8.68333
+    ]
+  }
+}

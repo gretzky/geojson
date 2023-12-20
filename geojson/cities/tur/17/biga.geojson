@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Biga",
+    "country": "TR",
+    "subdivision": "17",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.24222,
+      40.22806
+    ]
+  }
+}

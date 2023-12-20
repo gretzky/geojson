@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Punta Cana",
+    "country": "DO",
+    "subdivision": "10",
+    "timezone": "America/Santo_Domingo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.40431,
+      18.58182
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kimbo",
+    "country": "GN",
+    "subdivision": "B",
+    "timezone": "Africa/Conakry"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.55,
+      10.4
+    ]
+  }
+}

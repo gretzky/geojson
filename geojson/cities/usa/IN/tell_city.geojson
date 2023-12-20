@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tell City",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Tell_City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.76777,
+      37.95144
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bitkine",
+    "country": "TD",
+    "subdivision": "05",
+    "timezone": "Africa/Ndjamena"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.2138,
+      11.9801
+    ]
+  }
+}

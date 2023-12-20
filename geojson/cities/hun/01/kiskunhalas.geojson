@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kiskunhalas",
+    "country": "HU",
+    "subdivision": "01",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.48479,
+      46.43402
+    ]
+  }
+}

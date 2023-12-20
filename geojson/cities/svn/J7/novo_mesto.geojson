@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novo Mesto",
+    "country": "SI",
+    "subdivision": "J7",
+    "timezone": "Europe/Ljubljana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.16886,
+      45.80397
+    ]
+  }
+}

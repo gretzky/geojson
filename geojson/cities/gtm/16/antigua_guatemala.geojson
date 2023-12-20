@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Antigua Guatemala",
+    "country": "GT",
+    "subdivision": "16",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.73444,
+      14.56111
+    ]
+  }
+}

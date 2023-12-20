@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dognecea",
+    "country": "RO",
+    "subdivision": "12",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.75694,
+      45.27417
+    ]
+  }
+}

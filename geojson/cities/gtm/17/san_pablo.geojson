@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pablo",
+    "country": "GT",
+    "subdivision": "17",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -92.00415,
+      14.93269
+    ]
+  }
+}

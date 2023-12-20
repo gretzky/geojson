@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tromsø",
+    "country": "NO",
+    "subdivision": "54",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.95508,
+      69.6489
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Larache",
+    "country": "MA",
+    "subdivision": "01",
+    "timezone": "Africa/Casablanca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.15572,
+      35.19321
+    ]
+  }
+}

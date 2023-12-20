@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kuantan",
+    "country": "MY",
+    "subdivision": "06",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.326,
+      3.8077
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brasília",
+    "country": "BR",
+    "subdivision": "07",
+    "timezone": "America/Sao_Paulo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -47.92972,
+      -15.77972
+    ]
+  }
+}

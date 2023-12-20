@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Wuhai",
+    "country": "CN",
+    "subdivision": "20",
+    "timezone": "Asia/Shanghai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.81583,
+      39.68442
+    ]
+  }
+}

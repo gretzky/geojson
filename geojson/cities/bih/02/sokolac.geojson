@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sokolac",
+    "country": "BA",
+    "subdivision": "02",
+    "timezone": "Europe/Sarajevo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.80079,
+      43.93817
+    ]
+  }
+}

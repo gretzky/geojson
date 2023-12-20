@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ocho Rios",
+    "country": "JM",
+    "subdivision": "09",
+    "timezone": "America/Jamaica"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.10312,
+      18.4076
+    ]
+  }
+}

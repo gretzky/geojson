@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bartica",
+    "country": "GY",
+    "subdivision": "11",
+    "timezone": "America/Guyana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.62192,
+      6.40799
+    ]
+  }
+}

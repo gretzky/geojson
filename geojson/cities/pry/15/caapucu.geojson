@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Caapucú",
+    "country": "PY",
+    "subdivision": "15",
+    "timezone": "America/Asuncion"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.18212,
+      -26.23523
+    ]
+  }
+}

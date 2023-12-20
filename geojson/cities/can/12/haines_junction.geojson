@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Haines Junction",
+    "country": "CA",
+    "subdivision": "12",
+    "timezone": "America/Whitehorse"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -137.51082,
+      60.75216
+    ]
+  }
+}

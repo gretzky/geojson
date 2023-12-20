@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Curanilahue",
+    "country": "CL",
+    "subdivision": "06",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.34495,
+      -37.47793
+    ]
+  }
+}

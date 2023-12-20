@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Esmeralda",
+    "country": "CU",
+    "subdivision": "05",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.11725,
+      21.85139
+    ]
+  }
+}

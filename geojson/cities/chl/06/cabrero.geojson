@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cabrero",
+    "country": "CL",
+    "subdivision": "06",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.40468,
+      -37.03394
+    ]
+  }
+}

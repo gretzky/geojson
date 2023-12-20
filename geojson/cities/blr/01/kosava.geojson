@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kosava",
+    "country": "BY",
+    "subdivision": "01",
+    "timezone": "Europe/Minsk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.1554,
+      52.7583
+    ]
+  }
+}

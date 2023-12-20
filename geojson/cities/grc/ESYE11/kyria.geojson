@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kýria",
+    "country": "GR",
+    "subdivision": "ESYE11",
+    "timezone": "Europe/Athens"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.28915,
+      41.099
+    ]
+  }
+}

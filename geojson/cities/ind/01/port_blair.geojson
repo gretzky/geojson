@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Port Blair",
+    "country": "IN",
+    "subdivision": "01",
+    "timezone": "Asia/Kolkata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      92.74635,
+      11.66613
+    ]
+  }
+}

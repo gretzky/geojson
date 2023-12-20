@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tecpán Guatemala",
+    "country": "GT",
+    "subdivision": "03",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.99247,
+      14.76181
+    ]
+  }
+}

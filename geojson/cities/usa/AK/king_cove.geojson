@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "King Cove",
+    "country": "US",
+    "subdivision": "AK",
+    "timezone": "America/Nome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -162.31853,
+      55.06087
+    ]
+  }
+}

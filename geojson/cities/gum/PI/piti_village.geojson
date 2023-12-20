@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Piti Village",
+    "country": "GU",
+    "subdivision": "PI",
+    "timezone": "Pacific/Guam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.69331,
+      13.46256
+    ]
+  }
+}

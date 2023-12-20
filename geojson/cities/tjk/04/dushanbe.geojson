@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dushanbe",
+    "country": "TJ",
+    "subdivision": "04",
+    "timezone": "Asia/Dushanbe"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      68.77905,
+      38.53575
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Borgarnes",
+    "country": "IS",
+    "subdivision": "45",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -21.92064,
+      64.53834
+    ]
+  }
+}

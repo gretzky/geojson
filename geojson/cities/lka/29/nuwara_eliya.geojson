@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nuwara Eliya",
+    "country": "LK",
+    "subdivision": "29",
+    "timezone": "Asia/Colombo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.78286,
+      6.97078
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Novaci",
+    "country": "MK",
+    "subdivision": "E1",
+    "timezone": "Europe/Skopje"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.45866,
+      41.04197
+    ]
+  }
+}

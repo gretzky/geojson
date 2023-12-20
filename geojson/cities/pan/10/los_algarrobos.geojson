@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Algarrobos",
+    "country": "PA",
+    "subdivision": "10",
+    "timezone": "America/Panama"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.01524,
+      8.11291
+    ]
+  }
+}

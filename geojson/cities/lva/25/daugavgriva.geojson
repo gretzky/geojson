@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Daugavgrīva",
+    "country": "LV",
+    "subdivision": "25",
+    "timezone": "Europe/Riga"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.03613,
+      57.04315
+    ]
+  }
+}

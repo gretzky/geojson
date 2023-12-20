@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bayamón",
+    "country": "PR",
+    "subdivision": "021",
+    "timezone": "America/Puerto_Rico"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.15572,
+      18.39856
+    ]
+  }
+}

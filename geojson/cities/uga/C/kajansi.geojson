@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kajansi",
+    "country": "UG",
+    "subdivision": "C",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.53453,
+      0.21548
+    ]
+  }
+}

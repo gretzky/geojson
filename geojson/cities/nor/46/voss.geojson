@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Voss",
+    "country": "NO",
+    "subdivision": "46",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.41474,
+      60.62869
+    ]
+  }
+}

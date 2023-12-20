@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Druzhba",
+    "country": "RU",
+    "subdivision": "27",
+    "timezone": "Europe/Moscow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.017,
+      44.1953
+    ]
+  }
+}

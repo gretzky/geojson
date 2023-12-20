@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mandera",
+    "country": "KE",
+    "subdivision": "33",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.85688,
+      3.93726
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Musoma",
+    "country": "TZ",
+    "subdivision": "08",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.8,
+      -1.5
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Paro",
+    "country": "BT",
+    "subdivision": "13",
+    "timezone": "Asia/Thimphu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      89.41334,
+      27.4305
+    ]
+  }
+}

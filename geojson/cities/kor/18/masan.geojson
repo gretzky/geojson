@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Masan",
+    "country": "KR",
+    "subdivision": "18",
+    "timezone": "Asia/Seoul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.83149,
+      35.12725
+    ]
+  }
+}

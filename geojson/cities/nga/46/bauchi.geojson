@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bauchi",
+    "country": "NG",
+    "subdivision": "46",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.84388,
+      10.31032
+    ]
+  }
+}

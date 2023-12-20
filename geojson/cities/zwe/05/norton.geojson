@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Norton",
+    "country": "ZW",
+    "subdivision": "05",
+    "timezone": "Africa/Harare"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.7,
+      -17.88333
+    ]
+  }
+}

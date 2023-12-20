@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Toro",
+    "country": "IT",
+    "subdivision": "11",
+    "timezone": "Europe/Rome"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.76183,
+      41.57313
+    ]
+  }
+}

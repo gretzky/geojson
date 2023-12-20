@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Mendieta",
+    "country": "AR",
+    "subdivision": "10",
+    "timezone": "America/Argentina/Jujuy"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.96377,
+      -24.31187
+    ]
+  }
+}

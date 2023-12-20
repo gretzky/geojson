@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Phitsanulok",
+    "country": "TH",
+    "subdivision": "12",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.25858,
+      16.82481
+    ]
+  }
+}

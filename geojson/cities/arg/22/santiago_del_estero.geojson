@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Santiago del Estero",
+    "country": "AR",
+    "subdivision": "22",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.26149,
+      -27.79511
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bled",
+    "country": "SI",
+    "subdivision": "03",
+    "timezone": "Europe/Ljubljana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.11361,
+      46.36917
+    ]
+  }
+}

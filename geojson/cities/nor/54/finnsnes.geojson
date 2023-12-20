@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Finnsnes",
+    "country": "NO",
+    "subdivision": "54",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.98114,
+      69.22959
+    ]
+  }
+}

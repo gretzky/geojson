@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Polača",
+    "country": "HR",
+    "subdivision": "19",
+    "timezone": "Europe/Zagreb"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.5175,
+      44.01833
+    ]
+  }
+}

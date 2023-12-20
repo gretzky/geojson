@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kawage",
+    "country": "JP",
+    "subdivision": "23",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.54645,
+      34.80447
+    ]
+  }
+}

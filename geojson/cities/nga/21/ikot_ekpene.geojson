@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ikot Ekpene",
+    "country": "NG",
+    "subdivision": "21",
+    "timezone": "Africa/Lagos"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.71481,
+      5.18194
+    ]
+  }
+}

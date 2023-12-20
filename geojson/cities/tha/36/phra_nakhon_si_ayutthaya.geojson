@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Phra Nakhon Si Ayutthaya",
+    "country": "TH",
+    "subdivision": "36",
+    "timezone": "Asia/Bangkok"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.57739,
+      14.35167
+    ]
+  }
+}

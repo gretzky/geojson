@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Resende",
+    "country": "PT",
+    "subdivision": "22",
+    "timezone": "Europe/Lisbon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9665,
+      41.10582
+    ]
+  }
+}

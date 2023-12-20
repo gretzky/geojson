@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tororo",
+    "country": "UG",
+    "subdivision": "E",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.18085,
+      0.69299
+    ]
+  }
+}

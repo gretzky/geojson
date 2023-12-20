@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tervel",
+    "country": "BG",
+    "subdivision": "40",
+    "timezone": "Europe/Sofia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.40911,
+      43.74789
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sale",
+    "country": "MA",
+    "subdivision": "04",
+    "timezone": "Africa/Casablanca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.79846,
+      34.0531
+    ]
+  }
+}

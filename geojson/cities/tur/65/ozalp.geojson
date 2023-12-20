@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Özalp",
+    "country": "TR",
+    "subdivision": "65",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.98869,
+      38.65455
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rustavi",
+    "country": "GE",
+    "subdivision": "68",
+    "timezone": "Asia/Tbilisi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.9787,
+      41.56271
+    ]
+  }
+}

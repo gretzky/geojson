@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mukono",
+    "country": "UG",
+    "subdivision": "C",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.75528,
+      0.35333
+    ]
+  }
+}

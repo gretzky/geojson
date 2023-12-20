@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Manguito",
+    "country": "CU",
+    "subdivision": "03",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.91451,
+      22.58733
+    ]
+  }
+}

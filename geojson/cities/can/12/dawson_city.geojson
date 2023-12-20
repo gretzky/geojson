@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dawson City",
+    "country": "CA",
+    "subdivision": "12",
+    "timezone": "America/Dawson"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -139.43328,
+      64.06013
+    ]
+  }
+}

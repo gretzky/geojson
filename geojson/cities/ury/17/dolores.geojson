@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dolores",
+    "country": "UY",
+    "subdivision": "17",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.21701,
+      -33.53009
+    ]
+  }
+}

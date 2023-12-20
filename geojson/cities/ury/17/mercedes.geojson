@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mercedes",
+    "country": "UY",
+    "subdivision": "17",
+    "timezone": "America/Montevideo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.03047,
+      -33.2524
+    ]
+  }
+}

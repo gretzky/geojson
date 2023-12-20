@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Guayaquil",
+    "country": "EC",
+    "subdivision": "10",
+    "timezone": "America/Guayaquil"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.88621,
+      -2.19616
+    ]
+  }
+}

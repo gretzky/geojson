@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Suure-Jaani",
+    "country": "EE",
+    "subdivision": "20",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.47056,
+      58.53611
+    ]
+  }
+}

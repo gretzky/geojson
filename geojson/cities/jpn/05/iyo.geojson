@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Iyo",
+    "country": "JP",
+    "subdivision": "05",
+    "timezone": "Asia/Tokyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      132.70139,
+      33.75139
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Peseux",
+    "country": "CH",
+    "subdivision": "NE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.88903,
+      46.98704
+    ]
+  }
+}

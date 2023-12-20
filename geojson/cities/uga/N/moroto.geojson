@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Moroto",
+    "country": "UG",
+    "subdivision": "N",
+    "timezone": "Africa/Kampala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.66659,
+      2.53453
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Coquimbo",
+    "country": "CL",
+    "subdivision": "07",
+    "timezone": "America/Santiago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.33947,
+      -29.95332
+    ]
+  }
+}

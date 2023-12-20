@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cerchezu",
+    "country": "RO",
+    "subdivision": "14",
+    "timezone": "Europe/Bucharest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.1,
+      43.81667
+    ]
+  }
+}

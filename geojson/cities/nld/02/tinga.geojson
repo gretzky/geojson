@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tinga",
+    "country": "NL",
+    "subdivision": "02",
+    "timezone": "Europe/Amsterdam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.64575,
+      53.02064
+    ]
+  }
+}

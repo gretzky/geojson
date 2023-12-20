@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Los Altos",
+    "country": "AR",
+    "subdivision": "02",
+    "timezone": "America/Argentina/Catamarca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.49945,
+      -28.04845
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Pablo Tacachico",
+    "country": "SV",
+    "subdivision": "05",
+    "timezone": "America/El_Salvador"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.34,
+      13.97556
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Winamac",
+    "country": "US",
+    "subdivision": "IN",
+    "timezone": "America/Indiana/Winamac"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.60306,
+      41.05143
+    ]
+  }
+}

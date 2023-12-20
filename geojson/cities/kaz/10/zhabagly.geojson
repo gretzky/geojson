@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zhabagly",
+    "country": "KZ",
+    "subdivision": "10",
+    "timezone": "Asia/Almaty"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      70.47841,
+      42.43781
+    ]
+  }
+}

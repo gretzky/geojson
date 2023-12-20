@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mwanza",
+    "country": "TZ",
+    "subdivision": "12",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.9,
+      -2.51667
+    ]
+  }
+}

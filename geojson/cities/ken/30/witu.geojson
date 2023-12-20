@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Witu",
+    "country": "KE",
+    "subdivision": "30",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.43827,
+      -2.38892
+    ]
+  }
+}

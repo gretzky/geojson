@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tapa",
+    "country": "EE",
+    "subdivision": "08",
+    "timezone": "Europe/Tallinn"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.95861,
+      59.26056
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Česká Lípa",
+    "country": "CZ",
+    "subdivision": "83",
+    "timezone": "Europe/Prague"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.53764,
+      50.68551
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Zomba",
+    "country": "HU",
+    "subdivision": "21",
+    "timezone": "Europe/Budapest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.56577,
+      46.41084
+    ]
+  }
+}

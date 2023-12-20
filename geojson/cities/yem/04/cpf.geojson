@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "CPF",
+    "country": "YE",
+    "subdivision": "04",
+    "timezone": "Asia/Aden"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.13601,
+      15.59166
+    ]
+  }
+}

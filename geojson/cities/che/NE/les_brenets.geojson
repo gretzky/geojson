@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Les Brenets",
+    "country": "CH",
+    "subdivision": "NE",
+    "timezone": "Europe/Zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.70478,
+      47.06774
+    ]
+  }
+}

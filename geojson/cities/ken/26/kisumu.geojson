@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Kisumu",
+    "country": "KE",
+    "subdivision": "26",
+    "timezone": "Africa/Nairobi"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.76171,
+      -0.10221
+    ]
+  }
+}

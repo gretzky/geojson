@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Ölüdeniz",
+    "country": "TR",
+    "subdivision": "48",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.14467,
+      36.56674
+    ]
+  }
+}

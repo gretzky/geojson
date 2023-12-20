@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sogndal",
+    "country": "NO",
+    "subdivision": "46",
+    "timezone": "Europe/Oslo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.09674,
+      61.22908
+    ]
+  }
+}

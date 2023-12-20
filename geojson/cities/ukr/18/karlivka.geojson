@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Karlivka",
+    "country": "UA",
+    "subdivision": "18",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.13493,
+      49.45548
+    ]
+  }
+}

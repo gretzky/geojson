@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Khust",
+    "country": "UA",
+    "subdivision": "25",
+    "timezone": "Europe/Uzhgorod"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.29791,
+      48.17193
+    ]
+  }
+}

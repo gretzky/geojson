@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oran",
+    "country": "DZ",
+    "subdivision": "09",
+    "timezone": "Africa/Algiers"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.63588,
+      35.69906
+    ]
+  }
+}

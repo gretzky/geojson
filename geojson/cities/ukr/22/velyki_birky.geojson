@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Velyki Birky",
+    "country": "UA",
+    "subdivision": "22",
+    "timezone": "Europe/Kiev"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.75491,
+      49.52456
+    ]
+  }
+}

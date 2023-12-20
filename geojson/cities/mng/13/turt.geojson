@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Turt",
+    "country": "MN",
+    "subdivision": "13",
+    "timezone": "Asia/Ulaanbaatar"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.66257,
+      51.50725
+    ]
+  }
+}

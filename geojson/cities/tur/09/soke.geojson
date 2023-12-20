@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Söke",
+    "country": "TR",
+    "subdivision": "09",
+    "timezone": "Europe/Istanbul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.40614,
+      37.7482
+    ]
+  }
+}

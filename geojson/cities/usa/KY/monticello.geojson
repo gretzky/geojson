@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Monticello",
+    "country": "US",
+    "subdivision": "KY",
+    "timezone": "America/Kentucky/Monticello"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.84911,
+      36.82979
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Salud",
+    "country": "CU",
+    "subdivision": "MA",
+    "timezone": "America/Havana"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.42328,
+      22.87199
+    ]
+  }
+}

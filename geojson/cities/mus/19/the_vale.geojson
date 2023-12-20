@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "The Vale",
+    "country": "MU",
+    "subdivision": "19",
+    "timezone": "Indian/Mauritius"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.60219,
+      -20.03018
+    ]
+  }
+}

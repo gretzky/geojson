@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Estanzuela",
+    "country": "GT",
+    "subdivision": "22",
+    "timezone": "America/Guatemala"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.57285,
+      14.99777
+    ]
+  }
+}

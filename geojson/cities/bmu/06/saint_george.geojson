@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Saint George",
+    "country": "BM",
+    "subdivision": "06",
+    "timezone": "Atlantic/Bermuda"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.67806,
+      32.38167
+    ]
+  }
+}

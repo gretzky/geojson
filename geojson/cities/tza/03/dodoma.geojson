@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dodoma",
+    "country": "TZ",
+    "subdivision": "03",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.73947,
+      -6.17221
+    ]
+  }
+}

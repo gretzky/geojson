@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cherga",
+    "country": "RU",
+    "subdivision": "03",
+    "timezone": "Asia/Barnaul"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.5625,
+      51.56889
+    ]
+  }
+}
