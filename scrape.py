@@ -4,7 +4,6 @@ import json
 from zipfile import ZipFile
 from io import BytesIO
 import os
-import shutil
 
 # clean out all old gadm data
 def clear_country_data():
